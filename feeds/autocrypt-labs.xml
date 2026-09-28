@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>🔐 Autocrypt Labs</title>
+    <link>https://labs.autocrypt.co.kr/rss/</link>
+    <description>Autocrypt Labs</description>
+    <lastBuildDate>Mon, 28 Sep 2026 11:43:44 +0000</lastBuildDate>
+    <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/autocrypt-labs.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔐 AutoCrypt E2E Cybersecurity for ADS Safety - 아우토크립트가 제시하는 자율주행 사이버보안 전략</title>
+      <link>https://labs.autocrypt.co.kr/report-e2ecybersecurity/</link>
+      <pubDate>Mon, 18 May 2026 05:17:03 +0000</pubDate>
+      <description>아우토크립트의 E2E(End-to-End) Cybersecurity는 자율주행 시스템의 안전성을 위해 자동차제작사,자율주행 기업, 운송플랫폼사, 보험사 등 자율주행 생태계 전 계층에 걸친 구조적 체계로 사이버보안을 정의한 통합적 접근 방식을 제안한다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/report-e2ecybersecurity/</guid>
+    </item>
+    <item>
+      <title>🔐 Euro 7의 주요 변화: 안티 탬퍼링 및 보안 강화</title>
+      <link>https://labs.autocrypt.co.kr/euro7-antitampering/</link>
+      <pubDate>Thu, 30 Apr 2026 06:18:32 +0000</pubDate>
+      <description>이번에는 유럽 자동차 규제의 또 다른 축인 Euro 7을 보려고 합니다. Euro 7은 유럽 연합의 자동차 오염 물질 배출 규제입니다. Euro 1부터 현재 시행 중인 Euro 6까지 자동차의 오염 물질 배출 규제는 점점 강화됐습니다. 많은 사람들이 Euro 7를 더 강화된 배출가스 규제로만 생각하지만 이번 개정은 자동차 보안에도 많은 영향을 주는 규제항목들이 추가되었습니다. 이번 글에서는 Euro 7이 Euro 6와 비교하여 어떤 점이 달라졌는지 그리고 자동차 보안에는 어떤 영향이 있는지 알아보겠습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/euro7-antitampering/</guid>
+    </item>
+    <item>
+      <title>🔐 데이터 독점의 종말, EU Data Act</title>
+      <link>https://labs.autocrypt.co.kr/eudata-act/</link>
+      <pubDate>Wed, 25 Feb 2026 06:13:00 +0000</pubDate>
+      <description>그동안 자동차나 IoT 기기에서 생성되는 데이터는 제조사(OEM)나 플랫폼이 독점해 왔고, 정작 데이터를 만들어낸 사용자는 접근조차 어려운 경우가 많았습니다. EU는 이러한 데이터 독점을 완화하고 경쟁을 촉진하기 위해, 2020년 &amp;#x27;유럽 데이터 전략&amp;#x27;의 일환으로 Data Governance Act를 제정한 데 이어, 이를 실질적으로 규제하고 보완하는 Data Act를 탄생시켰습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/eudata-act/</guid>
+    </item>
+    <item>
+      <title>🔐 ISO/SAE 21434는 대체 어떤 내용을 담고 있을까? -3편-</title>
+      <link>https://labs.autocrypt.co.kr/isosae-content3/</link>
+      <pubDate>Thu, 29 Jan 2026 03:00:00 +0000</pubDate>
+      <description>15절은 위협 분석과 위험 평가를 통해 도로 사용자에게 미칠 수 있는 영향을 체계적으로 판단하는 방법을 설명합니다. 표준은 이를 TARA라고 부르며, 보안 위협에 영향을 받는 도로 사용자 관점에서 분석 및 평가를 수행하도록 규정하고 있습니다. 아래 이미지는 TARA의 전체 과정을 개관한 도식입니다. 아이템 정의를 시작점으로 자산 식별 → 데미지 시나리오 → 위협 시나리오 → 공격 경로 분석 → 공격 용이성 평가 → 위험값 산정 → 위험 처리 결정으로 이어지는 흐름을 보여줍니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/isosae-content3/</guid>
+    </item>
+    <item>
+      <title>🔐 ISO/SAE 21434는 대체 어떤 내용을 담고 있을까?-2편-</title>
+      <link>https://labs.autocrypt.co.kr/isosae-content2/</link>
+      <pubDate>Fri, 16 Jan 2026 04:00:00 +0000</pubDate>
+      <description>앞에서는 조직과 공급망 차원의 큰 그림을 살펴봤다면, 이번에는 실제 개발 현장으로 시선을 옮겨보겠습니다. 차량 개발의 V 사이클 안에서 사이버보안이 어떻게 자리 잡고 있는지 알아보겠습니다. ISO 21434의 9절부터 14절까지는 차량 개발 과정 전반에 걸쳐 보안이 어떻게 관리되어야 하는지를 구체적으로 정의하고 있습니다. 즉, 개발 전 → 제품 개발 → 검증 → 생산 → 운영 → 지원 종료로 이어지는 전 과정을 따라, 보안 요구사항을 정의하고 있습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/isosae-content2/</guid>
+    </item>
+    <item>
+      <title>🔐 ISO/SAE 21434는 대체 어떤 내용을 담고 있을까? -1편-</title>
+      <link>https://labs.autocrypt.co.kr/isosae21434-content1/</link>
+      <pubDate>Fri, 09 Jan 2026 04:00:00 +0000</pubDate>
+      <description>ISO/SAE 21434는 차량의 전체 수명주기에 걸쳐 사이버보안 정책 및 프로세스를 정의하고, CSMS를 구현하는 기준을 제공하는 자동차 사이버보안 엔지니어링 국제 표준인데요. 그렇다면, 과연 ISO/SAE 21434는 구체적으로 어떠한 내용들을 다루고 있을까요?</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/isosae21434-content1/</guid>
+    </item>
+    <item>
+      <title>🔐 자동차 사이버보안의 심장, '키 관리 시스템(KMS)' 완벽 이해하기</title>
+      <link>https://labs.autocrypt.co.kr/automotive-kmi/</link>
+      <pubDate>Wed, 31 Dec 2025 06:23:26 +0000</pubDate>
+      <description>최근 자동차 업계의 가장 큰 화두 중 하나는 단연 사이버보안입니다. 기술적 측면에서 &amp;#x27;아무리 강력한 암호 알고리즘을 써도 그 키(Key)가 뚫리면 모든 보안은 무용지물&amp;#x27;이 되고 맙니다. 결국 보안의 성패는 알고리즘 자체가 아닌 이를 운용하는 &amp;#x27;열쇠(Key)&amp;#x27;에 달려 있습니다. 오늘은 자동차 보안의 근간이 되는 키 관리(Key Management)에 대해 깊이 있게 살펴보겠습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/automotive-kmi/</guid>
+    </item>
+    <item>
+      <title>🔐 C++ 프로젝트, 헥사고날 아키텍처로 견고하게 설계하기</title>
+      <link>https://labs.autocrypt.co.kr/hexagonal-architecture/</link>
+      <pubDate>Mon, 10 Nov 2025 23:00:00 +0000</pubDate>
+      <description>C++ 개발자로서 우리는 늘 성능과 시스템 제어에 대한 고민을 즐기지만, 동시에 대규모 프로젝트에서 마주하는 복잡성, 테스트의 어려움, 그리고 변화에 대한 취약성이라는 아키텍처적 고민을 안고 살아갑니다. 사내 C++ 개발자들의 고민을 함께 나누고, 헥사고날 아키텍처가 그 해법 중 하나가 될 수 있음을 보여드리고자 합니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/hexagonal-architecture/</guid>
+    </item>
+    <item>
+      <title>🔐 SDV 시대의 차량 진단을 위한 기술, SOVD (Service Oriented Vehicle Diagnostics)</title>
+      <link>https://labs.autocrypt.co.kr/sdv-sovd/</link>
+      <pubDate>Thu, 30 Oct 2025 03:49:11 +0000</pubDate>
+      <description>SDV로의 전환이 진행되면서 차량에는 HPC(High Performance Computing) 등 고성능 컴퓨팅 장치가 탑재되었고, 이를 기반으로 최신 IT 기술을 활용한 새로운 진단 방법들이 논의되고 있습니다. 오늘은 이러한 변화 속에서 추진되는 차세대 진단 표준화 프로젝트, SOVD(Service Oriented Vehicle Diagnostics)를 살펴보겠습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/sdv-sovd/</guid>
+    </item>
+    <item>
+      <title>🔐 자동차 보안 취약점 기반 위협 분석 시스템 개발</title>
+      <link>https://labs.autocrypt.co.kr/report-automotivesecurity/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <description>이 자료는 아우토크립트가 수행한 정부과제 「자동차 보안 취약점 기반 위협 분석 시스템 개발」의 결과물로 발간된 가이드북을 기반으로 작성되었습니다. [개요] 본 가이드북에서는 성장하는 사이버보안과 관련된 보안 위협, 관련 이해관계자들을 위한 규정 준수를 용이하게 하는 방법에 대해 살펴본다. 일회성 구현이 아니라 기술이 궁극적으로 완전 자율주행을 지원하기 위해 변화하고 발전함에 따라 전체 모빌리티 생태계가 안전하게 유지되도록 보장하기 위한 포괄적이고 주기적인 접근 방식이 필수적이다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/report-automotivesecurity/</guid>
+    </item>
+    <item>
+      <title>🔐 유럽 전역의 안전을 지키는 자동차 사이버보안 규정 및 지침</title>
+      <link>https://labs.autocrypt.co.kr/eu-cyber-security/</link>
+      <pubDate>Thu, 25 Sep 2025 07:52:49 +0000</pubDate>
+      <description>국가는 국민의 안전과 재산을 보호해야 합니다. 이를 위해 국가는 법이나 규정을 만들기도 하는데요, 우리나라의 식품위생법</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/eu-cyber-security/</guid>
+    </item>
+    <item>
+      <title>🔐 양자내성암호, PQC와 자동차 사이버 보안</title>
+      <link>https://labs.autocrypt.co.kr/pqc-automotive-cybersecurity/</link>
+      <pubDate>Fri, 04 Apr 2025 01:30:08 +0000</pubDate>
+      <description>양자내성암호(Post-Quantum Cryptography, PQC)는 양자 컴퓨터가 기존 암호 기술을 무력화할 가능성에 대비한 새로운 보안 방식으로, 최근 기술 업계에서 큰 주목을 받고 있습니다. 이번 글에서는 PQC가 왜 중요한지, 어떤 변화가 예상되는지 살펴봅니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/pqc-automotive-cybersecurity/</guid>
+    </item>
+    <item>
+      <title>🔐 CI/CD 자동화의 여정: Kubernetes, Helm, ArgoCD를 활용한 배포 환경 최적화</title>
+      <link>https://labs.autocrypt.co.kr/ci-cd-optimizing/</link>
+      <pubDate>Thu, 20 Mar 2025 08:28:26 +0000</pubDate>
+      <description>기존 Jenkins 중심의 CI/CD 방식은 관리 복잡성과 다운타임 문제를 초래했습니다. 이를 해결하기 위해 Kubernetes, Helm, Argo CD를 도입하여 배포 자동화를 강화했습니다. 그 과정에 대해서 자세히 살펴보겠습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/ci-cd-optimizing/</guid>
+    </item>
+    <item>
+      <title>🔐 EU AI Act가 자율주행과 사이버보안에 미치는 영향</title>
+      <link>https://labs.autocrypt.co.kr/eu-ai-act-cybersecurity/</link>
+      <pubDate>Mon, 10 Mar 2025 04:18:33 +0000</pubDate>
+      <description>생성형 AI는 더욱 발전하여 단순히 글로 명령을 내리는 것만으로도 그림, 음악, 영상 등을 손쉽게 생성하거나 합성, 편집을 할 수 있게 되었습니다만, 인공지능 기술이 이대로 어떤한 제한없이 발전한다면 정교하고 치명적인 범죄도구가 될 수 있습니다.</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/eu-ai-act-cybersecurity/</guid>
+    </item>
+    <item>
+      <title>🔐 npm ➔ Pnpm 전환에 대해</title>
+      <link>https://labs.autocrypt.co.kr/npm-pnpm-migration/</link>
+      <pubDate>Fri, 15 Nov 2024 08:34:42 +0000</pubDate>
+      <description>npm과 Pnpm은 Node.js 개발에서 JavaScript 및 TypeScript 프로젝트의 의존성, 라이브러리, 그리고 도구를 관리하기 위해 사용되는 패키지 매니저입니다. 최근 아우토크립트 EVI 스튜디오에서는 npm에서 Pnpm으로 패키지 매니저를 전환하게 되었습니다. 이번 글에서 전환하면서 겪은 경험을 공유드립니다!</description>
+      <guid isPermaLink="true">https://labs.autocrypt.co.kr/npm-pnpm-migration/</guid>
+    </item>
+  </channel>
+</rss>
