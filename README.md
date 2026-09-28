@@ -80,3 +80,9 @@ source, article metadata and collection errors on that branch are public.
 Workflow concurrency prevents overlapping runs from racing on the state branch.
 Use Actions > Collect and publish feeds > Run workflow for manual collection.
 No paid service credentials or external monitoring accounts are needed.
+
+## Maintenance
+
+Start with [AGENTS.md](AGENTS.md) and the [maintenance runbook](docs/maintenance.md).
+The CLI is in `build.py`; collection, parsing, history and rendering live in
+`rss_service/`. Install `requirements-dev.txt` for the pinned Black formatter.

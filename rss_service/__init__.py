@@ -1,0 +1,1 @@
+"""Static RSS collection service."""
