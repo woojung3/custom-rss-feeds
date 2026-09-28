@@ -1,0 +1,78 @@
+name: Collect and publish feeds
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: rss-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - name: Restore last published data
+        run: |
+          mkdir -p site
+          if git ls-remote --exit-code --heads origin data; then
+            git fetch origin data
+            git archive FETCH_HEAD | tar -x -C site
+          else
+            code=$?
+            if [ "$code" != 2 ]; then exit "$code"; fi
+          fi
+      - name: Collect feeds
+        id: collect
+        continue-on-error: true
+        run: python build.py
+      - name: Preserve state
+        run: |
+          test -s site/status.json
+          cd site
+          git init -b data
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
+          git fetch origin data || {
+            code=$?
+            if git ls-remote --exit-code --heads origin data; then exit "$code"; else
+              test "$?" = 2
+            fi
+          }
+          if git rev-parse --verify FETCH_HEAD >/dev/null 2>&1; then
+            git reset --soft FETCH_HEAD
+          fi
+          git add .
+          git diff --cached --quiet || git commit -m 'Update feeds and collection status'
+          git push origin HEAD:data
+          rm -rf .git
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Report collection failures after publishing
+        if: always() && steps.collect.outcome == 'failure'
+        run: |
+          echo 'One or more sources failed. Last good feeds were preserved; inspect collection logs and status.json.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1

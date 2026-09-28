@@ -1,0 +1,9 @@
+[
+  {"id":"dcbest","name":"실시간 베스트","emoji":"🔥","kind":"dc","url":"https://gall.dcinside.com/board/lists/?id=dcbest"},
+  {"id":"google-news","name":"Google 뉴스","emoji":"📰","kind":"rss","url":"https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"},
+  {"id":"autocrypt-labs","name":"Autocrypt Labs","emoji":"🔐","kind":"rss","url":"https://labs.autocrypt.co.kr/rss/"},
+  {"id":"ai-utilize","name":"AI 활용 추천글","emoji":"🛠️","kind":"dc","url":"https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize&exception_mode=recommend"},
+  {"id":"thesingularity","name":"특이점이 온다 추천글","emoji":"🚀","kind":"dc","url":"https://gall.dcinside.com/mgallery/board/lists/?id=thesingularity&exception_mode=recommend"},
+  {"id":"cartoon","name":"카툰·연재 추천글","emoji":"🎨","kind":"dc","url":"https://gall.dcinside.com/board/lists/?id=cartoon&exception_mode=recommend"},
+  {"id":"comic-new6","name":"만화 갤러리 추천글","emoji":"📚","kind":"dc","url":"https://gall.dcinside.com/board/lists/?id=comic_new6&exception_mode=recommend"}
+]
