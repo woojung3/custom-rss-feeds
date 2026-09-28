@@ -58,7 +58,7 @@ prevent the status page from updating. Check the Actions logs in that case.
 
 ## Local development
 
-Requires Python 3.12 (also tested locally on Python 3.10).
+Requires Python 3.12 (tested locally and in GitHub Actions).
 
 ```sh
 python3 -m venv .venv
