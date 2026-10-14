@@ -7,6 +7,8 @@ import xml.etree.ElementTree as ET
 import re
 from bs4 import BeautifulSoup, Comment
 
+from .images import normalize_dc_image_url
+
 UTC = timezone.utc
 KST = timezone(timedelta(hours=9))
 
@@ -161,7 +163,7 @@ def parse_dc_article(data, url):
             if not src:
                 node.decompose()
                 continue
-            node["src"] = src
+            node["src"] = normalize_dc_image_url(src)
             if attrs.get("alt"):
                 node["alt"] = str(attrs["alt"])[:500]
     text = body.get_text(" ", strip=True)

@@ -9,6 +9,8 @@
 | rss_service/http.py | List requests and separately bounded, non-redirecting article requests |
 | rss_service/article.py | Opt-in DC body queue, rate limits and persistent attempt state |
 | rss_service/parsers.py | Pure HTML/RSS parsing and validation |
+| rss_service/images.py | Narrow DC image-host normalization and escaped Miniflux rule generation |
+| integrations/miniflux-ai-utilize.json | Supported scraper/rewrite settings for the pilot subscription |
 | rss_service/collection.py | Adapter selection and DC pagination |
 | rss_service/state.py | Deduplication, stable fallback dates, 1,000-item retention |
 | rss_service/rendering.py | RSS serialization and static status page |
@@ -79,6 +81,14 @@ It strips active markup/attributes, normalizes ordinary HTTP(S) links, resolves 
 image URLs and serializes sanitized HTML into the RSS content namespace. No image
 fetches occur during publishing. A reader may still be unable to fetch a remote
 image; never report rendered-image/OCR success from HTML extraction alone.
+
+For `viewimage.php` and `dccon.php` only, known `dcimgN` hosts on `dcinside.co.kr`
+and `dcinside.com` become `https://image.dcinside.com`; raw queries remain intact.
+`viewimagePop.php`, other hosts/routes and non-image links are left alone. Existing
+cached bodies get the same adjustment at render time for the enabled pilot, with
+no image downloads, body refetches or mutation of the cached record.
+See [Miniflux integration](miniflux.md) for Download rules and their required
+string-decoding/regex validation before applying to a live subscription.
 
 Only new IDs receive body queue state. Existing metadata-only IDs are not bulk
 backfilled. Pending state survives pagination and later runs. Ten requests per

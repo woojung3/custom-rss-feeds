@@ -50,6 +50,13 @@ still fail (for example HTTP 403); successful HTML extraction does not prove tha
 images will display in a reader. This also does not identify promotional prose
 inside a post or grant permission to republish third-party content.
 
+Known `dcimgN.dcinside.co.kr` / `dcimgN.dcinside.com` image-file URLs are normalized
+to `https://image.dcinside.com`, keeping `viewimage.php` or `dccon.php` and the
+original query intact. The HTML viewer `viewimagePop.php` is not an image route.
+Rendering also normalizes existing cached pilot bodies without refetching posts;
+other feeds and ordinary links are untouched. For Miniflux's separate Download
+behavior, see [the supported scraper/rewrite settings](docs/miniflux.md).
+
 At most ten article requests per enabled feed are made in one run, with two seconds
 between requests. Responses have a 1 MiB limit, connection/read timeouts and no
 redirect following. Successful bodies are cached in durable state. Old entries

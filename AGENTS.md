@@ -13,6 +13,10 @@ Read README.md and docs/maintenance.md before changing behavior.
   enabled. Preserve body queue/cache fields on repeated list observations.
 - Body failures must not erase metadata or masquerade as successful extraction.
   Do not mirror image bytes, backfill all retained posts or bypass access controls.
+- Limit image-host normalization to the known DC image-file routes; preserve
+  endpoint/query and leave article links and HTML viewers untouched. See
+  docs/miniflux.md before editing reader rules: Miniflux decodes Go string literals
+  before regex compilation. Validate quoting and nonempty patterns offline first.
 - Preserve last good XML and success metadata on collection/rendering failure.
 - Publish healthy sources and failure status before marking Actions failed.
 - No external heartbeat monitoring; do not claim stopped schedules are detected.

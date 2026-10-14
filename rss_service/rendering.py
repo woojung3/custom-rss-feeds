@@ -5,6 +5,8 @@ from email.utils import format_datetime
 import html
 import xml.etree.ElementTree as ET
 
+from .images import normalize_dc_images
+
 CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 ET.register_namespace("content", CONTENT_NS)
 
@@ -36,7 +38,10 @@ def write_feed(path, source, items, now, base):
         ]:
             ET.SubElement(node, key).text = value
         if item.get("content_html"):
-            ET.SubElement(node, f"{{{CONTENT_NS}}}encoded").text = item["content_html"]
+            content = item["content_html"]
+            if source.get("article_content", False) and source["kind"] == "dc":
+                content = normalize_dc_images(content)
+            ET.SubElement(node, f"{{{CONTENT_NS}}}encoded").text = content
         elif item.get("content_status") in ("pending", "failed"):
             message = (
                 "본문 수집 대기 중입니다. 원문에서 확인하세요."

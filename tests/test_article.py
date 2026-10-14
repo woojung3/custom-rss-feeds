@@ -72,7 +72,7 @@ class ParserTests(Offline):
             self.assertNotIn(bad, content)
         self.assertIn("no=99", content)
         self.assertIn("https://gall.dcinside.com/board/view/", content)
-        self.assertIn("dcimg1.dcinside.co.kr", content)
+        self.assertIn("image.dcinside.com/viewimage.php", content)
         self.assertEqual(
             BeautifulSoup(content, "html.parser").img["alt"], "Example & diagram"
         )
