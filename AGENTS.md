@@ -9,6 +9,10 @@ Read README.md and docs/maintenance.md before changing behavior.
 - Stable canonical article URLs are GUIDs. Do not change normalization casually:
   Feedly would treat existing articles as new.
 - Keep each source's title emoji. Source IDs identify both saved state and files.
+- DC body collection is opt-in per source (`article_content`); only ai-utilize is
+  enabled. Preserve body queue/cache fields on repeated list observations.
+- Body failures must not erase metadata or masquerade as successful extraction.
+  Do not mirror image bytes, backfill all retained posts or bypass access controls.
 - Preserve last good XML and success metadata on collection/rendering failure.
 - Publish healthy sources and failure status before marking Actions failed.
 - No external heartbeat monitoring; do not claim stopped schedules are detected.

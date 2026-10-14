@@ -22,6 +22,18 @@ ITEM = {
 
 
 class Tests(unittest.TestCase):
+    def setUp(self):
+        # These tests isolate the pre-existing list/render pipeline. Body work is
+        # exercised separately, with every HTTP request explicitly mocked.
+        guard = patch(
+            "requests.get", side_effect=AssertionError("network in offline test")
+        )
+        guard.start()
+        self.addCleanup(guard.stop)
+        enrichment = patch("rss_service.pipeline.enrich", return_value=None)
+        enrichment.start()
+        self.addCleanup(enrichment.stop)
+
     def test_dc_title_date_canonical_link(self):
         item = parsers.parse_dc(ROW, URL)[0]
         self.assertEqual(item["title"], "A & B")

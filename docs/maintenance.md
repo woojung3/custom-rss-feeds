@@ -6,7 +6,8 @@
 | --- | --- |
 | build.py | CLI arguments and exit code |
 | sources.json | Stable feed IDs, display names, emoji, adapter kind and URL |
-| rss_service/http.py | User-Agent, timeout and bounded retry policy |
+| rss_service/http.py | List requests and separately bounded, non-redirecting article requests |
+| rss_service/article.py | Opt-in DC body queue, rate limits and persistent attempt state |
 | rss_service/parsers.py | Pure HTML/RSS parsing and validation |
 | rss_service/collection.py | Adapter selection and DC pagination |
 | rss_service/state.py | Deduplication, stable fallback dates, 1,000-item retention |
@@ -23,12 +24,21 @@ state.json as durable production data, not a disposable cache.
 ## Data contracts
 
 An item has id (canonical URL/GUID), title (without emoji), link, date (ISO 8601
-with UTC offset, or None before merging), and summary (plain text). Merge assigns
+with UTC offset, or None before merging), and summary (plain text). Enriched DC items also carry `content_html`,
+`content_status` (`pending`, `ready`, `image_only`, `failed`), `content_image_count`,
+`content_attempts`, `content_checked_at`, `content_retry_at` (after HTTP 429) and
+`content_error`. Body timestamps use UTC offsets. `ready` means HTML is available,
+not that images were downloaded or their content understood. Merge preserves body
+fields and their text excerpt when a later list page repeats the same item.
+Merge assigns
 an absent date once and preserves it on subsequent runs. The renderer adds the
 emoji. Never store a prefixed title in state or prefixes will accumulate.
 
 Each source record holds items, last_attempt, last_success, last_new and error.
 Status adds id, name, emoji, count and available but omits article contents.
+Enabled body collectors also retain `body_collection` counts (`ready`, `pending`,
+`failed`, `attempted`). These counts advance only after RSS replacement succeeds;
+body errors are visible separately from feed-list/render errors.
 A successful fetch with no newly discovered IDs advances last_success only.
 Pagination-cap warnings publish partial results and advance last_success, but
 set error and fail the workflow because completeness is uncertain.
@@ -63,6 +73,30 @@ Pagination preserves the supplied query, including exception_mode=recommend,
 and adds page and list_num=100. First run reads only one page. Subsequent runs
 stop at a known article, reject repeated pages and warn at ten pages.
 
+Body collection is enabled only for `ai-utilize` through `article_content`.
+The parser accepts exactly one `.write_div` container; an image-only post is valid.
+It strips active markup/attributes, normalizes ordinary HTTP(S) links, resolves lazy
+image URLs and serializes sanitized HTML into the RSS content namespace. No image
+fetches occur during publishing. A reader may still be unable to fetch a remote
+image; never report rendered-image/OCR success from HTML extraction alone.
+
+Only new IDs receive body queue state. Existing metadata-only IDs are not bulk
+backfilled. Pending state survives pagination and later runs. Ten requests per
+feed/run, two-second pacing, three attempts and hourly minimum retry spacing are
+constants in `article.py`. 401/403/404/410 stop retries for that item. 429 stops body
+work for the feed and persists cooldown, including longer `Retry-After` values.
+Article responses are limited to 1 MiB with 5-second connection and 10-second read
+inactivity timeouts. A 20-second budget is checked between response chunks; it is
+not a hard wall-clock deadline. The workflow also has a 25-minute job timeout.
+Article requests accept only canonical DC view URLs and do not follow redirects.
+
+On body failure, publish the metadata and an explicit body availability notice;
+do not erase the article or fail the whole list collection. Do not repeatedly reset
+failed attempt counters to get around access restrictions. Disabling the flag leaves
+existing content intact. Before enabling another feed, test text and image-heavy
+posts in the target reader and review the combined request budget for DC's host.
+The ten-request budget is per enabled feed, not a cross-feed rate limiter.
+
 Partial omissions and silent upstream ignoring of recommendation filters cannot
 always be detected automatically. Inspect real output when repairing an adapter.
 
@@ -71,7 +105,7 @@ always be detected automatically. Inspect real output when repairing an adapter.
 Google News Korea and Autocrypt Labs use RSS 2.0 channel/item, not Atom.
 Required fields: nonempty title and HTTP(S) link. pubDate is optional; summaries
 are reduced to plain text. A switch to Atom requires an explicit parser and tests.
-Full article extraction is intentionally out of scope.
+Full article extraction for these official RSS sources is not enabled.
 
 ## Validation commands
 
@@ -86,6 +120,13 @@ Full article extraction is intentionally out of scope.
 gh run list --limit 5
 gh run view RUN_ID --log-failed
 ```
+
+For a bounded body smoke test, use `fetch_article`, `parse_dc_article` and
+`write_feed` on one or two public posts in a temporary directory. Do not run the
+full collector merely to check a selector: it can enqueue many new articles.
+Verify content namespace parsing, image links, absence of handlers/scripts,
+unchanged GUID/title/date, and no second body request when saved state is reused.
+Local success does not verify GitHub runner access or Miniflux/Capy image rendering.
 
 Tests must remain network-free. Include failure isolation, last-good preservation,
 empty/blocked responses, canonical IDs, recommendation filters and date handling.

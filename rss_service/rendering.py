@@ -5,6 +5,9 @@ from email.utils import format_datetime
 import html
 import xml.etree.ElementTree as ET
 
+CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
+ET.register_namespace("content", CONTENT_NS)
+
 
 def write_feed(path, source, items, now, base):
     rss = ET.Element("rss", version="2.0")
@@ -32,6 +35,15 @@ def write_feed(path, source, items, now, base):
             ("description", html.escape(item["summary"])),
         ]:
             ET.SubElement(node, key).text = value
+        if item.get("content_html"):
+            ET.SubElement(node, f"{{{CONTENT_NS}}}encoded").text = item["content_html"]
+        elif item.get("content_status") in ("pending", "failed"):
+            message = (
+                "본문 수집 대기 중입니다. 원문에서 확인하세요."
+                if item["content_status"] == "pending"
+                else "본문을 확보하지 못했습니다. 원문에서 확인하세요."
+            )
+            node.find("description").text = html.escape(message)
         ET.SubElement(node, "guid", isPermaLink="true").text = item["id"]
     ET.indent(rss)
     temporary = path.with_suffix(".xml.tmp")
@@ -46,10 +58,20 @@ def render_index(output, statuses, now):
     cards = []
     for s in statuses:
         esc = lambda value: html.escape(str(value or "Not yet"))
+        bodies = s.get("body_collection")
+        body_note = ""
+        if bodies:
+            body_note = (
+                '<p class="' + ("error" if bodies["failed"] else "ok") + '">'
+                f'Bodies: {int(bodies["ready"])} available / '
+                f'{int(bodies["pending"])} pending / {int(bodies["failed"])} unavailable. '
+                "Images are remote links, not verified downloads.</p>"
+            )
         cards.append(
             f"""<article><header><span>{s['emoji']}</span><h2>{esc(s['name'])}</h2></header>
 <p class="{'error' if s['error'] else 'ok'}">{esc(s['error']) if s['error'] else 'Healthy'} &middot; {s['count']} items</p>
 <dl><dt>Last attempt</dt><dd>{esc(s['last_attempt'])}</dd><dt>Last success</dt><dd>{esc(s['last_success'])}</dd><dt>Last new article</dt><dd>{esc(s['last_new'])}</dd></dl>
+{body_note}
 {'<a href="feeds/' + s['id'] + '.xml">Subscribe RSS &rarr;</a>' if s['available'] else '<p>Awaiting first successful collection</p>'}</article>"""
         )
     (output / "index.html").write_text(
@@ -60,5 +82,5 @@ def render_index(output, statuses, now):
         + html.escape(now)
         + """ &middot; All times UTC.</p><p>This is a static snapshot, not a live monitor. No new articles does not mean collection failed.</p><section class="grid">"""
         + "".join(cards)
-        + """</section><footer>Titles, links and available excerpts only. No external heartbeat monitoring. GitHub Actions runs hourly at :17 UTC; schedules may be delayed.</footer></main></html>"""
+        + """</section><footer>Titles, links, excerpts and selected sanitized DC post bodies. Images remain remote. No external heartbeat monitoring. GitHub Actions runs hourly at :17 UTC; schedules may be delayed.</footer></main></html>"""
     )

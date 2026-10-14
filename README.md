@@ -16,8 +16,10 @@ personal Feedly export is deliberately excluded from this public repository.
 - DCInside ai_utilize, thesingularity, cartoon, comic_new6 (recommended posts only)
 
 Configuration lives in `sources.json`. Source access and markup may change.
-Only titles, links, dates and available text excerpts are republished. Read full
-articles at their original URLs. Respect source policies and access restrictions.
+Titles, links, dates and available excerpts are published for all sources.
+The `ai-utilize` pilot also publishes sanitized DC post bodies with remote image
+links. Other DC feeds remain metadata-only; Google News and Autocrypt Labs retain
+plain-text excerpts. Respect source policies and access restrictions.
 
 ## Schedule and state
 
@@ -35,6 +37,33 @@ possible when posts disappear or the board changes rapidly.
 
 A stable canonical article URL is the RSS GUID. Source dates are used when
 available; an absent date gets its first collection time, preserved on later runs.
+
+## DC post bodies
+
+`article_content: true` in `sources.json` enables body collection per DC feed;
+only `ai-utilize` is enabled. New posts are queued for one-time extraction of the
+`.write_div` article container, excluding comments, navigation and surrounding ads.
+Basic formatting, links and image URLs are kept in RSS `content:encoded`; scripts,
+iframes, forms, event handlers and styling are removed. Video/audio become links.
+Images are not downloaded, mirrored, OCRed or interpreted. Remote image access can
+still fail (for example HTTP 403); successful HTML extraction does not prove that
+images will display in a reader. This also does not identify promotional prose
+inside a post or grant permission to republish third-party content.
+
+At most ten article requests per enabled feed are made in one run, with two seconds
+between requests. Responses have a 1 MiB limit, connection/read timeouts and no
+redirect following. Successful bodies are cached in durable state. Old entries
+without body metadata are not automatically backfilled. Explicitly queued posts
+are processed oldest first; sustained arrivals above capacity leave a backlog and
+normal 1,000-item retention can eventually evict queued posts.
+
+Temporary failures get at most three attempts, at least an hour apart. Forbidden,
+unauthorized and deleted posts are not retried. HTTP 429 stops the feed's body work
+and observes at least an hour of cooldown or a longer `Retry-After`. Failed/pending
+bodies retain their title, link, GUID and date and display an availability notice.
+Body counts are shown separately in `status.json` and on the status page; they do
+not turn an otherwise successful feed-list collection into an Actions failure.
+Disabling collection stops new body work; it does not erase already stored bodies.
 
 ## Failures and notifications
 

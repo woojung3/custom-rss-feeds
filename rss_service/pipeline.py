@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
 from .collection import collect
+from .article import enrich
 from .state import merge
 from .rendering import write_feed, render_index
 
@@ -30,11 +31,18 @@ def build(output, base):
             incoming, warning = collect(source, record["items"])
             known = {item["id"] for item in record["items"]}
             items = merge(record["items"], incoming, now)
+            body_collection = enrich(
+                source, items, known, datetime.now(UTC).isoformat()
+            )
             # Commit metadata only after the replacement RSS is safely written.
             write_feed(output / "feeds" / f"{key}.xml", source, items, now, base)
             if any(item["id"] not in known for item in incoming):
                 record["last_new"] = now
             record["items"] = items
+            if body_collection is not None:
+                record["body_collection"] = body_collection
+            else:
+                record.pop("body_collection", None)
             record["last_success"] = now
             record["error"] = warning
         except Exception as exc:

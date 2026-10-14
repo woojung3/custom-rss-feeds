@@ -4,7 +4,8 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlsplit, parse_qs, urlencode, urlunsplit
 import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup
+import re
+from bs4 import BeautifulSoup, Comment
 
 UTC = timezone.utc
 KST = timezone(timedelta(hours=9))
@@ -36,6 +37,149 @@ def parse_rss(data):
     if not items:
         raise ValueError("RSS contains zero items")
     return items
+
+
+def content_url(value, base):
+    """Allow ordinary web links only, never credentials or active URL schemes."""
+    if (
+        not isinstance(value, str)
+        or not value.strip()
+        or any(ord(c) < 32 for c in value)
+    ):
+        return None
+    try:
+        url = urljoin(base, value.strip())
+        parts = urlsplit(url)
+        if (
+            not valid_link(url)
+            or parts.username is not None
+            or parts.password is not None
+        ):
+            return None
+        return url
+    except ValueError:
+        return None
+
+
+def parse_dc_article(data, url):
+    """Extract the post, not comments/navigation. Never fetch embedded media."""
+    soup = BeautifulSoup(data, "html.parser")
+    bodies = soup.select(".write_div")
+    if len(bodies) != 1:
+        raise ValueError("missing_article_container")
+    body = bodies[0]
+    for node in body.find_all(
+        [
+            "script",
+            "style",
+            "iframe",
+            "form",
+            "input",
+            "button",
+            "select",
+            "textarea",
+            "object",
+            "embed",
+            "svg",
+            "math",
+            "link",
+            "meta",
+            "base",
+            "noscript",
+        ]
+    ):
+        node.decompose()
+    for node in body.find_all(string=lambda text: isinstance(text, Comment)):
+        node.extract()
+    for node in body.find_all(["video", "audio"]):
+        source = node.find("source")
+        href = content_url(
+            node.get("src") or (source.get("src") if source else ""), url
+        )
+        if href:
+            anchor = soup.new_tag("a", href=href)
+            anchor.string = "원문 미디어 보기"
+            node.replace_with(anchor)
+        else:
+            node.decompose()
+    allowed = {
+        "p",
+        "div",
+        "span",
+        "br",
+        "hr",
+        "a",
+        "img",
+        "strong",
+        "b",
+        "em",
+        "i",
+        "u",
+        "s",
+        "blockquote",
+        "pre",
+        "code",
+        "ul",
+        "ol",
+        "li",
+        "h2",
+        "h3",
+        "h4",
+        "table",
+        "thead",
+        "tbody",
+        "tr",
+        "th",
+        "td",
+        "figure",
+        "figcaption",
+        "dl",
+        "dt",
+        "dd",
+    }
+    for node in list(body.find_all(True)):
+        if node.name not in allowed:
+            node.unwrap()
+            continue
+        attrs = dict(node.attrs)
+        node.attrs = {}
+        if node.name == "a":
+            href = content_url(attrs.get("href", ""), url)
+            if href:
+                node["href"] = href
+            else:
+                node.unwrap()
+        elif node.name == "img":
+            src = next(
+                (
+                    candidate
+                    for key in ("data-original", "data-src", "src")
+                    if attrs.get(key) and (candidate := content_url(attrs[key], url))
+                ),
+                None,
+            )
+            if not src:
+                node.decompose()
+                continue
+            node["src"] = src
+            if attrs.get("alt"):
+                node["alt"] = str(attrs["alt"])[:500]
+    text = body.get_text(" ", strip=True)
+    images = len(body.find_all("img"))
+    if not text and not images:
+        raise ValueError("empty_article_container")
+    content = "".join(str(child) for child in body.contents).strip()
+    content = re.sub(
+        r"[\x00-\x08\x0b\x0c\x0e-\x1f\ud800-\udfff\ufffe\uffff]", "", content
+    )
+    return {
+        "content_html": content,
+        "content_image_count": images,
+        "content_status": "ready" if text else "image_only",
+        "summary": re.sub(
+            r"[\x00-\x08\x0b\x0c\x0e-\x1f\ud800-\udfff\ufffe\uffff]", "", text
+        )[:1500],
+    }
 
 
 def parse_dc(data, url):
