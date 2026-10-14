@@ -21,7 +21,7 @@ def miniflux_rewrite_rules():
     for suffix in ("co[.]kr", "com"):
         for route in ("viewimage", "dccon"):
             pattern = (
-                r'(<img\b[^>]*\ssrc=")https?://dcimg[0-9]+[.]dcinside[.]'
+                r'(<img\b[^>]*\ssrc=")(?:https?:)?//dcimg[0-9]+[.]dcinside[.]'
                 + suffix
                 + "/"
                 + route

@@ -138,6 +138,13 @@ class ImageTests(unittest.TestCase):
                 self.assertEqual(result.count("https://image.dcinside.com/"), 1)
                 self.assertIn(f'<a href="{url}">', result)
                 self.assertEqual(rewrite(result), result)
+        # Lazy-image attributes can supply scheme-relative URLs after extraction.
+        for route in ("viewimage.php", "dccon.php"):
+            url = f"//dcimg6.dcinside.co.kr/{route}?id=x&amp;no=1"
+            self.assertEqual(
+                rewrite(f'<img src="{url}"/>'),
+                f'<img src="https://image.dcinside.com/{route}?id=x&amp;no=1"/>',
+            )
         for url in (
             "https://dcimg6.dcinside.co.kr/other.php?id=x",
             "https://dcimg6.dcinside.co.kr.evil.test/viewimage.php?id=x",

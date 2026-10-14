@@ -19,7 +19,8 @@ settings; subscription URLs are selected separately as described above:
   `dcinside.com`, and `viewimage.php` / `dccon.php` separately.
 
 The replacements target image `src` attributes and use `image.dcinside.com` over
-HTTPS. Paths and queries stay intact. Article URLs, ordinary links, unrelated
+HTTPS, including scheme-relative (`//dcimg…`) lazy-image URLs. Paths and queries
+stay intact. Article URLs, ordinary links, unrelated
 hosts and the HTML viewer `viewimagePop.php` are not rewritten. This is not an
 image mirror, a Referer override or an access-control bypass.
 
@@ -86,17 +87,10 @@ output, not the outer JSON string. Preserve its remaining escapes:
 7. Check actual images in Capy Reader. A successful server-side image request does
    not prove mobile rendering, OCR or interpretation of image contents.
 
-Verified with Miniflux 2.3.3: one sample from each of the five boards produced the
-same text and image URLs through the producer parser and native read-only
-fetch-content path. Coverage includes lazy images and an image-only cartoon.
-The first image from each sample returned an image signature without a Referer;
-this does not verify every image or interpret its contents. Existing article
-bodies and read/star states were unchanged by these previews.
-
-The AI-utilize sample (467 characters, two images) also passed a native save and
-both image downloads, and the user confirmed its images in Capy Reader. Actual
-Capy rendering of the other boards has not been independently confirmed. Sample
-coverage is not a guarantee for all DC media.
+Validation covers rule decoding, bounded regex behavior, text/image-only posts,
+lazy images, and producer versus native extraction. Image signatures and reader
+display do not establish OCR accuracy or interpretation of image contents;
+coverage does not guarantee access to every DC media file.
 
 Download still replaces an inline AI summary along with the old body. These rules
 do not preserve or reapply summaries; that lifecycle belongs to a future AI tool.

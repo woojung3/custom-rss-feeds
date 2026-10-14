@@ -110,6 +110,15 @@ func main() {
 			if got := apply(input); got != want || apply(got) != got {
 				panic("rewrite mismatch")
 			}
+			for _, scheme := range []string{"http:", ""} {
+				relative := strings.ReplaceAll(input, "https:", scheme)
+				// Text and links stay untouched; only the image becomes HTTPS.
+				expected := strings.Replace(want, `<p>https:`, `<p>`+scheme, 1)
+				expected = strings.Replace(expected, `<a href="https:`, `<a href="`+scheme, 1)
+				if apply(relative) != expected {
+					panic("scheme-relative rewrite mismatch")
+				}
+			}
 		}
 	}
 	fmt.Println("Go decoding, invalid-escape/empty-pattern rejection, four image routes, unrelated links and idempotence: PASS")
