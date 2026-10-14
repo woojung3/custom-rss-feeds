@@ -1,11 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>🎨 카툰·연재 추천글</title>
     <link>https://gall.dcinside.com/board/lists/?id=cartoon&amp;exception_mode=recommend</link>
     <description>카툰·연재 추천글</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:11:48 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/cartoon.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎨 오해하지마 단편 외전</title>
+      <link>https://gall.dcinside.com/board/view/?id=cartoon&amp;no=729737</link>
+      <pubDate>Wed, 14 Oct 2026 08:08:10 +0000</pubDate>
+      <description>- dc official App</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="a16024ad2a0b6af63ce987e547836c6cea3928ec241c039a2f10dd3ea2d6e19a57b2" src="https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec5c34549abc6afb435e9d68355fe3b03b6cfe7e8e6b9fe7a16ab9efc2ee53acd98a504ae6568295463d584eede49dafeccd5cebd8e2b9645b2608b382e8549"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt; - dc official App&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/board/view/?id=cartoon&amp;no=729737</guid>
+    </item>
+    <item>
+      <title>🎨 NTR 만화 1편, 아기는 어떻게 생겨요 디렉터즈 컷</title>
+      <link>https://gall.dcinside.com/board/view/?id=cartoon&amp;no=729734</link>
+      <pubDate>Wed, 14 Oct 2026 07:21:32 +0000</pubDate>
+      <description>8790</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="75e48368f5dc3f8650bbd58b368074658a76bd" src="https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec5c34549abc6afb435e9d68355935501bdc8e68c7a3f7f2d9ee38b76961b166f05f01c727a1e"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="23" src="https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b651e82d6e92bb78d16c565c8931b3768c6005f48637301960d4dceb87b781188e883bd94ab68f430d6c731dfebd4eb7"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="75e48468f5dc3f8650bbd58b3683746b028369" src="https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec5c34549abc6afb435e9d68355935501b0cdeeeeca4ef0194595159ca5543fc58b587162ee1a"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="48" src="https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b651e82d6e92bb78d16c565c8931b3768c6005f48637301960d4dceb87b781188e883bd94ab68f430d6c7516febd4eb7"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;8790&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/board/view/?id=cartoon&amp;no=729734</guid>
+    </item>
     <item>
       <title>🎨 못해솔로여자의 망상</title>
       <link>https://gall.dcinside.com/board/view/?id=cartoon&amp;no=729728</link>
