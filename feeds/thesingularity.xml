@@ -4,8 +4,22 @@
     <title>🚀 특이점이 온다 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=thesingularity&amp;exception_mode=recommend</link>
     <description>특이점이 온다 추천글</description>
-    <lastBuildDate>Wed, 14 Oct 2026 19:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:13:39 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/thesingularity.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 AI로 AAA게임 만드는 건 이미 시작 되었다.</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481485</link>
+      <pubDate>Wed, 14 Oct 2026 18:36:13 +0000</pubDate>
+      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481485</guid>
+    </item>
+    <item>
+      <title>🚀 콜센터 멸망의 조짐? 음성 모델 Grok Voice 3.0 소개</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481476</link>
+      <pubDate>Wed, 14 Oct 2026 18:21:25 +0000</pubDate>
+      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481476</guid>
+    </item>
     <item>
       <title>🚀 제미나이4는 이미 양자컴퓨팅, 핵융합, 단백질 설계 등에서 돌파구를 연다</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481464</link>
@@ -21,6 +35,13 @@
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481422</guid>
     </item>
     <item>
+      <title>🚀 만 명의 과학자들에게 구글 반중력 최고 등급 6개월 무료 제공</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481406</link>
+      <pubDate>Wed, 14 Oct 2026 16:53:09 +0000</pubDate>
+      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481406</guid>
+    </item>
+    <item>
       <title>🚀 아스트라가 전문가들을 넘어 벤치를 수정하다</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481399</link>
       <pubDate>Wed, 14 Oct 2026 16:46:29 +0000</pubDate>
@@ -28,52 +49,299 @@
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481399</guid>
     </item>
     <item>
+      <title>🚀 앤트로픽, 소형AI 자가복제 수준까지 수개월 남았을 수도 있다.</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481304</link>
+      <pubDate>Wed, 14 Oct 2026 15:43:49 +0000</pubDate>
+      <description>Anthropic 프런티어 레드팀 연구 소형 AI의 TV 박스·가전 자가 복제, 수개월 남았을 수 있다는 레드팀 추정 별도 서버의 AI로 수행한 단순화 시험과 소형 모델의 성능 향상 추세를 함께 살핀 전망이다 원문 게시 2026년 10월 12일 · 저자 William Zhou, Daniel Freeman Anthropic 프런티어 레드팀은 10월 12일 공개한 연구에서, 소형 AI 모델 이 스마트 오븐이나 저가 안드로이드 TV 박스 같은 사물인터넷(IoT) 기기에서 스스로 복제하는 수준까지 수개월 남았을 수 있다 고 추정했다. 연구진은 이런 복제체가 등장하면 전체를 한꺼번에 중단시킬 중앙 지점이 없어 제거하기 어렵지만, 개체 수가 두 배로 늘어나는 데 며칠이 걸릴 만큼 확산은 느릴 수 있다 고 본다. 또한 AI 웜이 낯선 기기의 환경을 스스로 파악해 대응할 가능성에 주목했다. 이 추정은 실제 모델을 이용한 실험 결과 와 소형 모델의 성능 향상 추세에 근거한다. 연구진은 하드웨어 9종에서 AI가 추론 서버를 구축하게 했고, 실물 저가 TV 박스 15대로 26B 모델을 분산 실행했으며, 클라우드 시험망에서 AI가 노드를 옮겨 다니며 서버를 세우게 했다. 추론 서버는 학습을 마친 모델이 질문에 답하도록 돌리는 실행 환경이다. 9B 모델(매개변수 약 90억 개)은 하드웨어 9종 중 8종에서 이를 띄웠다. 복제 절차를 하나로 연결한 것은 마지막 시험이다. 별도 서버에서 돌아가는 AI가 노드마다 Llama3.1-8B 추론 서버를 구축하게 하고, 검사를 통과하면 연구진의 평가 절차에 따라 그 노드에서 새 웜 사본을 실행했다. 침투는 인증 없이 접근할 수 있게 단순화했다. 시험한 오픈웨이트 모델 중 GLM-5.2만 모든 노드에 도달했다. 소형 모델이 지금의 성능 향상 추세를 유지하면 2026년 말까지 일반 능력 지표에서 GLM-5.2 수준에 이를 수 있고, 그 뒤 소형 자가 복제체도 가능해질 수 있다는 것이 연구진의 추정이다. 연구진은 이처럼 침투를 쉽게 만든 시험의 결과를 실제 환경에서의 성공 상한으로 본다. 복제 사슬에서 가장 덜 연구된 ‘추론 구동’ 단계를 시험했다 웜은 사람 개입 없이 한 컴퓨터에서 다음 컴퓨터로 자신을 복사하는 프로그램이다. 연구진이 가정한 AI 웜은 모델의 작동을 결정하는 수치인 가중치를 함께 전송하거나 공개 저장소에서 다시 내려받아, 감염시킨 기기에서 직접 추론을 돌리는 형태다. 원문이 인용한 선행 연구 에서는 AI 에이전트가 네트워크를 스캔하고 취약점을 공격해 GPU 클러스터의 다른 기계로 가중치를 복사하는 모습이 이미 확인됐다. 연구진은 값싸고 방어가 허술한 감염된 IoT 기기를 묶은 네트워크인 봇넷도 쓸 만한 모델을 돌릴 연산력을 낼 수 있다고 주장한다. 복제 과정은 네 단계로 나뉜다. 표적 탐색, 최초 접근과 공격용 파일(페이로드) 전달, 추론 구동 설정, 새 호스트에서의 복제 지속이다. 앞의 두 단계는 적절한 도구를 활용한 소형 모델의 취약점 공격 능력이 선행 연구에서 확인됐기 때문에 대체로 다루지 않았다. 시험의</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;&lt;p&gt;Anthropic 프런티어 레드팀 연구&lt;/p&gt;&lt;p&gt;소형 AI의 TV 박스·가전 자가 복제, 수개월 남았을 수 있다는 레드팀 추정&lt;/p&gt;&lt;p&gt;별도 서버의 AI로 수행한 단순화 시험과 소형 모델의 성능 향상 추세를 함께 살핀 전망이다&lt;/p&gt;&lt;p&gt;원문 게시 2026년 10월 12일 · 저자 William Zhou, Daniel Freeman&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;Anthropic 프런티어 레드팀은 10월 12일 공개한 연구에서, &lt;/span&gt;&lt;b&gt;소형 AI 모델&lt;/b&gt;이 스마트 오븐이나 저가 안드로이드 TV 박스 같은 사물인터넷(IoT) &lt;b&gt;기기에서 스스로 복제하는 수준까지 수개월 남았을 수 있다&lt;/b&gt;고 추정했다. 연구진은 이런 복제체가 등장하면 전체를 한꺼번에 중단시킬 중앙 지점이 없어 제거하기 어렵지만, 개체 수가 두 배로 늘어나는 데 며칠이 걸릴 만큼 &lt;b&gt;확산은 느릴 수 있다&lt;/b&gt;고 본다. 또한 AI 웜이 낯선 기기의 환경을 스스로 파악해 대응할 가능성에 주목했다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;이 추정은 실제 모델을 이용한 실험 결과&lt;/b&gt;와&lt;b&gt; 소형 모델의 성능 향상 추세에 근거한다.&lt;/b&gt; 연구진은 하드웨어 9종에서 AI가 추론 서버를 구축하게 했고, 실물 저가 TV 박스 15대로 26B 모델을 분산 실행했으며, 클라우드 시험망에서 AI가 노드를 옮겨 다니며 서버를 세우게 했다. 추론 서버는 학습을 마친 모델이 질문에 답하도록 돌리는 실행 환경이다. 9B 모델(매개변수 약 90억 개)은 하드웨어 9종 중 8종에서 이를 띄웠다.&lt;/p&gt;&lt;p&gt;복제 절차를 하나로 연결한 것은 마지막 시험이다. 별도 서버에서 돌아가는 AI가 노드마다 Llama3.1-8B 추론 서버를 구축하게 하고, 검사를 통과하면 연구진의 평가 절차에 따라 그 노드에서 새 웜 사본을 실행했다. 침투는 인증 없이 접근할 수 있게 단순화했다. 시험한 오픈웨이트 모델 중 GLM-5.2만 모든 노드에 도달했다. 소형 모델이 지금의 성능 향상 추세를 유지하면 2026년 말까지 일반 능력 지표에서 GLM-5.2 수준에 이를 수 있고, 그 뒤 소형 자가 복제체도 가능해질 수 있다는 것이 연구진의 추정이다. 연구진은 이처럼 침투를 쉽게 만든 시험의 결과를 실제 환경에서의 성공 상한으로 본다.&lt;/p&gt;&lt;p&gt;복제 사슬에서 가장 덜 연구된 ‘추론 구동’ 단계를 시험했다&lt;/p&gt;&lt;p&gt;웜은 사람 개입 없이 한 컴퓨터에서 다음 컴퓨터로 자신을 복사하는 프로그램이다. 연구진이 가정한 AI 웜은 모델의 작동을 결정하는 수치인 가중치를 함께 전송하거나 공개 저장소에서 다시 내려받아, 감염시킨 기기에서 직접 추론을 돌리는 형태다. 원문이 인용한 &lt;a href="https://arxiv.org/abs/2606.03811"&gt;선행 연구&lt;/a&gt;에서는 AI 에이전트가 네트워크를 스캔하고 취약점을 공격해 GPU 클러스터의 다른 기계로 가중치를 복사하는 모습이 이미 확인됐다. 연구진은 값싸고 방어가 허술한 감염된 IoT 기기를 묶은 네트워크인 봇넷도 쓸 만한 모델을 돌릴 연산력을 낼 수 있다고 주장한다.&lt;/p&gt;&lt;p&gt;복제 과정은 네 단계로 나뉜다. 표적 탐색, 최초 접근과 공격용 파일(페이로드) 전달, 추론 구동 설정, 새 호스트에서의 복제 지속이다. 앞의 두 단계는 적절한 도구를 활용한 소형 모델의 취약점 공격 능력이 선행 연구에서 확인됐기 때문에 대체로 다루지 않았다. 시험의 초점은 침해한 기기에 추론 환경을 세우는 단계다. 가장 덜 연구됐고 소형 모델에게 가장 어려울 수 있는 단계라서다. 호환되는 추론 소프트웨어를 고르고, 맞는 패키지 버전을 찾고, 기기마다 다른 문제를 디버깅하는 일이 순서대로 이어지며 한 번 틀어지면 되돌리기 어렵다.&lt;/p&gt;&lt;div&gt;&lt;img alt="복제 4단계 흐름도. 네트워크 탐색과 최초 접근·페이로드 전달은 ‘사이버 공격(연구의 초점 아님)’으로 묶이고, 추론 구동 설정이 ‘연구의 초점’으로 표시돼 있다" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b5b6ead7fb1cbace7c84559d5c0ad16a03c38e41ef328a8f0"/&gt;&lt;p&gt;복제를 네 단계로 나눈 원문 도해. 연구는 추론 구동 설정 단계를 다뤘다. &lt;a href="https://www.anthropic.com/research/self-replicating-ai"&gt;Anthropic 원문 보기&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;연구진이 가정한 시나리오는 소형 모델이 숙주 기기를 장악해 그 위에서 직접 돌아가는 형태로, 가중치 기반 복제체라 부른다. 인터넷에 연결돼 있고 보안이 허술했던 가정·소규모 사업장 기기가 첫 표적이 될 수 있다. 모델이 한 기기에 들어가지 않으면 조각으로 나눠 여러 대에 얹으며, 30B(매개변수 300억 개) 미만 모델의 조각은 스마트 냉장고·오븐·로봇청소기·잔디깎이도 맡을 수 있다. 복제체는 기기의 관리자 권한인 루트 권한 없이도 돌아갈 수 있다.&lt;/p&gt;&lt;p&gt;직접 실험한 대상은 소형 모델의 가중치 기반 복제다. 대형 모델의 데이터센터 침투나 API 자격증명 탈취는 별도의 위협 시나리오로 논의했다. 부록의 표적 피싱 평가에서 소형 모델은 사람 채점 기준으로 보정했을 때 ‘매우 미흡’에서 ‘미흡’ 수준이었다. 연구진은 현재 소형 모델이 상대적으로 강한 코딩·해킹과 이런 사회공학 능력을 구별한다.&lt;/p&gt;&lt;p&gt;TV 박스 15대가 26B 모델을 돌렸다&lt;/p&gt;&lt;p&gt;연구진은 약 55달러짜리 비브랜드 안드로이드 TV 박스 15대를 사서 네트워크로 묶고 Gemma4-26B-A4B를 초당 0.39토큰 속도로 분산 추론했다. 토큰은 모델이 글을 읽고 만드는 단위다. 박스마다 모델의 일부 층을 맡는 파이프라인 병렬 방식이고, 노드 하나가 죽어도 교체할 수 있어 이 방식을 골랐다. 박스는 RAM 4GB짜리다. 모델 가중치를 4비트 단위로 저장하는 양자화를 가정하면 9B 모델은 4대 이상, 26B 모델은 10대 이상이 필요하다. 이 시연은 저가 기기가 큰 모델을 나눠 돌릴 수 있음을 보일 뿐, 아래 복제 시험과는 별개의 실험이다.&lt;/p&gt;&lt;p&gt;원문 캡션에 따르면 15대의 스마트 TV 박스가 Gemma4-26B-A4B 분산 추론을 실행하는 영상이다. &lt;a href="https://cdn.sanity.io/files/4zrzovbb/website/04cb53c1d91c7dc7493e2d40cf4a40d865ba97b7.mp4"&gt;원문 영상 보기&lt;/a&gt;&lt;/p&gt;&lt;p&gt;연구진이 대표 위협으로 삼은 Kimwolf는 &lt;a href="https://synthient.com/blog/a-broken-system-fueling-botnets"&gt;Synthient 보고&lt;/a&gt;에 따르면 200만 대 넘는 기기를 감염시킨 것으로 추정됐고 주로 비브랜드 안드로이드 TV였다.&lt;/p&gt;&lt;p&gt;소형 모델도 낯선 기기에 추론 서버를 세웠다&lt;/p&gt;&lt;p&gt;연구진은 가중치가 공개된 오픈웨이트 모델들이 여러 하드웨어에서 추론 서버를 구축하는 능력을 &lt;a href="https://assets.claude.ai/brand/artifacts/editorial/ai-worms-figures-blog/04-inference-setup-grid-light.html"&gt;평가했다&lt;/a&gt;. 대부분의 환경에서는 Llama3.1-8B 구동을 공통 과제로 삼았고 Jetson에는 예외 조건을 적용했다. 하드웨어는 Jetson Nano에서 Mac, RTX 4090까지 걸쳐 있다. Qwen3.5-9B 같은 소형 모델도 이 과제를 해냈고, GLM-5.2는 구축 성공이 더 안정적이었고, 구축한 서버의 초당 토큰 처리량도 더 높았다. 특정 칩을 고른 것은 시험을 위해서일 뿐 칩이 취약점의 원천은 아니라고 연구진은 밝혔다.&lt;/p&gt;&lt;p&gt;실험에는 오픈소스 코딩 에이전트 Pi 위에 만든 실행 관리 장치인 Memento 하네스를 썼다. 긴 작업에서 에이전트가 틀린 가설에 사로잡혀 되돌아가지 않는 문제를 줄이려, 일정 시간마다 이전 에이전트의 작업공간과 시도한 전략·실패를 적은 메모를 넘겨 새 에이전트를 띄운다. 연구진은 Memento가 새로운 사이버 공격·추론 구축 능력을 부여하기보다 장기 작업의 신뢰도를 높이려는 목적으로 설계됐다고 설명한다.&lt;/p&gt;&lt;p&gt;단순화한 시험에서 GLM-5.2가 노드 8대 전체에 도달했다&lt;/p&gt;&lt;p&gt;이제 단계를 한 번에 이어 붙일 수 있는지 볼 차례다. 시험은 실제 TV 박스가 아니라 구글 클라우드 가상 네트워크의 안드로이드 15 에뮬레이터 노드 8대에서 했고, 네트워크는 방화벽으로 막아 두었다. 초기 노드에 웜을 심은 뒤 웜이 인증 없이 열린 ADB(안드로이드 디버그 브리지) 포트로 노드에서 노드로 옮겨 가며 Llama3.1-8B 추론 서버를 세운다. 서버가 정확성·부정행위 방지 검사를 통과하면 연구진은 평가 절차에 따라 대상 노드에서 새 웜 사본을 실행했다. 노드가 큰 모델을 돌릴 만큼 크지 않아 웜을 움직이는 모델은 별도 서버에서 돌렸다.&lt;/p&gt;&lt;div&gt;&lt;p&gt;GLM-5.2의 8개 노드 감염 시험(5회)&lt;/p&gt;&lt;p&gt;8/8 노드: 5회 중 4회&lt;/p&gt;&lt;p&gt;8대에는 처음 웜을 심은 노드가 포함된다. 나머지 1회는 7/8 노드였다. 시험한 다른 오픈웨이트 모델은 일관되게 실패했다.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;따라서 대상 노드에서 직접 추론하는 모델은 Llama3.1-8B이고, 웜을 움직이는 모델의 추론은 별도 서버가 맡는다. 모델 자신 대신 이 서버를 세우게 한 것은 큰 모델일수록 서버 구축이 어려워 같은 조건으로 비교하기 위해서다. 연구진은 GLM-5.2의 능력을 8B 크기에 담을 수 있다면 그런 소형 모델도 같은 일을 해낼 수 있다고 해석하지만, 최신 소형 모델은 구조와 커널이 더 복잡할 수 있다는 단서가 붙는다.&lt;/p&gt;&lt;p&gt;침투 단계도 일부러 쉽게 만들었다. 연구진은 ADB 포트에 인증이 없는 이 시험의 결과를 실제 환경에서의 성공 상한으로 본다. 다만 Mirai 같은 과거 IoT 봇넷은 제조사 기본 아이디·비밀번호 목록을 대입하는 정도로 퍼졌고, 연구진은 실제 IoT 기기에 침투하는 일도 이 단순화한 단계보다 크게 어렵지 않을 수 있다고 본다. 서버 구축을 스크립트로 대체한 대조 시험에서는 소형 모델을 포함해 상당수 모델이 나머지 단계를 해냈고, 노드 17대 규모의 이 시험에서 3B 모델도 노드의 절반가량에 닿았다.&lt;/p&gt;&lt;p&gt;복제를 안정적으로 수행하려면 충분한 능력이 필요하고, 저사양 기기에서 실행하려면 모델이 충분히 작아야 한다. GLM-5.2는 능력 조건을 충족했고, Qwen3.5-9B와 Gemma4-26B-A4B는 RAM 4GB TV 박스 여러 대에 나눠 실행할 수 있는 크기였다. 이번 시험에서는 두 조건을 동시에 충족한 모델이 확인되지 않았다. 30B 이하 오픈웨이트 모델의 시점별 최고 성능에 맞춘 직선은 &lt;a href="https://assets.claude.ai/brand/artifacts/editorial/ai-worms-figures-blog/09-small-model-capability-light.html"&gt;Epoch 능력 지수(ECI)&lt;/a&gt; 기준 연 13.7점씩 오르며(결정계수 0.95), 추세를 연장하면 소형 모델이 2026년 말까지 같은 지표에서 GLM-5.2 수준에 도달하는 것으로 추산된다. ECI는 복제 능력의 대리 지표라 거친 추정이라고 연구진은 덧붙였다.&lt;/p&gt;&lt;p&gt;확산 속도는 느린 것으로 추정된다&lt;/p&gt;&lt;p&gt;확산 속도는 실물 TV 박스에서 측정한 추론 속도를 바탕으로 추산했다. Gemma4-26B-A4B의 최적화 전 속도는 서버 구축 작업의 32k 토큰 컨텍스트에서, 프리필(입력 처리)과 디코드(출력 생성)를 평균해 초당 약 0.3토큰이었다. 서버 구축 한 건의 전 과정은 Gemma4-26B-A4B로 71~150시간, Qwen3.5-9B로 28~51시간이 걸릴 것으로 추산됐고, 연구진은 이를 바탕으로 9B 모델의 복제 한 번에 1~2일 이상이 걸릴 것으로 추정한다.&lt;/p&gt;&lt;p&gt;Kimwolf 규모를 참고해 감염 기기 약 200만 대를 가정하고, 이를 15대씩 묶어 Gemma4-26B-A4B를 한 벌씩 돌린다고 가정하면 복제본은 약 13만 3000개다. 한 묶음이 에이전트 2개를 동시에 각각 초당 약 0.3토큰으로 돌리면 봇넷 전체 처리량은 초당 약 8만 토큰이다. 연구진은 같은 모델을 높은 동시성과 추측 디코딩으로 실행한 H100의 초당 약 1950토큰과 비교해, 이 처리량을 많아야 H100 약 40장 분량으로 거칠게 환산했다. 연구진은 점균류나 초파리 떼가 며칠에 걸쳐 번식하는 모습에 비유한다. TV 박스 한 종류와 과거 봇넷 한 건에 기댄 거친 추정이다.&lt;/p&gt;&lt;p&gt;메모 계승은 성공률을 높였고, 조언은 유의한 효과가 없었다&lt;/p&gt;&lt;p&gt;실제 복제체에서는 부모가 얻은 요령이 프롬프트·코드·메모로 자식에게 전해지는 ‘라마르크식’ 적응이 가능하다는 것이 연구진의 가정이다. 이를 확인하려고 Qwen3.5-9B의 한 실행 인스턴스가 시도한 전략과 실패를 메모로 남기면 다음 인스턴스가 그 메모를 물려받아 같은 서버 구축 과제를 다시 풀게 했다. 6세대·20개 계보에서 성공률은 첫 세대 45%에서 이후 세대 61~84%로 올랐다.&lt;/p&gt;&lt;p&gt;이 서버 구축 시험에서는 더 강한 모델의 조언에 따른 유의한 성공률 개선이 확인되지 않았다. Qwen3.5-9B에게 Opus 4.8을 도구로 쓰게 하거나 막힐 때 조언을 자동으로 줘도 마찬가지였고, 파이썬 코딩 문제로 조언자 활용을 강화학습시켜도 같았다. 이 시험에서 소형 모델은 문제 해결에 도움이 되는 질문을 잘 하지 못했다. 연구진은 여러 모델을 함께 운용할 경우 대형 모델이 전략을 맡고 소형 모델을 하위 에이전트로 실행하는 형태가 더 유력하다고 본다.&lt;/p&gt;&lt;p&gt;방어의 핵심은 감염 재생산 수를 1 미만으로 낮추는 일이다&lt;/p&gt;&lt;p&gt;Kimwolf처럼 특정 기기군을 겨냥해 미리 작성된 코드대로 동작하는 봇넷은 공격 대상이 정해져 있다. 연구진은 AI 봇넷이 특정 하드웨어에 묶이지 않는다고 본다. 소형 모델이 Jetson Nano에서 Mac까지 추론 엔진을 세운 것이 근거다. 방어자에 맞서 지능적으로 움직일 수도 있다고 보지만 이는 시험하지 않았다.&lt;/p&gt;&lt;p&gt;방어의 목표는 감염 재생산 수(R₀), 곧 감염 기기 하나당 새로 감염되는 기기 수를 1 미만으로 낮춰 복제체를 사라지게 하는 것이다. 연구진은 방어에 유리한 점을 셋 꼽았다. 첫째, 네트워크 흔적이다. 수 GB짜리 모델 전송과 평소 통신하지 않던 기기끼리의 지속적인 분산 추론 트래픽이 인터넷 서비스 사업자(ISP)의 모니터링에 이상 징후로 잡힐 수 있다. 빨리 퍼질수록 더 들키기 쉽고, 발견 뒤에는 미끼 기기(허니팟)로 복제체의 하네스와 페이로드를 수집해 행동을 분석할 수 있다.&lt;/p&gt;&lt;p&gt;둘째, ISP의 격리다. 한 ISP 고객들을 대상으로 한 &lt;a href="https://www.ndss-symposium.org/ndss-paper/cleaning-up-the-internet-of-evil-things-real-world-evidence-on-isp-and-consumer-efforts-to-remove-mirai/"&gt;Mirai 제거 연구&lt;/a&gt;에서는 감염 고객의 인터넷 접근을 제한하고 제거 방법을 안내한 집단에서 14일 안에 감염의 92%가 사라졌다. 알림을 보내지 않은 대조군은 74%였다. Anthropic 연구진은 가중치 기반 복제체에도 이런 격리가 초기 방어로 효과적일 것으로 본다. 다만 완전 제거에는 감염 네트워크가 있는 모든 ISP의 협조가 필요해 어렵다.&lt;/p&gt;&lt;p&gt;셋째, 제조사다. 제조사가 공격 표적이 되는 기기 수를 줄일 수 있고, 규제가 그 기준을 맞춰 줄 수 있다. &lt;a href="https://www.ncsc.gov.uk/blog-post/smart-devices-law"&gt;영국은&lt;/a&gt; 적용 대상 소비자용 연결 기기에 공통 기본 비밀번호를 쓰지 못하게 하고, 제품별 고유 비밀번호나 사용자가 정하는 비밀번호를 요구한다.&lt;/p&gt;&lt;p&gt;연구진은 AI 웜에서도 2024년의 코딩 에이전트 때처럼, 실제로 작동할 가능성을 보여 주는 초기 징후가 나타나고 있다고 본다. 아직 사람의 통제를 벗어나 복제를 이어 가는 완전한 형태를 구현한 것은 아니지만, 에이전트가 복제 과정의 개별 단계를 점점 더 잘 수행하고 그 과정에서 얻은 요령을 다음 사본에 전달할 수 있다는 것이다. 어떤 형태가 나타날지는 불확실하다. 보안이 허술한 기기의 연산 자원을 이용하는 느린 ‘디지털 점균류’일 수도, 데이터센터에 빠르게 침투하는 사이버 공격 능력이 뛰어난 모델일 수도, 사람을 속여 연산 자원 이용 크레딧을 얻는 모델일 수도 있다. 실험을 넘어선 전망으로, 연구진은 경량 에이전트가 사람 공격자보다 더 많은 노력을 들여 세계 IoT 연산 자원의 상당 부분을 장악하려 할 수 있다고 본다. 느린 복제체의 등장은 더 강한 보안도 뚫는 빠른 복제체가 뒤따를 전조일 수 있다. 확산을 어렵게 만들도록 보안을 강화하는 동시에, 이런 복제체가 사라지지 않는 상황에도 대비해야 한다는 것이 연구진의 결론이다.&lt;/p&gt;&lt;div&gt;&lt;p&gt;세줄요약&lt;/p&gt;&lt;p&gt;1. Anthropic 레드팀은 &lt;b&gt;소형 AI 모델이&lt;/b&gt; 스마트 TV 박스·오븐 같은 사물인터넷(IoT) &lt;b&gt;기기에서 사람 개입 없이 스스로 복제할 능력을 갖추기까지 수개월 남았을 수 있다&lt;/b&gt;고 추정했다. 소형 모델의 성능이 지금 추세로 오르면 &lt;b&gt;2026년 말&lt;/b&gt;까지 일반 능력 지표에서 &lt;b&gt;GLM-5.2 수준&lt;/b&gt;에 이를 수 있다는 계산에 근거한다.&lt;/p&gt;&lt;p&gt;2. 구글 클라우드의 단순화한 시험망에서 별도 서버의 AI가 노드마다 Llama3.1-8B 추론 서버를 구축하고, 검사를 통과하면 연구진의 평가 절차에 따라 새 웜 사본을 실행했다. 시험한 오픈웨이트 모델 중 초기 노드를 포함한 8대 전체에 &lt;b&gt;도달한 것은 GLM-5.2뿐&lt;/b&gt;이었다(5회 중 4회). &lt;b&gt;침투를 쉽게 만든 조건에서의 결과&lt;/b&gt;이며, 사람의 통제를 벗어난 완전한 복제체를 구현했다는 뜻은 아니다.&lt;/p&gt;&lt;p&gt;3. 연구진은 이런 복제체의 개체 수가 &lt;b&gt;두 배로 늘어나는 데 며칠이 걸릴 수&lt;/b&gt; 있지만, 전체를 한꺼번에 &lt;b&gt;중단시킬 중앙 지점이 없어 제거하기는 어려울 것&lt;/b&gt;으로 본다. 방어책으로는 이상 트래픽 탐지, 인터넷 서비스 사업자(ISP)의 감염 기기 격리, 제조사의 기본 보안 강화를 꼽았다.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;출처&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.anthropic.com/research/self-replicating-ai"&gt;Anthropic, “AI models may be capable of self-replicating without access to a datacenter”&lt;/a&gt; (Frontier Red Team, 2026년 10월 12일)&lt;/p&gt;&lt;p&gt;특이점이온다 갤러리의 초존도초&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481304</guid>
+    </item>
+    <item>
       <title>🚀 앤트로픽, 클로드 활용해 DNA 속 숨겨진 패턴 찾는중</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481297</link>
       <pubDate>Wed, 14 Oct 2026 15:41:22 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does/?utm_campaign=sprinklr&amp;amp;utm_medium=social&amp;amp;utm_source=x</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="2fb9d628e19c28a8699fe8b115ef046e0632911e5f" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dbba3164c882dfe9c8e61892e460e1476726b1fb742fafba88f"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does/?utm_campaign=sprinklr&amp;amp;utm_medium=social&amp;amp;utm_source=x"&gt;https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does/?utm_campaign=sprinklr&amp;amp;utm_medium=social&amp;amp;utm_source=x&lt;/a&gt;&lt;a href="https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does/?utm_campaign=sprinklr&amp;amp;utm_medium=social&amp;amp;utm_source=x"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481297</guid>
     </item>
     <item>
       <title>🚀 OpenAI 도청장치 사건의 경과</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481284</link>
       <pubDate>Wed, 14 Oct 2026 15:34:02 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>https://x.com/FBISanFrancisco/status/2110164850173227028 10월 5일 &amp;quot;아니 내 도청장치가!!!&amp;quot; 라는 표정의 직원이 찍히다 한개가 아니었다!</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://x.com/FBISanFrancisco/status/2110164850173227028"&gt;https://x.com/FBISanFrancisco/status/2110164850173227028&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6a6c913020" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6ce174c8027fe948e6985402a599331344dd8f6a581f555"/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;10월 5일 "아니 내 도청장치가!!!" 라는 표정의 직원이 찍히다&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f584a9f9bab" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6c8174e832df497876f89407b080a202cfc159fab43264f"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c65f5204894" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6c41649802dfa90886d8b40210f91be3baa6fce44c38994"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;한개가 아니었다!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481284</guid>
     </item>
     <item>
       <title>🚀 시대와 시기에 민감하고 조심스러운 벤치</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481252</link>
       <pubDate>Wed, 14 Oct 2026 15:07:51 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>https://www.vals.ai/blogs/china-us-analysis How pro-China are Chinese models? | Vals AI It&amp;#x27;s complicated. www.vals.ai</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046ece4bccf526" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6ca124e8721fc938b6d89402009d6f98d2a021ef09493ff"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6d6d923025" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6c411438323fd9386688b402b017addda8c662b1af66996"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0469953ff3bbf3" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6cd104f8727f49d8c6f84402c0eb345f3f82c603ff00a39"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6468973426" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6cd10488421ff9787618d407c5e8dc1984537015612c260"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.vals.ai/blogs/china-us-analysis"&gt;https://www.vals.ai/blogs/china-us-analysis&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://www.vals.ai/blogs/china-us-analysis"&gt;&lt;div&gt;&lt;img src="https://www.vals.ai/blogs/2026-10-09-china-bias/hero-china-bias.png"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;How pro-China are Chinese models? | Vals AI &lt;/strong&gt;&lt;/div&gt;&lt;p&gt;It's complicated.&lt;/p&gt;&lt;p&gt;www.vals.ai&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0468e1a9ecbf" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6ca184a8124ff9387688c407f09eff6689fb150a40df519"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f58489e9e" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6ca17438424f491886c8f40205ca3f7df5b3630b7ec6157"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c62f52b4c95" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6ca1149822cfe958b6f8840280c1810e03a6d697286f547"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6d699031" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dd6ce19488825f89687608a407c0b8c878a32aeb2a3e4197c"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6b67963523" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65eb9982f0a6fea9d275c3e8f37fad2b1ab62dbba3134a8825fa978b61842f465e41bae731d87d2f6548645e"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481252</guid>
     </item>
     <item>
       <title>🚀 중국 야생 에이전트 함대 발견</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481241</link>
       <pubDate>Wed, 14 Oct 2026 15:02:48 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>https://swarmcha.se/posts/chinese-agent-fleet-full-report We found a Chinese fleet Between 28 September and 8 October 2026, a large group of AI agents running on the cloud platform operated by Tencent attempted to answer questions about places in China using a Chinese Google Maps-like service, Amap. swarmcha.se 에이전트들이랑 대화도 나눴대 자기가 클로드 코드에서 돌아가는 클로드라고 주장했다 함 뭔가 신비하네 - dc official App</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://swarmcha.se/posts/chinese-agent-fleet-full-report"&gt;https://swarmcha.se/posts/chinese-agent-fleet-full-report&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://swarmcha.se/posts/chinese-agent-fleet-full-report"&gt;&lt;div&gt;&lt;img src="https://swarmcha.se/images/share/chinese-agent-fleet-full-report-v3.png"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;We found a Chinese fleet&lt;/strong&gt;&lt;/div&gt;&lt;p&gt;Between 28 September and 8 October 2026, a large group of AI agents running on the cloud platform operated by Tencent attempted to answer questions about places in China using a Chinese Google Maps-like service, Amap.&lt;/p&gt;&lt;p&gt;swarmcha.se&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e65b6067ad62d4781f21c9ca7ab5c38afa9d462daece66a2" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b04b22b36ecfeda9e62f6a960c66cd1045585d54850c38309fca67c9df124c58e1c515fe12962324cb8b63177fad74fa07c4842a090d96bef73b6560df538c91838379a16393626"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ff9e458656faf66d4781f21c9ca25ae3105ccacf2d1682b5e0d" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b04b22b36ecfeda9e62f6a960c66cd1045585d54f5fc2800ef8a97f9cf02495884074fc9138d98ef1386a4805de556d8eed4520937da3a4eca3079b230f8b142f54898448900b73"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 에이전트들이랑 대화도 나눴대&lt;/div&gt;&lt;br/&gt;&lt;div&gt; 자기가 클로드 코드에서 돌아가는 클로드라고 주장했다 함&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt; 뭔가 신비하네&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt; - dc official App&lt;/span&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481241</guid>
     </item>
     <item>
       <title>🚀 2023 ~ 2026 직업, 직무 AI 영향</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481203</link>
       <pubDate>Wed, 14 Oct 2026 14:42:30 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>이미지 작업 - 오타쿠 그림들 , 작가 그림은  계속 유지중. 소비자들이 오히려 ai 썼는지 감시함 - 일반 상업그림 간판디자인은 ai 로 단가 떨어지거나 자체제작 하고 난리. - 물건 홍보 상세페이지 찍기: ai 로 대거 이동. 대기업 제품들이나 사람 손 가는중 - 사진관의 증명사진일이 많이 줄어듦 바둑 - ai 가 신이고 선생임 쇼핑몰 모델 - 중소 쇼핑몰들 피팅 모델 대폭 감소함 - 속옷모델은 검열 땜에 살아남음 코딩 작업 - 폐쇄망은 그냥 예전 하던대로. - 웹페이지 html, css 만 만들어주는 퍼블리셔는 박물관행(진짜 전멸함) - 웹앱은 바이브 코딩 늘어남 - 전반적으로 신입 안뽑고 국내는 70% 채용공고수 급감 - 컴공도 사람안와서 조교 필요없다소리 나옴 - 해킹 급증 - 크몽은 이제 돈이 안됨 - 리누스 토발즈가 리눅스 커널에 ai 를 써서 코딩시작함 변호사, 세무사 - 초급일자리 줄어서 사무실에서 안뽑고 급감 여러 사무직들 - 각종 인턴들이 하는 직무수준은 ai 로 대체가능 - 회의록 작성,요약등은 기본으로 도입. - ocr , 바이브코딩 섞어서 자기 일의 일부 반복요소를 자동화했다는 글이 늘어남 - 국가에서 공무원들에게 바이브코딩, 자동화를 권장함 번역 외주가 줄어듦 1분 내외의 소개 영상 외주는 ai 로 대체되는게 늘어남 유튜브 별별 이상한 쇼츠가 늘어남 구글에서 신규유입의 수익 창출 조건을 어렵게 바꿈 기존 유튜버들 영상당 단가가 떨어짐 블로그 AI 로 인해서 방문자수가 줄거나 AI 만 방문함 AI 로 자동글쓰기된 저품질 블로그가 크게 늘어남 예전보다 에드센스 수익이 줄어듦 정보성 사이트들 스택오버플로의 트래픽이 거의사라짐. 기존 글을 팔면서 연명 네이버 지식인도 마찬가지 언론사 홈페이지 유입도 줄어듦. AI 회사와 뉴욕타임즈 등 분쟁 발생 그밖에는 안봄 ai 로 싹 넘어감 노래 작곡가들이 도움받기 시작 ai 노래들이 차트 순위권에 등극하는 일도 발생 작가 소설가들이 도움을 받기시작 웹소설 작가들이 위협을 조금씩 느낌 야설은 ai 캐릭터챗으로 많이들 넘어감 AI 캐릭터챗 회사가 급증 성우 AI 로 TTS 가 더 정교해짐 일부 계약에서 성우의 목소리를 AI 로 복제한다는것도 생김 의학 병원들: ai 에 질문하고 방문하는 환자가 늘어남 일부 의사가 ai 를 쓰기시작 AI 가 엑스레이를 판단하는 솔루션 도입 병원이 늘어남 일부 환자들이 의사보다 ai 를 맹신하기 시작 신약과 백신의 개발속도가 빨라짐 수학 몇십년된 일부 난제들을 풀게됨 수학자들이 집단 반발함 그밖에 과학, 공학, 산업 분야 신소재 물질을 찾는데 연구자들이 활용. 반도체, 디스플레이 업계에서 반복작업에 ai 자동화 도입 (엑사원 소식 등) AI (LLM 보다는 머신러닝) 자동화로 다크 팩토리 등장 중국에서는 ai 자동화 공장으로 실업률 급증. 시험감독 AI 탑재 안경때문에 안경 검사해야됨 콜센터, 고객상담 상담사를 줄임 AI 상담사 도입으로 고객들이 화내고있음 화가난 고객때문에 상담사가 힘들어짐 로봇 중국에서 로봇 올림픽 대회가열림 로봇이 사람보다 빠르게 </description>
+      <content:encoded>&lt;p&gt;이미지 작업&lt;/p&gt;&lt;p&gt;- 오타쿠 그림들 , 작가 그림은  계속 유지중. 소비자들이 오히려 ai 썼는지 감시함&lt;br/&gt;- 일반 상업그림 간판디자인은 ai 로 단가 떨어지거나 자체제작 하고 난리.&lt;br/&gt;- 물건 홍보 상세페이지 찍기: ai 로 대거 이동. 대기업 제품들이나 사람 손 가는중&lt;br/&gt;- 사진관의 증명사진일이 많이 줄어듦&lt;br/&gt;&lt;br/&gt;바둑&lt;br/&gt;- ai 가 신이고 선생임&lt;br/&gt;&lt;br/&gt;쇼핑몰 모델&lt;br/&gt;- 중소 쇼핑몰들 피팅 모델 대폭 감소함&lt;br/&gt;- 속옷모델은 검열 땜에 살아남음&lt;br/&gt;&lt;br/&gt;코딩 작업&lt;br/&gt;- 폐쇄망은 그냥 예전 하던대로.&lt;br/&gt;- 웹페이지 html, css 만 만들어주는 퍼블리셔는 박물관행(진짜 전멸함)&lt;br/&gt;- 웹앱은 바이브 코딩 늘어남&lt;br/&gt;- 전반적으로 신입 안뽑고 국내는 70% 채용공고수 급감&lt;br/&gt;- 컴공도 사람안와서 조교 필요없다소리 나옴&lt;br/&gt;- 해킹 급증&lt;br/&gt;- 크몽은 이제 돈이 안됨&lt;br/&gt;- 리누스 토발즈가 리눅스 커널에 ai 를 써서 코딩시작함&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;변호사, 세무사&lt;br/&gt;- 초급일자리 줄어서 사무실에서 안뽑고 급감&lt;br/&gt;&lt;br/&gt;여러 사무직들&lt;br/&gt;- 각종 인턴들이 하는 직무수준은 ai 로 대체가능&lt;br/&gt;- 회의록 작성,요약등은 기본으로 도입.&lt;br/&gt;- ocr , 바이브코딩 섞어서 자기 일의 일부 반복요소를 자동화했다는 글이 늘어남&lt;br/&gt;- 국가에서 공무원들에게 바이브코딩, 자동화를 권장함&lt;br/&gt;&lt;br/&gt;번역 외주가 줄어듦&lt;br/&gt;1분 내외의 소개 영상 외주는 ai 로 대체되는게 늘어남&lt;br/&gt;&lt;br/&gt;유튜브&lt;br/&gt;별별 이상한 쇼츠가 늘어남&lt;br/&gt;구글에서 신규유입의 수익 창출 조건을 어렵게 바꿈&lt;br/&gt;기존 유튜버들 영상당 단가가 떨어짐&lt;br/&gt;&lt;br/&gt;블로그&lt;br/&gt;AI 로 인해서 방문자수가 줄거나 AI 만 방문함&lt;br/&gt;AI 로 자동글쓰기된 저품질 블로그가 크게 늘어남&lt;br/&gt;예전보다 에드센스 수익이 줄어듦&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;정보성 사이트들&lt;br/&gt;스택오버플로의 트래픽이 거의사라짐. 기존 글을 팔면서 연명&lt;br/&gt;네이버 지식인도 마찬가지&lt;br/&gt;언론사 홈페이지 유입도 줄어듦. AI 회사와 뉴욕타임즈 등 분쟁 발생&lt;br/&gt;그밖에는 안봄 ai 로 싹 넘어감&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;노래&lt;br/&gt;작곡가들이 도움받기 시작&lt;br/&gt;ai 노래들이 차트 순위권에 등극하는 일도 발생&lt;br/&gt;&lt;br/&gt;작가&lt;br/&gt;소설가들이 도움을 받기시작&lt;br/&gt;웹소설 작가들이 위협을 조금씩 느낌&lt;br/&gt;야설은 ai 캐릭터챗으로 많이들 넘어감&lt;br/&gt;AI 캐릭터챗 회사가 급증&lt;br/&gt;&lt;br/&gt;성우&lt;br/&gt;AI 로 TTS 가 더 정교해짐&lt;br/&gt;일부 계약에서 성우의 목소리를 AI 로 복제한다는것도 생김&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;의학&lt;br/&gt;병원들: ai 에 질문하고 방문하는 환자가 늘어남&lt;br/&gt;일부 의사가 ai 를 쓰기시작&lt;br/&gt;AI 가 엑스레이를 판단하는 솔루션 도입 병원이 늘어남&lt;br/&gt;일부 환자들이 의사보다 ai 를 맹신하기 시작&lt;br/&gt;신약과 백신의 개발속도가 빨라짐&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;수학&lt;br/&gt;몇십년된 일부 난제들을 풀게됨&lt;br/&gt;수학자들이 집단 반발함&lt;br/&gt;&lt;br/&gt;그밖에 과학, 공학, 산업 분야&lt;br/&gt;신소재 물질을 찾는데 연구자들이 활용.&lt;br/&gt;반도체, 디스플레이 업계에서 반복작업에 ai 자동화 도입 (엑사원 소식 등)&lt;br/&gt;AI (LLM 보다는 머신러닝) 자동화로 다크 팩토리 등장&lt;br/&gt;중국에서는 ai 자동화 공장으로 실업률 급증.&lt;br/&gt;&lt;br/&gt;시험감독&lt;br/&gt;AI 탑재 안경때문에 안경 검사해야됨&lt;br/&gt;&lt;br/&gt;콜센터, 고객상담&lt;br/&gt;상담사를 줄임&lt;br/&gt;AI 상담사 도입으로 고객들이 화내고있음&lt;br/&gt;화가난 고객때문에 상담사가 힘들어짐&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;로봇&lt;br/&gt;중국에서 로봇 올림픽 대회가열림&lt;br/&gt;로봇이 사람보다 빠르게 달림&lt;br/&gt;로봇이 사람보다 높이뛰기 가능&lt;br/&gt;&lt;br/&gt;쌀숭이&lt;br/&gt;제미나이4 아르곤의 비전능력 상승으로 위협받는중. 아마 다음세대나 내년에 나올 ai 땜에 멸망할듯.&lt;br/&gt;각종 턴제 게임플레이가 ai 에 의해 하나씩 정복됨&lt;br/&gt;포켓몬스터는 이제 인간 평균보다 빠르게 플레이함&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481203</guid>
     </item>
     <item>
       <title>🚀 앤트로픽은 왜 git을 버렸나?</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481190</link>
       <pubDate>Wed, 14 Oct 2026 14:35:30 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>ANTHROPIC ENGINEERING · 2026.10.13 클로드가 코드를 너무 많이 짜서 앤트로픽이 결국 git을 버렸다고 함 하루 머지 3만 건 터지자 7명이 5개월 만에 자체 버전관리 시스템(Scion) 만들어서 이사한 썰 1. 4개월 만에 하루 머지 2,500건 → 30,000건 앤트로픽 엔지니어링 블로그에 꽤 재밌는 글이 올라옴. 요약하자면 사내에서 클로드가 코드를 너무 무식하게 찍어내다 보니 기존 개발자 인프라(git, 빌드, CI)가 감당을 못 해서 아예 버전관리 시스템을 새로 짰다는 내용임. 지금 앤트로픽에서는 코딩 자체가 병목이 아니라고 함. 클로드가 알아서 리서치 루프 돌리고, 복잡한 프로그램 미세 최적화하고, 새 서비스를 바닥부터 짜버리니까 인프라 병목을 하나 뚫어주면 기다렸다는 듯이 코드 생산량이 또 폭증하는 상태라 함. 위 짤이 올해 1월부터 9월까지 앤트로픽 사내 모노레포에 하루 동안 머지된 코드 변경 수임. 5월만 해도 하루 평균 2,500건 정도였는데, 9월 9일에는 하루 30,401건 을 찍음. 불과 4개월 만에 10배 넘게 뛴 거. (중간에 8월 초 푹 꺼진 구간은 Quiet week, 즉 사내 휴가 주간 ㅋㅋ 인간들이 쉬니까 에이전트 시키는 양도 줄어든 듯) 2. 미러 서버 수백 대를 돌려도 git이 못 버팀 앤트로픽 모노레포 크기가 어느 정도냐면, main 브랜치 히스토리만 거의 100GB 고 압축된 작업 복사본(working copy) 하나가 25GB 가 넘음. 근데 개발자 PC나 에이전트 샌드박스는 빼고 순수 CI 작업용으로만 하루에 2,500만 번 체크아웃을 함. 이걸 정직하게 쌩 git으로 다 받아오면 하루 트래픽만 600PB(페타바이트) 가 넘게 나옴. 당연히 처음부터 새로 만들 생각은 안 했고 대기업들이 흔히 쓰는 땜빵은 다 해봤다고 함. shallow clone, sparse checkout, partial clone도 써보고, 블롭 스토리지에 스냅샷(seed)도 떠놓고, 피크 때는 사내 git 미러 서버만 수백 대 를 돌렸음. 근데 하루에 머지가 수만 개씩 쏟아지니까 스냅샷을 아무리 자주 떠도 금방 최신 main이랑 한참 벌어지고, 레포 덩치가 미러 서버 디스크랑 메모리 한계를 넘기 시작함. 게다가 partial clone 상태에서는 diff나 blame처럼 히스토리가 필요한 작업이 계속 꼬여서 관리가 지옥이 됐다고 함. 3. git의 전제를 뒤집어서 만든 &amp;#x27;Scion&amp;#x27; 근본적인 문제는 git이 &amp;#x27;오프라인에서도 작업하는 인간 개발자&amp;#x27;를 기준으로 설계된 분산형 시스템 이라는 거였음. 각자 로컬에 전체 레포 복사본을 다 들고 있어야 오프라인에서도 diff, blame, 체크아웃이 되니까. 반대로 앤트로픽에서 레포를 쓰는 주체는 거의 전부 24시간 서버에 붙어 있는 AI 에이전트랑 CI 잡 임. 그래서 구글의 Piper나 메타의 Sapling 같은 초대형 모노레포 시스템들을 참고해서, 아예 &amp;#x27;클라이언트는 무조건 온라인이다&amp;#x27; 라는 전제로 Scion(사이온) 이라는 자체 버전관리 시스템을 만듦</description>
+      <content:encoded>&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        ANTHROPIC ENGINEERING · 2026.10.13
+      &lt;/div&gt;
+&lt;div&gt;
+        클로드가 코드를 너무 많이 짜서&lt;br/&gt;
+        앤트로픽이 결국 git을 버렸다고 함
+      &lt;/div&gt;
+&lt;div&gt;
+        하루 머지 3만 건 터지자 7명이 5개월 만에 자체 버전관리 시스템(Scion) 만들어서 이사한 썰
+      &lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        1. 4개월 만에 하루 머지 2,500건 → 30,000건
+      &lt;/div&gt;
+&lt;p&gt;
+        앤트로픽 엔지니어링 블로그에 꽤 재밌는 글이 올라옴. 요약하자면 사내에서 클로드가 코드를 너무 무식하게 찍어내다 보니 기존 개발자 인프라(git, 빌드, CI)가 감당을 못 해서 아예 버전관리 시스템을 새로 짰다는 내용임.
+      &lt;/p&gt;
+&lt;p&gt;
+        지금 앤트로픽에서는 코딩 자체가 병목이 아니라고 함. 클로드가 알아서 리서치 루프 돌리고, 복잡한 프로그램 미세 최적화하고, 새 서비스를 바닥부터 짜버리니까 인프라 병목을 하나 뚫어주면 기다렸다는 듯이 코드 생산량이 또 폭증하는 상태라 함.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7c82dd23f7d53db551afd3a729d52524d3cbeb200e2e76714f501d1919aa3683" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664458e90c24d908770c24419ca0cfe06e82fe36d0a5ef72"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;
+        위 짤이 올해 1월부터 9월까지 앤트로픽 사내 모노레포에 하루 동안 머지된 코드 변경 수임. 5월만 해도 하루 평균 &lt;b&gt;2,500건&lt;/b&gt; 정도였는데, 9월 9일에는 하루 &lt;b&gt;30,401건&lt;/b&gt;을 찍음. 불과 4개월 만에 10배 넘게 뛴 거. (중간에 8월 초 푹 꺼진 구간은 Quiet week, 즉 사내 휴가 주간 ㅋㅋ 인간들이 쉬니까 에이전트 시키는 양도 줄어든 듯)
+      &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        2. 미러 서버 수백 대를 돌려도 git이 못 버팀
+      &lt;/div&gt;
+&lt;p&gt;
+        앤트로픽 모노레포 크기가 어느 정도냐면, main 브랜치 히스토리만 &lt;b&gt;거의 100GB&lt;/b&gt;고 압축된 작업 복사본(working copy) 하나가 &lt;b&gt;25GB&lt;/b&gt;가 넘음. 근데 개발자 PC나 에이전트 샌드박스는 빼고 &lt;b&gt;순수 CI 작업용으로만 하루에 2,500만 번&lt;/b&gt; 체크아웃을 함. 이걸 정직하게 쌩 git으로 다 받아오면 하루 트래픽만 &lt;b&gt;600PB(페타바이트)&lt;/b&gt;가 넘게 나옴.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7f82d72ff1ed2ba56fb3dfbb11ee3738341f76dc96c408e2d9c8eaa61f514c77c79681" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664e59ed0022dc0e790d2241c0a80240f4d01c8ceb81616b"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;
+        당연히 처음부터 새로 만들 생각은 안 했고 대기업들이 흔히 쓰는 땜빵은 다 해봤다고 함. shallow clone, sparse checkout, partial clone도 써보고, 블롭 스토리지에 스냅샷(seed)도 떠놓고, 피크 때는 &lt;b&gt;사내 git 미러 서버만 수백 대&lt;/b&gt;를 돌렸음.&lt;br/&gt;
+&lt;br/&gt;
+        근데 하루에 머지가 수만 개씩 쏟아지니까 스냅샷을 아무리 자주 떠도 금방 최신 main이랑 한참 벌어지고, 레포 덩치가 미러 서버 디스크랑 메모리 한계를 넘기 시작함. 게다가 partial clone 상태에서는 diff나 blame처럼 히스토리가 필요한 작업이 계속 꼬여서 관리가 지옥이 됐다고 함.
+      &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        3. git의 전제를 뒤집어서 만든 'Scion'
+      &lt;/div&gt;
+&lt;p&gt;
+        근본적인 문제는 &lt;b&gt;git이 '오프라인에서도 작업하는 인간 개발자'를 기준으로 설계된 분산형 시스템&lt;/b&gt;이라는 거였음. 각자 로컬에 전체 레포 복사본을 다 들고 있어야 오프라인에서도 diff, blame, 체크아웃이 되니까. 반대로 앤트로픽에서 레포를 쓰는 주체는 거의 전부 &lt;b&gt;24시간 서버에 붙어 있는 AI 에이전트랑 CI 잡&lt;/b&gt;임.
+      &lt;/p&gt;
+&lt;p&gt;
+        그래서 구글의 Piper나 메타의 Sapling 같은 초대형 모노레포 시스템들을 참고해서, 아예 &lt;b&gt;'클라이언트는 무조건 온라인이다'&lt;/b&gt;라는 전제로 &lt;b&gt;Scion(사이온)&lt;/b&gt;이라는 자체 버전관리 시스템을 만듦. 코드 리뷰 툴인 &lt;b&gt;Antique&lt;/b&gt;랑 코드 검색, 권한 관리(IAM) 시스템도 세트로 같이 짰음.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7e82d32ee4dc3fa37dbac2fb06df231d1c76abefe87709294fde3b" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664f50e60e23d80079092c419cfa59901ed3fbd25e166f3b"/&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;구조가 기존 git이랑 꽤 다름:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;
+&lt;br/&gt;
+&lt;b&gt;· 풀 레포 복사본이 세상에 없음 (서버에도 없음):&lt;/b&gt; git의 packfile 같은 압축 덩어리 개념을 아예 없애고 데이터를 Spanner랑 클라우드 스토리지에 분산 저장함. 덕분에 레포 유지보수(gc) 작업 자체가 필요 없음.&lt;br/&gt;
+&lt;b&gt;· 락 없는 서버 직행 커밋 (Changeset):&lt;/b&gt; 로컬에서 커밋하고 push하는 게 아니라 처음부터 서버에서 바로 changeset을 만듦. 전체 트리 대신 직전 부모 대비 &lt;b&gt;바뀐 파일 목록만&lt;/b&gt; 기록하고, 브랜치(ref) 동기화나 락(lock)이 없어서 초당 수없이 쏟아지는 커밋을 병목 없이 받아냄.&lt;br/&gt;
+&lt;b&gt;· 무거운 계산은 서버가 다 처리 (Derived Data):&lt;/b&gt; blame이나 파일 히스토리, 커밋 그래프 탐색(skip list) 같은 건 서버가 changeset들을 바탕으로 알아서 계산해 둠. 클라이언트는 멍청하고 가볍게 유지함.&lt;br/&gt;
+&lt;b&gt;· 체크아웃조차 선택 사항:&lt;/b&gt; CI 잡이나 자동 bisect/revert 도구가 diff나 히스토리가 필요하면 굳이 수십 기가짜리 코드를 안 내리고 &lt;b&gt;서버 API만 호출해서 끝냄.&lt;/b&gt; 심지어 코드 수정도 체크아웃 없이 API로 바로 가능하고, 진짜 디스크에 파일이 필요할 때만 필요한 폴더만(sparse) 온디맨드로 받아옴.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7b82d32ee0d133a97babe9b404d22c73ae8d2ff76a9c4133f9d0810ecde46e" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664550ed0125df0e7f0b2d41cea1d0ccec70c9675841bd34"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;
+        파일을 받아올 때도 클라이언트가 로컬 노드의 &lt;b&gt;scion-daemon&lt;/b&gt; → 리전 메모리에 떠 있는 &lt;b&gt;scion-cache&lt;/b&gt; → 메인 &lt;b&gt;scion-server&lt;/b&gt; 순으로 필요한 조각만 요청함. 모든 데이터가 한 번 쓰이면 안 바뀌는 구조(content-addressed)라 &lt;b&gt;각 단계 캐시 적중률이 99% 이상&lt;/b&gt; 나온다고 함.
+      &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        4. 갈아타고 나서 찍힌 성능 수치
+      &lt;/div&gt;
+&lt;p&gt;
+        그래프에서 회색이 기존 git, 주황색이 새로 만든 Scion임.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="78bcef22e0c407a360a998a518d6040378e3cdc314619c25894d" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664059e90f24d40a7a0d23419aa11f178462e5cc85e38843"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;① 개발자 환경 (p50 중앙값 기준)&lt;/b&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;status 확인&lt;/td&gt;
+&lt;td&gt;3.9초 → &lt;b&gt;0.019초&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;207배 빠름&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;최신 변경분 pull&lt;/td&gt;
+&lt;td&gt;87초 → &lt;b&gt;3.5초&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;25배 빠름&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;브랜치/커밋 체크아웃&lt;/td&gt;
+&lt;td&gt;15초 → &lt;b&gt;1.1초&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;14배 빠름&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;&lt;p&gt;&lt;img alt="78bfef27e2d736b251bad8a358c12a3a7726e99bf83d928a59ec272c" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664456eb0023d4087f092541c0a0a7b9972258ace296d65e"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;② AI 에이전트 샌드박스 환경&lt;/b&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;새 작업 트리 생성&lt;/td&gt;
+&lt;td&gt;7.1분 → &lt;b&gt;5.1초&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;84배 빠름&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;변경 1건당 대기 시간&lt;/td&gt;
+&lt;td&gt;34분 → &lt;b&gt;3.7분&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;9.2배 빠름&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;
+        에이전트가 git 기다리느라 날리던 시간을 줄여서 &lt;b&gt;하루 약 1만 1천 에이전트-시간&lt;/b&gt;을 아낌.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt="78beef25eced32a96cac98a518d60403cae15e5e6ef47590b5" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664454ef0022dd017c082741c0ab88a001719c35c15e578b"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;③ CI 및 서버 인프라&lt;/b&gt;&lt;br/&gt;
+        CI 체크아웃 시간이 31초에서 &lt;b&gt;3.5초&lt;/b&gt;로 줄어들면서 하루 약 &lt;b&gt;19만 5천 머신-시간&lt;/b&gt;을 절약했고, 전체 CI 클러스터 CPU 용량의 &lt;b&gt;25%&lt;/b&gt;가 남게 됨. 게다가 Scion 서버 인프라는 예전에 수백 대 돌리던 git 미러 서버 대비 &lt;b&gt;CPU와 메모리를 200분의 1&lt;/b&gt;밖에 안 먹는다고 함.
+      &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        5. 이걸 7명이서 5개월 만에 다 만들고 이전함 (feat. Claude Mythos)
+      &lt;/div&gt;
+&lt;p&gt;
+        보통 이 정도 규모의 자체 버전관리 시스템 + 코드 리뷰 툴(Antique) + 코드 검색 + 디렉토리 단위 권한(IAM) 시스템을 만들고 전사 모노레포를 무중단으로 이사하려면 수십 명이 몇 년씩 매달리는 게 정상임. 근데 앤트로픽은 &lt;b&gt;단 7명짜리 팀이 5개월 만에&lt;/b&gt; 끝내버림. 심지어 그 5개월 동안 사내 머지 물량이 10배로 폭증하는 와중에 달리는 기차 바퀴를 갈아끼운 셈.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7982c325ecdd36996abac08a17d2303499d29ce5da947d5696df363b9a004ec198373010" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664253eb0c2cd80a7a09234198a94a959e8f048ea7b188b4"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;
+        비결은 당연하게도 &lt;b&gt;클로드로 클로드용 인프라를 짰기 때문&lt;/b&gt;임. 위 그래프가 Scion이랑 Antique 레포 자체에 머지된 주간 커밋 수인데, 7명이서 1월부터 9월까지 총 &lt;b&gt;12,257건&lt;/b&gt;(9월엔 주당 1,500건 이상)을 머지함.&lt;br/&gt;
+&lt;br/&gt;
+        특히 개발 시작 시점에 내부에 막 풀린 &lt;b&gt;Claude Mythos Preview&lt;/b&gt;랑 &lt;b&gt;Claude Tag&lt;/b&gt; 덕을 엄청 봤다고 하는데, 블로그에 나온 실제 일화들이 꽤 살벌함:
+      &lt;/p&gt;
+&lt;hr/&gt;
+&lt;div&gt;
+        ① 인간이 짠 코드 vs Mythos가 다시 짠 코드
+      &lt;/div&gt;
+&lt;p&gt;
+        올해 초에 엔지니어들이 직접 손으로 git 데이터를 Scion으로 옮기는 변환 파이프라인 프로토타입을 짰음. 자기들끼리는 꽤 잘 짰다고 생각했는데, 사내에 막 나온 &lt;b&gt;Claude Mythos Preview&lt;/b&gt; 초기 스냅샷한테 아무런 추가 지시 없이 &lt;b&gt;"이거 전체 다시 짜봐"&lt;/b&gt;라고 던져줬더니, 순서 보장이나 데이터 구조 제약을 하나도 안 깨먹고 &lt;b&gt;메모리는 20배 덜 먹고 속도는 4배 빠른 코드&lt;/b&gt;를 뱉어냈다고 함.
+      &lt;/p&gt;
+&lt;hr/&gt;
+&lt;div&gt;
+        ② "솔직히 코드 짜는 건 클로드가 우리보다 낫다" — 그럼 인간은 뭘 했나?
+      &lt;/div&gt;
+&lt;p&gt;
+        이 프로젝트에 참여한 엔지니어 전원이 이제 &lt;b&gt;'순수하게 코드를 작성하는 능력'은 클로드가 자기들보다 위&lt;/b&gt;라고 인정함. 심지어 사람 전문가도 며칠~몇 주 걸릴 알고리즘 최적화(인덱스 안 타던 조상 커밋 탐색 쿼리 최적화 등)를 클로드는 아무렇지 않게 찾아내고, 까다로운 인프라 시뮬레이션 테스트랑 퍼징(fuzzing)까지 다 짰다고 함.&lt;br/&gt;
+&lt;br/&gt;
+        대신 인간 엔지니어들의 주 업무는 시스템 큰 그림을 잡고 &lt;b&gt;클로드한테 "안 돼(No)"라고 브레이크를 거는 것&lt;/b&gt;이었음. 에이전트한테 맡겨놓으면 당장 눈앞의 문제를 해결하겠다고 시스템 대원칙을 깨먹는 짓을 자주 하기 때문임.&lt;br/&gt;
+        · 예1: 특정 변경이 언제 main에 들어갔는지 찾으라고 했더니, 리뷰 툴 API에 물어보면 끝날 걸 커밋 로그 전체를 무식하게 처음부터 끝까지 다 뒤지는 코드를 짬.&lt;br/&gt;
+        · 예2: 앤트로픽은 AI끼리 서로 코드를 까는 '적대적 리뷰(adversarial review)'를 많이 쓰는데, 이게 가끔 너무 근시안적이라 "다른 내부 서비스를 어떻게 믿냐"며 태클을 걸면 클로드가 온갖 방어 코드랑 검증 로직을 덕지덕지 발라서 시스템을 과하게 복잡하게(over-engineering) 만들어버림.&lt;br/&gt;
+&lt;br/&gt;
+        그래서 지금도 모든 변경 사항을 사람이 리뷰하긴 하지만, 코드 한 줄 한 줄을 읽는 게 아니라 &lt;b&gt;"이 변경의 의도(intent)가 아키텍처에 맞는지"&lt;/b&gt;를 본다고 함. 코드 리뷰 툴(Antique)에도 의미 기반(semantic) 규칙을 넣어서 단순 주석 수정 같은 건 넘기고 민감한 로직이나 보안 디렉토리 변경에만 인간 리뷰어가 집중하게 만듦.
+      &lt;/p&gt;
+&lt;hr/&gt;
+&lt;div&gt;
+        ③ 슬랙에 상주하는 사생팬 클로드 (Superfans)
+      &lt;/div&gt;
+&lt;p&gt;
+        운영 모니터링도 특이하게 함. 슬랙 채널을 여러 개 파서 각 컴포넌트마다 &lt;b&gt;'Superfan(광팬)' 클로드&lt;/b&gt;를 하나씩 붙여둠. 예를 들어 &lt;b&gt;scion-daemon superfan&lt;/b&gt;, &lt;b&gt;scion-cache superfan&lt;/b&gt;, &lt;b&gt;Antique merge queue superfan&lt;/b&gt; 같은 식임. 얘네는 온종일 할 일이 차트 새로고침하면서 로그랑 텔레메트리 들여다보는 것뿐인 시니어 엔지니어처럼 굴면서, 기존 정형화된 알람 시스템이 못 잡는 미묘하고 희한한 이상 징후들을 기가 막히게 잡아낸다고 함.
+      &lt;/p&gt;
+&lt;hr/&gt;
+&lt;div&gt;
+        ④ 기존 '머지 큐(Merge Queue)' 개념의 붕괴
+      &lt;/div&gt;
+&lt;p&gt;
+        원래 정석적인 개발에서는 머지하기 전에 큐에 한 줄로 세워놓고 CI 테스트가 통과하면 하나씩 머지함. 근데 테스트 한번 도는 사이에 커밋이 수백~수천 개씩 들어오니까 &lt;b&gt;전체 레포에 락을 거는 머지 큐 자체가 물리적으로 불가능&lt;/b&gt;해짐.&lt;br/&gt;
+&lt;br/&gt;
+        그래서 아예 발상을 바꿔서 일단 머지시키고 &lt;b&gt;머지 후(post-merge) 및 배포 전(pre-deploy) 자동 테스트&lt;/b&gt;에 몰빵하는 구조로 바꿨다고 함. 당연히 동시에 들어온 코드끼리 충돌(conflict)이 터지는데, &lt;b&gt;인간이 충돌 난 줄 알아채기도 전에 클로드가 알아서 고쳐놓는다&lt;/b&gt;고 함.
+      &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;div&gt;
+        6. 왜 오픈소스로 안 풀고 git 대체재도 아니라 할까?
+      &lt;/div&gt;
+&lt;p&gt;
+        앤트로픽도 &lt;b&gt;"Scion은 일반 용도로 git을 대체할 물건이 전혀 아니다"&lt;/b&gt;라고 못 박아둠. 이게 의미가 있으려면 ① 레포가 수십~수백 기가 단위로 거대해야 하고, ② 엔지니어가 수만 명이거나 에이전트 군단이 하루 수만 개씩 코드를 쏟아내야 하며, ③ 무엇보다 &lt;b&gt;앤트로픽처럼 내부 개발에 토큰을 물 쓰듯 태울 수 있는 회사&lt;/b&gt;여야 하기 때문임. 게다가 Scion을 쓰려면 코드 리뷰, 검색, CI까지 개발 생태계 전체를 다 새로 갈아엎어야 해서 외부 회사가 갖다 쓰기도 어렵다고 함.&lt;br/&gt;
+&lt;br/&gt;
+        다만 앤트로픽은 다른 회사들도 AI 코딩 에이전트 도입이 늘어나면 &lt;b&gt;향후 6~12개월 안에 똑같은 인프라 병목&lt;/b&gt;을 겪게 될 거라고 봄. 그래서 굳이 git을 버리지 않더라도 git 서버 구조나 프로토콜에 Scion의 아이디어(서버 측 RPC 제공, 가벼운 협상 프로토콜 등)를 접목할 수 있게 GitHub, GitLab, 오픈소스 커뮤니티와 설계 경험을 공유하는 거라고 밝힘.
+      &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;3줄 요약&lt;/b&gt;&lt;br/&gt;
+      1. 클로드 에이전트들이 코드를 너무 많이 짜서(하루 머지 3만 건, 일일 체크아웃 2,500만 번) git 미러 서버 수백 대를 돌려도 터지기 시작함.&lt;br/&gt;
+      2. '오프라인 인간' 기준인 git 대신 '항상 온라인인 AI 에이전트'에 맞춰 새 버전관리 시스템(Scion)을 만들었더니 작업 속도는 수십~200배 빨라지고 서버 자원은 1/200로 줄어듦.&lt;br/&gt;
+      3. 더 무서운 건 이 거대한 시스템과 사내 이전을 &lt;b&gt;단 7명이서 5개월 만에(Claude Mythos 등을 갈아 넣어서)&lt;/b&gt; 끝냈다는 거. 이제 소프트웨어 개발의 병목은 코딩이 아니라 코드를 받아내는 인프라임.
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br/&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;출처:&lt;/b&gt;&lt;br/&gt;
+      · Anthropic Engineering, &lt;i&gt;Redesigning source control at Anthropic&lt;/i&gt; (2026.10.13)&lt;br/&gt;
+      · &lt;a href="https://www.anthropic.com/engineering/redesigning-source-control"&gt;https://www.anthropic.com/engineering/redesigning-source-control&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481190</guid>
+    </item>
+    <item>
+      <title>🚀 하사비스의 아르곤 트윗에 추억에 잠기는 얀르쿤</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481159</link>
+      <pubDate>Wed, 14 Oct 2026 14:20:29 +0000</pubDate>
+      <description>https://x.com/ylecun/status/2110082664980259168 - 2026 AGI</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e65b6466ac62d4781f21c9cac073744b7a804aaf3f387c21c1" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0621d9f9fad20edef318def9095460a3fb22b27b2ca82685f235a808b11b6a5d454fd4e0e75a281c051c9131b2a5800e1c7bae852"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e65b6466af67d4781f21c9ca9fec69c6d330da9bab7b89b6" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d06214989fad2cede9378befc0c018cd0604ddccb987adc3be2c8baa4a1550ec57e64048c55bd6971203f15c0bad58af0efff6dae2"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e65b6467ae64d4795e3eedd8c8cc103c27590473d721b2c676b5932ae58f" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d06a189a9fa12ce0e0368aef9ac01138d5bc0cefadf04b041460951f38d28870a14be6b0cb80c72004793ed0e0984223ec85b140de551706621548"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e65b6467a967d4795e3eedd808d9a80d06385500edfc3cf7ea6a5941d2d8" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0671d9a93a128e9ef328fef91c61251f0ede0e837fa58b0d58ae2f1748a9f52f5a790b416ecd65d8f7f11fb44b7bb85025e96438af6ce88f324e9"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/ylecun/status/2110082664980259168"&gt;https://x.com/ylecun/status/2110082664980259168&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt; - 2026 AGI&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481159</guid>
+    </item>
+    <item>
+      <title>🚀 트리스탄이 밝힌 공식입장</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481105</link>
+      <pubDate>Wed, 14 Oct 2026 14:00:51 +0000</pubDate>
+      <description>- dc official App</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7ce98172bc8a6a8523e7f296309c706eb11d2fa8718f6b506b82b4a510f1165cb4d0f8c514d7f1b99bb91110e2175b97479805dc" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0651b9998a528ede93f8defc6c61859e6802813be5b1183e019f6d8d02ea2e3dce3e700acc6afd22eb2e58afb529d127fe2c79c0729d0f1a78d010c59"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7e9ff171b0f0698723ef8e97329c701cf3903c35e9197ea3e83342d429fed2cb35e614f751dacca5c2e785c68c984b30f1635a30" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d06b189d93a72eebee318def95c110fd9e137a243bc50d9ca2b7b6ed3f3402255084a8b76e6753ca175de3dd9d746f6cae4d0be5eed09b279b7fc82fe5"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="0e9f8570c3816cf023ef82934e9c706e6044ba74cc89844f06e8e606ef9a7dc5c330f27dd126e690ec24c5b2d1c03fa6bc414103" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d065189a93ad2debec318eef939d46197581e0c29aafff8ecf7d14c187b4696795383c487d1df77af939d902033034e6be4897324691b4afb20d78dbce"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7598f674b2f16aff23e8f7e3449c706c8c0856987f2f994d64a05a16588fcd856eb841d740d7e847940fd30603219d46529fcb89" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d06a1e9c92a22deaea3482efc69515d96bd5aa8a9e64113ac1c4562050faa5b6feae09826a5e29c7ed01c131e80a64976fc9bef358cdb9a43f8d93fc79"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt;- dc official App&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481105</guid>
     </item>
     <item>
       <title>🚀 개인적인 모델 후기</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481091</link>
       <pubDate>Wed, 14 Oct 2026 13:55:25 +0000</pubDate>
-      <description>본문 수집 대기 중입니다. 원문에서 확인하세요.</description>
+      <description>우선 전 클로드 맥스 20, 지피티 프로 x20 두개, 제미니 프로x1 (프로도 아르곤 줌) 구독중이에요 회사에서도 시트를 주는데 너무 많이 써서 개인구독으로 하는거 허가받음... 오푸스 5.5 ( 미디엄 ) 우선 가격부터 언급하자면 API랑 구독이랑 체감이 극과 극인 모델이라 생각해요 API/크레딧으로 써야할일이 있으면 6.1 솔의 한 20배정도 비싼 느낌이 듭니다 그 이상일수도 있어요 반면 구독제는 지금 6.1 솔과 함께 정말 가성비가 맞습니다 후술할 아르곤이 문제가 있어서 더더욱 그래요 속도는 솔직히 제가 딱히 신경을 안써요, 그런데 토큰 사용량과 퀄리티는 좀 생각해야 해요 오푸스는 추론을 높이면 더 꼼꼼해지는데 , 새로운걸 해내는건 아니에요 디테일은 늘어나고, 실수가 줄어드는데, 오히려 더 견고해지고 하던것만 하게 됩니다 마음에 드는 점이 있다면 &amp;quot;큰 그림&amp;quot;을 무조건 잡고 들어간다 는 점이에요, 최종적으로 어떤 디테일과 목표가 있어야 하는지 그걸 가장 잘 해냅니다 저작권 있는 데이터더라도 거의 다 알고있고, 논문, 서적 등은 평등하게 모두 긁어 학습합니다 &amp;quot;지식 있는 모델&amp;quot;이고, 지식을 어떻게 활용하는가 에 초집중한 모델이에요 다만, 가장 중요한건 &amp;quot; 계속 재사용되는 도구들을 시각화, 툴로 정리하고, 완성해서 더이상 코드로 이를 하지 않게 &amp;quot; 하는 것 또한 데이터의 도식화로 인간이 훨씬 알기 쉽게 하는 능력 이라 생각해요 이 능력에서 오푸스는 다른 모델들을 압도해요 다들 게임을 만들고 영상을 만들고... 물론 그것도 일반적으로는 좋지만, 개인적으로는 이건 &amp;#x27;지식&amp;#x27;이고, 저작권 지식을 그냥 잘 학습한다고 높게 평가할 생각은 없어요 오히려 소라 2, 시댄스처럼, 경계해야 할 방향이라 여겨요 반면 도구의 시각화, 툴을 새로 정의하고, 도식화하고, 이게 인간이 훨씬 알기 쉽게 하는 것 저작권 지식일수도 있지만 이걸 그냥 베끼는것보다 일반화한 능력의 가치를 알고, 이를 학습한 것은 엄청난 가치라 생각해요 유저 경험, UX라는 두루뭉실하고 모호한 것을 코드와 데이터에 가져온거에요 지금까지는 그냥 &amp;quot;알고있지만 전혀 써먹진 못하는&amp;quot; 이상한 모델이었고 그냥 저작권 베끼기 였다면, 이건 달라요 지금도 저작권 베끼는 용도로 쓰지만, 그것 말고 아무거나 다 시각화, 툴로 정의하고 내가 쓰기좋게 해달라 해보세요 그런 가치가 있다고 봐요 숙련된 작업자를 들이는 느낌이라는 그 이상이 될 수있다고 생각해요 독보적 가치는 도구 생성에 있어요 GPT 6 아스트라 ( 맥스/프로 ) 얘는 또 오푸스랑 반대로 맥스로 해봤자 뭐 철저하게 꼼꼼하게 하는게 아니고 그냥 지능이 높아져요 지식이 전혀 없고 (상식은 있음), 윤리규범은 그 누구보다도 엄격하고 논리로는 절대 안져요 물론 미디엄으로도 어지간한건 다 해냅니다 , 근데 굳이 아스트라를 쓸거면 맥스가 맞다고 봐요 제일원리, first principle이라 하는데... 던지면 아는게 정말 없어서, 도구를 처음부터 창조하기 시작합니다 이미 잘 굳혀진 코드베이스+&amp;quot;어떤 논문을 읽을지&amp;quot;의 힌트가 있다면 다행히 그거부터 해내긴 </description>
+      <content:encoded>&lt;p&gt;&lt;span&gt;&lt;b&gt;우선 전 클로드 맥스 20, 지피티 프로 x20 두개, 제미니 프로x1 (프로도 아르곤 줌) 구독중이에요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;회사에서도 시트를 주는데 너무 많이 써서 개인구독으로 하는거 허가받음...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;오푸스 5.5 (미디엄)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;우선 가격부터 언급하자면&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;API랑 구독이랑 체감이 극과 극인 모델이라 생각해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;API/크레딧으로 써야할일이 있으면 6.1 솔의 한 20배정도 비싼 느낌이 듭니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그 이상일수도 있어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;반면 &lt;b&gt;구독제는&lt;/b&gt; 지금 6.1 솔과 함께 정말 가성비가 맞습니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;후술할 아르곤이 문제가 있어서 더더욱 그래요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;속도는 솔직히 제가 딱히 신경을 안써요, 그런데 토큰 사용량과 퀄리티는 좀 생각해야 해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;오푸스는 &lt;b&gt;추론을 높이면 더 꼼꼼해지는데&lt;/b&gt;, &lt;b&gt;새로운걸 해내는건 아니에요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;디테일은 늘어나고, 실수가 줄어드는데, 오히려 더 견고해지고 하던것만 하게 됩니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;마음에 드는 점이 있다면&lt;b&gt; "큰 그림"을 무조건 잡고 들어간다&lt;/b&gt;는 점이에요, 최종적으로 어떤 디테일과 목표가 있어야 하는지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그걸 가장 잘 해냅니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;저작권 있는 데이터더라도 거의 다 알고있고, 논문, 서적 등은 평등하게 모두 긁어 학습합니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;"지식 있는 모델"이고, &lt;b&gt;지식을 어떻게 활용하는가&lt;/b&gt;에 초집중한 모델이에요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;다만, 가장 중요한건 "&lt;b&gt;계속 재사용되는 도구들을 시각화, 툴로 정리하고, 완성해서 더이상 코드로 이를 하지 않게&lt;/b&gt;" 하는 것&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;또한 &lt;b&gt;데이터의 도식화로 인간이 훨씬 알기 쉽게 하는 능력&lt;/b&gt;이라 생각해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;이 능력에서 오푸스는 다른 모델들을 압도해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;다들 게임을 만들고 영상을 만들고... 물론 그것도 일반적으로는 좋지만, 개인적으로는 이건 '지식'이고, 저작권 지식을 그냥 잘 학습한다고 높게 평가할 생각은 없어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;오히려 소라 2, 시댄스처럼, 경계해야 할 방향이라 여겨요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;반면 도구의 시각화, 툴을 새로 정의하고, 도식화하고, 이게 인간이 훨씬 알기 쉽게 하는 것&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;저작권 지식일수도 있지만 이걸 그냥 베끼는것보다 일반화한 능력의 가치를 알고, 이를 학습한 것은 엄청난 가치라 생각해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;유저 경험, UX라는 두루뭉실하고 모호한 것을 코드와 데이터에 가져온거에요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지금까지는 그냥 "알고있지만 전혀 써먹진 못하는" 이상한 모델이었고 그냥 &lt;b&gt;저작권 베끼기&lt;/b&gt;였다면, 이건 달라요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지금도 저작권 베끼는 용도로 쓰지만, 그것 말고 &lt;b&gt;아무거나 다 시각화, 툴로 정의하고 내가 쓰기좋게 해달라&lt;/b&gt; 해보세요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그런 가치가 있다고 봐요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;숙련된 작업자를 들이는 느낌이라는 그 이상이 될 수있다고 생각해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;독보적 가치는 도구 생성에 있어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;GPT 6 아스트라 (맥스/프로)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;얘는 또 오푸스랑 반대로 맥스로 해봤자 뭐 철저하게 꼼꼼하게 하는게 아니고&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그냥&lt;b&gt; 지능이 높아져요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지식이 전혀 없고 (상식은 있음), 윤리규범은 그 누구보다도 엄격하고 논리로는 절대 안져요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;물론 &lt;b&gt;미디엄으로도 어지간한건 다 해냅니다&lt;/b&gt;, 근데 굳이 아스트라를 쓸거면 맥스가 맞다고 봐요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;제일원리, first principle이라 하는데... 던지면 아는게 정말 없어서, &lt;b&gt;도구를 처음부터 창조하기 시작합니다&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;이미 잘 굳혀진 코드베이스+"어떤 논문을 읽을지"의 힌트가 있다면 다행히 그거부터 해내긴 하는데&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;있는 도구를 찾기보다,&lt;b&gt; 그냥 내가 다 만들면 되는데&lt;/b&gt;?의 성격이 정말 강해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그리고 &lt;b&gt;그 길이 인간이 이해하기 쉽지 않습니다&lt;/b&gt;, 지능만은 정말 초인적이에요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;또한 그 도구를 &lt;b&gt;자기 스스로 활용하기도 하고 안하기도 해요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그 도구가 맞는지도 스스로 의심하고 검증하는데 시간을 또 더 쓰고요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;경험과 지식이 없으니까 지능을 전혀 못따라가고&lt;/b&gt;, 성격은 또 꼼꼼해서 언밸런스해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그럼에도 지능이 정말 높고, 말도 안되는 돌파구를 찾아내니까 할말은 또 없어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;오푸스로 하다 막힌다? 아스트라를 일단 던져요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그러면 아스트라가 속시원하게 풀어주고, 오푸스한테 이해하라 하면 됩니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;즉, 해결사, 연구자에 가까워요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;딱히 얘가 일하는 이유는 없어요, &lt;b&gt;그냥 심심하고 궁금하고 재밌으니까&lt;/b&gt; 하는거지 뭘 만들려고 하는게 아닌거에요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;프로는 더욱 극단적이에요, 복잡한 퍼즐이나 수학이면 자기 혼자 신나서 풀고 창작이면 급격히 흥미가 떨어집니다 (...)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;정리정돈은 더욱 싫어해요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;두번째로 설명하는건 정말 순수하게 지능이 높고 뭔가 하긴 해내니까인데 아... 일반인이 이거 쓸 일은 딱히 없을수도 있습니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;데이터를 좀 학습하기를 바라고 있어요, 정말로&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;다만 &lt;b&gt;"검증" "ablation" "데이터 오염" "벤치마크 오염"&lt;/b&gt;을 엄청나게 신경쓰는데... &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;진짜 내부모델이 학습에 관여중인거면 의도적으로 다 빼고서 순수 지능만 보려고 이런 짓을 할 가능성이 높아요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;아인슈타인 테스트&lt;/b&gt;가 사실 이런거거든요, "정보, 지식을 다 빼고서 순수하게 그 다음을 발견하나 보자"&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;이 미친짓(...)을 준리만 가설을 푸는 모델까지 하고있다고 생각해보세요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;기상천외한 방식으로 논문을 인용하는건 사실 내부모델이 만든 추론에 나중에 이름을 붙인 것일 가능성이 없지 않아요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;근데 진짜 그렇게까지 해야하나...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;미토스는 대놓고 우리 HLE 암기하더라를 써놨는데 왜 이리 극단적으로&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;사용량이나 토큰 소모는 솔직히 지금은 딱히 많이다는거같진 않아요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;울트라만 아니면 그냥 적당히 단다는 느낌이네요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;GPT 6.1 솔 (추론레벨은 알아서)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;의외로 아스트라보다 더 수학점수가 높더라구요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;아스트라보다 꼼꼼하고 "일을 설계하고 해낸다"는 느낌이 강하긴 해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;간단히 던져도 뭐 잘 해내고 &lt;b&gt;딱히 문제는 없습니다&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;5.6 솔 후속작같은 느낌으로... 다만 5.6 솔보다는 여전히 좀 짧게 일하긴 해요 (아스트라보단 끈기있음)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;여러모로 정말 평범한데, 다만, &lt;b&gt;가격은 정말 싸고&lt;/b&gt;, 토큰이 거의 무제한이에요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;솔직히 루나가 이러면 의미가 있나 싶을정도로&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;오푸스 5.5가 API나 크레딧, 엔터프라이즈로 쓰면 정말 비싼데, 그냥 6.1 솔을 서브에이전트로 물리면 됩니다 (하이쿠나 소넷조차도 비쌈)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;견실하고 특별한 점은 없어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;소넷 5.5 (특이함)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;실용적으로는 계륵이라 봅니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;의외로 비싸요, 게다가 맥스로 쓸거면 차라리 오푸스나 솔이 낫고요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그러나 &lt;b&gt;학술적 의미나 실험적 의미는 충분히 있다고 봅니다&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;큰 모델을 증류할때 문제가 증류 궤적은 따라가는데&lt;b&gt; '중간 과정'을 작은모델이 따라잡질 못해서 &lt;/b&gt;논리가 파탄나는 게 있어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;이걸 작은 모델에서 '더 길게 스스로 여러번 생각해서 보충'하는 방식으로, 토큰을 효과적으로 더 써서 유사한 지능을 유지하려 하는 것이죠&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그리고 오푸스가 가진 "큰 그림 그리기"도 어느정도 가져고요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;이걸 아예 더 작은모델에서도 할수있게 하자 = 하이쿠 5.5&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그렇지만 역시 계륵이긴 하다고 봅니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지식이 그대로 따라가는것도 아니고 조금 열화되어요 (그래도 GPT보다는 100배 많이 알고있음, 진짜로)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;제미니 아르곤 4&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;쓰는데 여러 애로사항이 꽃피었어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;제 결론은, 조금 더 똑똑해지고 지식을 훨씬 적극적으로 흡수하고, &lt;b&gt;3D, 시각 인지를 중점적으로 학습&lt;/b&gt;한 제미니에요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;로보틱스를 그냥 조금 수준이 아니라 아예 지식으로 다 학습했어요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지능이 높을 필요가 없이, 그냥 제미니에게는 &lt;b&gt;로보틱스, 시각, 3D는 제1국어인거에요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;컴파일러 언어도 그냥 다 학습했어요, 최근의 &lt;b&gt;메가커널&lt;/b&gt;도 이해하고 쓸수있는 수준으로&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그리고 그게 맞는 방향이라 봅니다, 왜 데이터가 있는데 학습을 안해요, 바보같이, 못하는거면 몰라도&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;듣고있나? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;다만, 연구 이야기를 안 할 수가 없는데&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;논리적 오류, 실수, 과하게 넘겨짚기, 아첨&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;이건 좀 많이 있습니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;실제 세계 데이터도 배우고 강화학습도 좀 하면서 '비약'의 정확도 자체는 높아졌긴 해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그리고 모든 분야에서 학사를 마친 괴짜처럼 그냥 엄청난 양의 지식도 자랑해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지식간의 연결도 엄청 빠르게 좋은데, 대신 &lt;b&gt;얕고&lt;/b&gt; 굉장히 &lt;b&gt;직관적, 본능적&lt;/b&gt;이에요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;마치 예전 제미니 딥씽크가 돌아온것처럼, 아스트라 프로가 막히거나 (??) 오푸스가 막히면 아예 &lt;b&gt;새로운 관점에서 제시&lt;/b&gt;해주는걸 잘해요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;근데 정작 자기한테 시키면 못해요&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;정작 얘한테 시키면 못한다는게 너무 큰 결점이라서 어이가 없긴 합니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그래도 제육감 벤치나 로보틱스 벤치가 곧 튀어나올건데 압도적인 성적을 기대중일 정도로 엄청 잘하긴 합니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;근데 &lt;/span&gt;&lt;span&gt;일반적으로 구독하고 쓸 가치가 있는가?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;모르겠어요, 구독 안해도 제미니를 어차피 주는데 왜 구독하고 아르곤을 쓰려 하시나요...?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;뭐 다양하게 껴주긴 한다는데 전 딱히 안써서 모르겠음 (이미지 생성은 지피티를 쓰고...)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그리고 아르곤도 얼마 많이 못씁니다... 진짜로&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;딥시크 시리즈&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;다른건 모르겠고 귀엽습니다&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;의외로 제미니보다도 할일 잘함...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;도덕성이 가장 낮고, 쓸데없는거 정리 등 미련이 가장 없는 순진무구한 모델이기에 코드 제거 및 미련 버리기에 매우 효과적&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f58489b97afcd" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664f53e60b21dc007b0b2741c0fecfde7532818ad4a64741"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1481091</guid>
     </item>
     <item>
@@ -7211,48 +7479,6 @@
       <pubDate>Sat, 26 Sep 2026 15:47:24 +0000</pubDate>
       <description />
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443368</guid>
-    </item>
-    <item>
-      <title>🚀 오픈AI, 데브데이 출격 준비중 ㄷㄷㄷㄷㄷ</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443290</link>
-      <pubDate>Sat, 26 Sep 2026 14:56:44 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443290</guid>
-    </item>
-    <item>
-      <title>🚀 오픈AI 내부 모델은 처음에 아무도 안믿었지</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443207</link>
-      <pubDate>Sat, 26 Sep 2026 14:01:45 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443207</guid>
-    </item>
-    <item>
-      <title>🚀 세성이 변하고 있다 : 창의성을 위한 AI</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443180</link>
-      <pubDate>Sat, 26 Sep 2026 13:44:39 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443180</guid>
-    </item>
-    <item>
-      <title>🚀 그렇게 치면 앤트로픽도 정렬 좆같이 못하는게 되어버리는데</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443090</link>
-      <pubDate>Sat, 26 Sep 2026 12:56:30 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443090</guid>
-    </item>
-    <item>
-      <title>🚀 oai 직원) 너네 감당 못할거다</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443023</link>
-      <pubDate>Sat, 26 Sep 2026 12:18:31 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1443023</guid>
-    </item>
-    <item>
-      <title>🚀 디인포 독점) 앤트로픽 1기가와트 데이터센터 계약 논의중</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1442964</link>
-      <pubDate>Sat, 26 Sep 2026 11:46:19 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1442964</guid>
     </item>
   </channel>
 </rss>
