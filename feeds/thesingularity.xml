@@ -1,11 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>🚀 특이점이 온다 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=thesingularity&amp;exception_mode=recommend</link>
     <description>특이점이 온다 추천글</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:55:11 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/thesingularity.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 진짜 이런 비유는 어떻게 하는 거냐?</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480238</link>
+      <pubDate>Wed, 14 Oct 2026 07:47:06 +0000</pubDate>
+      <description>진심 순수 챗봇으론 얘 따라올 AI가 없나보다..</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="7fed8270b48269f251ee80e140827673240f2ed4aca7944ccf63e87634ca" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b40b2958e90c2dde087800252da6fa2cbbfb4b1c1c18e4568086"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;진심 순수 챗봇으론 얘 따라올 AI가 없나보다..&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480238</guid>
+    </item>
+    <item>
+      <title>🚀 아르곤 소닉 달리기 테스트</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480222</link>
+      <pubDate>Wed, 14 Oct 2026 07:39:57 +0000</pubDate>
+      <description>아르곤 비전이 좋다고 해서 테스트해봤는데 괜찮네</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;아르곤 비전이 좋다고 해서 테스트해봤는데 괜찮네&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480222</guid>
+    </item>
+    <item>
+      <title>🚀 아르곤 환각 좆되노 ㅅㅂ ㅋㅋㅋㅋㅋ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480144</link>
+      <pubDate>Wed, 14 Oct 2026 07:13:57 +0000</pubDate>
+      <description>씹새끼가 믿을뻔했잖아 너무 말을 잘해서 ㅋㅋㅋㅋ 진짜 환각 왜 이러냐 나아지질 않았네 ㅋㅋㅋ</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="a04424ad2c06782ab47e5a67ee91766dc28df1edd3acc4ccbf10d5c259d4d721de3c2dcb14e3ec211d7b772259a4f4" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664552e60026d9097b0a2d41ccfa93032d35424a1463655d"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;씹새끼가&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;믿을뻔했잖아 너무 말을 잘해서 ㅋㅋㅋㅋ&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;진짜 환각 왜 이러냐 나아지질 않았네 ㅋㅋㅋ&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480144</guid>
+    </item>
     <item>
       <title>🚀 올해 말까지 OAI 신모델 1~2개 출시될것</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1480106</link>
@@ -26,6 +50,14 @@
       <pubDate>Wed, 14 Oct 2026 06:15:45 +0000</pubDate>
       <description />
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479985</guid>
+    </item>
+    <item>
+      <title>🚀 아르곤은 게임 제작에서 놀라울 정도로 뛰어나요!</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479896</link>
+      <pubDate>Wed, 14 Oct 2026 05:35:30 +0000</pubDate>
+      <description>https://x.com/ammaar/status/2110057926799073462 https://x.com/ammaar/status/2110057930020303246 https://x.com/ammaar/status/2110057932658254195 https://x.com/ammaar/status/2110057934516342918 https://x.com/ammaar/status/2110057936579973350 https://x.com/ammaar/status/2110057940527018259 https://x.com/ammaar/status/2110057942938448133 클로드 없는 세계선이었더라면... - 2026 AGI</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666fa965d4781f21c9cabeb44d49abead5abae0e1c04" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0601f909ea020e9e03383ef92c61995d3736b408a5d5a03361b0d5e7f66111ef4cff3d0dede89ae7486dd1c8b31b9b8f780d4c55b"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057926799073462"&gt;https://x.com/ammaar/status/2110057926799073462&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666caf61d4781f21c9cac279c915c064fc3ff0eef16a" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0661d999ba42feeec3483efc19145cdf4b7f5c42edfe8bfacd4c5172315d59e5a893a7ee2f6c8e802704575b293569802724d7e0b"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057930020303246"&gt;https://x.com/ammaar/status/2110057930020303246&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666ca962d4781f21c9ca7e8dce0bc8fd899d95fb5a86" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0661a909ba620ece8338befc49c46c2e8a03cc0b3e08906ebb7ea4d797de1a1164936fa768d719c5eddd4aecb6ae40ea722935abe"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057932658254195"&gt;https://x.com/ammaar/status/2110057932658254195&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666dac66d4781f21c9ca1cc7bf4e02868a2322774383" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d06a1f9d9ba221ede1318def939d13dedb03b95b526b3aa2a85b662d568504ad6cbabe0672f1ff3b2dac7a607edc921239ced74ecb"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057934516342918"&gt;https://x.com/ammaar/status/2110057934516342918&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666dae65d4781f21c9ca6079c479d332f61ca19c734a" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d064149e9aa22feceb3f88ef939314fad47f16210df20988d39fefa8a96b5aa1e4a7a1eebe8b130690444fc67bfafbc92e1368fb02"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057936579973350"&gt;https://x.com/ammaar/status/2110057936579973350&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666da864d4781f21c9ca55f399735d1c64f9ccf9fbdf" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d0621c9a9ba020e0ed3e8def95964664e5ede022ebf5fc698a536372771c2ad65748f77b348f96e5714f5b6593f80de036899c91c9"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057940527018259"&gt;https://x.com/ammaar/status/2110057940527018259&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba10ef9e55c666aac61d4781f21c9ca323a1fcd159142e879b0f66c" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ac6b048d0d0ed08b395a05e6b6f4acac62bc5731d064159b9da52aefe93f8aef94964689d71bf6f9c8dfcf91d56d7739aa89e5733b8be23ea6f22fad8738f07830adb5bcd59c073b64"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://x.com/ammaar/status/2110057942938448133"&gt;https://x.com/ammaar/status/2110057942938448133&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt;클로드 없는 세계선이었더라면... &lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt; - 2026 AGI&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479896</guid>
     </item>
     <item>
       <title>🚀 아르곤 답변수준이 ㄹㅇ AGI 넘어선것 같네</title>
@@ -187,6 +219,14 @@
       <pubDate>Wed, 14 Oct 2026 00:08:21 +0000</pubDate>
       <description />
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479130</guid>
+    </item>
+    <item>
+      <title>🚀 속보) 아르곤 룬스케이프 벤치마크에서 2위 등극 ㄷㄷ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479094</link>
+      <pubDate>Tue, 13 Oct 2026 23:49:51 +0000</pubDate>
+      <description />
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6c6d923626" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664255e60c25d50a7b0e2041cca087c17cf5501e66f35798"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0469943df3bef6" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664559ee0124dc0f770f2541cba1687f4c37f7def2f48c8a"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479094</guid>
     </item>
     <item>
       <title>🚀 아르곤 안전 보고서....jpg</title>
