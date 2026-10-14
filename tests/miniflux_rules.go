@@ -32,10 +32,10 @@ func parse(text string) []rule {
 	for token := scan.Scan(); token != scanner.EOF; token = scan.Scan() {
 		switch token {
 		case scanner.Ident:
-			if scan.TokenText() != "replace" {
+			if scan.TokenText() != "replace" && scan.TokenText() != "add_dynamic_image" {
 				panic("unexpected rule")
 			}
-			rules = append(rules, rule{name: "replace"})
+			rules = append(rules, rule{name: scan.TokenText()})
 		case scanner.String:
 			if len(rules) == 0 {
 				panic("argument without rule")
@@ -46,10 +46,16 @@ func parse(text string) []rule {
 			rules[i].args = append(rules[i].args, value)
 		}
 	}
-	if len(rules) != 4 {
-		panic("expected four narrow rules")
+	if len(rules) != 5 || rules[0].name != "add_dynamic_image" || len(rules[0].args) != 0 {
+		panic("expected lazy-image resolution followed by four narrow rules")
 	}
+	// The built-in DOM transformation is verified separately through Miniflux's
+	// read-only fetch-content API; this offline tool checks decoding and regexes.
+	rules = rules[1:]
 	for _, rule := range rules {
+		if rule.name != "replace" {
+			panic("expected replace rule")
+		}
 		if len(rule.args) != 2 || rule.args[0] == "" {
 			panic("invalid/empty pattern")
 		}
@@ -71,7 +77,7 @@ func main() {
 	var config map[string]string
 	check(json.Unmarshal(data, &config))
 	rules := parse(config["rewrite_rules"])
-	for _, bad := range []string{`replace("\s"|"x")`, strings.TrimSuffix(strings.Repeat(`replace(""|"x"),`, 4), ",")} {
+	for _, bad := range []string{`replace("\s"|"x")`, "add_dynamic_image," + strings.TrimSuffix(strings.Repeat(`replace(""|"x"),`, 4), ",")} {
 		rejected := func() (rejected bool) {
 			defer func() {
 				if recover() != nil {

@@ -29,7 +29,8 @@ def miniflux_rewrite_rules():
             )
             replacement = "${1}https://image.dcinside.com/" + route + ".php?"
             rules.append(f"replace({json.dumps(pattern)}|{json.dumps(replacement)})")
-    return ",".join(rules)
+    # Resolve lazy image attributes before rewriting their CDN hosts.
+    return "add_dynamic_image," + ",".join(rules)
 
 
 def normalize_dc_image_url(url):

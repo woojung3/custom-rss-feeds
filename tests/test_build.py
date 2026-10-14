@@ -83,6 +83,21 @@ class Tests(unittest.TestCase):
             self.assertEqual(item.findtext("guid"), ITEM["id"])
             self.assertNotIn("<script>", item.findtext("description"))
 
+    def test_all_five_dc_feeds_enable_bodies_but_official_rss_does_not(self):
+        sources = json.loads(Path("sources.json").read_text())
+        self.assertEqual(len(sources), 7)
+        enabled = {s["id"] for s in sources if s.get("article_content", False)}
+        self.assertEqual(
+            enabled,
+            {"dcbest", "ai-utilize", "thesingularity", "cartoon", "comic-new6"},
+        )
+        self.assertEqual(enabled, {s["id"] for s in sources if s["kind"] == "dc"})
+        # Still ten requests per feed, at most fifty across all five per run.
+        from rss_service.article import MAX_FETCHES, REQUEST_GAP
+
+        self.assertEqual(MAX_FETCHES * len(enabled), 50)
+        self.assertGreaterEqual(REQUEST_GAP, 2)
+
     def test_recommend_filters(self):
         sources = json.loads(Path("sources.json").read_text())
         for source in sources:

@@ -10,7 +10,7 @@
 | rss_service/article.py | Opt-in DC body queue, rate limits and persistent attempt state |
 | rss_service/parsers.py | Pure HTML/RSS parsing and validation |
 | rss_service/images.py | Narrow DC image-host normalization and escaped Miniflux rule generation |
-| integrations/miniflux-ai-utilize.json | Supported scraper/rewrite settings for the pilot subscription |
+| integrations/miniflux-dcinside.json | Shared supported scraper/rewrite settings for the five DC subscriptions |
 | rss_service/collection.py | Adapter selection and DC pagination |
 | rss_service/state.py | Deduplication, stable fallback dates, 1,000-item retention |
 | rss_service/rendering.py | RSS serialization and static status page |
@@ -75,7 +75,8 @@ Pagination preserves the supplied query, including exception_mode=recommend,
 and adds page and list_num=100. First run reads only one page. Subsequent runs
 stop at a known article, reject repeated pages and warn at ten pages.
 
-Body collection is enabled only for `ai-utilize` through `article_content`.
+Body collection is enabled for all five DC feeds through `article_content`.
+Google News and Autocrypt Labs are excluded.
 The parser accepts exactly one `.write_div` container; an image-only post is valid.
 It strips active markup/attributes, normalizes ordinary HTTP(S) links, resolves lazy
 image URLs and serializes sanitized HTML into the RSS content namespace. No image
@@ -85,7 +86,7 @@ image; never report rendered-image/OCR success from HTML extraction alone.
 For `viewimage.php` and `dccon.php` only, known `dcimgN` hosts on `dcinside.co.kr`
 and `dcinside.com` become `https://image.dcinside.com`; raw queries remain intact.
 `viewimagePop.php`, other hosts/routes and non-image links are left alone. Existing
-cached bodies get the same adjustment at render time for the enabled pilot, with
+cached bodies get the same adjustment at render time for enabled DC feeds, with
 no image downloads, body refetches or mutation of the cached record.
 See [Miniflux integration](miniflux.md) for Download rules and their required
 string-decoding/regex validation before applying to a live subscription.
@@ -103,9 +104,10 @@ Article requests accept only canonical DC view URLs and do not follow redirects.
 On body failure, publish the metadata and an explicit body availability notice;
 do not erase the article or fail the whole list collection. Do not repeatedly reset
 failed attempt counters to get around access restrictions. Disabling the flag leaves
-existing content intact. Before enabling another feed, test text and image-heavy
-posts in the target reader and review the combined request budget for DC's host.
-The ten-request budget is per enabled feed, not a cross-feed rate limiter.
+existing content intact. The five enabled feeds have an aggregate ceiling of fifty
+article requests per run, processed sequentially. Ten requests and HTTP 429
+cooldown remain per-feed, not a shared cross-feed rate limiter. Before expanding
+further or increasing the budget, review host load and test the target reader.
 
 Partial omissions and silent upstream ignoring of recommendation filters cannot
 always be detected automatically. Inspect real output when repairing an adapter.

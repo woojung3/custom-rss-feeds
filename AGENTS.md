@@ -9,8 +9,9 @@ Read README.md and docs/maintenance.md before changing behavior.
 - Stable canonical article URLs are GUIDs. Do not change normalization casually:
   Feedly would treat existing articles as new.
 - Keep each source's title emoji. Source IDs identify both saved state and files.
-- DC body collection is opt-in per source (`article_content`); only ai-utilize is
-  enabled. Preserve body queue/cache fields on repeated list observations.
+- DC body collection is opt-in per source (`article_content`); all five DC feeds
+  are enabled. Official RSS feeds are excluded. Preserve body queue/cache fields
+  on repeated list observations.
 - Body failures must not erase metadata or masquerade as successful extraction.
   Do not mirror image bytes, backfill all retained posts or bypass access controls.
 - Limit image-host normalization to the known DC image-file routes; preserve

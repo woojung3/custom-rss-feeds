@@ -17,9 +17,8 @@ personal Feedly export is deliberately excluded from this public repository.
 
 Configuration lives in `sources.json`. Source access and markup may change.
 Titles, links, dates and available excerpts are published for all sources.
-The `ai-utilize` pilot also publishes sanitized DC post bodies with remote image
-links. Other DC feeds remain metadata-only; Google News and Autocrypt Labs retain
-plain-text excerpts. Respect source policies and access restrictions.
+All five DC feeds publish sanitized bodies for new posts with remote image
+links. Google News and Autocrypt Labs retain plain-text excerpts. Respect source policies and access restrictions.
 
 ## Schedule and state
 
@@ -41,7 +40,7 @@ available; an absent date gets its first collection time, preserved on later run
 ## DC post bodies
 
 `article_content: true` in `sources.json` enables body collection per DC feed;
-only `ai-utilize` is enabled. New posts are queued for one-time extraction of the
+all five DC feeds are enabled. New posts are queued for one-time extraction of the
 `.write_div` article container, excluding comments, navigation and surrounding ads.
 Basic formatting, links and image URLs are kept in RSS `content:encoded`; scripts,
 iframes, forms, event handlers and styling are removed. Video/audio become links.
@@ -53,12 +52,13 @@ inside a post or grant permission to republish third-party content.
 Known `dcimgN.dcinside.co.kr` / `dcimgN.dcinside.com` image-file URLs are normalized
 to `https://image.dcinside.com`, keeping `viewimage.php` or `dccon.php` and the
 original query intact. The HTML viewer `viewimagePop.php` is not an image route.
-Rendering also normalizes existing cached pilot bodies without refetching posts;
-other feeds and ordinary links are untouched. For Miniflux's separate Download
+Rendering also normalizes existing cached DC bodies without refetching posts;
+official RSS feeds and ordinary links are untouched. For Miniflux's separate Download
 behavior, see [the supported scraper/rewrite settings](docs/miniflux.md).
 
-At most ten article requests per enabled feed are made in one run, with two seconds
-between requests. Responses have a 1 MiB limit, connection/read timeouts and no
+At most ten article requests per enabled feed are made in one run: at most fifty
+across the five DC feeds, processed sequentially with two seconds between body
+requests within each feed. This is a per-feed budget, not a shared host cooldown. Responses have a 1 MiB limit, connection/read timeouts and no
 redirect following. Successful bodies are cached in durable state. Old entries
 without body metadata are not automatically backfilled. Explicitly queued posts
 are processed oldest first; sustained arrivals above capacity leave a backlog and

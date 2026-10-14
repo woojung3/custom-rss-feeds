@@ -1,17 +1,22 @@
-# Miniflux integration: AI-utilize pilot
+# Miniflux integration: DCInside feeds
 
-Only the `ai-utilize` subscription is in scope. Do not apply these settings to
-all feeds or enable automatic crawling. Miniflux's **Download / Fetch original
+Apply the same settings to `dcbest`, `ai-utilize`, `thesingularity`, `cartoon` and
+`comic-new6`. Match the existing subscriptions by the exact public
+`https://woojung3.github.io/custom-rss-feeds/feeds/{id}.xml` URL, using the DC IDs
+from `sources.json`. Do not apply these settings to official RSS or unrelated
+subscriptions, or enable automatic crawling. Miniflux's **Download / Fetch original
 content** replaces the saved article body; it does not download image files.
 
 ## Supported settings
 
-`integrations/miniflux-ai-utilize.json` identifies the public feed URL and the two
-supported feed settings:
+`integrations/miniflux-dcinside.json` contains the two shared supported feed
+settings; subscription URLs are selected separately as described above:
 
 - `scraper_rules`: `.write_div`, restricting Download to the DC post container.
-- `rewrite_rules`: four narrow image-source replacements, covering `dcimgN` on
-  `dcinside.co.kr` and `dcinside.com`, and `viewimage.php` / `dccon.php` separately.
+- `rewrite_rules`: the official `add_dynamic_image` rule first resolves lazy image
+  attributes (otherwise some posts show a loading GIF), followed by four narrow
+  image-source replacements covering `dcimgN` on `dcinside.co.kr` and
+  `dcinside.com`, and `viewimage.php` / `dccon.php` separately.
 
 The replacements target image `src` attributes and use `image.dcinside.com` over
 HTTPS. Paths and queries stay intact. Article URLs, ordinary links, unrelated
@@ -19,7 +24,7 @@ hosts and the HTML viewer `viewimagePop.php` are not rewritten. This is not an
 image mirror, a Referer override or an access-control bypass.
 
 The RSS generator performs the corresponding normalization on new bodies and
-when rendering cached bodies for the enabled pilot. Cached bodies are not fetched
+when rendering cached bodies for the enabled DC feeds. Cached bodies are not fetched
 again or destructively rewritten. Metadata-only history is not backfilled.
 
 ## Validate before applying
@@ -51,14 +56,14 @@ docker run --rm --network none --memory 512m --memory-swap 512m --cpus 1 \
   -e GOCACHE=/tmp/gocache -e GO111MODULE=off -e GOTOOLCHAIN=local \
   -e GOMAXPROCS=1 -e GOFLAGS=-p=1 -v "$PWD:/work:ro" -w /work \
   golang:1.26-alpine go run tests/miniflux_rules.go \
-  integrations/miniflux-ai-utilize.json
+  integrations/miniflux-dcinside.json
 ```
 
 For the Miniflux UI, print the decoded `rewrite_rules` field and paste that exact
 output, not the outer JSON string. Preserve its remaining escapes:
 
 ```sh
-.venv/bin/python -c 'import json; print(json.load(open("integrations/miniflux-ai-utilize.json"))["rewrite_rules"])'
+.venv/bin/python -c 'import json; print(json.load(open("integrations/miniflux-dcinside.json"))["rewrite_rules"])'
 ```
 
 ## Apply and verify with approval
@@ -81,11 +86,17 @@ output, not the outer JSON string. Preserve its remaining escapes:
 7. Check actual images in Capy Reader. A successful server-side image request does
    not prove mobile rendering, OCR or interpretation of image contents.
 
-Verified with Miniflux 2.3.3: the native fetch-content path selected the clean
-467-character body and two images in the public pilot sample, saved it without
-changing title/URL/read/star state, and both normalized image endpoints returned
-complete PNGs without a Referer. This is sample coverage, not a guarantee for all
-DC media or a Capy rendering test.
+Verified with Miniflux 2.3.3: one sample from each of the five boards produced the
+same text and image URLs through the producer parser and native read-only
+fetch-content path. Coverage includes lazy images and an image-only cartoon.
+The first image from each sample returned an image signature without a Referer;
+this does not verify every image or interpret its contents. Existing article
+bodies and read/star states were unchanged by these previews.
+
+The AI-utilize sample (467 characters, two images) also passed a native save and
+both image downloads, and the user confirmed its images in Capy Reader. Actual
+Capy rendering of the other boards has not been independently confirmed. Sample
+coverage is not a guarantee for all DC media.
 
 Download still replaces an inline AI summary along with the old body. These rules
 do not preserve or reapply summaries; that lifecycle belongs to a future AI tool.

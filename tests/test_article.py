@@ -3,6 +3,7 @@ import json
 import tempfile
 import unittest
 from unittest.mock import Mock, patch
+from urllib.parse import parse_qs, urlsplit
 import xml.etree.ElementTree as ET
 
 from bs4 import BeautifulSoup
@@ -136,6 +137,32 @@ class ParserTests(Offline):
 
 
 class EnrichmentTests(Offline):
+    def test_each_enabled_dc_feed_enriches_new_items_without_backfill(self):
+        for source in json.loads(Path("sources.json").read_text()):
+            if source["kind"] != "dc":
+                continue
+            with self.subTest(source=source["id"]):
+                parts = urlsplit(source["url"])
+                board = parse_qs(parts.query)["id"][0]
+                base = "https://gall.dcinside.com" + parts.path.replace(
+                    "/lists/", "/view/"
+                )
+                old, new = item(1), item(2)
+                for number, value in enumerate((old, new), 1):
+                    value["id"] = value["link"] = f"{base}?id={board}&no={number}"
+                with patch(
+                    "rss_service.article.fetch_article", return_value=HTML
+                ) as fetch:
+                    report = article.enrich(source, [old, new], {old["id"]}, NOW)
+                fetch.assert_called_once_with(new["link"])
+                self.assertEqual(report["ready"], 1)
+                self.assertNotIn("content_status", old)
+                self.assertIn("image.dcinside.com/viewimage.php", new["content_html"])
+                self.assertEqual(new["date"], NOW)
+                with patch("rss_service.article.fetch_article") as fetch:
+                    article.enrich(source, [old, new], {old["id"], new["id"]}, LATER)
+                fetch.assert_not_called()
+
     def test_opt_in_and_no_legacy_backfill(self):
         value = item()
         with patch("rss_service.article.fetch_article") as fetch:

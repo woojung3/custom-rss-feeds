@@ -103,9 +103,9 @@ class ImageTests(unittest.TestCase):
             )
 
     def test_miniflux_recipe_covers_only_known_image_sources(self):
-        settings = json.loads(Path("integrations/miniflux-ai-utilize.json").read_text())
+        settings = json.loads(Path("integrations/miniflux-dcinside.json").read_text())
         self.assertEqual(settings["scraper_rules"], ".write_div")
-        self.assertTrue(settings["feed_url"].endswith("/feeds/ai-utilize.xml"))
+        self.assertEqual(set(settings), {"scraper_rules", "rewrite_rules"})
         self.assertEqual(settings["rewrite_rules"], miniflux_rewrite_rules())
         tokens = re.findall(
             r'replace\(("(?:[^"\\]|\\.)*")\|("(?:[^"\\]|\\.)*")\)',
@@ -113,7 +113,7 @@ class ImageTests(unittest.TestCase):
         )
         self.assertEqual(len(tokens), 4)
         self.assertEqual(
-            ",".join(f"replace({a}|{b})" for a, b in tokens),
+            "add_dynamic_image," + ",".join(f"replace({a}|{b})" for a, b in tokens),
             settings["rewrite_rules"],
         )
         # Miniflux first unquotes string tokens, THEN compiles the regex. These
