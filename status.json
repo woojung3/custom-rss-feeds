@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-15T01:53:26.516956+00:00",
+  "updated": "2026-10-15T07:25:39.519667+00:00",
   "feeds": [
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
-      "last_new": "2026-10-15T01:53:26.516956+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
+      "last_new": "2026-10-15T07:25:39.519667+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "body_collection": {
-        "ready": 67,
-        "pending": 9,
+        "ready": 77,
+        "pending": 29,
         "failed": 0,
         "attempted": 10
       },
-      "published_count": 991,
+      "published_count": 971,
       "id": "dcbest",
       "name": "실시간 베스트",
       "emoji": "🔥",
@@ -20,9 +20,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
-      "last_new": "2026-10-15T01:53:26.516956+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
+      "last_new": "2026-10-15T07:25:39.519667+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "published_count": 1000,
       "id": "google-news",
@@ -32,9 +32,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "published_count": 15,
       "id": "autocrypt-labs",
@@ -44,33 +44,33 @@
       "available": true
     },
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
-      "last_new": "2026-10-15T01:29:31.742775+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
+      "last_new": "2026-10-15T07:25:39.519667+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "body_collection": {
-        "ready": 10,
+        "ready": 16,
         "pending": 0,
         "failed": 0,
-        "attempted": 0
+        "attempted": 6
       },
-      "published_count": 403,
+      "published_count": 409,
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
       "emoji": "🛠️",
-      "count": 403,
+      "count": 409,
       "available": true
     },
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
-      "last_new": "2026-10-15T01:53:26.516956+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
+      "last_new": "2026-10-15T07:25:39.519667+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "body_collection": {
-        "ready": 48,
+        "ready": 58,
         "pending": 0,
         "failed": 0,
-        "attempted": 1
+        "attempted": 10
       },
       "published_count": 1000,
       "id": "thesingularity",
@@ -80,15 +80,15 @@
       "available": true
     },
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
       "last_new": "2026-10-15T01:53:26.516956+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "body_collection": {
         "ready": 13,
         "pending": 0,
         "failed": 0,
-        "attempted": 1
+        "attempted": 0
       },
       "published_count": 348,
       "id": "cartoon",
@@ -98,21 +98,21 @@
       "available": true
     },
     {
-      "last_success": "2026-10-15T01:53:26.516956+00:00",
-      "last_new": "2026-10-14T23:13:39.414129+00:00",
-      "last_attempt": "2026-10-15T01:53:26.516956+00:00",
+      "last_success": "2026-10-15T07:25:39.519667+00:00",
+      "last_new": "2026-10-15T07:25:39.519667+00:00",
+      "last_attempt": "2026-10-15T07:25:39.519667+00:00",
       "error": null,
       "body_collection": {
-        "ready": 18,
+        "ready": 23,
         "pending": 0,
         "failed": 0,
-        "attempted": 0
+        "attempted": 5
       },
-      "published_count": 499,
+      "published_count": 504,
       "id": "comic-new6",
       "name": "만화 갤러리 추천글",
       "emoji": "📚",
-      "count": 499,
+      "count": 504,
       "available": true
     }
   ]
