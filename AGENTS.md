@@ -12,6 +12,9 @@ Read README.md and docs/maintenance.md before changing behavior.
 - DC body collection is opt-in per source (`article_content`); all five DC feeds
   are enabled. Official RSS feeds are excluded. Preserve body queue/cache fields
   on repeated list observations.
+- Emit newly queued DC articles only after content_html is available. Pending/failed
+  items stay in state, not as placeholder RSS entries. Preserve original GUID/date;
+  image-only bodies are ready. Existing metadata-only history is not backfilled.
 - Body failures must not erase metadata or masquerade as successful extraction.
   Do not mirror image bytes, backfill all retained posts or bypass access controls.
 - Limit image-host normalization to the known DC image-file routes; preserve

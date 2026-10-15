@@ -16,7 +16,7 @@ personal Feedly export is deliberately excluded from this public repository.
 - DCInside ai_utilize, thesingularity, cartoon, comic_new6 (recommended posts only)
 
 Configuration lives in `sources.json`. Source access and markup may change.
-Titles, links, dates and available excerpts are published for all sources.
+Titles, links, dates and available excerpts are retained for all sources.
 All five DC feeds publish sanitized bodies for new posts with remote image
 links. Google News and Autocrypt Labs retain plain-text excerpts. Respect source policies and access restrictions.
 
@@ -67,8 +67,11 @@ normal 1,000-item retention can eventually evict queued posts.
 Temporary failures get at most three attempts, at least an hour apart. Forbidden,
 unauthorized and deleted posts are not retried. HTTP 429 stops the feed's body work
 and observes at least an hour of cooldown or a longer `Retry-After`. Failed/pending
-bodies retain their title, link, GUID and date and display an availability notice.
-Body counts are shown separately in `status.json` and on the status page; they do
+bodies retain their title, link, GUID and date in state, but are not emitted as RSS
+articles until a body is ready. Image-only bodies are valid; no image analysis is
+required. Failed items remain visible in collection status rather than as empty
+reader articles. Existing metadata-only history is preserved without backfill.
+Published and retained item counts and body counts are shown separately in `status.json` and on the status page; they do
 not turn an otherwise successful feed-list collection into an Actions failure.
 Disabling collection stops new body work; it does not erase already stored bodies.
 

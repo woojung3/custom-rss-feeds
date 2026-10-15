@@ -28,6 +28,15 @@ The RSS generator performs the corresponding normalization on new bodies and
 when rendering cached bodies for the enabled DC feeds. Cached bodies are not fetched
 again or destructively rewritten. Metadata-only history is not backfilled.
 
+Newly queued DC articles are emitted only when `content_html` is available,
+including image-only bodies. Pending/failed items remain in durable state and
+collection status, not as placeholder RSS entries. They keep their original GUID
+and date when eventually published. This requires deploying the producer change;
+changing Miniflux settings alone does not change the public RSS.
+Previously ingested placeholders are not deleted or reimported. Normal feed refresh
+may update Miniflux's stored body, but content-only changes may not reach Capy's
+incremental synchronization; do not reset read/star state as a repair shortcut.
+
 ## Validate before applying
 
 Miniflux 2.3.3 tokenizes rule arguments as **Go string literals**, unquotes them,

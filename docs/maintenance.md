@@ -37,7 +37,7 @@ an absent date once and preserves it on subsequent runs. The renderer adds the
 emoji. Never store a prefixed title in state or prefixes will accumulate.
 
 Each source record holds items, last_attempt, last_success, last_new and error.
-Status adds id, name, emoji, count and available but omits article contents.
+Status adds id, name, emoji, retained count, published_count and available but omits article contents.
 Enabled body collectors also retain `body_collection` counts (`ready`, `pending`,
 `failed`, `attempted`). These counts advance only after RSS replacement succeeds;
 body errors are visible separately from feed-list/render errors.
@@ -101,8 +101,11 @@ inactivity timeouts. A 20-second budget is checked between response chunks; it i
 not a hard wall-clock deadline. The workflow also has a 25-minute job timeout.
 Article requests accept only canonical DC view URLs and do not follow redirects.
 
-On body failure, publish the metadata and an explicit body availability notice;
-do not erase the article or fail the whole list collection. Do not repeatedly reset
+Pending/failed DC bodies remain in state with their original GUID/date; do not
+emit placeholder RSS articles. Publish only once content_html is available, including
+image-only bodies. A failed item remains in the body status counts; do not erase it
+or fail the whole list collection. Old metadata-only items without content_status
+are preserved, not bulk backfilled. Do not repeatedly reset
 failed attempt counters to get around access restrictions. Disabling the flag leaves
 existing content intact. The five enabled feeds have an aggregate ceiling of fifty
 article requests per run, processed sequentially. Ten requests and HTTP 429

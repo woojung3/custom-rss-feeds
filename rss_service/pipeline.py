@@ -35,10 +35,13 @@ def build(output, base):
                 source, items, known, datetime.now(UTC).isoformat()
             )
             # Commit metadata only after the replacement RSS is safely written.
-            write_feed(output / "feeds" / f"{key}.xml", source, items, now, base)
+            published_count = write_feed(
+                output / "feeds" / f"{key}.xml", source, items, now, base
+            )
             if any(item["id"] not in known for item in incoming):
                 record["last_new"] = now
             record["items"] = items
+            record["published_count"] = published_count
             if body_collection is not None:
                 record["body_collection"] = body_collection
             else:

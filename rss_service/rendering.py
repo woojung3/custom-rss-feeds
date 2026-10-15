@@ -29,6 +29,14 @@ def write_feed(path, source, items, now, base):
         type="application/rss+xml",
     )
     for item in items:
+        # Keep queued/failed bodies in durable state, not as placeholder RSS articles.
+        # Old metadata-only history has no content_status and is not backfilled.
+        if (
+            source["kind"] == "dc"
+            and item.get("content_status")
+            and not item.get("content_html")
+        ):
+            continue
         node = ET.SubElement(channel, "item")
         for key, value in [
             ("title", source["emoji"] + " " + item["title"]),
@@ -42,13 +50,6 @@ def write_feed(path, source, items, now, base):
             if source.get("article_content", False) and source["kind"] == "dc":
                 content = normalize_dc_images(content)
             ET.SubElement(node, f"{{{CONTENT_NS}}}encoded").text = content
-        elif item.get("content_status") in ("pending", "failed"):
-            message = (
-                "본문 수집 대기 중입니다. 원문에서 확인하세요."
-                if item["content_status"] == "pending"
-                else "본문을 확보하지 못했습니다. 원문에서 확인하세요."
-            )
-            node.find("description").text = html.escape(message)
         ET.SubElement(node, "guid", isPermaLink="true").text = item["id"]
     ET.indent(rss)
     temporary = path.with_suffix(".xml.tmp")
@@ -57,6 +58,7 @@ def write_feed(path, source, items, now, base):
         temporary.replace(path)
     finally:
         temporary.unlink(missing_ok=True)
+    return len(channel.findall("item"))
 
 
 def render_index(output, statuses, now):
@@ -74,7 +76,7 @@ def render_index(output, statuses, now):
             )
         cards.append(
             f"""<article><header><span>{s['emoji']}</span><h2>{esc(s['name'])}</h2></header>
-<p class="{'error' if s['error'] else 'ok'}">{esc(s['error']) if s['error'] else 'Healthy'} &middot; {s['count']} items</p>
+<p class="{'error' if s['error'] else 'ok'}">{esc(s['error']) if s['error'] else 'Healthy'} &middot; {s.get('published_count', s['count'])} published / {s['count']} retained items</p>
 <dl><dt>Last attempt</dt><dd>{esc(s['last_attempt'])}</dd><dt>Last success</dt><dd>{esc(s['last_success'])}</dd><dt>Last new article</dt><dd>{esc(s['last_new'])}</dd></dl>
 {body_note}
 {'<a href="feeds/' + s['id'] + '.xml">Subscribe RSS &rarr;</a>' if s['available'] else '<p>Awaiting first successful collection</p>'}</article>"""

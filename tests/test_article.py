@@ -128,6 +128,68 @@ class ParserTests(Offline):
             )
             self.assertNotIn("<script", node.findtext("description"))
 
+    def test_pending_and_failed_bodies_are_retained_but_not_published(self):
+        pending = dict(item(1), content_status="pending", content_attempts=0)
+        failed = dict(item(2), content_status="failed", content_attempts=3)
+        legacy = item(3)
+        values = [pending, failed, legacy]
+        before = json.loads(json.dumps(values))
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "feed.xml"
+            self.assertEqual(
+                rendering.write_feed(path, SOURCE, values, NOW, "https://example.com"),
+                1,
+            )
+            self.assertEqual(
+                [n.findtext("guid") for n in ET.parse(path).findall("./channel/item")],
+                [legacy["id"]],
+            )
+        self.assertEqual(values, before)
+
+    def test_ready_late_image_only_body_keeps_original_guid_and_date(self):
+        value = dict(item(), content_status="pending", content_attempts=0)
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "feed.xml"
+            self.assertEqual(
+                rendering.write_feed(path, SOURCE, [value], NOW, "https://example.com"),
+                0,
+            )
+            value.update(
+                parsers.parse_dc_article(
+                    '<div class="write_div"><img src="https://example.org/image.jpg"></div>',
+                    URL,
+                )
+            )
+            self.assertEqual(
+                rendering.write_feed(
+                    path, SOURCE, [value], LATER, "https://example.com"
+                ),
+                1,
+            )
+            node = ET.parse(path).find("./channel/item")
+            self.assertEqual(node.findtext("guid"), URL)
+            self.assertEqual(value["date"], NOW)
+            self.assertIn("14 Oct 2026 00:00:00", node.findtext("pubDate"))
+            self.assertIn(
+                "<img",
+                node.findtext("{http://purl.org/rss/1.0/modules/content/}encoded"),
+            )
+            self.assertNotIn("수집 대기", path.read_text())
+
+    def test_disabled_collection_cannot_publish_existing_pending_placeholders(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "feed.xml"
+            self.assertEqual(
+                rendering.write_feed(
+                    path,
+                    dict(SOURCE, article_content=False),
+                    [dict(item(), content_status="pending")],
+                    NOW,
+                    "https://example.com",
+                ),
+                0,
+            )
+
     def test_invalid_xml_characters_removed(self):
         result = parsers.parse_dc_article(
             '<div class="write_div">A\x00B\x01C</div>', URL
@@ -247,7 +309,7 @@ class EnrichmentTests(Offline):
                 )
             self.assertEqual(report["ready"], 2)
 
-    def test_pipeline_partial_body_failure_publishes_metadata_and_status(self):
+    def test_pipeline_body_failure_retains_metadata_and_status_not_empty_article(self):
         with tempfile.TemporaryDirectory() as directory, patch(
             "rss_service.pipeline.collect", return_value=([item()], None)
         ), patch("rss_service.article.fetch_article", side_effect=http_error(403)):
@@ -257,9 +319,41 @@ class EnrichmentTests(Offline):
             self.assertIsNone(saved["error"])
             self.assertEqual(saved["body_collection"]["failed"], 1)
             node = ET.parse(output / "feeds/ai-utilize.xml").find("./channel/item")
-            self.assertEqual(node.findtext("guid"), URL)
-            self.assertIn("본문을 확보하지 못했습니다", node.findtext("description"))
+            self.assertIsNone(node)
+            self.assertEqual(saved["items"][0]["id"], URL)
+            self.assertEqual(saved["published_count"], 0)
             self.assertIn("1 unavailable", (output / "index.html").read_text())
+
+    def test_hidden_pending_job_survives_restart_and_leaving_list(self):
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory)
+            with patch(
+                "rss_service.pipeline.collect", return_value=([item()], None)
+            ), patch("rss_service.article.MAX_FETCHES", 0):
+                self.assertFalse(pipeline.build(output, "https://example.com"))
+            saved = json.loads((output / "state.json").read_text())["ai-utilize"]
+            self.assertEqual(saved["items"][0]["content_status"], "pending")
+            self.assertEqual(saved["published_count"], 0)
+            with patch("rss_service.pipeline.collect", return_value=([], None)), patch(
+                "rss_service.article.fetch_article", return_value=HTML
+            ):
+                self.assertFalse(pipeline.build(output, "https://example.com"))
+            saved = json.loads((output / "state.json").read_text())["ai-utilize"]
+            self.assertEqual(saved["published_count"], 1)
+            self.assertEqual(saved["items"][0]["date"], NOW)
+            self.assertEqual(
+                ET.parse(output / "feeds/ai-utilize.xml").findtext(
+                    "./channel/item/guid"
+                ),
+                URL,
+            )
+            status = json.loads((output / "status.json").read_text())
+            self.assertEqual(
+                next(f for f in status["feeds"] if f["id"] == "ai-utilize")[
+                    "published_count"
+                ],
+                1,
+            )
 
     def test_render_failure_preserves_old_body_and_success_state(self):
         with tempfile.TemporaryDirectory() as directory, patch(
@@ -276,7 +370,13 @@ class EnrichmentTests(Offline):
             ):
                 self.assertTrue(pipeline.build(output, "https://example.com"))
             after = json.loads((output / "state.json").read_text())["ai-utilize"]
-            for field in ("items", "body_collection", "last_success", "last_new"):
+            for field in (
+                "items",
+                "body_collection",
+                "published_count",
+                "last_success",
+                "last_new",
+            ):
                 self.assertEqual(before[field], after[field])
             self.assertEqual(xml, (output / "feeds/ai-utilize.xml").read_bytes())
 
