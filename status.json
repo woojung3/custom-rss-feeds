@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-14T23:13:39.414129+00:00",
+  "updated": "2026-10-15T01:29:31.742775+00:00",
   "feeds": [
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
-      "last_new": "2026-10-14T23:13:39.414129+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
+      "last_new": "2026-10-15T01:29:31.742775+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "body_collection": {
-        "ready": 47,
-        "pending": 15,
+        "ready": 57,
+        "pending": 16,
         "failed": 0,
         "attempted": 10
       },
@@ -19,9 +19,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
-      "last_new": "2026-10-14T23:13:39.414129+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
+      "last_new": "2026-10-15T01:29:31.742775+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "id": "google-news",
       "name": "Google 뉴스",
@@ -30,9 +30,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "id": "autocrypt-labs",
       "name": "Autocrypt Labs",
@@ -41,32 +41,32 @@
       "available": true
     },
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
-      "last_new": "2026-10-14T19:23:02.192600+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
+      "last_new": "2026-10-15T01:29:31.742775+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "body_collection": {
-        "ready": 9,
+        "ready": 10,
         "pending": 0,
         "failed": 0,
-        "attempted": 0
+        "attempted": 1
       },
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
       "emoji": "🛠️",
-      "count": 402,
+      "count": 403,
       "available": true
     },
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
-      "last_new": "2026-10-14T23:13:39.414129+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
+      "last_new": "2026-10-15T01:29:31.742775+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "body_collection": {
-        "ready": 38,
-        "pending": 6,
+        "ready": 47,
+        "pending": 0,
         "failed": 0,
-        "attempted": 10
+        "attempted": 9
       },
       "id": "thesingularity",
       "name": "특이점이 온다 추천글",
@@ -75,15 +75,15 @@
       "available": true
     },
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
       "last_new": "2026-10-14T23:13:39.414129+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "body_collection": {
         "ready": 12,
         "pending": 0,
         "failed": 0,
-        "attempted": 1
+        "attempted": 0
       },
       "id": "cartoon",
       "name": "카툰·연재 추천글",
@@ -92,15 +92,15 @@
       "available": true
     },
     {
-      "last_success": "2026-10-14T23:13:39.414129+00:00",
+      "last_success": "2026-10-15T01:29:31.742775+00:00",
       "last_new": "2026-10-14T23:13:39.414129+00:00",
-      "last_attempt": "2026-10-14T23:13:39.414129+00:00",
+      "last_attempt": "2026-10-15T01:29:31.742775+00:00",
       "error": null,
       "body_collection": {
         "ready": 18,
         "pending": 0,
         "failed": 0,
-        "attempted": 2
+        "attempted": 0
       },
       "id": "comic-new6",
       "name": "만화 갤러리 추천글",
