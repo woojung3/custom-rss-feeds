@@ -80,8 +80,16 @@ Disabling collection stops new body work; it does not erase already stored bodie
 Empty bodies, empty feeds, HTTP failures, unexpected DC markup and missing fields
 are errors. Requests have timeouts and bounded retries. A failed source keeps its
 last good XML byte-for-byte. Other sources continue updating. Status, state and
-feeds are deployed before the workflow is marked failed. A first-time failed
-source has no XML until it first succeeds.
+feeds are deployed before the workflow is marked failed. Temporary list-collection
+transport errors (timeouts, connection errors, HTTP 429 and 5xx) fail Actions only
+after the same source has failed at least three consecutive times AND its last
+success was at least three hours ago. With no prior success, time is measured
+from the first failure. Recovery resets the streak. Errors remain visible on the
+status page even while notification is deferred; Actions success is not proof
+that every source refreshed. Parser/validation, pagination-cap, rendering, state
+storage, tests and deployment failures still fail immediately. Persistent failures
+can continue to notify on subsequent runs, subject to GitHub notification settings.
+A first-time failed source has no XML until it first succeeds.
 
 The status page and `status.json` show each feed's last attempt, last successful
 collection, last new article, item count and error. Times are UTC. These are static
@@ -107,8 +115,9 @@ python3 -m venv .venv
 .venv/bin/python -m http.server --directory site 8000
 ```
 
-`build.py` exits nonzero if any source fails; still inspect `site/` for successful
-feeds and the status report. Preserve `site/` between local runs to retain history.
+`build.py` exits nonzero when a failure meets the alert policy above. Inspect
+`site/` for successful feeds and the status report, including deferred errors.
+Preserve `site/` between local runs to retain history.
 
 ## GitHub deployment
 

@@ -4,12 +4,37 @@ from datetime import datetime, timezone
 import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
+import requests
 from .collection import collect
 from .article import enrich
 from .state import merge
 from .rendering import write_feed, render_index
 
 UTC = timezone.utc
+
+
+def is_transient(exc):
+    if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
+        return True
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return exc.response.status_code == 429 or 500 <= exc.response.status_code < 600
+    return False
+
+
+def update_alert(record, now, transient):
+    """Persist streaks; suppress only temporary collection transport failures."""
+    if not record["error"]:
+        record.update(consecutive_failures=0, first_failure=None, alert_required=False)
+        return False
+    record["consecutive_failures"] = record.get("consecutive_failures", 0) + 1
+    record["first_failure"] = record.get("first_failure") or now
+    baseline = record.get("last_success") or record["first_failure"]
+    elapsed = (
+        datetime.fromisoformat(now) - datetime.fromisoformat(baseline)
+    ).total_seconds()
+    alert = not transient or (record["consecutive_failures"] >= 3 and elapsed >= 10800)
+    record["alert_required"] = alert
+    return alert
 
 
 def build(output, base):
@@ -27,8 +52,11 @@ def build(output, base):
             key, {"items": [], "last_success": None, "last_new": None}
         )
         record.update(last_attempt=now, error=None)
+        collecting = True
+        transient = False
         try:
             incoming, warning = collect(source, record["items"])
+            collecting = False
             known = {item["id"] for item in record["items"]}
             items = merge(record["items"], incoming, now)
             body_collection = enrich(
@@ -50,9 +78,12 @@ def build(output, base):
             record["error"] = warning
         except Exception as exc:
             record["error"] = f"{type(exc).__name__}: {exc}"
+            transient = collecting and is_transient(exc)
+        alert = update_alert(record, now, transient)
+        failed = failed or alert
         if record["error"]:
-            failed = True
-            print(f"FAILED {key}: {record['error']}", flush=True)
+            level = "FAILED" if alert else "DEFERRED"
+            print(f"{level} {key}: {record['error']}", flush=True)
         else:
             print(f"OK {key}: {len(record['items'])} items", flush=True)
         statuses.append(

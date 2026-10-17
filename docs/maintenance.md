@@ -37,6 +37,13 @@ an absent date once and preserves it on subsequent runs. The renderer adds the
 emoji. Never store a prefixed title in state or prefixes will accumulate.
 
 Each source record holds items, last_attempt, last_success, last_new and error.
+State and status also persist `consecutive_failures`, `first_failure` and
+`alert_required`. Temporary collection transport failures (connection errors,
+timeouts, HTTP 429/5xx) require both three consecutive failed runs and three hours
+since last success to fail Actions. Without prior success, use first_failure.
+A successful collection resets that source's streak. Parser/validation,
+pagination warnings, rendering and infrastructure failures remain immediate. Deferred errors remain visible in status
+and logs; repeated alerts after the threshold are not deduplicated.
 Status adds id, name, emoji, retained count, published_count and available but omits article contents.
 Enabled body collectors also retain `body_collection` counts (`ready`, `pending`,
 `failed`, `attempted`). These counts advance only after RSS replacement succeeds;
