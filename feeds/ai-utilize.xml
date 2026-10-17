@@ -4,7 +4,7 @@
     <title>🛠️ AI 활용 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize&amp;exception_mode=recommend</link>
     <description>AI 활용 추천글</description>
-    <lastBuildDate>Sat, 17 Oct 2026 03:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:56:42 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/ai-utilize.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🛠️ GPT Pro 유저를 위한 Space 사용 팁 하나</title>
@@ -39,6 +39,14 @@
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135868</guid>
     </item>
     <item>
+      <title>🛠️ 클로드 2.31226.1 다운그레이드 명령어</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135787</link>
+      <pubDate>Fri, 16 Oct 2026 17:05:33 +0000</pubDate>
+      <description>파워쉘에 ㄱㄱ curl.exe -L -o &amp;quot;$env:USERPROFILE\Downloads\Claude-2.31226.1.msix&amp;quot; &amp;quot; https://downloads.claude.ai/releases/win32/x64/2.31226.1/Claude-8576520051724193e9f74fc538f9ce8125e9ddd2.msix &amp;quot; Get-Process *claude* -ErrorAction SilentlyContinue | Stop-Process -Force Add-AppxPackage -Path $f -ForceUpdateFromAnyVersion New-Item -Path &amp;quot;HKCU:\SOFTWARE\Policies\Claude&amp;quot; -Force | Out-Null Set-ItemProperty -Path &amp;quot;HKCU:\SOFTWARE\Policies\Claude&amp;quot; -Name disableAutoUpdates -Value 1 -Type DWord (Get-AppxPackage *Claude*).Version 3번째 블록이 자동업뎃 막는거라 나중에 정상화 신버전 나오면 해제하는 명령어 Remove-ItemProperty -Path &amp;quot;HKCU:\SOFTWARE\Policies\Claude&amp;quot; -Name disableAutoUpdates</description>
+      <content:encoded>&lt;p&gt;파워쉘에 ㄱㄱ&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;curl.exe -L -o "$env:USERPROFILE\Downloads\Claude-2.31226.1.msix" "&lt;a href="https://downloads.claude.ai/releases/win32/x64/2.31226.1/Claude-8576520051724193e9f74fc538f9ce8125e9ddd2.msix"&gt;https://downloads.claude.ai/releases/win32/x64/2.31226.1/Claude-8576520051724193e9f74fc538f9ce8125e9ddd2.msix&lt;/a&gt;"&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Get-Process *claude* -ErrorAction SilentlyContinue | Stop-Process -Force&lt;/p&gt;&lt;p&gt;Add-AppxPackage -Path $f -ForceUpdateFromAnyVersion&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;New-Item -Path "HKCU:\SOFTWARE\Policies\Claude" -Force | Out-Null&lt;/p&gt;&lt;p&gt;Set-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Claude" -Name disableAutoUpdates -Value 1 -Type DWord&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(Get-AppxPackage *Claude*).Version&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;3번째 블록이 자동업뎃 막는거라&lt;/p&gt;&lt;p&gt;나중에 정상화 신버전 나오면 해제하는 명령어&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Remove-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Claude" -Name disableAutoUpdates&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135787</guid>
+    </item>
+    <item>
       <title>🛠️ 오픈소스 이미지모델 Moss출시</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135610</link>
       <pubDate>Fri, 16 Oct 2026 14:12:47 +0000</pubDate>
@@ -53,6 +61,14 @@
       <description>지도 알고있노 씨발ㅋㅋㅋㅋ</description>
       <content:encoded>&lt;p&gt;&lt;img alt="ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd28cea114c2d1971e9e730947fe4a93ff12d3b382baa16f231a7096b14f93b3313267ba2d8616" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02efc3186ef7b91e206a986607454c96d7264d6cf0343f353"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;지도 알고있노 씨발ㅋㅋㅋㅋ&lt;/p&gt;&lt;p&gt;&lt;img alt="줴줴이" src="https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65def246efb6df28dd4e36f7d0634ac3154e62f4064c2dea4045f6771305dc04b31a81adedcfe5e9ea2ad459f9df9b7ae16f85a61b2c591"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135454</guid>
+    </item>
+    <item>
+      <title>🛠️ [자작게임] 날아라 테슬라 로드스터</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135341</link>
+      <pubDate>Fri, 16 Oct 2026 10:55:16 +0000</pubDate>
+      <description>원문 미디어 보기 원문 미디어 보기 원문 미디어 보기 로드스터 발표 기념으로 만든 AI로 만든 3D 웹게임 입니다 형님들 막히면 날아서 넘고, 사람 치면 경찰 붙고, 공중에선 도지가 날아갑니다 머스크 5개 먹으면 화성으로 날아가는 엔딩입니다. 한판만 해주십쇼 형님들 https://roadster.ubd.gg/ Fly, Roadster! 🚀 Fly over traffic. Reach Mars. Fire the thrusters, fly over traffic jams, eat 5 Elon heads and blast off to Mars. Free 3D game · World ranking. roadster.ubd.gg</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3470c1fc967eda541b4a5476d25bcea53dcb600316f9fc2c9408228b2ae66b7f18d9bfae65366aa13f9dc953ab01c845225416807cf61"&gt;원문 미디어 보기&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3470c1fc967eda541b4a5476322b7e758dcd32e8dde38a0843008e6d439e6f1882179307b86e1bd76f4169b493cdfca6b7f5a3a229a4f"&gt;원문 미디어 보기&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3470c1fc967eda541b4a5476025b7e754d2a0e17a3525cd68c71be5697924918e19b85dceb1aaef86d3a9a50b42910d28677fdb4373a4"&gt;원문 미디어 보기&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;div&gt; 로드스터 발표 기념으로 만든 AI로 만든 3D 웹게임 입니다 형님들&lt;/div&gt;&lt;br/&gt;&lt;div&gt; 막히면 날아서 넘고, 사람 치면 경찰 붙고, 공중에선 도지가 날아갑니다&lt;/div&gt;&lt;br/&gt;&lt;div&gt; 머스크 5개 먹으면 화성으로 날아가는 엔딩입니다.&lt;/div&gt;&lt;br/&gt;&lt;div&gt; 한판만 해주십쇼 형님들&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt; &lt;a href="https://roadster.ubd.gg/"&gt;https://roadster.ubd.gg/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://roadster.ubd.gg/"&gt;&lt;div&gt;&lt;img src="https://roadster.ubd.gg/og-image.png?v=4"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;Fly, Roadster! &lt;span&gt;🚀&lt;/span&gt; Fly over traffic. Reach Mars.&lt;/strong&gt;&lt;/div&gt;&lt;p&gt;Fire the thrusters, fly over traffic jams, eat 5 Elon heads and blast off to Mars. Free 3D game · World ranking.&lt;/p&gt;&lt;p&gt;roadster.ubd.gg&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135341</guid>
     </item>
     <item>
       <title>🛠️ [뉴비가이드] UI/UX는 가이드라인을 주면 슬롭 티 안남</title>
