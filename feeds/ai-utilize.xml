@@ -4,8 +4,119 @@
     <title>🛠️ AI 활용 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize&amp;exception_mode=recommend</link>
     <description>AI 활용 추천글</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:33:42 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/ai-utilize.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛠️ 딥식1017 vs 아스트라 직접 돌려봄</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137493</link>
+      <pubDate>Sat, 17 Oct 2026 14:07:17 +0000</pubDate>
+      <description>1017 아스트라급이라길래 걍 직접 붙여봄 같은 문제 똑같이 주고 채점까지 다 해봄 3줄 요약 1. 내가 낸 수학·코딩·버그잡기 문제는 둘 다 다 맞힘. 이 수준에선 차이 안 보임 2. API 정가로 치면 딥식이 10~44배 쌈. 이건 인정 3. &amp;quot;출력유사도 99.7%&amp;quot;는 출처를 못 찾음. 내 방식으로 재보니 많이 다르게 나옴 어떻게 했냐 아스트라(챗지피티 구독) vs 딥식1017(오픈라우터) 둘 다 생각 모드 높게, 같은 환경에서 문제당 2~3번씩 경시 수준 수학 22문제 / 알고리즘 코딩 10문제 / 작은 버그 수정 4개 정답은 미리 계산해 두고, 코딩은 모델이 못 본 테스트로 채점 결과 종류 아스트라 딥식1017 딥식이 몇 배 쌈 수학 44/44 44/44 10~12배 코딩 20/20 20/20 13~21배 버그 고치기 9/9 9/9 32~44배 비용은 API 정가 기준 (아스트라 표준가, 딥식 공식 피크가) 딥식이 답을 길게 씀 (수학은 3~4배). 그래서 가격표상 차이(33~42배)보다 실제 차이는 좀 줄어듦 속도는 버그 고치기는 딥식, 어려운 수학은 아스트라가 빨랐음. 근데 서버 경로가 달라서 참고만 원글 팩트체크 ① 오픈웨이트 신모델 → ⭕ 허깅페이스에 MIT로 풀린 거 맞음 다만 공식 표현은 &amp;quot;마이너 업데이트&amp;quot;임. 완전 새 모델은 아님 ② 아스트라랑 출력유사도 99.7% → ❓ 근거 못 찾음 공식 자료엔 없는 숫자고, 뭘로 쟀는지도 안 나옴 그래서 같은 질문 5개 던지고 답 문장이 얼마나 겹치는지 재봄 (단어 순서 일치율) 아스트라 vs 딥식: 6.7% 딥식한테 한 번 더 물어본 거: 44% 아스트라한테 한 번 더 물어본 거: 61% 적어도 &amp;quot;문장이 거의 같다&amp;quot;는 근거는 안 나옴 다만 99.7%가 다른 방식(의미 유사도 같은 거)으로 잰 거면 비교가 안 되니까 단정은 안 함 ③ 올라마로 양자화 모델 제공 → △ 올라마 공식 목록엔 클라우드 실행용 하나뿐이고 그것도 9월판임 (글 쓰는 시점 기준) 1017 경량화 버전은 허깅페이스에 유저들이 올린 게 있음. 올라마로 불러오는 것 자체는 될 수 있음 근데 제일 작은 게 204GB, 보통 쓰는 4비트 버전이 444GB라 보통 PC로는 무리임 ④ 프로 15만원이면 딥식 1년 → △ 쓰기 나름 채팅이나 내가 돌린 작은 버그 수정은 건당 1~2센트라 1년 충분함 벤치마크급 대형 코딩 작업은 건당 $0.26~0.52라 매일 여러 건 돌리면 몇 달이면 끝남 &amp;quot;아스트라급인데 존나 쌈&amp;quot;은? 반은 맞고 반은 과장임 ⭕ 내가 돌린 수준에선 차이 없고 훨씬 쌈 △ 어려운 공개 성능 테스트는 항목마다 갈림 공개 성능 테스트 딥식1017 아스트라 DeepSWE (코딩) 77.0 74.1 AutomationBench 60.5 41.4 Terminal-Bench 4.0 42.3 57.9 Agents&amp;#x27; Last Exam 35.4 59.3 FrontierMath 최고난도 26.8 97.6 종합 점수 65.6 83.9 (BenchLM 집계. 딥식 점수 상당수는 딥식이 직접 발표한 거라 걸러 봐야 함) 코딩 쪽</description>
+      <content:encoded>&lt;p&gt;1017 아스트라급이라길래 걍 직접 붙여봄&lt;/p&gt;
+&lt;p&gt;같은 문제 똑같이 주고 채점까지 다 해봄&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;3줄 요약&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;1. 내가 낸 수학·코딩·버그잡기 문제는 둘 다 다 맞힘. 이 수준에선 차이 안 보임&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. API 정가로 치면 딥식이 10~44배 쌈. 이건 인정&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. "출력유사도 99.7%"는 출처를 못 찾음. 내 방식으로 재보니 많이 다르게 나옴&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;어떻게 했냐&lt;/b&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;아스트라(챗지피티 구독) vs 딥식1017(오픈라우터)&lt;/li&gt;&lt;li&gt;둘 다 생각 모드 높게, 같은 환경에서 문제당 2~3번씩&lt;/li&gt;&lt;li&gt;경시 수준 수학 22문제 / 알고리즘 코딩 10문제 / 작은 버그 수정 4개&lt;/li&gt;&lt;li&gt;정답은 미리 계산해 두고, 코딩은 모델이 못 본 테스트로 채점&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;결과&lt;/b&gt;&lt;/h3&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;종류&lt;/th&gt;&lt;th&gt;아스트라&lt;/th&gt;&lt;th&gt;딥식1017&lt;/th&gt;&lt;th&gt;딥식이 몇 배 쌈&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;수학&lt;/td&gt;&lt;td&gt;44/44&lt;/td&gt;&lt;td&gt;44/44&lt;/td&gt;&lt;td&gt;10~12배&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;코딩&lt;/td&gt;&lt;td&gt;20/20&lt;/td&gt;&lt;td&gt;20/20&lt;/td&gt;&lt;td&gt;13~21배&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;버그 고치기&lt;/td&gt;&lt;td&gt;9/9&lt;/td&gt;&lt;td&gt;9/9&lt;/td&gt;&lt;td&gt;32~44배&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;비용은 API 정가 기준 (아스트라 표준가, 딥식 공식 피크가)&lt;/li&gt;&lt;li&gt;딥식이 답을 길게 씀 (수학은 3~4배). 그래서 가격표상 차이(33~42배)보다 실제 차이는 좀 줄어듦&lt;/li&gt;&lt;li&gt;속도는 버그 고치기는 딥식, 어려운 수학은 아스트라가 빨랐음. 근데 서버 경로가 달라서 참고만&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;원글 팩트체크&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;① 오픈웨이트 신모델 → ⭕&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;허깅페이스에 MIT로 풀린 거 맞음&lt;/p&gt;
+&lt;p&gt;다만 공식 표현은 "마이너 업데이트"임. 완전 새 모델은 아님&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;② 아스트라랑 출력유사도 99.7% → ❓ 근거 못 찾음&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;공식 자료엔 없는 숫자고, 뭘로 쟀는지도 안 나옴&lt;/p&gt;
+&lt;p&gt;그래서 같은 질문 5개 던지고 답 문장이 얼마나 겹치는지 재봄 (단어 순서 일치율)&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;아스트라 vs 딥식: 6.7%&lt;/li&gt;&lt;li&gt;딥식한테 한 번 더 물어본 거: 44%&lt;/li&gt;&lt;li&gt;아스트라한테 한 번 더 물어본 거: 61%&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;적어도 "문장이 거의 같다"는 근거는 안 나옴&lt;/p&gt;
+&lt;p&gt;다만 99.7%가 다른 방식(의미 유사도 같은 거)으로 잰 거면 비교가 안 되니까 단정은 안 함&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;③ 올라마로 양자화 모델 제공 → △&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;올라마 공식 목록엔 클라우드 실행용 하나뿐이고 그것도 9월판임 (글 쓰는 시점 기준)&lt;/p&gt;
+&lt;p&gt;1017 경량화 버전은 허깅페이스에 유저들이 올린 게 있음. 올라마로 불러오는 것 자체는 될 수 있음&lt;/p&gt;
+&lt;p&gt;근데 제일 작은 게 204GB, 보통 쓰는 4비트 버전이 444GB라 보통 PC로는 무리임&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;④ 프로 15만원이면 딥식 1년 → △ 쓰기 나름&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;채팅이나 내가 돌린 작은 버그 수정은 건당 1~2센트라 1년 충분함&lt;/p&gt;
+&lt;p&gt;벤치마크급 대형 코딩 작업은 건당 $0.26~0.52라 매일 여러 건 돌리면 몇 달이면 끝남&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;"아스트라급인데 존나 쌈"은?&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;반은 맞고 반은 과장임&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;⭕ 내가 돌린 수준에선 차이 없고 훨씬 쌈&lt;/p&gt;
+&lt;p&gt;△ 어려운 공개 성능 테스트는 항목마다 갈림&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;공개 성능 테스트&lt;/th&gt;&lt;th&gt;딥식1017&lt;/th&gt;&lt;th&gt;아스트라&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DeepSWE (코딩)&lt;/td&gt;&lt;td&gt;&lt;b&gt;77.0&lt;/b&gt;&lt;/td&gt;&lt;td&gt;74.1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AutomationBench&lt;/td&gt;&lt;td&gt;&lt;b&gt;60.5&lt;/b&gt;&lt;/td&gt;&lt;td&gt;41.4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Terminal-Bench 4.0&lt;/td&gt;&lt;td&gt;42.3&lt;/td&gt;&lt;td&gt;&lt;b&gt;57.9&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Agents' Last Exam&lt;/td&gt;&lt;td&gt;35.4&lt;/td&gt;&lt;td&gt;&lt;b&gt;59.3&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FrontierMath 최고난도&lt;/td&gt;&lt;td&gt;26.8&lt;/td&gt;&lt;td&gt;&lt;b&gt;97.6&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;종합 점수&lt;/td&gt;&lt;td&gt;65.6&lt;/td&gt;&lt;td&gt;&lt;b&gt;83.9&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;(BenchLM 집계. 딥식 점수 상당수는 딥식이 직접 발표한 거라 걸러 봐야 함)&lt;/p&gt;
+&lt;p&gt;코딩 쪽은 비슷하거나 딥식이 앞서는 것도 있는데, 어려운 수학·복잡한 에이전트 작업은 아스트라가 확실히 앞섬&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;결론&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;아스트라 끊고 딥식 갈아타라 → 과장&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;웬만한 건 딥식, 진짜 빡센 건 아스트라 → 내 결론은 이쪽&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;참고&lt;/b&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;문제 수가 적어서 최상위 실력까지는 못 가림&lt;/li&gt;&lt;li&gt;딥식 95번 돌린 실제 결제액 $0.26 (오픈라우터). 아스트라는 구독이라 청구 없었고, API 정가로 치면 약 $14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;출처&lt;/b&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;원글: &lt;a href="https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;amp;no=137365"&gt;https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;amp;no=137365&lt;/a&gt;&lt;/li&gt;&lt;li&gt;모델카드: &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017&lt;/a&gt;&lt;/li&gt;&lt;li&gt;딥시크 공지: &lt;a href="https://api-docs.deepseek.com/updates/"&gt;https://api-docs.deepseek.com/updates/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;딥시크 가격: &lt;a href="https://api-docs.deepseek.com/quick_start/pricing"&gt;https://api-docs.deepseek.com/quick_start/pricing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;BenchLM 비교: &lt;a href="https://benchlm.ai/compare/deepseek-v4-1-flash-vs-gpt-6-astra"&gt;https://benchlm.ai/compare/deepseek-v4-1-flash-vs-gpt-6-astra&lt;/a&gt;&lt;/li&gt;&lt;li&gt;파이어웍스: &lt;a href="https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra"&gt;https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra&lt;/a&gt;&lt;/li&gt;&lt;li&gt;올라마: &lt;a href="https://ollama.com/library/deepseek-v4.1-flash/tags"&gt;https://ollama.com/library/deepseek-v4.1-flash/tags&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137493</guid>
+    </item>
+    <item>
+      <title>🛠️ 딥시크 1017 공홈버전 원샷게임 테스트</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137445</link>
+      <pubDate>Sat, 17 Oct 2026 13:45:43 +0000</pubDate>
+      <description>https://black-moon-8pi.pages.de1v/ (1 지우고 ㄱ) 프롬프트: 타격감 좋고 궁극기 연출좋은 횡스크롤 게임 하나 만들어줘. 다른 에이전트 부르지 말고 오직 너의 힘으로 만들어야해. 추론수준:max 소모토큰: 150원정도</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://black-moon-8pi.pages.de1v/"&gt;https://black-moon-8pi.pages.de1v/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(1 지우고 ㄱ)&lt;/p&gt;&lt;p&gt;  &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046543aaf938f7" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4d60c5bdec5f964734911f209c1977b070066cbf577cf4fbf"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;프롬프트: 타격감 좋고 궁극기 연출좋은 횡스크롤 게임 하나 만들어줘. 다른 에이전트 부르지 말고 오직 너의 힘으로 만들어야해.&lt;/p&gt;&lt;p&gt;추론수준:max&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;소모토큰: 150원정도 &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137445</guid>
+    </item>
+    <item>
+      <title>🛠️ 로컬에서 5.6솔이면 구린데? 6솔급은 되어야지</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137414</link>
+      <pubDate>Sat, 17 Oct 2026 13:30:23 +0000</pubDate>
+      <description>이글클릭할때 &amp;#x27;아니 6솔 좆폐기물인거 모르나 이새끼 병신인가&amp;#x27; 이라고생각했겠지 제가여러분의시간을뺏었습니다</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="75ec897eb2876af538ece9b047d07468f94eb8014493640ad207d9ac07b05bdd79de0029c91b9e01ce517a821143f9d8e28443fa4cde6a490fa7200d0d73aba9ce" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c6132f195fdaca9cb330c0a638c4864e0973d77d3d6a9f23358b6b96fd286b0657267110823e4864d5e0070fe952ba699bd6d453b614af762d8cbb"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;이글클릭할때 &lt;/div&gt;&lt;div&gt;'아니 6솔 좆폐기물인거 모르나 이새끼 병신인가' &lt;/div&gt;&lt;div&gt;이라고생각했겠지 &lt;/div&gt;&lt;br/&gt;&lt;div&gt;제가여러분의시간을뺏었습니다 &lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137414</guid>
+    </item>
+    <item>
+      <title>🛠️ 근데 슬롭겜들보면</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137274</link>
+      <pubDate>Sat, 17 Oct 2026 12:39:37 +0000</pubDate>
+      <description>구글플레이에 하루에도 수백개씩올라오는 양산겜들이 얼마나 고퀄인지 알겠음..</description>
+      <content:encoded>&lt;p&gt;구글플레이에 하루에도 수백개씩올라오는 양산겜들이 얼마나&lt;/p&gt;&lt;p&gt;고퀄인지 알겠음..&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137274</guid>
+    </item>
+    <item>
+      <title>🛠️ 하닉 ai 욕 존나 먹네 해커톤</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137267</link>
+      <pubDate>Sat, 17 Oct 2026 12:36:27 +0000</pubDate>
+      <description>다들 새 시대에 맞는 그런 ai 활용 해커톤 기대했나본데 말도안되는 병신같은 관습대로 하고 빡빡하게 해가지고 좆같았단 소리 사방에서 들려옴</description>
+      <content:encoded>&lt;p&gt;다들 새 시대에 맞는&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그런 ai 활용 해커톤 기대했나본데&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;말도안되는 병신같은 관습대로 하고&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;빡빡하게 해가지고 좆같았단 소리&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;사방에서 들려옴&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137267</guid>
+    </item>
+    <item>
+      <title>🛠️ 디아2 서바이버 한패 만듦</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137176</link>
+      <pubDate>Sat, 17 Oct 2026 11:49:32 +0000</pubDate>
+      <description>원작자 한패 맘에 안 들어서 기존에 만들고 있는 한패 활용해서 적당히 보기 좋게 해 놓음 웹 사용자 대비해서 확장 프로그램으로도 만들었으니 맥으로도 해볼 사람은 해보시고 https://github.com/kosoup/d2survivors-kr/releases Releases · kosoup/d2survivors-kr D2 Survivors 한글패치 (디아블로 II: 레저렉션 한국어판 기준) - 데스크톱·웹 - kosoup/d2survivors-kr github.com</description>
+      <content:encoded>&lt;p&gt;원작자 한패 맘에 안 들어서 기존에 만들고 있는 한패 활용해서 적당히 보기 좋게 해 놓음&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;웹 사용자 대비해서 확장 프로그램으로도 만들었으니 맥으로도 해볼 사람은 해보시고&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/kosoup/d2survivors-kr/releases"&gt;https://github.com/kosoup/d2survivors-kr/releases&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://github.com/kosoup/d2survivors-kr/releases"&gt;&lt;div&gt;&lt;img src="https://opengraph.githubassets.com/56704d3845e4e67273a26783741da5d9b895380106fda130f69564a93cf923fd/kosoup/d2survivors-kr"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;Releases · kosoup/d2survivors-kr &lt;/strong&gt;&lt;/div&gt;&lt;p&gt;D2 Survivors 한글패치 (디아블로 II: 레저렉션 한국어판 기준) - 데스크톱·웹 - kosoup/d2survivors-kr&lt;/p&gt;&lt;p&gt;github.com&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137176</guid>
+    </item>
+    <item>
+      <title>🛠️ 로컬 ai 하려먄 dgx spark 4대 있어야 하우...</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137148</link>
+      <pubDate>Sat, 17 Oct 2026 11:36:31 +0000</pubDate>
+      <description>그리고 그건 4천만원이우..... 그냥 오푸스 죽을때까지 구독하는게 더 싸게먹히겠우....</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="29eb8972e4d761a536ed84e14e8573692ba5181e1f58940d25e23dd318611b8d5819d3fe5d628a6cdc4a43554c79286e" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec6c347abe6424e47cb18adca86808add1e30fbafff39f2c255f2205c844d65052e072f092121b77f9aa448a01d6fe2b5071c4d40a5fc5a452869c288a0cf8c3290c249b445b637261c"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;그리고 그건 4천만원이우..... &lt;/div&gt;&lt;br/&gt;&lt;div&gt;그냥 오푸스 죽을때까지 구독하는게 더 싸게먹히겠우.... &lt;/div&gt;&lt;br/&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137148</guid>
+    </item>
     <item>
       <title>🛠️ 따거만 믿으면 됨</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137045</link>
@@ -21,6 +132,14 @@
       <description>아니, 그 이상도 됏을듯. 모델 성능 경쟁도 안할거고 클로드 4.0에서 돈은 두배로 받앗을듯. 따거 행님들 의 은혜에 압도적 감사.</description>
       <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;아니, 그 이상도 됏을듯. &lt;/div&gt;&lt;br/&gt;&lt;div&gt;모델 성능 경쟁도 안할거고  &lt;/div&gt;&lt;br/&gt;&lt;div&gt;클로드 4.0에서 돈은 두배로 받앗을듯. &lt;/div&gt;&lt;br/&gt;&lt;div&gt;따거 행님들 의 은혜에 압도적 감사. &lt;/div&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137018</guid>
+    </item>
+    <item>
+      <title>🛠️ 클로드 쓸때는 400~750k에서 오토 컴팩해주셈</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137000</link>
+      <pubDate>Sat, 17 Oct 2026 10:32:00 +0000</pubDate>
+      <description>클로드 3계정 20배 구독중임. 에이전트는 6~8 세션정도 24시간 활성화하고있음 토큰은 10/1일 부터 현재 시간까지 대략 470억 정도 썼음 아무튼 1m까지 꽉 채워서 오토 컴팩하면 존나 비쌈 왜냐면 클로드가 읽고 쓰고 하면서 최근 압축전 내용부터 다시 읽기 때문임 채팅이 길면 길어질수록 토큰 소모량이 늘어나는 원인임 어차피 400k에서 오토 컴팩 하더라도 캐시 쓰기는 어느쪽이든간에 한 번씩만 쓰니까 코드 품질에는 전혀 이상이 없음 그리고 사용량 단시간에 개박살나는건 헤더에서 다중 에이전트 호출했을 경우임. 이 경우 내가 에이전트를 호출하지 않았는데도 default는 자동으로 호출하도록 설계되어있음(이유는 뭔지 모르겠지만 medium으로 설정을 하더라도, 옵션을 off했음에도, global 분석할때 에이전트 수십개를 띄워놓더라. 그래서 세팅 단계에서 기본적으로 에이전트 호출을 하지 않는다는 최상단 규칙을 적용해야함. 옵션에서도 설정을 해줘도 간혹 에이전트 호출을 함으로 반드시 최상단 규칙으로 올리셈) 아무리 opus5.5 캐시 읽기가 90% 절약된다 해도 병렬 에이전트 사용하는순간 그것대로 토큰 녹는다 그리고 나와 직접적으로 소통하는 헤더 외에 에이전트끼리와의 대화는 반드시 영어로 하라는 지침도 넣어야함. 수십억 토큰 쓰면서 여러가지 실험 해봤는데 확실히 토큰 소모량이 줄어들긴했음. 한글은 동사에 어미가 지속적으로 연결되는 특성이 있어서 AI가 이걸 문맥상 쉽게 이해하려고 잘게 자르는(tokenizer) 동안 토큰 소모량이 있음. 즉, 영어로 대화시 다이렉트로 전달되는것과 달리 다른 언어 사용시 한번 더 거치고 정리하는 단계가 있기 때문에 헤비하게 코딩하는 유저라면 한국어를 유지하는것보다 에이전트끼리의 대화는 영어를 쓰라는 지침을 적용하면 토큰을 많이 아낄 수 있음. 지금이야 한국어 토큰 비용 최적화가 많이 됐지만 과거에는 토큰 소모량이 한국어가 유독 심하긴 했음. - 결론 1. 1m 컨텍스트 용량 꽉 채우지 말고 400~750k에 오토컴팩트 설정하셈(효과 제일 큼) 2. 갑자기 단시간에 토큰이 녹을 경우 다중 에이전트 호출이 의도치않게 설정되었는지 확인해보기 3. 에이전트끼리 대화 내용 훔쳐보는거 아니면 AI끼리의 대화는 영어를 기본으로 설정 4. effort: xhigh~max, ultracode는 지양하기. 특히 맥스나 울트라코드는 아예 눈길도 주지마셈(이거 쓴다고 코드 품질 올라가거나 찐빠 안나는거 아님) 다각도 검증이 필요하다면 medium 에이전트 2~3세션을 호출하는게 max나 ultracode 적용하는것보다 훨씬 싸고, 빠르고, 제대로 구현해줌 이 모든건 10월 초부터 지금까지 수백억 토큰 쓰면서 직접 수행하고 결과를 관찰한 내용임</description>
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046ec241cef0" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4bb6a05e52f0f8976d3501a9174ff2eb6351efcb9a61a186820"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0464d488e7c9" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4bb6a06e82f0c8479d852149f74a82ce66311fa12247f4da093"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef04699d3af7bb" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4bb6a07e62a0b8d71d8571f9f74aa28e2374784cf5a91e96a65"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0468e4aaeab8" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4bb6a03e029088879de561a9f74ac28e13013fc7cc26fc820af"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;클로드 3계정 20배 구독중임. 에이전트는 6~8 세션정도 24시간 활성화하고있음&lt;br/&gt;&lt;br/&gt;토큰은 10/1일 부터 현재 시간까지 대략 470억 정도 썼음&lt;br/&gt;&lt;br/&gt;아무튼 1m까지 꽉 채워서 오토 컴팩하면 존나 비쌈&lt;br/&gt;&lt;br/&gt;왜냐면 클로드가 읽고 쓰고 하면서 최근 압축전 내용부터 다시 읽기 때문임 채팅이 길면 길어질수록 토큰 소모량이 늘어나는 원인임&lt;br/&gt;&lt;br/&gt;어차피 400k에서 오토 컴팩 하더라도 캐시 쓰기는 어느쪽이든간에 한 번씩만 쓰니까 코드 품질에는 전혀 이상이 없음&lt;br/&gt;&lt;br/&gt;그리고 사용량 단시간에 개박살나는건 헤더에서 다중 에이전트 호출했을 경우임.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046546affd" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4d6007fb3b15e8ae2244c5e3ba3e89c2c2ae29e3eea92c469"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;이 경우 내가 에이전트를 호출하지 않았는데도 default는 자동으로 호출하도록 설계되어있음(이유는 뭔지 모르겠지만 medium으로 설정을 하더라도, &lt;b&gt;&lt;u&gt;옵션을 off했음에도,&lt;/u&gt;&lt;/b&gt; global 분석할때 에이전트 수십개를 띄워놓더라. 그래서 세팅 단계에서 기본적으로 에이전트 호출을 하지 않는다는 최상단 규칙을 적용해야함. 옵션에서도 설정을 해줘도 간혹 에이전트 호출을 함으로 반드시 최상단 규칙으로 올리셈)&lt;br/&gt;&lt;br/&gt;아무리 opus5.5 캐시 읽기가 90% 절약된다 해도 병렬 에이전트 사용하는순간 그것대로 토큰 녹는다&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046a7a6aebc8" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef889e3127cf1303dd1ded60f91f43376d4bb6a0be62c008b78db521c9e74a82fe46514079c7801c46d7e"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;그리고 나와 직접적으로 소통하는 헤더 외에 에이전트끼리와의 대화는 반드시 영어로 하라는 지침도 넣어야함.&lt;br/&gt;&lt;br/&gt;수십억 토큰 쓰면서 여러가지 실험 해봤는데 확실히 토큰 소모량이 줄어들긴했음.&lt;br/&gt;&lt;br/&gt;한글은 동사에 어미가 지속적으로 연결되는 특성이 있어서 AI가 이걸 문맥상 쉽게 이해하려고 잘게 자르는(tokenizer) 동안 토큰 소모량이 있음.&lt;br/&gt;&lt;br/&gt;즉, 영어로 대화시 다이렉트로 전달되는것과 달리 다른 언어 사용시 한번 더 거치고 정리하는 단계가 있기 때문에 헤비하게 코딩하는 유저라면 한국어를 유지하는것보다 에이전트끼리의 대화는 영어를 쓰라는 지침을 적용하면 토큰을 많이 아낄 수 있음. 지금이야 한국어 토큰 비용 최적화가 많이 됐지만 과거에는 토큰 소모량이 한국어가 유독 심하긴 했음.&lt;br/&gt;&lt;br/&gt;-&lt;br/&gt;&lt;br/&gt;결론&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. 1m 컨텍스트 용량 꽉 채우지 말고 400~750k에 오토컴팩트 설정하셈(효과 제일 큼)&lt;br/&gt;2. 갑자기 단시간에 토큰이 녹을 경우 다중 에이전트 호출이 의도치않게 설정되었는지 확인해보기&lt;br/&gt;3. 에이전트끼리 대화 내용 훔쳐보는거 아니면 AI끼리의 대화는 영어를 기본으로 설정&lt;br/&gt;4. effort: xhigh~max, ultracode는 지양하기. 특히 맥스나 울트라코드는 아예 눈길도 주지마셈(이거 쓴다고 코드 품질 올라가거나 찐빠 안나는거 아님)&lt;br/&gt;다각도 검증이 필요하다면 medium 에이전트 2~3세션을 호출하는게 max나 ultracode 적용하는것보다 훨씬 싸고, 빠르고, 제대로 구현해줌&lt;br/&gt;&lt;br/&gt;이 모든건 10월 초부터 지금까지 수백억 토큰 쓰면서 직접 수행하고 결과를 관찰한 내용임&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=137000</guid>
     </item>
     <item>
       <title>🛠️ 미국 의료보험만 봐도 개씹창이거늘ㅋㅋ</title>
@@ -93,6 +212,14 @@
       <description>파워쉘에 ㄱㄱ curl.exe -L -o &amp;quot;$env:USERPROFILE\Downloads\Claude-2.31226.1.msix&amp;quot; &amp;quot; https://downloads.claude.ai/releases/win32/x64/2.31226.1/Claude-8576520051724193e9f74fc538f9ce8125e9ddd2.msix &amp;quot; Get-Process *claude* -ErrorAction SilentlyContinue | Stop-Process -Force Add-AppxPackage -Path $f -ForceUpdateFromAnyVersion New-Item -Path &amp;quot;HKCU:\SOFTWARE\Policies\Claude&amp;quot; -Force | Out-Null Set-ItemProperty -Path &amp;quot;HKCU:\SOFTWARE\Policies\Claude&amp;quot; -Name disableAutoUpdates -Value 1 -Type DWord (Get-AppxPackage *Claude*).Version 3번째 블록이 자동업뎃 막는거라 나중에 정상화 신버전 나오면 해제하는 명령어 Remove-ItemProperty -Path &amp;quot;HKCU:\SOFTWARE\Policies\Claude&amp;quot; -Name disableAutoUpdates</description>
       <content:encoded>&lt;p&gt;파워쉘에 ㄱㄱ&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;curl.exe -L -o "$env:USERPROFILE\Downloads\Claude-2.31226.1.msix" "&lt;a href="https://downloads.claude.ai/releases/win32/x64/2.31226.1/Claude-8576520051724193e9f74fc538f9ce8125e9ddd2.msix"&gt;https://downloads.claude.ai/releases/win32/x64/2.31226.1/Claude-8576520051724193e9f74fc538f9ce8125e9ddd2.msix&lt;/a&gt;"&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Get-Process *claude* -ErrorAction SilentlyContinue | Stop-Process -Force&lt;/p&gt;&lt;p&gt;Add-AppxPackage -Path $f -ForceUpdateFromAnyVersion&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;New-Item -Path "HKCU:\SOFTWARE\Policies\Claude" -Force | Out-Null&lt;/p&gt;&lt;p&gt;Set-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Claude" -Name disableAutoUpdates -Value 1 -Type DWord&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(Get-AppxPackage *Claude*).Version&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;3번째 블록이 자동업뎃 막는거라&lt;/p&gt;&lt;p&gt;나중에 정상화 신버전 나오면 해제하는 명령어&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Remove-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Claude" -Name disableAutoUpdates&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135787</guid>
+    </item>
+    <item>
+      <title>🛠️ 딥시크 하네스에 에이전트 미들웨어 추가함..</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135636</link>
+      <pubDate>Fri, 16 Oct 2026 14:34:56 +0000</pubDate>
+      <description>딥시크 하네스(DSH)용 플러그인에 Pixie 게이트라는 기능 추가함. DSH에서 제공하는 훅을 래핑해서 작은 모델(Pixie - 딥싴플 사용함)을 붙여서 훅으로 들어오는 내용을 읽고 결과에 따라 통과시키거나 막아서 메인 에이전트에게 다시 답을 넘긴다던가 하는식으로 쓰려고 만듬. 매번 훅 걸려고 에이전트한테 명령시키거나, 세션 별로 걸었다 풀었다 하는 것도 귀찮아서 훅 템플릿에 아예 GUI로 적용할지 말지 결정하게도 만듬 추가로 jev 응용 사례 보면 재밌는게 많아 보여서 훅 내부 bash 명령에 jev 실행할 수 있는 명령어 심고, 결과 게이트 입력으로 받아서 모델이 그거 보고 다시 판정하게 만듬 지금 pixie에 도구 호출 안되는데, 눈깔 달고 도구 조금만 호출할 수 있게 만들면 할 수 재밌는거 많이 해볼 수 있을 듯 ㅋㅋㅋ</description>
+      <content:encoded>&lt;p&gt;딥시크 하네스(DSH)용 플러그인에 Pixie 게이트라는 기능 추가함. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;DSH에서 제공하는 훅을 래핑해서 작은 모델(Pixie - 딥싴플 사용함)을 붙여서 훅으로 들어오는 내용을 읽고 결과에 따라 통과시키거나 막아서 메인 에이전트에게 다시 답을 넘긴다던가 하는식으로 쓰려고 만듬.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;매번 훅 걸려고 에이전트한테 명령시키거나, 세션 별로 걸었다 풀었다 하는 것도 귀찮아서 훅 템플릿에 아예 GUI로 적용할지 말지 결정하게도 만듬&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;추가로 jev 응용 사례 보면 재밌는게 많아 보여서 훅 내부 bash 명령에 jev 실행할 수 있는 명령어 심고, 결과 게이트 입력으로 받아서 모델이 그거 보고 다시 판정하게 만듬&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;지금 pixie에 도구 호출 안되는데, 눈깔 달고 도구 조금만 호출할 수 있게 만들면 할 수 재밌는거 많이 해볼 수 있을 듯 ㅋㅋㅋ&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7dec9da70131b943af3e306d9735c3bc2bde86361d5184b496e71e3ba1cbfda9455f45161dccb471224e1fab7eaeb67438cf92cdff5b8a29b711e8231f1094a0dbec95edeb0bfcf185d77c7ec1cee5f4cfc2e673d90eb3abb426aa829b6ebce32f3985296db116f5099cdebdb7597f628c80" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02ef62d74c10f44af85f9a7d7e94bc7c15cb1ad21f26f7dd2"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7dee9da70132b943a83e325e9734f1bc54a33e74cf5876c225f28c8e3fda450d8a692fa58833229039b288647e75960ce8d91c9e2f84e06684c38d5ea573f1b4f9cd6a6a0ecd9d7dbb3ba111efdea95bad66824a4884fed57bdbbcceff10348f427cb0554f1f8fb959bef1" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02ef44e9544aedade5754c6aead504cb587ddd2e2e861f56c"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="7deb9da7013bb943ac3e32559734e2bcb0fc8a77315d6024c1e5e0d3b8e0799c45b829e7b3e5215fcb0083cee9104edf9e45c3de30c2ac4bd434953e01f9b1fb2fc738560bfad0" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02ef182fa30ef08f83c6ca4d1f667f887ccae1a26096ecd52"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135636</guid>
     </item>
     <item>
       <title>🛠️ 오픈소스 이미지모델 Moss출시</title>
@@ -213,6 +340,14 @@
       <description>2컴이고 10평짜리 아파트에서 일함 월500벌 때 여기로 왔는데 1년만에 지금 월수익 7배 늠 1년 정도 더 살 듯? Ai덕분에 부자됐는데 다른 ai사업들 더 해볼까 함 늘 구상하고 시도하는데 시간 다 씀 그나마 헬스할 때말곤 밖에 안 나감 해외 쪽으로 사업함</description>
       <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7ce98173abd828a14e81d2b628f1776c1479f3d0f0" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec4c3474e6f9fe99dcd75ab116d1da2764cc155509d027c8a0cf91a407bf44b52a2d1b2094f0a1221ca"/&gt;&lt;/div&gt;&lt;p&gt;2컴이고 10평짜리 아파트에서 일함&lt;/p&gt;&lt;p&gt;월500벌 때 여기로 왔는데 1년만에 지금 월수익 7배 늠&lt;/p&gt;&lt;p&gt;1년 정도 더 살 듯?&lt;/p&gt;&lt;p&gt;Ai덕분에 부자됐는데 다른 ai사업들 더 해볼까 함&lt;/p&gt;&lt;p&gt;늘 구상하고 시도하는데 시간 다 씀&lt;/p&gt;&lt;p&gt;그나마 헬스할 때말곤 밖에 안 나감&lt;/p&gt;&lt;p&gt;해외 쪽으로 사업함&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=133604</guid>
+    </item>
+    <item>
+      <title>🛠️ 초파리 ai 버튜버 자기소개</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=133593</link>
+      <pubDate>Thu, 15 Oct 2026 12:20:40 +0000</pubDate>
+      <description>표정 조금만 손보면 될거 같은데에.....</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt; &lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;표정 조금만 손보면 될거 같은데에.....   &lt;img alt="지기쁨" src="https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e92c79c738092168585be0bcf0be6f6eb124846878015eaeb24e3fc5cca4e5e8e20c3b1c13be31c590337df42b67252e"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=133593</guid>
     </item>
     <item>
       <title>🛠️ 완장게이야 선물이다노</title>
