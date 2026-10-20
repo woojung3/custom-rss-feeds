@@ -4,8 +4,48 @@
     <title>🛠️ AI 활용 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize&amp;exception_mode=recommend</link>
     <description>AI 활용 추천글</description>
-    <lastBuildDate>Tue, 20 Oct 2026 10:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:05:14 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/ai-utilize.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛠️ Closed AI</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143931</link>
+      <pubDate>Tue, 20 Oct 2026 14:09:00 +0000</pubDate>
+      <description>Open AI</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="24b0d121e0c175f420afd8b236ef203ef81d45c7e80110" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc1c34712329bdb28240d3f41a744162e63583c477b7c751dc7b2904735ee9844ba8003551f9b88c0f1aaa9350e8098099299"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt;Open AI &lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="24b0d121e0c175f520afd8b236ef203ed8fa3afc37db" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc1c34712329bdb28240d3f41a744162e6358366388ec3992e56d7efbf8c943a35cb00d6f075d8ca9d379d35318186b1c3b9e"/&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143931</guid>
+    </item>
+    <item>
+      <title>🛠️ 딥시크, DeepInfer &amp; 딥시크 recipe를 오픈소스로 공개</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143686</link>
+      <pubDate>Tue, 20 Oct 2026 10:49:41 +0000</pubDate>
+      <description>https://github.com/deepseek-ai/DeepInfer GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer github.com https://github.com/deepseek-ai/deepseek-recipe GitHub - deepseek-ai/deepseek-recipe Contribute to deepseek-ai/deepseek-recipe development by creating an account on GitHub. github.com 원문 미디어 보기</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c64f52c489f" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2efb8ee342198ed3b42e8b5d9c844f9749a8afead850244478f70d5a395647ed74e0058d62c9c082dee533"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c62f72f4a94" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2efb8ee342198ed3b42e8b5d9c844f9749a8afeade55254670f30a593e5d47ed2bb753df9e1a3ea0e31d0b"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046ece4bcef0" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2efb8ee342198ed3b42e8b5d9c844f9749a8afead7512f4571f6055f385247b870e756de5405664dc0c6ea"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/deepseek-ai/DeepInfer"&gt;https://github.com/deepseek-ai/DeepInfer&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://github.com/deepseek-ai/DeepInfer"&gt;&lt;div&gt;&lt;img src="https://opengraph.githubassets.com/b036e188e0cbdec322c5708a20bfe90f3e63db002227598a945d9348c08cdc83/deepseek-ai/DeepInfer"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models &lt;/strong&gt;&lt;/div&gt;&lt;p&gt;DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer&lt;/p&gt;&lt;p&gt;github.com&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/deepseek-ai/deepseek-recipe"&gt;https://github.com/deepseek-ai/deepseek-recipe&lt;/a&gt;&lt;a href="https://github.com/deepseek-ai/deepseek-recipe"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://github.com/deepseek-ai/deepseek-recipe"&gt;&lt;div&gt;&lt;img src="https://opengraph.githubassets.com/2a30faf4bf3460e2a6aa68c58304caa00327bf31a739433bd2d8da7e344b57c0/deepseek-ai/deepseek-recipe"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;GitHub - deepseek-ai/deepseek-recipe &lt;/strong&gt;&lt;/div&gt;&lt;p&gt;Contribute to deepseek-ai/deepseek-recipe development by creating an account on GitHub.&lt;/p&gt;&lt;p&gt;github.com&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b585ade035c0f98d17198d"&gt;원문 미디어 보기&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143686</guid>
+    </item>
+    <item>
+      <title>🛠️ 클로드 쓰면서 다리오 아모데이 욕 계속 박으니까</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143662</link>
+      <pubDate>Tue, 20 Oct 2026 10:25:30 +0000</pubDate>
+      <description>이렇게 메일옴 - dc official App</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="74998475b4f669f223ef8ee3439c706e15cb9bcd5b74ba9e894b569d49974bcb77580f6d4e0790c091db022f73061e2fcaf549" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc1c34712329bdb28240d3f41a744162e6358366a89ec3994e36971f1f89c47fd09be08094eecce3cadf63d39258571dfaf9b6e9b6256d9bb67db6daa373dc07778412e1e584d59a8e09588e69f2e"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;이렇게 메일옴&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt;- dc official App&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143662</guid>
+    </item>
+    <item>
+      <title>🛠️ 펌) 인디게임 AI 긴빠이 원리 간단정리</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143557</link>
+      <pubDate>Tue, 20 Oct 2026 09:04:54 +0000</pubDate>
+      <description />
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbba20af9e550656aaf62d4635939d6c080c8747fc30af3b4fcb001acb45328608055" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc1c34712329bdb28240d3f41a744162e0e34310a8b04c8c72e1504ab9855e6f43a0538e8ead37bbcd3a7d27c5aa5a6367739d0b591c4c042cdece427c41c4819f711977e683e98db06b6"/&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143557</guid>
+    </item>
+    <item>
+      <title>🛠️ 이런 싯발 정보탭은 슬롭쓰레기통이아니에요</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143503</link>
+      <pubDate>Tue, 20 Oct 2026 08:29:50 +0000</pubDate>
+      <description>깃헙에 스타 열개짜리 만화제작기같은거만써도 훨씬나은데 왜 지피티딸깍만하는거야</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7eee8172b2806ef73ee8e9e74687773e09ef9fab1c8106d47eff6c62227e0768ea7bc343bb3ccf4950879e25a3d03181283d686f0ae85d345bcfb96f939073dbe883720b5be42b4053fa" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c6132f1e5fd1c894bf30c7d29b2e90921c5db4efcab945502cafbe3128ea9bf87c0fa72e4aff890480fb9b7af213bb0dbe7fbcad6a2315bfaa90bb798834ccee0c25"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;깃헙에 스타 열개짜리 만화제작기같은거만써도 훨씬나은데 왜 지피티딸깍만하는거야 &lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143503</guid>
+    </item>
     <item>
       <title>🛠️ 현재 주딱위임관련하여 신영선님에게 피드백 받았습니다.</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=143434</link>
@@ -319,6 +359,14 @@
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=138345</guid>
     </item>
     <item>
+      <title>🛠️ 3d게임 도전기 | 월 50만원(구독), 매일 10시간 [14일차]</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=138339</link>
+      <pubDate>Sat, 17 Oct 2026 19:59:21 +0000</pubDate>
+      <description>메인은 클로드 opus 5.5 high 쓰고 있고, 이미지 생성할때(텍스처 생성, 모델용 3면도) 클로드에서 터미널 코덱스 exec로 호출해서 만들고 블렌더 작업이나 모션 작업 같은건 fable 5.1 high로 돌리고 있음 아스트라가 잘한다고 해서 써봤는데 그냥 개인적으로 페이블이 더 잘 하는 것 같음(기존 모델링 수정이나 리깅, 모션 생성에 사용함) 호두까기 인형 세계관을 가져와서 만들어 보고 있는데, 시간을 들일 수록 결과물이 계속 나아지는게 보이니까 재밌음 눈팅만 하다가 뭔가 나처럼 에셋 안 쓰고 3D 만드는 사람들은 안 보이길래 한 번 글 써봤음 1차 목표는 스팀 게임 출시 + 실 사용자 100명 확보이고, 멀티도 넣어보려고 아직 14일차라 좀 허접하지만 시간 박다보면 한 3개월 차 쯤엔 뭔가 보이지 않을까 싶어서 일단 해보는 중 아래 영상은 3일차 영상</description>
+      <content:encoded>&lt;p&gt;메인은 클로드 opus 5.5 high 쓰고 있고, 이미지 생성할때(텍스처 생성, 모델용 3면도) 클로드에서 터미널 코덱스 exec로 호출해서 만들고 &lt;br/&gt;블렌더 작업이나 모션 작업 같은건 fable 5.1 high로 돌리고 있음&lt;br/&gt;아스트라가 잘한다고 해서 써봤는데 그냥 개인적으로 페이블이 더 잘 하는 것 같음(기존 모델링 수정이나 리깅, 모션 생성에 사용함)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;호두까기 인형 세계관을 가져와서 만들어 보고 있는데, 시간을 들일 수록 결과물이 계속 나아지는게 보이니까 재밌음&lt;br/&gt;&lt;br/&gt;눈팅만 하다가 뭔가 나처럼 에셋 안 쓰고 3D 만드는 사람들은 안 보이길래 한 번 글 써봤음&lt;br/&gt;&lt;br/&gt;1차 목표는 스팀 게임 출시 + 실 사용자 100명 확보이고, 멀티도 넣어보려고&lt;br/&gt;아직 14일차라 좀 허접하지만 시간 박다보면 한 3개월 차 쯤엔 뭔가 보이지 않을까 싶어서 일단 해보는 중&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;아래 영상은 3일차 영상&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=138339</guid>
+    </item>
+    <item>
       <title>🛠️ 걍 뤼튼 미만 다 잡임 ㄹㅇㅋㅋ</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=138238</link>
       <pubDate>Sat, 17 Oct 2026 18:22:29 +0000</pubDate>
@@ -596,6 +644,14 @@
       <description>https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base OpenMOSS-Team/MOSS-Image-Base · Hugging Face We’re on a journey to advance and democratize artificial intelligence through open source and open science. huggingface.co 파라미터 5b 예시 이미지들보면 체급 꽤 좋은듯?</description>
       <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;a href="https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base"&gt;https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base"&gt;&lt;div&gt;&lt;img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/OpenMOSS-Team/MOSS-Image-Base.png"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;OpenMOSS-Team/MOSS-Image-Base · Hugging Face&lt;/strong&gt;&lt;/div&gt;&lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;&lt;p&gt;huggingface.co&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="39b8d135e0c076b16bbdc69528d52703f083358192969c" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3470c1fc967eda541b4a5476c27bcea59ddf1d5b9afb6342de373db648c71fbdcbed3ae6e6db1f222527a"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="2cb4ef33f1db34af74ba9be74683726ca6ac898f0b68d6ce97382752822b79f9e561b4620cf288f5b3b546cb236121ea0fa0593439ec86" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3470c1fc967eda541b4a5476d21b6e658d34b1bb098df1066b0470eeef7acb41355e2d72d814e8db3447d7e1e227e51335af52a9760fd9a623a54ab6c198e7ab99c5000bb9e797df35a"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="2cb4ef33f1db34af74ba9be74683726ca6ac898f0b68d6ce973f2752822a79f9541fab927e740e4432783c4e6384ac140a9c7d5134" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3470c1fc967eda541b4a5472374e68d55de50315f5126c2e6cdaee6fa151f8e466423215c413f576793ddcefc9bccb270c34aaf79bdc3fdc0fa7141f6e8775e75c9cbed77598bfdd38e2e02d6"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt;파라미터 5b &lt;/div&gt;&lt;br/&gt;&lt;div&gt;예시 이미지들보면 체급 꽤 좋은듯? &lt;/div&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135610</guid>
+    </item>
+    <item>
+      <title>🛠️ 내가 쓰려고 만든 마크다운 형식 메모장</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135533</link>
+      <pubDate>Fri, 16 Oct 2026 13:26:27 +0000</pubDate>
+      <description>이렇게 저장하기 때문에 다른 마크다운 편집기에서도 열 수 있음 https://github.com/tbvwv123/TB-s-Notepad mit 라이선스 프로그램 용량 15mb 나중에 여유 생기면 폰 버전도 만들 듯</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f5944989ead" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02ef18bf43be80ef13860a1d1a261f783c7a9a0445befd49a"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a15714ab041eb360be3335625683746f02534429d6a7ed89d53761f29f17cd6e2b83170673d6aadb6f9a4daf24ad" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02efc3584ef7a94ee0dae83607252c93e72679ce40eda59bb"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f584b909ea9" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02efdf0b5f717c10baee65cf09d0fcec714f4103fb6f4f99e"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f5c4c9b9ca1" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e0e1c40566db92f4ae157cb2b02ef6257bcb0b43ad80f0acd7ef1896910ce113b959dd3b21"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;이렇게 저장하기 때문에 다른 마크다운 편집기에서도 열 수 있음&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/tbvwv123/TB-s-Notepad"&gt;https://github.com/tbvwv123/TB-s-Notepad&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;mit 라이선스&lt;/p&gt;&lt;p&gt;프로그램 용량 15mb&lt;/p&gt;&lt;p&gt;나중에 여유 생기면 폰 버전도 만들 듯&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=135533</guid>
     </item>
     <item>
       <title>🛠️ 짚 자동완성 웃기네</title>
