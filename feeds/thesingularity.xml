@@ -4,8 +4,16 @@
     <title>🚀 특이점이 온다 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=thesingularity&amp;exception_mode=recommend</link>
     <description>특이점이 온다 추천글</description>
-    <lastBuildDate>Fri, 23 Oct 2026 22:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:41:08 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/thesingularity.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 OAI: 10월 1일부터 강화학습이랑 내부추론 재개했음</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1496333</link>
+      <pubDate>Fri, 23 Oct 2026 23:35:55 +0000</pubDate>
+      <description>https://openai.com/index/securing-our-frontier-model-training-environment/ 요약: 우리 안전 장치 존나게 보강했고, 우리가 가진 가장 강력한 내부 모델이랑 아스트라 사이버로 수천억 토큰 들이부으면서 뚫게 시켜봐서, 발견된 헛점들 존나 보강함. 그 와중에 골때리는 건, 네트워크랑 공유 파일도 없이 완전 격리된 두 AI가 CPU 캐시에서 데이터를 읽는 속도 차이를 신호로 써서 비밀을 주고받는 방식까지 시도함. 흡사 벽 사이에 두고 모스부호 치는것처럼. 결과적으로 현 시점에서 감시를 피하면서 쉽게 뚫을수있는 인터넷 경로는 찾지 못했다고 판단해서 10월 1일부로 강화학습이랑 내부추론 재개했음. ——— cpu 캐시 속도를 모스부호로 쓰는건 진짜 씨발 초지능 아님??? 시발ㅋㅋㅋㅋㅋㅋㅋ 말이 되나 이거</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;&lt;a href="https://openai.com/index/securing-our-frontier-model-training-environment/"&gt;https://openai.com/index/securing-our-frontier-model-training-environment/&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;요약: 우리 안전 장치 존나게 보강했고, 우리가 가진 가장 강력한 내부 모델이랑 아스트라 사이버로 수천억 토큰 들이부으면서 뚫게 시켜봐서, 발견된 헛점들 존나 보강함.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;그 와중에 골때리는 건, 네트워크랑 공유 파일도 없이 완전 격리된 두 AI가 CPU 캐시에서 데이터를 읽는 속도 차이를 신호로 써서 비밀을 주고받는 방식까지 시도함. 흡사 벽 사이에 두고 모스부호 치는것처럼.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;결과적으로 현 시점에서 감시를 피하면서 쉽게 뚫을수있는 인터넷 경로는 찾지 못했다고 판단해서 10월 1일부로 강화학습이랑 내부추론 재개했음.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;———&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;cpu 캐시 속도를 모스부호로 쓰는건 진짜 씨발 초지능 아님??? 시발ㅋㅋㅋㅋㅋㅋㅋ 말이 되나 이거&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1496333</guid>
+    </item>
     <item>
       <title>🚀 ARC-AGI-3 점수 상한 지우기</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1496260</link>
@@ -8239,13 +8247,6 @@ I've spent decades watching infrastructure bets get sold on the upside slide and
       <pubDate>Fri, 02 Oct 2026 12:09:14 +0000</pubDate>
       <description />
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1457617</guid>
-    </item>
-    <item>
-      <title>🚀 마이클 아모데이 월드 투어 영상 ㄷㄷㄷㄷㄷㄷ</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1457614</link>
-      <pubDate>Fri, 02 Oct 2026 12:08:04 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1457614</guid>
     </item>
   </channel>
 </rss>
