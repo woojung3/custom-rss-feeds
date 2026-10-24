@@ -2,6 +2,33 @@
   "dcbest": {
     "items": [
       {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472951",
+        "title": "[U갤] 실시간) 마상구 정병 폭발......jpg",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472951",
+        "date": "2026-10-24T22:06:01+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472950",
+        "title": "[M갤] 볼카한테 쳐맞고 질질짠놈 근황..jpg",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472950",
+        "date": "2026-10-24T21:46:00+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472949",
+        "title": "[해갤] 펨코 밥줌마 근황 ㅋㅋㅋㅋㅋ",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472949",
+        "date": "2026-10-24T20:51:04+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472948",
         "title": "[싱갤] 싱글벙글 흔한 일본의 초등학교 일상...jpg",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472948",
@@ -5524,8 +5551,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471658",
         "date": "2026-10-19T19:46:01+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:16.461194+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471655",
@@ -5533,17 +5562,23 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471655",
         "date": "2026-10-19T19:31:01+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:13.982041+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471654",
         "title": "[싱갤] 싱글벙글 갓본 토요코 키즈 몰살 방법",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471654",
         "date": "2026-10-19T19:26:05+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "고기파티하기 출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:11.167288+00:00",
+        "content_html": "<p></p><div><img alt=\"29bed223f6c675f43eed80e542837d70fd043d55517aca9c46d5322ff07eced89fd6f5e0cf3ac834dc0c\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a1ba86b037b34e845232a1e660a37f495bdb314b97654bf874721e035cd66af5857d0045f2b77e479c4729b2e0c8d92ffcc0e459905e1a7847f19a26beb35038b8e55d4b925df81378798\"/></div><p></p><div><br/><div>고기파티하기 </div></div><div><br/><br/><b>출처: 싱글벙글 지구촌 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=singlebungle1472&amp;no=2663875\">[원본 보기]</a></b></div>",
+        "content_image_count": 1,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471651",
@@ -5551,8 +5586,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471651",
         "date": "2026-10-19T19:11:05+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:08.491127+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471650",
@@ -5560,8 +5597,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471650",
         "date": "2026-10-19T19:06:01+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:06.000944+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471647",
@@ -5569,8 +5608,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471647",
         "date": "2026-10-19T18:56:06+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:03.353321+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471645",
@@ -5578,26 +5619,36 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471645",
         "date": "2026-10-19T18:41:03+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:00.675082+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471643",
         "title": "[도갤] 대한민국 젋음의 거리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471643",
         "date": "2026-10-19T18:31:04+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "이태원 홍대 hot하다 - dc official App 출처: 도시 미관 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:12:57.792651+00:00",
+        "content_html": "<p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6569ae66d4795e3eedd8b2eacaada43c9cb7cd3196c82f1b6c61509ece\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1a2036bc74695466c8516db6970036168cf5ac05a52f9a1c2ebdf3613e5667f4df872b6feb80318d29a354498150e8eaab057533eaae94eca5f7\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6569a86ad4795e3eedd8e78da711335d051323cf53b6aca6b17ed8cc\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1c2fba64add6ed2dbb96d6c7bf4add9e4596ed32699f011f1d583b876567b3666655cf59b4379c6265dc41412899305fdf80a62a701ed4a40028\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6566ae65d4795e3eedd88f3bd7236ae85cdee20badd11c25b28b853ffc\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1f29588afa7ab917f31f08d3f5e702bb681315cce0c5e9873d128ffce5f01324e9f3b717c927a4daec7791d41e119486692e114ebf39698709e7\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6567a967d4795e3eedd8e973c7d45d00d1a389967707f6f29a7b862e\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e192ee9cb893be2e707bc78589a2fe1f09ed529b03e69c00e54e94350a642c194917782ecafd121ed011e149f4d66802012d4ff506033078082c5\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6567a86ad4795e3eedd81f2bae0181eeb72a279054404f08b354f79000\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1e2d796052cacd21919f70206fd9220212c5841d917d216c3b3be7784a36b82fd00355b8aee57f9b5e6846bdf7b3be2e56fa9a397bda4be959e9\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646eae6ad4795e3eedd85933e8760274bf002c154fadc5f5e608a57e\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e102118d4519f97291fa595948c503af050a7cf28252394b14d0e683d36725c5e682bca2018f043172f26aff5fc038ec6c0d56ed4d680a959514a\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646faf60d4795e3eedd80bdc005ad35623562f312df597b9ff03e93c8c\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e192eebcf8b3ce0ee01bc780e9a7de6f4cad546280498f45fd8895746975e375738058792c80341c4f556a7a885b239be6fcf25962a7ed336030e\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646fa864d4795e3eedd8321535c44f932f4570d46d652c0ae3ee73b836\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e102a50b7e230833c1df359ffce41c318fe3858190a55ff04cb333a738fa20bd3e807a723fd7bbdc0fc45b3ee8ca5f96afb6c7b6c31d5e5fc5991\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646cac6ad4795e3eedd828367e9a56d808f5aeb305ea31c65fe74ae173\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1e20c795db55ba208b5cb722197b93b2703def6190e28564f9ebfccf0d6d723c60327e83b9375997f497294f7d251aadff872bfe11c9ec51d338\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646ca966d4795e3eedd8a472811f07548477a820f2a6ea9cd7e28b522e\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1f2e33b068ed81ac920dd3678742490e43c46dccb8be32ca9a6923aeea5870b321d209c074a6c71d5ca97199f492af3ac8d01f5258d361b024be\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646da966d4795e3eedd8e800a6a0e76e17ebde0c5fda6bbbdf58dd92\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1f2e3eb060ea83a99605d337d34f410310c69032f419624ab8e330c1df6ff1df0579701b7a2845f0451c5cb4f50c7c4fad49492719b99e0c144a\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646aad62d4795e3eedd8c7ec3b968a9afc18cf5110c721d2c02a515bca\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1d29e781ddfb2b28752152c21df762dc39f55240ce5c826180f3f595e7aee21eee95aa89d731335baa607824ffaf0b3da837db63b7c8bc2c29b1\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646aac67d4795e3eedd81f290e8a466b6896d9e534ee62de9ef61ec6\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1f209a361357cb7107a14a4e887f4a3cd86b41c84d0e92e5f76792617197c752ff80581272ac969303de72023e830dac30881fe782efc03a2425\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646aaf62d4795e3eedd8d65dbbabdb50b294406fa7fc4b17921634a39f\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1c2dfe96bc838dda7962fbffcb846094a04455e208d2287394600de124913f94711fb787e7540812011919d54ce99cddc9411858f31f3c430dd1\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646aa960d4795e3eedd8c663d6e8da956a3469ea445b0c46804491d6ff\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1c2dfb95bd8082db7367fbfecad63294f6458c784981137c03a7fdcffcf8ea34c8b77b933eed5a7efedb74d0d23a60625aa058f5ba4950092713\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646bad60d4795e3eedd859c2c1339ddc5ff3fb9e326fca49742d71ebdd\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1a211ed3d8f39a176f37a33f2915f51d72d18793520b84587701b9c98a8603cff1fcd9066784bc0b5e1e3d16055da5f4e688dad900649dcda15a\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646bae65d4795e3eedd8608f2b3e12d9942a01a3e7a0b093b486dbabfc\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1e2f4f6bcc930c759bb6b7b7217a1f49e6f51f8956d31b367254df50cf5a52c4b054f1f99df7154a3ae4a72e6fb47bb995cf952d461f02fe5b17\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a646ba867d4795e3eedd86caf39b63cdd445db551bb2aad783229a37f25\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1e2a2366e6d7944e9cf1e2c23e94f777eb4ac01af4a0f1d6d6a9a0350125817bdcb7e2fefbf25eb951226ec3d6c822155cb4b985a230fade71ee\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6468ac66d4795e3eedd8fdaa1ef642fe2c20feba32902d8d3052b0b0\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1e2d716059c6ce259992707668de7f004cc7b154016de21afdd7a0fa0322c42593d7663c7c1a7a8ed506c93e744906f04d14451cbe8801202def\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba103f9e65a6469ad6bd4795e3eedd8bf4411e8cef27c933b787154511f70734d42a7\" src=\"https://image.dcinside.com/viewimage.php?id=29b2c32fe8db3fb16fb1&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec8c3421fcb38204a6d167562dc57775b1e1121ef8f9aefdca1713e660b8d17ee7910e65755d80cb94ec8a94ebab6d523eff1dd6e20aed04fd1986dbfd928f9e006f594b9d39a530d902c23\"/></div><p></p><div><div>이태원 홍대 </div><div>hot하다 </div></div><p></p><div><span> - dc official App</span></div><div><br/><br/><b>출처: 도시 미관 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=dosimigwan&amp;no=107036\">[원본 보기]</a></b></div>",
+        "content_image_count": 20,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471640",
         "title": "[싱갤] 싱글벙글 어느 시각장애인의 하루",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471640",
         "date": "2026-10-19T18:16:09+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:12:54.802227+00:00",
+        "content_html": "<p><img alt=\"78e88377b4806ba23fbb87e71284203811e34aecf54091e8576424a73768e1a51fe05456a1005e78c67a19f0bfe8ce91855171f6da277c75ea\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a7319963772608378653a21edb44a6d048bd04aafde9736923675d50cb224b0342d50e5fc6969fdb220260563f1bc988e9c12ec884abf\"/></p><p><br/></p><p><img alt=\"2eec8422e1d139f63bee81e417d7203e66e272dd045c79d1a83c40ba87329d51b348e5a582fe93a106f15ec12ecb6cda9573e3c3dd31f446fa\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a7319963772608378653a21edb44a6d048bd04aafde9736923675d50cb224b0372753e0fc6865fcb726d93da1b9513b417f11e9ea0d95\"/></p><p><br/></p><div><br/><br/><b>출처: 싱글벙글 지구촌 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=singlebungle1472&amp;no=2663904\">[원본 보기]</a></b></div>",
+        "content_image_count": 2,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471637",
@@ -5605,8 +5656,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471637",
         "date": "2026-10-19T18:01:03+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:12:52.142505+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471635",
@@ -10457,55 +10510,16 @@
         "content_html": "<p><br/><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476a12b9d69ac9230e3f7199d78bcd2a1bc9ca0949c8c7\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea48adcbd3374eb061ec0fc0dd2da99c9e43a11236816a3\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476818b9d696c0230e3f7199d78baf27a267054b6440d1\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea08adcbd3678e8021950c7b8e104afa4e7b2a8a859e252\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476f1cb9d797c0230e3f7199d78bcea61ca22625f4c7cb\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea780ddb4367ce4011f5bdf40d0a02715f8100e6575db07\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476e1ab9d397c2230e3f7199d78b22a624a779de9fe438\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea18bdab43779e4051608b7fc73f0e044deb24d6f369dea\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476e13b9d29dc8230e3f7199d78be2548372551e4874c5\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea780dfb0327fec081ba9abff5c61ab8af0eb4cb8fda3a0\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466b12b9d59ec2230e3f7199d78bfe3095ec27ad30a17c\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea28bdcb63775ea011a82b2915c70fdae5798c6741dd33d\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f46691db9d49dc5230e3f7199d78be0575c5984797a990f\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea180d8b0377ae5091c46c123161f0e2a0058ae2b23bba2\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466813b9d799c3230e3f7199d78b2b1af7864b16fc4e6f\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7eab83d9b1327de50117f340267a7335d0716c5c18f8efb6\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466f1db9d09cc8230e3f7199d78bc9c8f5be16162ed24c\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7eab87d5b6307beb091afb8c75ea6c4be39d3432c0761db8\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466f13b9d698c1230e3f7199d78b765a0e606fba197a83\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea18bd4b5337feb081c76bca33e67cbcf8a52f8cb27efac\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f416b19b9d59dc4230e3f7199d78b8fd30a9d8628f43826\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7eaa81d4b2327ce50416188c3d1a96cd52ddfecc8c895ec2\"/></p><p><br/></p><p><br/></p><p>미친 놈이네ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p><p><br/></p><p>미 대통령이면 누구보다 저런 말 조심해야하는데</p><p><br/></p><p>총살 타령에 개 타령에ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p><p><br/></p><p>트두창 진짜 보면 볼수록 </p><p><br/></p><p>역대급이다 진짜ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p><br/><p><b>- <a href=\"https://gall.dcinside.com/list.php?id=itssaexodus&amp;no=229052\">'표 떨어질라?' 난감하다…점점 폭주하는 트럼프의 입</a></b></p><br/><p></p><div><div><span><a href=\"https://naver.me/5l23vVDN\">https://naver.me/5l23vVDN</a></span></div></div><p></p><div><p> </p><div><a href=\"https://naver.me/5l23vVDN\"><div><img src=\"https://imgnews.pstatic.net/image/437/2026/10/15/0000515921_001_20261015190615086.jpg?type=w800\"/></div><div><div><strong>'표 떨어질라?' 난감하다…점점 폭주하는 트럼프의 입</strong></div><p>미국의 중간선거가 19일 정도 남았습니다. 공화당 후보들이 트럼프 대통령의 지원 유세에 불참하거나, 대통령 지지 문구를 지우고 있습니다. 주로 경합지에서 벌어지는 일인데 '트럼프 리스크'로 선거를 망칠 수 있다는 우</p><p>naver.me</p></div></a></div></div><p></p><div><div><span></span><br/></div><div><span></span><br/></div><div><span>미국의 중간선거가 19일 정도 남았습니다. 공화당 후보들이 트럼프 대통령의 지원 유세에 불참하거나, 대통령 지지 문구를 지우고 있습니다. 주로 경합지에서 벌어지는 일인데 '트럼프 리스크'로 선거를 망칠 수 있다는 우려 때문입니다. 그런데 당사자인 트럼프 대통령은 연일 거친 막말을 쏟아내며 후보들의 부담을 더 키우고 있습니다. 이번엔 \"총살\"이란 표현까지 튀어나왔습니다.</span></div><div><span></span><br/></div><div><span>워싱턴 정강현 특파원입니다.</span></div><div><span></span><br/></div><div><span>[기자]</span></div><div><span></span><br/></div><div><span>트럼프 대통령이 애리조나 공항 활주로에 섰습니다.</span></div><div><span></span><br/></div><div><span>대통령 전용기, 에어포스원을 배경으로 자신을 전면에 내세우며 공화당 지지를 호소했습니다.</span></div><div><span></span><br/></div><div><span>도널드 트럼프/미국 대통령 : 제가 투표용지에 있는 것처럼 생각해 주십시오.]</span></div><div><span></span><br/></div><div><span>하지만 정작 이곳 하원 경합지의 공화당 후보 2명은 '트럼프 유세장'에 모습을 드러내지 않았습니다.</span></div><div><span></span><br/></div><div><span>심지어 선거 홈페이지에서 트럼프 지지 문구를 아예 삭제하는 후보들까지 나타났습니다.</span></div><div><span></span><br/></div><div><span>격전지를 중심으로 이른바 '트럼프 지우기'가 노골화되고 있는 겁니다.</span></div><div><span></span><br/></div><div><span>배경엔 차갑게 식어버린 민심이 있습니다.</span></div><div><span></span><br/></div><div><span>최근 여론조사에서 트럼프 대통령의 국정 지지율은 34%에 그친 반면, 부정 평가는 62%에 달했습니다.</span></div><div><span></span><br/></div><div><span>중간선거가 가까워질수록 트럼프 대통령을 둘러싼 현안이 선거 판세와 직결되고 있습니다.</span></div><div><span></span><br/></div><div><span>공화당이 하원은 물론 상원 다수당 지위까지 빼앗길 수 있다는 분석이 잇따르는 가운데, 트럼프의 입은 \"총살\"까지 거론할 정도로 더 거칠어졌습니다.</span></div><div><span></span><br/></div><div><span>[도널드 트럼프/미국 대통령 : (군사)정보 유출자는 총살돼야 합니다. 총살해야 합니다.]</span></div><div><span></span><br/></div><div><span>최근엔 소말리아 이민자들을 향해 지능이 낮다고 비하하는가 하면, 자신을 수사했던 뉴욕주 법무장관에게 인신공격성 막말을 퍼부었습니다.</span></div><div><span></span><br/></div><div><span>[도널드 트럼프/미국 대통령 (현지시간 9일) : 역겨운 레티샤라는 개. 저 개 아시죠?]</span></div><div><span></span><br/></div><div><span>표를 모으겠다고 지원사격에 나선 트럼프 대통령의 거친 입이 정작 경합지 공화당 후보들의 설 자리를 더욱 좁히고 있습니다.</span></div></div><div><br/><br/><b>출처: 더불어민주당 비대위 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=democraticpolitics&amp;no=693714\">[원본 보기]</a></b></div>",
         "content_image_count": 12,
         "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470819",
-        "title": "[싱갤] 어느 개그맨이 일본 심령스팟 촬영 후 겪은 일이라함",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470819",
-        "date": "2026-10-16T09:40:02+00:00",
-        "summary": "피디가 선 넘었다는 얘기 듣기 싫어서 자기 그런 말 한 적 없다고 구라친 거 아님? - dc official App 출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:02:53.610618+00:00",
-        "content_html": "<p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c86849991737ca0e5249e96ccab8e59df968f403d\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691638af5cc71c1bf98da034f26dbccc595733aafe334b95d0c38439e49acb2f2b46ce841949ed88ebd4480264886bc9e56233\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c86849990737ca0e5249e4ce7c2d1a159c4afd55d\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869113ba65fc11c18f982ab34a57f2c19f64e548ed058f16e13f3e365225b9b5829862f92d7fb948ffbdabb776a59d15667d418\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c86849997737ca0e5249e33b4cec442ac2f0db07b\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691c34a058c0111ef385a034f2f476c2560eeffb417026b745ae5b2027038de3e01741cd7be4b2c7c39f39a8a11ce7c35b0757\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c86849996737ca0e5249ea5efd390e5800b557df4\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869173faf5ac2151bf883af34aa909b23035971d2b5688cd7e14a5726e36517b2bce437716cfc75e4d3606537c032056aacbc21\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c86849995737ca0e5249ea9206b9f1d82df4bc040\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691739ae5fc1131cf881a034a449a1ee3990ae7471922f4b3ae570bb269c7a2f83f0801b7e0194514ecda5a1b6f0001d354781\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c86849994737ca0e5249e85fea6128b109dbac048\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691638a15bca1d1cf280ae34f77b65117b405a6e314d4e0c5eefe2f27c532e200fa64a6ffaa0c79104e0e2f63255bf18ffc21b\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c8684999b737ca0e5249ea1f452c12c9dbd74eea4\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869173ba557c6171af78cae34a34e14624e45c39fbe0b6e1bea4860a271a33f594ca4910e42fc5bd8dbc6c683c2d4e3092b12c9\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c8684999a737ca0e5249e1c375f52a68ed09cbac2\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869163da35bc4171bf580ac34a2ec264ed6a484cf5bdcb6a61dcbb6642a00f5143f52f963e78fcc5e3df8f67b79fbc4b5c4cbef\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926d22beec0380671a06b5452e750806550e\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691c35a55bca1210f783aa34f646d48ebfecc0a5ed56a97e2af5c293293d3a4d29ccf7715a225d121f08272a8c2ee33590d5b71a\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926c22beec038031124db520d49ed4cb6f69\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691d3da35dc6161df880ac34a49180674e84311311442199997c455d8e34cb29b7bb797998742f5cbfd955a407089fde2a5e30b7\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926f22beec03801447d5521c04ef5cf8bf6c\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691d3ca35cc0151af88ca034f56de5d5e0e12ab04df972bd6fc9e64f4f40f043927e0f1374e6a0c20d765b185de16dc08b2f7701\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926e22beec0380124bcc1ab9ac6f6dbddd68\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869113ea159c0101ef684a934f6c2be5b4dd677412138b87d5c29286d375dd9f5ee0c3e8da281f9e28379e566eebe6b03fd49e511\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926922beec03808c71d0681aef32414f25b0\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691034a25cc4141ff982ab34f2899ea66ef9ef22f3c964b9b338a3638edf22dc71a648dbc9697a0b12350e1ef104362d19c55efe\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926822beec038069ea3de0919895af09fdd7\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691d3ea758c3121df784a834f68bf96139ce6d79ed12cf3c164e5386b137f93912831f874c7c83b4306361e27bab22ba144c2536\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926b22beec0380967040d9bd6c5a40d6b99e\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691d3ea756c2141bf58cae34a388980a33f7f55ff94ed947e4eb9824149883c6f0510866412721944f3e901ec1c87ba174d1cc41\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926a22beec038079966c2d67b12792415f17\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691c3ea35ec6141af282a934f5db902d0b6e029f2bf9e45d3bdb143c90679d805479d4486af041ce56cab2260b11f626f910c1a9\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926522beec03801e9954755caae9cd23da63\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691635a35ec21d1ef784ab34f12313f68e43615765fd183fceb8a899f3754a71780b3f789f20b06f4faf6e2700ac9bbbc207827c\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499926422beec0380a9efd0b5195c1bfddbf776\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691c38a656c3101ef984ac34a3fe04307cc05c5fdc3a911c6df441386e6cd6d12e8ac76c7572834c1e9cac85fb200cc605ec5023\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916d22beec0380ee0265eca7020174aa795f\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869163fa459c5161ff181a134a1ab1b53a45e6f18193a85792a3c2f245d4146bc8b203423a21fbecf3051cb106544bae018a2f371\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916c22beec038006e702524fbc04d02a9816\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869113ea25ac2131af484af34ab3f45ca99cf5730c00fec709cb7e97a667211c3c98c20018ea603d24251d37ce148f6103794cc6f\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916f22beec0380fea36a431af82e0dfa8c8b\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869173dae5cc6131bf287a934f13e7db4685527bc8d52a30ecedd5f623f60f282129cdbae661b08e93b060a89079a774304555c0d\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916e22beec0380525c5608f986e38ad1dbd7\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869153da75cc71c1bf585a834f09fe332b57b7c07a0990ab1d1217f98b0a82419529c45f766e1c03b5363ab57bfb6bdf4bbababe2\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916922beec03809ca47078c972f4b28ecbb6\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869113ea45dc2121cf387af34a670ed6728cc040887ed867530cece6c097992e76fb754a3ea62cb6d2ae99718f7a23335f0193452\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916822beec0380b27bfce911cd715fa77d57\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691735af5cc6101df387af34a667224958a6e9c2bf996297748756415076f18fed61086863169b3d1dac3f03a36189841ab9139b\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916b22beec0380733d21eca426d8baa2147e\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d869123ca656c0111ef380af34aad28245ed287b984051f36148cc7360d238170edcba793056ca849677cf0d91609f31e6df44f386\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c5a1b74e2483c868499916a22beec0380be8524eeae7dd5a04cb9a8\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ad6b03caddb75d0bc83ea67144398c46a3c4951bb8d8691335a659c6131df986a934a46fecfc95ec659997aec6fa2ce43b33f0471bd6c0856f2c07b067fb7192fe22ae7a63d8077337dc\"/></div><p></p><div><div>피디가 선 넘었다는 얘기 듣기 싫어서 자기 </div><div>그런 말 한 적 없다고 구라친 거 아님? </div></div><p></p><div><span> - dc official App</span></div><div><br/><br/><b>출처: 싱글벙글 지구촌 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=singlebungle1472&amp;no=2655325\">[원본 보기]</a></b></div>",
-        "content_image_count": 26,
-        "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470818",
-        "title": "[중갤] [단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\"",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470818",
-        "date": "2026-10-16T09:35:49+00:00",
-        "summary": "https://n.news.naver.com/article/088/0001034815 [단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\" 이재명 대통령이 최근 사회관계망서비스(SNS)에서 사용한 '좌아하게'라는 표현이 국어사전에 등재되지 않은 말이라는 국립국어원의 공식 답변이 나왔다. 반면 이 대통령이 국무회의에서 잘못된 표현이라는 취지로 지적한 조문 n.news.naver.com - 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\" https://n.news.naver.com/mnews/article/088/0001034815 [단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\" 이재명 대통령이 최근 사회관계망서비스(SNS)에서 사용한 '좌아하게'라는 표현이 국어사전에 등재되지 않은 말이라는 국립국어원의 공식 답변이 나왔다. 반면 이 대통령이 국무회의에서 잘못된 표현이라는 취지로 지적한 조문 n.news.naver.com - dc official App 출처: 중도보수 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:02:50.686348+00:00",
-        "content_html": "<p></p><div><br/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55c6069ad63d46e701dfcfffa442484dfbe48d161bd04e664fdf0d0\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7db2bb26db0d8a613c3323c0fc716&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fef0adeb8d89992a1d982841a4bf3b6fdbf7cf785627e8d1fb1b72d34301f68f8835633c728b41fff9620da9337ac275b4a1d4c78590774557412f96ab37022075e8ee21779678d394ed724\"/></div><p></p><div><a href=\"https://n.news.naver.com/article/088/0001034815\">https://n.news.naver.com/article/088/0001034815</a></div><p></p><div><p> </p><div><a href=\"https://n.news.naver.com/article/088/0001034815\"><div><img src=\"https://imgnews.pstatic.net/image/088/2026/10/16/0001034815_001_20261016143817653.jpg?type=w800\"/></div><div><div><strong>[단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\"</strong></div><p>이재명 대통령이 최근 사회관계망서비스(SNS)에서 사용한 '좌아하게'라는 표현이 국어사전에 등재되지 않은 말이라는 국립국어원의 공식 답변이 나왔다. 반면 이 대통령이 국무회의에서 잘못된 표현이라는 취지로 지적한 조문</p><p>n.news.naver.com</p></div></a></div></div><p></p><div><br/><br/></div><br/><p><b>- <a href=\"https://gall.dcinside.com/list.php?id=wkqeka&amp;no=68442\">국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\"</a></b></p><br/><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55c606cae67d4635939d6c030047a290eae5530b6bedb3466bc64ae3b\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbc15f0c868ef7c7f888f5379fcfce4bba9f4970f36ca6fc99316a00c5e2f2ba74576d853771029d4fcfbb24d43399ff48e2cc860cb6ff62750e\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55c606ca966d4635939d6c0e885764fabae528ee6488b56d4ea99281f\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbcc5f06888af0ed06e7b8ace38b43192da3582cc95350cceed66d1fe0fb5850a0c85593cfc1f34ca72521122281d9901be177beb65246ffa725\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55c606ca860d4635939d6c08986c2c05c0e8db83cbdfaa9b7452bfc41\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbc15f018682f1d7163b9ee14e2b65e932282b424ae56f766b9e88c766fe524b171f55927e479a9ded0aeceb4214962995073e2c8d80c7171dca\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55c606dad61d4635939d6c0da8502d9ac0a981c1be20cfb404eff8dce51\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbc55c00888df70370ffc1c7ec67239206ae1d42ee28469db93ccb54eabfcd55b6464c5f97637564cde01858068a10844e2c5a5faa6f834ab01e\"/></div><p></p><div><a href=\"https://n.news.naver.com/mnews/article/088/0001034815\">https://n.news.naver.com/mnews/article/088/0001034815</a></div><p></p><div><p> </p><div><a href=\"https://n.news.naver.com/mnews/article/088/0001034815\"><div><img src=\"https://imgnews.pstatic.net/image/088/2026/10/16/0001034815_001_20261016143817653.jpg?type=w800\"/></div><div><div><strong>[단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\"</strong></div><p>이재명 대통령이 최근 사회관계망서비스(SNS)에서 사용한 '좌아하게'라는 표현이 국어사전에 등재되지 않은 말이라는 국립국어원의 공식 답변이 나왔다. 반면 이 대통령이 국무회의에서 잘못된 표현이라는 취지로 지적한 조문</p><p>n.news.naver.com</p></div></a></div></div><p></p><div><br/><br/></div><p></p><div><span> - dc official App</span></div><p><br/></p><div><br/><br/><b>출처: 중도보수 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=centristconservatis&amp;no=2166905\">[원본 보기]</a></b></div>",
-        "content_image_count": 7,
-        "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470815",
-        "title": "[잡갤] 유해진 신변보호 해제…‘배우 특혜’ 논란",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470815",
-        "date": "2026-10-16T09:30:03+00:00",
-        "summary": "- 관련게시물 : ‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중” - 관련게시물 : 경찰, '암살자(들)' 유해진 신변보호 가동…스마트워치 지급 출처: 잡담 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:02:47.696697+00:00",
-        "content_html": "<p><b>- 관련게시물 : <a href=\"https://gall.dcinside.com/list.php?id=dcbest&amp;no=468061\">‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”</a></b></p><p><b>- 관련게시물 : <a href=\"https://gall.dcinside.com/list.php?id=dcbest&amp;no=468493\">경찰, '암살자(들)' 유해진 신변보호 가동…스마트워치 지급</a></b></p><p><br/></p><div><br/></div><p><br/></p><div><img alt=\"29beef33f5de37a76a80cfbe0edd7536a664ecb6a8b33f1c4025707218d814208eaa38\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e20c3eb01acc65e01898af381367cc6164f857dfff6d4d35485f78597d394daf807780261f76ddf41dd01ba\"/></div><p><br/></p><div><br/><br/><b>출처: 잡담 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=wkqeka&amp;no=68312\">[원본 보기]</a></b></div>",
-        "content_image_count": 1,
-        "content_error": null
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
-    "last_new": "2026-10-24T20:48:16.971922+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
+    "last_new": "2026-10-24T23:12:51.013326+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "body_collection": {
       "ready": 371,
-      "pending": 623,
-      "failed": 6,
+      "pending": 616,
+      "failed": 13,
       "attempted": 10
     },
     "published_count": 371,
@@ -10515,6 +10529,55 @@
   },
   "google-news": {
     "items": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZSGdFSVpSYWRjV3d1a3Z1c25oMnFSalZUOHd2T2E0ZVpab1U4b1VLcHEwVFJQTnJPUVRKVFpFSGRPVWFZeC1La093MTYtQmR0b3gwa1JFTTFoczRwdDhacmxrNk80LVNqeVFBTHdn?oc=5",
+        "title": "[천승관전기 · 경영일수] 행동량을 세라 — '열심히'는 측정이 아니다 - 캐어유 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZSGdFSVpSYWRjV3d1a3Z1c25oMnFSalZUOHd2T2E0ZVpab1U4b1VLcHEwVFJQTnJPUVRKVFpFSGRPVWFZeC1La093MTYtQmR0b3gwa1JFTTFoczRwdDhacmxrNk80LVNqeVFBTHdn?oc=5",
+        "date": "2026-10-24T22:00:00+00:00",
+        "summary": "[천승관전기 · 경영일수] 행동량을 세라 — '열심히'는 측정이 아니다 캐어유 뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56aV9OY21OVnA2bnJueTJRS2NUanBkXzV6RVF3YnlBS0Z2WUU1dkh0MHFWeXliRGZHOTRmWTJMZnNialc1c3g1cEFkWUNLV3BXTkxOX0RDRWTSAVRBVV95cUxNb2ZKcDM4djJsbnhiTmoyQmk3UV85elFYWXUtanhQV05femNKaXdzbmM2NTlwSDZiUzY1WXNTc2pnSmd6OVdqV1NCSnFERWhfeWxaclk?oc=5",
+        "title": "“심장에 피떡 생길 수도”…응급의학과 교수가 무조건 말리는 두 가지 - 세계일보",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56aV9OY21OVnA2bnJueTJRS2NUanBkXzV6RVF3YnlBS0Z2WUU1dkh0MHFWeXliRGZHOTRmWTJMZnNialc1c3g1cEFkWUNLV3BXTkxOX0RDRWTSAVRBVV95cUxNb2ZKcDM4djJsbnhiTmoyQmk3UV85elFYWXUtanhQV05femNKaXdzbmM2NTlwSDZiUzY1WXNTc2pnSmd6OVdqV1NCSnFERWhfeWxaclk?oc=5",
+        "date": "2026-10-24T21:59:09+00:00",
+        "summary": "“심장에 피떡 생길 수도”…응급의학과 교수가 무조건 말리는 두 가지 세계일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi01U1FDTnhxWkpaMWRHdDhtNV85OFA5OXZiSkkwTU5VZUJmcHJaQlRXTmxpSVI4X1BueUdrUUV1NUZyTGY5TWR0czhHQTNleW04eVdFeWpVNkVNak1NMXZ5enBobnRsWnA5bFJJdEFBVVdTQUNhVzdHZlJIYlNjRlY5NldVdjQybEhCUnktNzhPNkIyZEdTc3M5b3VNOWxJakRTS1YwcDl3Zw?oc=5",
+        "title": "레지던트 이블 10은 레지던트 이블 제로 리메이크 이후에 출시될 예정입니다. - GameGPU",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi01U1FDTnhxWkpaMWRHdDhtNV85OFA5OXZiSkkwTU5VZUJmcHJaQlRXTmxpSVI4X1BueUdrUUV1NUZyTGY5TWR0czhHQTNleW04eVdFeWpVNkVNak1NMXZ5enBobnRsWnA5bFJJdEFBVVdTQUNhVzdHZlJIYlNjRlY5NldVdjQybEhCUnktNzhPNkIyZEdTc3M5b3VNOWxJakRTS1YwcDl3Zw?oc=5",
+        "date": "2026-10-24T21:47:42+00:00",
+        "summary": "레지던트 이블 10은 레지던트 이블 제로 리메이크 이후에 출시될 예정입니다. GameGPU 레지던트 이블 10은 시리즈 역사상 가장 큰 규모의 크로스오버 작품이 될 것입니다. GameGPU"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdi1ya3BfR19lZmFESHhLMlBycU5reWNzLXFGRmlpTnJET2QwbVZBSmF4QkNZYV9oSEJmSU0zLUs0bGdhVlZWWlNwZ0VXZlFWcWZ2dEF2T3k?oc=5",
+        "title": "전직 자동차 영업사원이었다고? “롯데 팬 정말 많더라”…韓야구 열기에 놀란 KBO 마무리 [SS시선집중] - 스포츠서울",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdi1ya3BfR19lZmFESHhLMlBycU5reWNzLXFGRmlpTnJET2QwbVZBSmF4QkNZYV9oSEJmSU0zLUs0bGdhVlZWWlNwZ0VXZlFWcWZ2dEF2T3k?oc=5",
+        "date": "2026-10-24T21:02:00+00:00",
+        "summary": "전직 자동차 영업사원이었다고? “롯데 팬 정말 많더라”…韓야구 열기에 놀란 KBO 마무리 [SS시선집중] 스포츠서울"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QU1hvcWZJOHY0ZXBJdVo2d3BYeFlZYjFKakkwanZteGVuS0ZZQ0VGc21LaG5zMGZNdG1GRlNfNXNOZWI1QWtwb2VQYmJZVGZaNG13SWlwX2poZERobVhsMEJMMmk4VHR1Qmc?oc=5",
+        "title": "[김종석의 그라운드] “저녁 6시 이후 시내 외출 금지”…안세영의 파리, 코트만 열려 있습니다 - 테니스코리아",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QU1hvcWZJOHY0ZXBJdVo2d3BYeFlZYjFKakkwanZteGVuS0ZZQ0VGc21LaG5zMGZNdG1GRlNfNXNOZWI1QWtwb2VQYmJZVGZaNG13SWlwX2poZERobVhsMEJMMmk4VHR1Qmc?oc=5",
+        "date": "2026-10-24T20:57:58+00:00",
+        "summary": "[김종석의 그라운드] “저녁 6시 이후 시내 외출 금지”…안세영의 파리, 코트만 열려 있습니다 테니스코리아 ‘마지막 희망이 탈락했다’... 中, 안세영 앞에 눈물 펑펑 조선일보 안세영 놀라운 인터뷰 \"우승이요? 생각하지 않아요\"... 50연승·시즌 10승·대회 3연패 앞두고도 흔들림 없는 멘털 - 머니투데이 머니투데이 '승률 98.5%' 배드민턴 안세영, 프랑스오픈 결승행…시즌 10승 눈앞 뉴시스 또 이겼다! 안세영, 日 베테랑에 1게임 21-12 압도...'7일 만' 재대결도 기선 제압→프랑스 오픈 '3연속 결승' 보인다 OSEN"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUFGYlpUSUZzMmI5WG1TeDJOa0RYRE5weC0wUnBod0lkYVoybm1iaGpvRW0yYTFCZ2JKdldzZHU5ZWNMdHpKNUJUV0xaS0U3Yk91eFVHVmdOeG40ZTRDd3hpR3Utb252cXhSd1dDT3gzSkhWXzVfY3dkY2Z1ekRuOER4ZncxamFMb0tFOU9jOWlKb3lFVVVyQU5oajJ5dw?oc=5",
+        "title": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUFGYlpUSUZzMmI5WG1TeDJOa0RYRE5weC0wUnBod0lkYVoybm1iaGpvRW0yYTFCZ2JKdldzZHU5ZWNMdHpKNUJUV0xaS0U3Yk91eFVHVmdOeG40ZTRDd3hpR3Utb252cXhSd1dDT3gzSkhWXzVfY3dkY2Z1ekRuOER4ZncxamFMb0tFOU9jOWlKb3lFVVVyQU5oajJ5dw?oc=5",
+        "date": "2026-10-24T20:24:00+00:00",
+        "summary": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다 조선일보 프랑스 전역 수십만 명 거리로...일부 체포·충돌도 YTN 상점 약탈 1주일…또 대규모 집회 예고에 파리 수천명 등 7만 경찰 배치 동아일보 [인터뷰] \"프랑스 민주주의 고장 났다\" 한숨…오헬리엉의 씁쓸한 진단 JTBC 대규모 시위에 7만 경찰 투입, 긴장감 고조…현재 파리는? KBS 뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYTUUtd3VqOWR2YlBmM25qTmRDUjdVS2VwT1V5aWN5ZXVEQUhfaTdMUUxFYUJiVXJpcnd4bEcyRk9DLVMxTmVWYmstT1h3d01BN01YMWZQc1R4NEpaeVJIcmRnMW90d0ViS2Zn0gFvQVVfeXFMUDA1TGxzc1A0aVQxcWRfU0J5M0R1eWFRdlFwb1JBeDBIOTc3N2pHbDY0c1pnZkdHUDdoVHg0dDk4WHRTUU9JQWc0VWhLUmxsR1Zod1kxbEE2d2c0XzQtQlUxa1NaZ3RuLVVVVGFqREtB?oc=5",
+        "title": "'클리말라부터 구성윤까지'...'10년만의 왕좌 탈환' 이끈 주역들[FC서울 우승①] - 한국아이닷컴",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYTUUtd3VqOWR2YlBmM25qTmRDUjdVS2VwT1V5aWN5ZXVEQUhfaTdMUUxFYUJiVXJpcnd4bEcyRk9DLVMxTmVWYmstT1h3d01BN01YMWZQc1R4NEpaeVJIcmRnMW90d0ViS2Zn0gFvQVVfeXFMUDA1TGxzc1A0aVQxcWRfU0J5M0R1eWFRdlFwb1JBeDBIOTc3N2pHbDY0c1pnZkdHUDdoVHg0dDk4WHRTUU9JQWc0VWhLUmxsR1Zod1kxbEE2d2c0XzQtQlUxa1NaZ3RuLVVVVGFqREtB?oc=5",
+        "date": "2026-10-24T20:00:00+00:00",
+        "summary": "'클리말라부터 구성윤까지'...'10년만의 왕좌 탈환' 이끈 주역들[FC서울 우승①] 한국아이닷컴 FC서울, 10년 만에 K리그1 정상 올랐다…통산 7번째 우승 경향신문 서울, 10년 만에 우승…김기동 감독, ‘분노를 환호로’ KBS 뉴스 기성용·린가드 '슈퍼스타' 떠나자 진짜 '원팀' 됐다... 이름표 떼고 완성한 '기동 타격대' [상암 현장] - 머니투데이 머니투데이 GS그룹 허태수 회장 \"10년 만의 우승, FC서울 선수들 노고에 박수\" 뉴시스"
+      },
       {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbDJpUW41S0FLdm9OSkJTZzlkbE9JZUFFTEhCS2oyZzNGSXltSGpseGNqbnJCekRva1dxTlhBeWxxZjloTDVhWS1XaDBMWGtsZEMwd0NMMWplaHfSAWBBVV95cUxNdGFoWHBpUzBaRGJFWElxbXVrQmw5ZERWemtvQUhoSjRoRVBoTmtOOGFkLXc1U1ExUzVDYm9XNk9SVGN5UUVDMmxpbnBiX0JidmJWNEp4QldXS20wZkhTNS0?oc=5",
         "title": "고물가·주거난에 성난 유럽…곳곳에서 대규모 시위 - 연합뉴스",
@@ -10562,7 +10625,14 @@
         "title": "사우디-친이란 반군 후티 난타전에 사망자 속출 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBocW9MZmFuSTVXUFNXcDF0Ri1ILUlLT3JkWXZhQ05RN1BMNGxvbVkwbW1tcVpvc1ZPdzhCTzdRSV9qV3RYRzkxMlVFemVWa1RLVmJ3dmRHNDBKSXJqcGJmemhGZXdjRVE?oc=5",
         "date": "2026-10-24T15:36:00+00:00",
-        "summary": "사우디-친이란 반군 후티 난타전에 사망자 속출 연합뉴스TV 후티 반군 \"사우디 수도 리야드 공항·동서 송유관 등 타격\"(종합) 연합뉴스 후티 공격 확대에 아람코 ‘대피령’…이란 드론 전력 과시 KBS 뉴스 후티 반군, 사우디 주요 거점 연쇄 타격‥사우디도 보복공습 MBC 뉴스 미 국무부, 중동 각국 외교관 조용히 철수 진행 뉴시스"
+        "summary": "사우디-친이란 반군 후티 난타전에 사망자 속출 연합뉴스TV 후티 반군 \"사우디 수도 리야드 공항·동서 송유관 등 타격\"(종합) 연합뉴스 후티 공격 확대에 아람코 ‘대피령’…이란 드론 전력 과시 KBS 뉴스 미 국무부, 중동 각국 외교관 조용히 철수 진행 뉴시스 사우디, 후티 미사일 요격…트럼프, 추가 공습 위협 Investing.com 한국어"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Y0NOb2RBenAtcE9iZUVud1ZsTXFUQ2VnQ21mWnZ4d3F4SExyVmhWeUJMalFnWVBWbHBaN1R5Z0s2ajNFYW5FWlktRDE0akFxVWgxMThjcXZGS2pzMG9ZUWk3MVdkUQ?oc=5",
+        "title": "“심쿵했다… 받아줄 마음 있었다” 웅산, 김장훈·김동규에 청혼 받았다 고백 (‘데이앤나잇’) - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Y0NOb2RBenAtcE9iZUVud1ZsTXFUQ2VnQ21mWnZ4d3F4SExyVmhWeUJMalFnWVBWbHBaN1R5Z0s2ajNFYW5FWlktRDE0akFxVWgxMThjcXZGS2pzMG9ZUWk3MVdkUQ?oc=5",
+        "date": "2026-10-24T15:19:28+00:00",
+        "summary": "“심쿵했다… 받아줄 마음 있었다” 웅산, 김장훈·김동규에 청혼 받았다 고백 (‘데이앤나잇’) 매일경제 \"너 나랑 결혼할래?\" 웅산, 김장훈·김동규에 청혼 받았다 뉴시스 김정난, 50대에도 늘씬 체형..관리 비결 밝혔다 \"삼시 세끼 다 먹지만..\" 조선일보 女가수, 17세에 학교 떠나 출가했다 “웅산은 절에서 받은 법명” (데이앤나잇) iMBC 연예 “고2 때 스님 되겠다 결심” 웅산, 데뷔 30주년에 밝힌 출가 비화 (‘데이앤나잇’) 매일경제"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRGR3TlVJRWZpUGpTREttNjZmSTI4QkhzczRGSjJieXV2ZkpMbm5jUERqZ1VLbUNHYzdzb0tudFdDUDlBZzNQeTliZXQ2dEw0eTNDUkdDTXZQU05zbmRGYnIwRUxLXzlBemNxOXpMc2pFeU1GVUZHNnlxaW9xd9IBZkFVX3lxTE1ocVFYeVUyZWFUWnpaSWpRLS0wa1pxSFRBdXB4TmVvOHdtT2tPOW9BdnNkU3Rfb3Z4cWNUVzJ0WXJaUHlpNUtYRlB4ZkpRUEJvakZUMllNQWxQMkUtX1Z1eDJwQXVBQQ?oc=5",
@@ -10572,11 +10642,25 @@
         "summary": "이준, 1000만뷰 야구장 댄스 재현…김종민 “자꾸 벗으려고 그래” 동아일보 이준, 1000만뷰 야구장 댄스 재현…김종민 \"자꾸 벗으려고 그래\" 뉴시스 이준, 천만뷰 터트린 ‘그 민소매’ 재소환…“자꾸 벗어” (1박2일) 스포츠동아 이준 ‘캐치캐치’ 1000만뷰에 맛들렸나? “춤출 때 민소매 입어야”(1박2일) 뉴스엔 \"왜 자꾸 벗으려해\"…이준, 1000만뷰 터진 야구장 민소매 재소환 뉴스1"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jV0I1VFZkZ2hoZVN6dVdqbFM5anJPeDFVSXFGUURjMndXSXBxMHNPWUhHWWp3bENKdllMcHFuTWhrM1MxRzdpcVR0Yw?oc=5",
+        "title": "\"매일 걷기만으론 부족\"…이 7가지 동작했더니 노년기 수명 늘었다 [주말엔 운동] - 아이뉴스24",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jV0I1VFZkZ2hoZVN6dVdqbFM5anJPeDFVSXFGUURjMndXSXBxMHNPWUhHWWp3bENKdllMcHFuTWhrM1MxRzdpcVR0Yw?oc=5",
+        "date": "2026-10-24T15:10:02+00:00",
+        "summary": "\"매일 걷기만으론 부족\"…이 7가지 동작했더니 노년기 수명 늘었다 [주말엔 운동] 아이뉴스24 \"매일 1만보 걸어도 근육 빠진다\"…전문가가 경고한 노년기 걷기의 함정 뉴시스 “30초 움직이고 30초 쉬고”…하루 4분 ‘이렇게’ 운동했더니 노년기 몸이 달라졌다 코메디닷컴 ‘하루 4분’으로 하체 힘 기른다… 노인이 하기 좋은 4가지 동작 헬스조선 “유연성만 챙기면 될까”…나이 들수록 근력·균형도 함께 봐야 제주교통복지신문"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEFLcHp2dTcxS1FwTnphZG40aFJNanh3NnFqRnBWS0tJQml6Q1JnUjMyRGFKVVRDNVBjQnpabnNQZWxON2tBMDg1d0otZEp2cXN2VUFHUmNqa1R6dTRqN0RBbFBTaEVlNGxrYldHTlNqcW51UXJJanI0U0V5eWw3NnM2Zw?oc=5",
         "title": "최형우 이적이 낳은 선물, '19홈런-21도루' 히트상품은 플레이오프의 불꽃일까 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEFLcHp2dTcxS1FwTnphZG40aFJNanh3NnFqRnBWS0tJQml6Q1JnUjMyRGFKVVRDNVBjQnpabnNQZWxON2tBMDg1d0otZEp2cXN2VUFHUmNqa1R6dTRqN0RBbFBTaEVlNGxrYldHTlNqcW51UXJJanI0U0V5eWw3NnM2Zw?oc=5",
         "date": "2026-10-24T15:10:00+00:00",
-        "summary": "최형우 이적이 낳은 선물, '19홈런-21도루' 히트상품은 플레이오프의 불꽃일까 조선일보 기다린 삼성, 달아오른 KIA…36년 만에 PO서 맞붙는다 조선일보 ‘별따기’된 가을야구 표 예매… ‘티켓팅 연습’ 사이트까지 등장 동아일보 네일-올러 vs 후라도-페덱, '외국인 원투펀치' 나란히 맞대결 YTN “이 도시에 우승 반지를 선사하고 싶다” 페덱의 약속, 이제 가을무대에서 증명할 시간...상대는 삼성전 승률 100% 네일 OSEN"
+        "summary": "최형우 이적이 낳은 선물, '19홈런-21도루' 히트상품은 플레이오프의 불꽃일까 조선일보 ‘쉬어간 삼성’ vs ‘기세의 KIA’…내일 PO 1차전 격돌 KBS 뉴스 \"우리 불펜이 약하다고 생각한 적 없다\" 삼성 이승민의 자신감…KIA 상대 ERA 1.17, 가을에도 강세 이어갈까 [오!쎈 대구] 조선일보 프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅 연합뉴스 \"최형우 4타수 무안타·디아즈 6타수 1안타\"… 좌타 거포 잡을 KIA의 156㎞ 비밀병기, 그날의 기억이 있다 파이낸셜뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xSHJYaUc3d0hQcFNaalFpOXRQNVEwSk4wdFhwc2szeXgtWXB3b2o4cmR0STduOVhGR3NROTgzczFsOEJuXzVkY082SGRSUmlOakxnVUFZaTcyQQ?oc=5",
+        "title": "[오늘의 운세] 2026년 10월 25일 오행별 행운의 컬러 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xSHJYaUc3d0hQcFNaalFpOXRQNVEwSk4wdFhwc2szeXgtWXB3b2o4cmR0STduOVhGR3NROTgzczFsOEJuXzVkY082SGRSUmlOakxnVUFZaTcyQQ?oc=5",
+        "date": "2026-10-24T15:00:05+00:00",
+        "summary": "[오늘의 운세] 2026년 10월 25일 오행별 행운의 컬러 한국경제 [오늘의 운세] 10월 25일 일요일 (음력 9월 15일) 띠별 운세 경기일보 [오늘의 운세] 2026년 10월 25일 (일) 띠별운세 '몸과 마음을 쉬자' 데일리팝 [오늘의 운세] 2026년 10월 24일 별자리 운세 YTN [오늘의 운세] 2026년10월 25일 (음 9월 15일) 국제신문"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlejhRdzNOTzdLVkZ4Um42QzBpOEU2eXpRYzhvWTU4ZGIxNjBEQnZUU3AxWXgwNGl5bDloRUdXYUhoSjlSYWx0ejBYdTBGcmFfZDdGV1VZQVVES2JRU2pid1BadlZib3N2VmlwZEl0VQ?oc=5",
@@ -10618,7 +10702,21 @@
         "title": "‘2심 무죄’ 오세훈, 민주 ‘조희대 탄핵’ 추진에 “자제 촉구” - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sbUxHVVZIb2dSRzkyLWJtVHNZU2xPN1J1Y0JmZUtaTWxVUFNRY2JZbzhHZXdlR1MxSWRlc1dfU25za29lYkp4YUFiQlllWHdSMDlTQTR4dzlXMGlDVVJnUHM1X1dPZ3Jla2NzcmVKSi1tdw?oc=5",
         "date": "2026-10-24T13:37:00+00:00",
-        "summary": "‘2심 무죄’ 오세훈, 민주 ‘조희대 탄핵’ 추진에 “자제 촉구” 한겨레 [단독] 오세훈 무죄에 비서실 환영 행사…족자엔 \"정의는 승리한다\" JTBC 오세훈 2심 무죄...김건희 '명태균 여론조사' 대법 심리 영향은? YTN \"우울하고 슬펐다\" 엿장수맘대로 판결에 마음 다친 박영식 (20261024 토요일 클립) 박영식 김민하 경향신문 오세훈 무죄가 땡큐? 보궐선거 부담 던 민주당 문화일보"
+        "summary": "‘2심 무죄’ 오세훈, 민주 ‘조희대 탄핵’ 추진에 “자제 촉구” 한겨레 ‘항소심 무죄’ 오세훈 “與, 선출 권력이 3권 위라고 착각”…조희대 탄핵 논의 직격 동아일보 사법리스크 고비 넘긴 오세훈…당내 영향력 키우며 '보수 통합' 역할하나 뉴시스 \"우울하고 슬펐다\" 엿장수맘대로 판결에 마음 다친 박영식 (20261024 토요일 클립) 박영식 김민하 경향신문 오세훈 2심 무죄...김건희 '명태균 여론조사' 대법 심리 영향은? YTN"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Zld1akhmQTE3aWZRZmozOFVfbTZYSHNsaElsQlJqN3dHSk9aenF3bl9COFhTNk1sS01KUXhIR3dCUmNwY3hyT3pXNDgyaXJxWUh1ZlloS1hNTnpzeWtsT1BnZWVSWjVYMkVEWg?oc=5",
+        "title": "한라산에 209㎜ 폭우…제주·남해안 풍수해 위기경보 ‘주의’로 올려 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Zld1akhmQTE3aWZRZmozOFVfbTZYSHNsaElsQlJqN3dHSk9aenF3bl9COFhTNk1sS01KUXhIR3dCUmNwY3hyT3pXNDgyaXJxWUh1ZlloS1hNTnpzeWtsT1BnZWVSWjVYMkVEWg?oc=5",
+        "date": "2026-10-24T13:36:00+00:00",
+        "summary": "한라산에 209㎜ 폭우…제주·남해안 풍수해 위기경보 ‘주의’로 올려 한겨레 태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향 경향신문 제주엔 200㎜ ‘물폭탄’, 수도권은 나들이 날씨…‘극과 극’ 일요일 [날씨] 경기일보 [오늘의 날씨 및 내일날씨]30호 태풍 참피 제주도 영향권,31호 태풍 인파 경로,남해안과 제주도 중심 비, 풍랑/너울 유의! 이코노미톡뉴스 일요일 전국 흐리고 남부·제주 비…남해안 20∼60㎜ 연합뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRE1CMUtseFZJZktvVDAyNmxfRnE3N1BEdEM3STVzb3VMaFRkUDdEZXhYbThLZ3NFQXB3ZkwzazZNM3lxVDlrOW5hRlNzQXd3TmNVSzBxUnFuanpBSG9wRkozdE1uTl9nRkZUTU44Qjg2b1NI?oc=5",
+        "title": "김민석, ‘조희대 탄핵’ 질문에 “국정조사 포함 차근차근 진행해갈 것” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRE1CMUtseFZJZktvVDAyNmxfRnE3N1BEdEM3STVzb3VMaFRkUDdEZXhYbThLZ3NFQXB3ZkwzazZNM3lxVDlrOW5hRlNzQXd3TmNVSzBxUnFuanpBSG9wRkozdE1uTl9nRkZUTU44Qjg2b1NI?oc=5",
+        "date": "2026-10-24T13:36:00+00:00",
+        "summary": "김민석, ‘조희대 탄핵’ 질문에 “국정조사 포함 차근차근 진행해갈 것” 한겨레 ‘오세훈 무죄’가 왜 ‘조희대 탄핵론?’…여야 대표 정면충돌 문화일보 조작기소 특검법안 처리 시동거는 與…'曺문제'도 연내매듭 목표 연합뉴스 정책 뒷전, '쇼츠 정치' 경쟁 된 국감...갈등 부추겨 YTN 국힘 “범죄자 대통령 만든 與, 사법부 훈계할 자격 있나” 동아일보"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamtFWFNaN1I2SThIMjNNalZlWlJhZ1BrLTdGZ0Z5UHMxRnZRX2RkUzg3b3hHcFB0UUFyRUdISXlZQzJPekt5NEcybzNiUVZtSXFqdGdmbTQ4YmtzWDZDcjN4N3pPY0FsWHc5ZDY4V0lPWnNwNVVsaUctb3hhV2owZ28xOXZUR2hqQ3ZJeFlEVQ?oc=5",
@@ -10635,11 +10733,39 @@
         "summary": "강동구에서 아버지 흉기로 찌른 30대 딸 구속...\"도주 우려\" YTN 강동구서 부친 흉기로 찌른 30대 여성 구속…법원 \"도주 우려\" 연합뉴스 “엄마가 독약을 먹이려 했다”…서울서 이틀 연속 부모에 ‘흉기 공격’ 범죄 잇따라 서울경제 '강서구 친모 살해' 40대 여성 구속‥법원 \"도주 우려\" MBC 뉴스 이틀 연속 자녀가 부모에 흉기…강서·강동서 잇단 존속범죄 세계일보"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tak9YTURXdmVPN0ZoV1NvNGFWM1hjZlBSZU95N0w2TWxSVU9RVUZVTnRZcDZSN21PNER0aG5Wdy1SV2lSd0g1ejUxNUNhTzl4eEdZZzlqbS1ieFdWd2tYM1E4RlBtRDdKVVZBeXdB0gFzQVVfeXFMT3ZGajBvcjNpekZ6ODd4T1RLR25vOEhJZ2xnWnF3RllZdlhXNFVmWHotTHI5VndRaTRIdHh6dFdDYm42N3p1dzJ6bGhyVzhhUUxyS0xuOXBEMmtZWEl5UmlSMG5FTDZkT0xDU0U2dHVCWGZiTQ?oc=5",
+        "title": "추미애, 순직 소방관 추모 행사서 \"소방관 자신의 생명도 지켜야\" - 한국일보",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tak9YTURXdmVPN0ZoV1NvNGFWM1hjZlBSZU95N0w2TWxSVU9RVUZVTnRZcDZSN21PNER0aG5Wdy1SV2lSd0g1ejUxNUNhTzl4eEdZZzlqbS1ieFdWd2tYM1E4RlBtRDdKVVZBeXdB0gFzQVVfeXFMT3ZGajBvcjNpekZ6ODd4T1RLR25vOEhJZ2xnWnF3RllZdlhXNFVmWHotTHI5VndRaTRIdHh6dFdDYm42N3p1dzJ6bGhyVzhhUUxyS0xuOXBEMmtZWEl5UmlSMG5FTDZkT0xDU0U2dHVCWGZiTQ?oc=5",
+        "date": "2026-10-24T13:03:00+00:00",
+        "summary": "추미애, 순직 소방관 추모 행사서 \"소방관 자신의 생명도 지켜야\" 한국일보 예산 삭감에 쪼그라든 순직 소방관 추모식···‘소방 빨대’ 사과한 추미애 “처우 개선 약속” 경향신문 [속보] 북, 김정은 방중 보도…“불패의 북중친선 영원히 굳건히 계승” 경기일보 열린도지사실 경기도청 추미애 “소방관 처우·예우 바꿔낼 것”…추모 행사 참석 KBS 뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjdCaFRtYU5iSW52dkhtRnprdHFiZ19ncFhQWEh0OVgyN1E4R0JuZGU5REg1UWc1a1otSVdtY2Z5cFdJdWxzdGQxc2xYaHV3bVVEcW84UFBpdmFJVURxc29zaVEzMkNtVFM2ZWxqcUdVSzNUbnBOWmFvQ3Y1VktBR1JIMnRMMEJuaS1icDN1VQ?oc=5",
+        "title": "양홍원 불륜 폭로자, '50만원' 요구했다..모텔 동행女 \"나도 이용 당해\" [핫피플] - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjdCaFRtYU5iSW52dkhtRnprdHFiZ19ncFhQWEh0OVgyN1E4R0JuZGU5REg1UWc1a1otSVdtY2Z5cFdJdWxzdGQxc2xYaHV3bVVEcW84UFBpdmFJVURxc29zaVEzMkNtVFM2ZWxqcUdVSzNUbnBOWmFvQ3Y1VktBR1JIMnRMMEJuaS1icDN1VQ?oc=5",
+        "date": "2026-10-24T12:45:50+00:00",
+        "summary": "양홍원 불륜 폭로자, '50만원' 요구했다..모텔 동행女 \"나도 이용 당해\" [핫피플] 조선일보 “같이 모텔 갔지만 바로 잠만 잤다”…새신랑 래퍼 양홍원, 불륜 부인 동아일보 양홍원·원현주, 결혼 5일만에 서로 SNS 언팔…불륜 의혹 여파? 뉴스1 “50 주면 너 정보 지워줄게”…양홍원 불륜 폭로에 신상 공개된 여성, 협박 DM 공개 스포츠경향 \"모텔 갔지만 애정 행위 없었다\" 결혼 5일 만에 불륜 의혹 휩싸인 양홍원…소속사는 정면 대응 아시아경제"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDY1R0MDFIRVBqM3lwUWhNbUtlcWYwdmNiOGphc0NJU3pPbEpvdXA0SGtNYVNnNThsTTNFVjhXUU1FS01xMDR4X0FaTGZBSWtHUmc?oc=5",
+        "title": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDY1R0MDFIRVBqM3lwUWhNbUtlcWYwdmNiOGphc0NJU3pPbEpvdXA0SGtNYVNnNThsTTNFVjhXUU1FS01xMDR4X0FaTGZBSWtHUmc?oc=5",
+        "date": "2026-10-24T12:40:50+00:00",
+        "summary": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회 매일경제 마켓 “하닉 손실 중이시죠?” 보유 개미 74%의 공통점 문화일보 [주간증시전망] 실적·FOMC ’슈퍼위크’…AI 수익성 우려 해소될까 By EBN Investing.com 한국어 솔리다임 변수 걷힌 SK하이닉스…지금이 매수 적기? 뉴시스 솔리다임 美 상장 검토 중단 SK하이닉스, '투자 재원' 확보 어떻게? 뉴스1"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QcWRXN05HWURwSmpCTWpOc3UxTjFBLVVEaWNncTh4eUpKeUppZkhiQmJ1eUhKeDIzLUpWVWpHSGRqZXY2Mk5TUTdzQmZhal9yRmJScXAxMkxEd1lj?oc=5",
+        "title": "서울 강서구서 친모 살해 40대 딸 구속…\"도주 우려\" - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QcWRXN05HWURwSmpCTWpOc3UxTjFBLVVEaWNncTh4eUpKeUppZkhiQmJ1eUhKeDIzLUpWVWpHSGRqZXY2Mk5TUTdzQmZhal9yRmJScXAxMkxEd1lj?oc=5",
+        "date": "2026-10-24T12:39:00+00:00",
+        "summary": "서울 강서구서 친모 살해 40대 딸 구속…\"도주 우려\" 뉴스핌 아버지 흉기로 찌른 30대 여성 구속…“도주 우려” KBS 뉴스 '강서구 친모 살해' 40대 여성 구속‥법원 \"도주 우려\" MBC 뉴스 “엄마가 독약을 먹이려 했다”…서울서 이틀 연속 부모에 ‘흉기 공격’ 범죄 잇따라 서울경제 강서구서 모친 살해한 40대 딸 구속…법원 \"도주 우려\"(종합) 연합뉴스"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBcU9CaFQzT2V4U3dKcFZOTjNXMGNKcWItMHM0ZWNVVjVsd3pDY1hrUVZxMnljSjJqT0FFMU9QcDdqcFB3ZHhTU1JZbkVlSTEyYi1jeGxaNlbSAVRBVV95cUxQSVotWmd1eXB1NTFmVzBiZDZvT0FSNTNFdzdBeG1aLVB4N2NEVHFQdVNmUGhYbVBEU1p1UENGTFcwWnVzRndwbThZS3hxcHdjXzNCQ1g?oc=5",
         "title": "신현송 “과거 같은 초저금리 시대 돌아가기 어려워…고성장·고금리 대비해 정책 펼 것” - 세계일보",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBcU9CaFQzT2V4U3dKcFZOTjNXMGNKcWItMHM0ZWNVVjVsd3pDY1hrUVZxMnljSjJqT0FFMU9QcDdqcFB3ZHhTU1JZbkVlSTEyYi1jeGxaNlbSAVRBVV95cUxQSVotWmd1eXB1NTFmVzBiZDZvT0FSNTNFdzdBeG1aLVB4N2NEVHFQdVNmUGhYbVBEU1p1UENGTFcwWnVzRndwbThZS3hxcHdjXzNCQ1g?oc=5",
         "date": "2026-10-24T12:30:49+00:00",
-        "summary": "신현송 “과거 같은 초저금리 시대 돌아가기 어려워…고성장·고금리 대비해 정책 펼 것” 세계일보 한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절 연합뉴스 [경제 포커스] 코스피 하락에 소비 위축 우려… “주식 1000만원 하락 시 소비 15만원 줄어” - 조선비즈 Chosunbiz 신현송 \"초저금리 시대로 돌아가기 어렵다\" 동의‥\"고성장·고금리 상황 대비\" MBC 뉴스 박홍근 \"석유 최고가격제 장기화 땐 재정 부담\" 마켓인"
+        "summary": "신현송 “과거 같은 초저금리 시대 돌아가기 어려워…고성장·고금리 대비해 정책 펼 것” 세계일보 한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절 연합뉴스 박홍근 \"석유 최고가격제 장기화 땐 재정 부담\" 마켓인 [경제 포커스] 코스피 하락에 소비 위축 우려… “주식 1000만원 하락 시 소비 15만원 줄어” - 조선비즈 Chosunbiz 잠깐의 숨 고르기?...이번 금리 동결이 진짜 두려운 이유 [이슈톺] YTN"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTdYT1J5TkdISjkxX05sSHo1YmZVa0NMTnNWbWN3b0tlV201RE1ZT1lWNUVwa2lFaFVBaWFTZS1wQzVxRHUyRWVMVmxBSUFYYzdvR2hCWXZJYjBxTWpmcFFEMFJwMjRia2lseTJaOHVtWXlRMTFQNGN6TDhQMWp4S05n?oc=5",
@@ -10674,7 +10800,7 @@
         "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5",
         "date": "2026-10-24T11:24:58+00:00",
-        "summary": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 한국경제 김정은 방중, 남북 긴장 완화에는 긍정적 효과?…\"전 세계 시선 집중\" 뉴스1 김정은, 당일치기 방중 끝났다... 中서열 4위 만나고 평양으로 조선일보 김정은 방중에 시선은 트럼프로…북미대화 불씨 되살릴까 연합뉴스 [속보] 왕후닝 “北과 전략적 협력 강화…신압록강대교 개통으로 인적왕래·경제협력 확대 서울경제"
+        "summary": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 한국경제 자신감 붙은 김정은, 트럼프 방중 앞두고 중국행 조선일보 김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화” KBS 뉴스 [속보] 北, 김정은 방중 보도 \"불패의 북중친선 영원히 굳건히 계승\" 연합뉴스TV [속보]김정은 “피로 맺은 불패의 북중친선 영원히 계승” 문화일보"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclk5ZV91a09sNWswQ1h5RVRyNXVxOWxOcmZ5WUFOQ1Q2clhqdDJLcUhoSXAzeVI0N241NjJqdGdZcHd6c2JJNF9QWG80M2RFcHJNeFpLNGZ2d2s0cXBBa1NvYlhjUnZkeVlLTWpsc2FLVmVyYjM4ZjF0VFNSYjJaU2dGMWFWX2w2Rmh2Z0pucw?oc=5",
@@ -10710,6 +10836,13 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fN1BNRDZTQ2FFeFoyTFd2YUhJdTdQdHF3d1dnaWVPNWNHLWtYOUtYV3gtbHp5QzRLMlp6RzhEWGNfbThfTWd2dkE4X0tGMUM5amc?oc=5",
         "date": "2026-10-24T10:55:17+00:00",
         "summary": "강서구 60대 모친 살해 40대 딸 구속…법원 \"도주 우려\" 노컷뉴스 강동구서 부친 흉기로 찌른 30대 여성 구속…법원 \"도주 우려\" 연합뉴스 '강서구 친모 살해' 40대 여성 구속‥법원 \"도주 우려\" MBC 뉴스 영장실질심사 출석하는 서울 강서구 친모 살인사건 피의자 뉴시스 '집안 문제'라며 신고 주저하지만…살인 피해자 절반 '가족·친인척' 뉴스1"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWnhmOG52LUo0MG40MHUyRnFyVW9zaFg1TWdKUHJVMTNwM2stc1JoeE45d216Z2xYUXktNjAzckRLaUpvUTdjTWc5NWpFeDFOTHBHUEZXa3czNkHSAWBBVV95cUxNdXQtTm1YSzZwR1ppNkhDOWNzbllRbTNZTTNFVXlJUzJMNVRwVllkS3NwTXp3c25Ka0RLemJDbEY3eXUySmlWSG13YnZwUFQ3eVVOREZ0dUJDckJscUpvYzY?oc=5",
+        "title": "\"슬픈 하루로만 남지 않길\"…이태원참사 4주기 시민추모대회(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWnhmOG52LUo0MG40MHUyRnFyVW9zaFg1TWdKUHJVMTNwM2stc1JoeE45d216Z2xYUXktNjAzckRLaUpvUTdjTWc5NWpFeDFOTHBHUEZXa3czNkHSAWBBVV95cUxNdXQtTm1YSzZwR1ppNkhDOWNzbllRbTNZTTNFVXlJUzJMNVRwVllkS3NwTXp3c25Ka0RLemJDbEY3eXUySmlWSG13YnZwUFQ3eVVOREZ0dUJDckJscUpvYzY?oc=5",
+        "date": "2026-10-24T10:25:28+00:00",
+        "summary": "\"슬픈 하루로만 남지 않길\"…이태원참사 4주기 시민추모대회(종합) 연합뉴스 이태원 참사 4주기 추모식서 고개 숙인 한성숙 총리 “다시 한번 깊이 사과···진상 명백히 밝힐 것” 경향신문 '서쪽하늘 향해 부르는 희생자의 이름' 뉴스1 \"잊지 않겠습니다\"...'4주기' 앞둔 이태원 애도 발길 YTN 무죄 받은 오세훈, 첫날부터 강행군…이태원 4주기 등 참석 뉴시스"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XVDRQSHg0aWQ5UnZvNkRQaVVEeWstQWtHazU4UTV4cEJNNEVsUTd4aFpzUjdGMm1ZTGVGN2FhM2dRY2p1amR2bFNJWm1RUzNWaUV4VHhNakZkbUNvZTdfOW00VU9NY1FCZGc?oc=5",
@@ -10779,7 +10912,7 @@
         "title": "이틀간 자취 감췄던 ‘부캉이’, 부산항서 다시 포착…“활동영역 넓히는 중” - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQODdmTnJGcW5tdUxJdV9UUUgzT3dZMzFQVkp5RE1TZkFqX0hUQUN5SS1YZlNFdVlSZktFQlRDN0g3ckZ3TUlKWDBaQXdQcm9ZS0JEMGU1SmdaV25naGtEUzhKRFFCdWZfLVAwOVlIRFZHLWpuUVdqWS1FMUl1VlA0NHBHcXVYdw?oc=5",
         "date": "2026-10-24T09:00:07+00:00",
-        "summary": "이틀간 자취 감췄던 ‘부캉이’, 부산항서 다시 포착…“활동영역 넓히는 중” 조선일보 [속보]이틀간 사라졌던 ‘부캉이’ 다시 나타나…최종 목격지점서 2㎞ 떨어진 곳서 유영 문화일보 이틀간 모습 감췄던 부캉이, 부산항 앞바다서 유영 확인 동아일보 부캉아, 이제는 우리가 지켜줄게 사이언스타임즈 아침부터 모습 감춘 상어 ‘부캉이’ 어디로 갔나···“잠영하며 바다 적응 하는 듯” 경향신문"
+        "summary": "이틀간 자취 감췄던 ‘부캉이’, 부산항서 다시 포착…“활동영역 넓히는 중” 조선일보 모습 감췄던 '부캉이' 부산항 근처에서 발견 YTN 부캉아, 이제는 우리가 지켜줄게 사이언스타임즈 또 돌아온 ‘부캉이’…바다 적응 중? 체력 저하? KBS 뉴스 “부캉이 너무 기특해”...동물도 ‘덕질’하는 시대 세계일보"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBueDJfNS03d0VqNy0tRmZfX1ZKTDI1RVpLTTVjZzRvWDFabGd5THlveWxId3R3clpPaXZIdExabzcxdk5ob0tDOGZsY0RBZ3BxR0ZmbQ?oc=5",
@@ -10817,11 +10950,18 @@
         "summary": "NYT “알래스카 LNG 개발사업에 러 ‘제재기업’ 몰래 자금 대” KBS 뉴스 \"알래스카 LNG 개발사업에 러 '제재기업' 몰래 자금 대\" 연합뉴스 녹아내리는 동토에 LNG 개발까지...기후위기 악순환 시작되나 [자막뉴스] YTN [단독]관세 다음은 원산지…美 우회수출 단속에 K수출기업 '비상' 아시아경제 “텃밭도 돌아섰다”… 중간선거 2주 앞, 상원 4석에 달린 트럼프의 명운 주간동아"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55eEswZDRZdnZTZDFQbGFGZWlBdkNyNFM4RFl1SEREMDhUOWpKRUUtblFvWXphcUJLdDRQX2pQd0NMeW05TExGNFN5Qk15Z2xaQUJtRUtqd1pTZlo5dEY4VUhJZnNIa2h6WFpGNTdn?oc=5",
+        "title": "영토 주장 안 물러서며…미·러·우 ‘종전협상’ 준비 푸틴, 노림수는? [뉴스분석] - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55eEswZDRZdnZTZDFQbGFGZWlBdkNyNFM4RFl1SEREMDhUOWpKRUUtblFvWXphcUJLdDRQX2pQd0NMeW05TExGNFN5Qk15Z2xaQUJtRUtqd1pTZlo5dEY4VUhJZnNIa2h6WFpGNTdn?oc=5",
+        "date": "2026-10-24T07:54:00+00:00",
+        "summary": "영토 주장 안 물러서며…미·러·우 ‘종전협상’ 준비 푸틴, 노림수는? [뉴스분석] 한겨레 젤렌스키 \"내달 미·러·우 정상회담 목표 실무자 회담…러 입장 중요\" - 머니투데이 머니투데이 “푸틴, 미·우크라와 종전 협상 재개 동의” KBS 뉴스 젤렌스키 \"11월 초 3자 회담 계획…러시아 측에 달려\" 뉴시스 젤렌스키 \"내달 초 아부다비서 미국 중재 3자 종전협상\" SBS 뉴스"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyWUpuNzU2cnh0cHREQ0thUjZXbklUSkpuNVlyczZwdUp2ejIxaFM4Y1l0eG9lZ2k4R0E3aWhPOF9ZMVR4a3R3c0tDRFlXeFZmdDEtSzFLbzRoUmfSAWBBVV95cUxQeklFQkJfWkJoTmFUVVlPUzVPb1JnM1dCN1gzLWpuNHYySGhocHVqOVZfb2pnNWh2dFRwR0hyWnV1NkZHb1hFclJ2bWFjTmRhOEh6R1B5aUJrSWJHaFNtSnI?oc=5",
         "title": "이란군 \"美군함, 걸프 진입불가…트럼프 꿈 무덤에 가져갈것\" - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyWUpuNzU2cnh0cHREQ0thUjZXbklUSkpuNVlyczZwdUp2ejIxaFM4Y1l0eG9lZ2k4R0E3aWhPOF9ZMVR4a3R3c0tDRFlXeFZmdDEtSzFLbzRoUmfSAWBBVV95cUxQeklFQkJfWkJoTmFUVVlPUzVPb1JnM1dCN1gzLWpuNHYySGhocHVqOVZfb2pnNWh2dFRwR0hyWnV1NkZHb1hFclJ2bWFjTmRhOEh6R1B5aUJrSWJHaFNtSnI?oc=5",
         "date": "2026-10-24T07:50:07+00:00",
-        "summary": "이란군 \"美군함, 걸프 진입불가…트럼프 꿈 무덤에 가져갈것\" 연합뉴스 트럼프 \"이란 상대 또 한번 작은 '장대한 분노' 작전 할 수도\" MBC 뉴스 트럼프 \"이란 모든 석유 장악, 이란 전역 점령 가능\"…공격 재개 가능성 언급 뉴시스 왈츠 미 유엔 대사 “이란 전쟁 1년 이상 더 갈 수 있다” 동아일보 트럼프 \"이란에 다시 '장대한 분노' 작전\"...국제유가 급등 YTN"
+        "summary": "이란군 \"美군함, 걸프 진입불가…트럼프 꿈 무덤에 가져갈것\" 연합뉴스 이란군 “미 군함, 걸프 진입불가…트럼프 꿈 무덤에 가져갈것” KBS 뉴스 \"이스라엘 군용기 수십대, 이란 국경 비행\"…공격 빌미 유도? 연합뉴스 트럼프 \"또 '장대한 분노' 할 수도\"…이란 \"美 페르시아만 진입 절대 불허\" 연합인포맥스 트럼프 \"이란 모든 석유 장악, 이란 전역 점령 가능\"…공격 재개 가능성 언급 뉴시스"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRN24zRVRMd0RPREQyTmFtbGdXYll6czJ0czFOaVFaZDVTWWZ6aUhvVUo2dl81bW5zOTdFUmtZR196OFRMdDR1enFSUTRFSFBNWmVPZngyaWs2UQ?oc=5",
@@ -10843,6 +10983,13 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVVaWXBPdURvQm9PY29LaEJ1UXc2cmEtTEh6WXYtNE5mQnhNYzViSTNvaTc0SWFlZlZHc0t1eW5xQklfbDBjbUZNR2stRXdESnV2VTljQVpmenktTXFYZmJ2aGxFR0lGdmI0U2x5SFZBQjY1VHVRZHBYWmlEX1ZsOVYzcUdIM2RyTTBfb0doQl8?oc=5",
         "date": "2026-10-24T07:30:53+00:00",
         "summary": "오세훈, 무죄 판결 후 광폭 행보… \"국힘, 단합된 모습 보여야\" 조선일보 오세훈 2심 무죄...김건희 '명태균 여론조사' 대법 심리 영향은? YTN ‘항소심 무죄’ 오세훈 “與, 선출 권력이 3권 위라고 착각”…조희대 탄핵 논의 직격 동아일보 무죄판결 이튿날 보폭 넓힌 오세훈 시장…종일 외부 일정 소화(종합) 연합뉴스 오세훈 무죄에 더 커진 '조희대 탄핵론'...\"국조부터 차근차근\" YTN"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84cmItdXZiNERQMnpIaGg0c1B4VFc1cGIzSXhSc19YUXUzb3dkVnVDdU1nYktyTnRNU0NUMW1rMGNSUnpRUnd4Q1ItZ3ZiRG0wM3JtSW40ZWhTWjg?oc=5",
+        "title": "김포시, 북한 대남확성기 예고에 즉각 대응…市 “접경지역 주민 보호 총력” - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84cmItdXZiNERQMnpIaGg0c1B4VFc1cGIzSXhSc19YUXUzb3dkVnVDdU1nYktyTnRNU0NUMW1rMGNSUnpRUnd4Q1ItZ3ZiRG0wM3JtSW40ZWhTWjg?oc=5",
+        "date": "2026-10-24T07:13:00+00:00",
+        "summary": "김포시, 북한 대남확성기 예고에 즉각 대응…市 “접경지역 주민 보호 총력” 경기일보 MDL까지 내려온 김여정...'국경선 요새화' 집착 이유는? YTN [속보]與 윤건영 \"방중 김정은, 당일 귀국 유력하다 보고 받아\" - 머니투데이 머니투데이 [반도 앨리스] 북한 조앙중앙통신의 오보, 요즘 바빠서?…김여정 군사분계선 시찰 날짜 틀린 듯 경향신문 \"다급함 느껴지는 김여정\"…전례없는 발표 뒤 이상 징후? [지금이뉴스] YTN"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQ2xBLWVjZjhvV0dDTVo0UDNIT0FvRWpYSHZCTHVoWndVWXhfanlfNU9NdUdFVjdyV0Q4N0ZGaHlNSkx3b2FlS3pjdENEQ3BoNWsyWm9CZ1BBWXUtZ1R2dHliak44eHpvSWdfX2pB?oc=5",
@@ -11101,7 +11248,7 @@
         "title": "'사망설' 북한 김정은, 공개석상 등장‥\"최강의 군대 건설\" - MBC 뉴스",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rb3BfcHdwUWFtU0VqYVpOTFo3YzJBak04aUFJWlVGX29GaWJhLTVBWklCRzduOHpwYnRLa05XclJWMkhUNDFrN2ZwYjI1NEFCaXN0blhTTTlRZ09oTEVqRFk1UnNTTFRvZk9kQzlVZnhENkZ2SHZmOdIBeEFVX3lxTE5SanIxaHdVSkl1NTAyMmtZX1duWXM5T2d5YWNhb3JiT29PeWx2TVp4RTh6WmlXbmJKV3NrTEtqd24zQUZ0dlJqalpscGJGaFNGVmRlMy1WM2NUajJ0MldWSkJ2VU90dmdoZG1ORTNJWVVwQ1FqdnBWdQ?oc=5",
         "date": "2026-10-24T01:36:13+00:00",
-        "summary": "'사망설' 북한 김정은, 공개석상 등장‥\"최강의 군대 건설\" MBC 뉴스 ‘사망설’ 돌자 보란 듯 공개석상 등장한 김정은···군 수뇌부 앞에서 “최강의 군대 건설” 경향신문 '사망설' 비웃듯 등장한 김정은...군사회담 제의엔 침묵? YTN ‘뇌출혈로 사망했다더니…’ 김정은, 전군 중대장 모아놓고 “강군 건설” 강조 문화일보 [속보] 여당 정보위 간사 “김정은, 中서 리창 총리와 만난 것 확인…오늘 귀국 유력” KBS 뉴스"
+        "summary": "'사망설' 북한 김정은, 공개석상 등장‥\"최강의 군대 건설\" MBC 뉴스 ‘사망설’ 돌자 보란 듯 공개석상 등장한 김정은···군 수뇌부 앞에서 “최강의 군대 건설” 경향신문 ‘뇌출혈로 사망했다더니…’ 김정은, 전군 중대장 모아놓고 “강군 건설” 강조 문화일보 베이징서 사망했다던 김정은…사흘 만에 공개석상에 건재 과시 주간조선 김정은, 중대장대회 지도…“최강중대 육성으로 강군건설” KBS 뉴스"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80ZkczbndPTnZNdlVYbEtsR0tuRVMtU0NYTFdndGxLTkc0TXRHd3I3bnhHVnViUWc5Z3VwUlV0dWhpR2x6SVNsWldsV0k1TEtIVkJST091Zy16NnVmTFRadnV2VG9ERkNHM1E?oc=5",
@@ -11202,11 +11349,11 @@
         "summary": "빅뱅 전 멤버 승리 “소주병 집어들기만 해 … 가격 안했다” 혐의 부인 문화일보 ‘소주병 피소’ 승리 측 “소주병 집어들었지만 휘두르진 않았다” 동아일보 승리 \"소주병은 들었다\", 양홍원 \"모텔엔 갔다\"…닮은꼴 반박 - 머니투데이 머니투데이 '소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\" 뉴시스 [전문] ‘소주병 피소’ 승리 측 “고소인 합의 제안, 정식 수사 통해 밝힐 것” 스포츠경향"
       },
       {
-        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55eEswZDRZdnZTZDFQbGFGZWlBdkNyNFM4RFl1SEREMDhUOWpKRUUtblFvWXphcUJLdDRQX2pQd0NMeW05TExGNFN5Qk15Z2xaQUJtRUtqd1pTZlo5dEY4VUhJZnNIa2h6WFpGNTdn?oc=5",
-        "title": "영토 주장 안 물러서며…미·러·우 ‘종전협상’ 준비 푸틴, 노림수는? [뉴스분석] - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55eEswZDRZdnZTZDFQbGFGZWlBdkNyNFM4RFl1SEREMDhUOWpKRUUtblFvWXphcUJLdDRQX2pQd0NMeW05TExGNFN5Qk15Z2xaQUJtRUtqd1pTZlo5dEY4VUhJZnNIa2h6WFpGNTdn?oc=5",
-        "date": "2026-10-23T23:14:00+00:00",
-        "summary": "영토 주장 안 물러서며…미·러·우 ‘종전협상’ 준비 푸틴, 노림수는? [뉴스분석] 한겨레 “푸틴, 미·우크라와 종전 협상 재개 동의” KBS 뉴스 푸틴 \"최종 평화 협정 추진...우크라이나 동부는 러시아 땅\" YTN 젤렌스키 \"11월 초 3자 회담 계획…러시아 측에 달려\" 뉴시스 젤렌스키 \"트럼프 초청하면 美 G20 참석…푸틴과 3자협상 기대\" 뉴스1"
+        "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nZjhpd1hzMTc2dGtOQWtURVZtcUg4Q0RERFo1b1Y3VGNpMEk0UGRBaXR5YUx0LVhaYjRBeXBLQUV1dmpHLUhuMVU1RmNfNzg2MWx2Rk41M0RzODh6d0lvcmhaREZPOXYzV2t6QzkwNULSAXRBVV95cUxPa3hycUVIWEUtQkw4WTlrRUZ1eHp0cEVfNkxhM1NRWTN4bWYxajF6cndCSGFyUEtTYm9WeW4tR0pUak51SmtBbjNmLUp6dkJnU3VJNEI1ZlVYMUxScFlMRV9mZzlhaGo0STA2XzdaTTJoXzBiNA?oc=5",
+        "title": "[외환] 중동 긴장·달러 반등에 1,320원대 중반 상승 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nZjhpd1hzMTc2dGtOQWtURVZtcUg4Q0RERFo1b1Y3VGNpMEk0UGRBaXR5YUx0LVhaYjRBeXBLQUV1dmpHLUhuMVU1RmNfNzg2MWx2Rk41M0RzODh6d0lvcmhaREZPOXYzV2t6QzkwNULSAXRBVV95cUxPa3hycUVIWEUtQkw4WTlrRUZ1eHp0cEVfNkxhM1NRWTN4bWYxajF6cndCSGFyUEtTYm9WeW4tR0pUak51SmtBbjNmLUp6dkJnU3VJNEI1ZlVYMUxScFlMRV9mZzlhaGo0STA2XzdaTTJoXzBiNA?oc=5",
+        "date": "2026-10-23T23:11:43+00:00",
+        "summary": "[외환] 중동 긴장·달러 반등에 1,320원대 중반 상승 연합인포맥스 3개월 만에 170원 떨어진 환율, 자동차는 울고 항공은 웃고 네이버페이 머니스토리 외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지 뉴스1 “원화값은 여전히 저평가입니다”…‘반도체 달러’에 1200원대 진입하나 매일경제 마켓 원/달러 환율 소폭 반등…1,320원대 중반 연합뉴스"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlQ21tMVBwUGwwMlVVSnVJYVkxNWR1dlY1TzhfeThkQlZZQWdKVG00NXp4dHJFRE9hVWtuZFFKSzJUYWhoSGliR2stMVhXbFF5UFdjU0t1SHhCa2lCM2l1Q3c5c3VQanc?oc=5",
@@ -11424,6 +11571,13 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idG1STGFpclBEbmJGZVdVdW0yaHdNNGE5bzFjYTFNTkVWOUY2dk4zRGV2WHItWVF2b3hWN0JReTRzUF85YUtoNS1qTE9BUk1fOXZQVERMQVdXdDcw?oc=5",
         "date": "2026-10-23T19:24:00+00:00",
         "summary": "백악관 \"멜라니아 여사 중재로 러·우크라, 올레슈키서 휴전 합의\" 뉴스핌 젤렌스키 “미 중재 종전 협상, 다음 달 초 아부다비서 재개” KBS 뉴스 국지적 휴전 이어 종전 협상 재개...무력 충돌 완화할까? YTN 백악관 \"우크라 올레시키서 29일부터 교전중단…멜라니아 중재\" 연합뉴스 “내가 개입해 가능했다”…멜라니아가 나선 우크라 주민 대피 미주중앙일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CaVZsUU5aa2ZOQlFmc05FZHAwRjlOd09WdUZ4WWNBelQ1cVEwMTJIZldjVDhwNTZoX2xmRFNiNTF4dy1Pa2kxc3VlTXk1dnU5QU1qRkNDRVFFM1owNW9QRUdtcmJyMHVtTWViWGVn?oc=5",
+        "title": "송혜교, 신생 매니지먼트 STAND와 전속계약 - https://www.frame-less.co.kr/",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CaVZsUU5aa2ZOQlFmc05FZHAwRjlOd09WdUZ4WWNBelQ1cVEwMTJIZldjVDhwNTZoX2xmRFNiNTF4dy1Pa2kxc3VlTXk1dnU5QU1qRkNDRVFFM1owNW9QRUdtcmJyMHVtTWViWGVn?oc=5",
+        "date": "2026-10-23T18:28:40+00:00",
+        "summary": "송혜교, 신생 매니지먼트 STAND와 전속계약 https://www.frame-less.co.kr/ 송혜교, 매니지먼트 스탠드와 전속계약…글로벌 행보 박차 YTN 송혜교, 신생 소속사 ‘STAND’에 둥지… ‘20년 인연’ 스타일리스트의 남편과 손잡았다 조선일보 [BS이슈] 송혜교, ‘더 글로리’ 다음은 60년대 연예계…보법이 다르다 스포츠월드 송혜교, 신생 기획사 스탠드와 전속계약…\"세심한 지원\" 뉴스1"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEVE1UUzNDNXNWdV9NbDUyaW5fRVN3NUl6RHN6R3FUVXdYUFRNM2NxSjJaN0NvUlczbTBrd19HODltRjRGc2stUnI4VF9UZV9PWFkxWDZWU0d2ZGM?oc=5",
@@ -17374,151 +17528,11 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TbWFnNEw3cnhHOUgtX09iV2JBc2lYN2NwS3VMRVFRbEpSc3VLMVBicEdZT2ctakhKT2duTS14WlJsZFFFRENrbl9BVUZkZTFaRDdaNlhiV3ZVZw?oc=5",
         "date": "2026-10-17T10:49:00+00:00",
         "summary": "“여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유 농민신문 '냉동식품' 즐겨먹는 중년, 뇌 MRI 찍었더니…'놀라운 결과' 한국경제 \"맛있다고 자주 먹었는데\"…뇌혈관 손상 징후 40% 높게 나타난 '이 식습관' 아시아경제 “심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임] 서울경제 대장암, 초가공식품 섭취량과 무관?…46만명 연구서 뜻밖 결과 [건강팩트체크] 동아일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LTDNtTklkS0dGSTVMZVFpLXF4NGM4UUROaUdIVTFERFhZaTY0U1RYYVVfOG5XWWhSYzBxRDRUS0haYW9JYUdZR09VUGFCZFhZVjdLVFVRTnpWZw?oc=5",
-        "title": "“지키자 내 돈”…코스피 불안에 예금·IMA로 ‘역 머니무브’ - 농민신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LTDNtTklkS0dGSTVMZVFpLXF4NGM4UUROaUdIVTFERFhZaTY0U1RYYVVfOG5XWWhSYzBxRDRUS0haYW9JYUdZR09VUGFCZFhZVjdLVFVRTnpWZw?oc=5",
-        "date": "2026-10-17T10:46:00+00:00",
-        "summary": "“지키자 내 돈”…코스피 불안에 예금·IMA로 ‘역 머니무브’ 농민신문 코스피 7거래일 하락에 ‘빚투’ 직격탄…반대매매 3000억 육박 조선일보 정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검 정책브리핑 \"이 정도면 사볼까?\" 폭락 하루 만에 반등했는데…아직 안심 이른 이유 - 머니투데이 머니투데이 “빚투할 때는 어디 있었나?”…美 CNBC 앵커, 韓 금융당국에 일침 동아일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xNFcxcE9kY3lsMnBxeVhtX2psMVpKWTQ4WE9NdFZSQ19reXdNZzIyUi1nN2RIRC00bFV0SXpHTDRmWjVDNXRNdlY0dnlWWnpXaTBSTGRUVTJCQdIBX0FVX3lxTE1hMmxTeURCMzZ6YjUyRlJ6MUMwWVBhMjYzU1NNRjRKYmQzczIyQzdvVWpXaGtwMHFQRjVWN1lPM05WckV1VU5zd0hKM2FaLWhiSXVCMms5OXJSd013dUln?oc=5",
-        "title": "[현장 화보] 이 대통령, 부천 화재 순직 소방관 빈소 찾아 유가족 위로 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xNFcxcE9kY3lsMnBxeVhtX2psMVpKWTQ4WE9NdFZSQ19reXdNZzIyUi1nN2RIRC00bFV0SXpHTDRmWjVDNXRNdlY0dnlWWnpXaTBSTGRUVTJCQdIBX0FVX3lxTE1hMmxTeURCMzZ6YjUyRlJ6MUMwWVBhMjYzU1NNRjRKYmQzczIyQzdvVWpXaGtwMHFQRjVWN1lPM05WckV1VU5zd0hKM2FaLWhiSXVCMms5OXJSd013dUln?oc=5",
-        "date": "2026-10-17T10:30:00+00:00",
-        "summary": "[현장 화보] 이 대통령, 부천 화재 순직 소방관 빈소 찾아 유가족 위로 경향신문 李대통령, 순직 소방대원 빈소 조문... \"님의 희생 영원히 기억\" 조선일보 \"딸이 몇 살인가\" 물은 뒤 침묵…李대통령, 부천 화재 순직 소방대원 애도 - 머니투데이 머니투데이 국토위 국감 앞둔 경기도…국회, SOC 사업과 정부 부동산 정책까지 겨냥 기호일보 이재명 대통령의 고(故) 김진석 소방위 빈소 방명록 뉴스핌"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UN29vVGNFZnlFYWVRNHhESUJ2VVY4OUdWcUlQZ3dMa1JyV0hOcHY3a2NMTENQRGd3OURUeUdDR2VtX2F3Rkd4ZkF6QkduZWplZ05sQzVpbjNad9IBX0FVX3lxTE9EUE9IMEZxZ3lHenhpTjN6dU5XZEZSZkEwSmxtejM2cTQ3bmlEMVU3bWpfUEFHMmg3SWRDNVpvUGFaSXRlYjZNQm9SVVI2TlpEb0xvZ2htd3BJeVVITTNF?oc=5",
-        "title": "부캉이의 부산살이 한 달···식을 줄 모르는 인기에 북항 방문객 150만명 돌파 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UN29vVGNFZnlFYWVRNHhESUJ2VVY4OUdWcUlQZ3dMa1JyV0hOcHY3a2NMTENQRGd3OURUeUdDR2VtX2F3Rkd4ZkF6QkduZWplZ05sQzVpbjNad9IBX0FVX3lxTE9EUE9IMEZxZ3lHenhpTjN6dU5XZEZSZkEwSmxtejM2cTQ3bmlEMVU3bWpfUEFHMmg3SWRDNVpvUGFaSXRlYjZNQm9SVVI2TlpEb0xvZ2htd3BJeVVITTNF?oc=5",
-        "date": "2026-10-17T10:30:00+00:00",
-        "summary": "부캉이의 부산살이 한 달···식을 줄 모르는 인기에 북항 방문객 150만명 돌파 경향신문 상어 ‘부캉이’ 벌써 한달…“건강상태 이상 무” Chosunbiz \"한달살기 하다니…\" 주말 부산 북항 '부캉이' 구경 인파 북적 연합뉴스 '부캉이' 인기에 물고기 환경도 주목…지하상가 수족관은? 뉴시스 “이대로 두면 폐사”…‘부캉이’ 보고 온 상어 전문가 경고는? KBS 뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOWhVaTZiN3pZOXNhZHFvMDBicGVsWDJ0ZHBZQndzSklTcVJqR203WlZYU1hZdFNXTlNmX3pZOUZqWkN5a0xXbk9ROTBidFpGWDh0bjlDTDBfeXPSAWBBVV95cUxPRGlILWd0d25OOE14MzBsY0FSdWxNNlR4ODBGWXd2RF9iNG91ZUdkQnVBMlM0NkxTaGUtLUFGeFFuaGVnRjI2QUJ3OHJITndGdnBYdFpMYnpEaHR3ZVc4TUc?oc=5",
-        "title": "교황, 폐 수술 5일 만에 퇴원…주일 삼종기도 주례 예정 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOWhVaTZiN3pZOXNhZHFvMDBicGVsWDJ0ZHBZQndzSklTcVJqR203WlZYU1hZdFNXTlNmX3pZOUZqWkN5a0xXbk9ROTBidFpGWDh0bjlDTDBfeXPSAWBBVV95cUxPRGlILWd0d25OOE14MzBsY0FSdWxNNlR4ODBGWXd2RF9iNG91ZUdkQnVBMlM0NkxTaGUtLUFGeFFuaGVnRjI2QUJ3OHJITndGdnBYdFpMYnpEaHR3ZVc4TUc?oc=5",
-        "date": "2026-10-17T10:29:43+00:00",
-        "summary": "교황, 폐 수술 5일 만에 퇴원…주일 삼종기도 주례 예정 연합뉴스 교황, 푸틴에 우크라 점령지 휴전 요청…러시아 “구호 협력” 경향신문 교황, 폐암 수술 후 푸틴과 통화…구호품 협력 요청 SBS 뉴스 폐 수술 나흘 만에 모습 드러낸 교황…병원서 미사 집전 연합뉴스TV 교황, 입원 4일 만에 퇴원…18일 삼종기도 주례 예정 KBS 뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jd2JSSFBCbWZOZ2hpOEpVN1kzY0J4UXdVY0FOMlNaeDVGd0hUeEg0RDljZlpWV2dxTVE4TXgzQ1JjZXpLeFZQaWRGYkxXUHRTYjhfVV9mRmpYRENSMVVROUhKTUlibHUyRkptS1ZpOEdxTVhVdUQ4UtIBeEFVX3lxTE1fZVBXLVZEZFU1NHBHVHd3eFpORzRNdl9kOUhOQWlscXZLRlNmbkdPRno2VDYwUUdoZ0RTNHpBSGJVa2FBYkFpT045NWtFdGw1VUlSOG03ZzJKNUVGOHAtSGtMTFdxMlBxUnhkTThGOWMwRVVyNV9XaA?oc=5",
-        "title": "김병주, 주한미군 사령관에 사과 요구‥\"주권 침해 발언, 선 넘어\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jd2JSSFBCbWZOZ2hpOEpVN1kzY0J4UXdVY0FOMlNaeDVGd0hUeEg0RDljZlpWV2dxTVE4TXgzQ1JjZXpLeFZQaWRGYkxXUHRTYjhfVV9mRmpYRENSMVVROUhKTUlibHUyRkptS1ZpOEdxTVhVdUQ4UtIBeEFVX3lxTE1fZVBXLVZEZFU1NHBHVHd3eFpORzRNdl9kOUhOQWlscXZLRlNmbkdPRno2VDYwUUdoZ0RTNHpBSGJVa2FBYkFpT045NWtFdGw1VUlSOG03ZzJKNUVGOHAtSGtMTFdxMlBxUnhkTThGOWMwRVVyNV9XaA?oc=5",
-        "date": "2026-10-17T10:26:04+00:00",
-        "summary": "김병주, 주한미군 사령관에 사과 요구‥\"주권 침해 발언, 선 넘어\" MBC 뉴스 [단독] 브런슨 사령관, 선 넘으면…\"정부, 여러 채널 경고 검토\" JTBC 김병주 “브런슨 ‘남쪽 철책선’ 발언, 韓 영토주권 침해…즉각 사과하라” 경기일보 커지는 한미동맹 파열음… 주목받는 브런슨 ‘거친 입’ 동아일보 與, 주한미군사령관에 “선 넘었다”…‘남쪽 철책선’ 발언 철회 요구 세계일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53eThfQlIySmN4WnpOa1QwV3VyYXFaR2RKWDl5RWpwbFY3ajF5SHdIM0M5YnVFVXBmYlI4M0t2T1pDMXd6bXZOU1lTOVl6ZEZWanY1aGZzZUNCOFJp?oc=5",
-        "title": "대구·경북 18일 낮부터 돌풍 동반 강한 비....예상 강수량 10~50mm - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53eThfQlIySmN4WnpOa1QwV3VyYXFaR2RKWDl5RWpwbFY3ajF5SHdIM0M5YnVFVXBmYlI4M0t2T1pDMXd6bXZOU1lTOVl6ZEZWanY1aGZzZUNCOFJp?oc=5",
-        "date": "2026-10-17T10:19:00+00:00",
-        "summary": "대구·경북 18일 낮부터 돌풍 동반 강한 비....예상 강수량 10~50mm 뉴스핌 대구·경북 흐리고 비…예상 강수량 10∼60㎜ 연합뉴스 [오늘의 날씨] 대구·경북(17일, 토)…큰 일교차, 낮 21~26도 뉴스1 흐린 대구·경북 오후부터 곳곳 비…아침 12도·한낮 27도 뉴시스 [날씨] 대구/경북 시간당 30mm 물폭탄· · ·산지 풍속 70km/h 강풍 국제뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Q0tVRmxGN0FQMWJIYzZKbTRKS3pGRTZrUEk3UzBGYmZfQzMyNjY2bS1ONW1HR2VQbGQ2Q1Q5STRwQkp5ZWgxRm1CbkJ1MmRSeVlMWm1mNzhsYmx5NEHSAWNBVV95cUxNQUEyZ29YX3Voa2JOQWFNc3JjQnlHVk1UaUtNZE1FdEtXMkhHNy1uNXI4QWhERG1qS2dWLUd2ZkNWcXd5emR4V1NPdUxZU3ZnaEpzMEpmaGpLVXg0dTBBOXBEVG8?oc=5",
-        "title": "트럼프, 러시아 제재 상당수 면제…젤렌스키와는 갈등 격화 - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Q0tVRmxGN0FQMWJIYzZKbTRKS3pGRTZrUEk3UzBGYmZfQzMyNjY2bS1ONW1HR2VQbGQ2Q1Q5STRwQkp5ZWgxRm1CbkJ1MmRSeVlMWm1mNzhsYmx5NEHSAWNBVV95cUxNQUEyZ29YX3Voa2JOQWFNc3JjQnlHVk1UaUtNZE1FdEtXMkhHNy1uNXI4QWhERG1qS2dWLUd2ZkNWcXd5emR4V1NPdUxZU3ZnaEpzMEpmaGpLVXg0dTBBOXBEVG8?oc=5",
-        "date": "2026-10-17T09:56:15+00:00",
-        "summary": "트럼프, 러시아 제재 상당수 면제…젤렌스키와는 갈등 격화 BBC 110달러 육박한 유가에…트럼프, 대러 제재 면제 발표 조선일보 트럼프, 대러 제재 완화…러 “역사적 순간” 우크라 “푸틴 공격 부추길 뿐” 동아일보 “경유딜 부적절” 트럼프 또 겨눈 젤렌스키…트럼프 “스타실드 장애 지시 안 해” KBS 뉴스 트럼프 치받은 젤렌스키, '유일한 기댈 언덕' 유럽에 절박한 구애(종합) 연합뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aUHNMaGNsUGpTeHZCV2JLRExWSjFXejIxMjlYWlFIU0RvRUVpNW5ZbmRLOHV4dUtxa09HUXR4eWF5YzViMS0yV3dPSVpBNHBiREdDajVlVmZFLVdtemJGRF9BOWF4dw?oc=5",
-        "title": "연말까지 고양창릉·하남교산 등 수도권 주택 23만 5000호 착공 - 수원일보",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aUHNMaGNsUGpTeHZCV2JLRExWSjFXejIxMjlYWlFIU0RvRUVpNW5ZbmRLOHV4dUtxa09HUXR4eWF5YzViMS0yV3dPSVpBNHBiREdDajVlVmZFLVdtemJGRF9BOWF4dw?oc=5",
-        "date": "2026-10-17T09:48:16+00:00",
-        "summary": "연말까지 고양창릉·하남교산 등 수도권 주택 23만 5000호 착공 수원일보 연말까지 수도권 주택 21만 8000~23만 5000호 이상 착공 대한민국 정책브리핑 ‘닥공’ 한다더니 올 수도권 착공 37% 그쳐… “최대 5만채 미달 전망” 동아일보 공급대책 쏟아냈는데…집은 왜 부족할까[공급의 역설①] 뉴시스 [부동산사용설명서] 공급 속도 높인다지만…실제 입주는 언제? 뉴스1"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aYlN3eUwzQXFzN3hKd1phSFdIZlJyYmNIUzA4MjFMLWZjeTJCWXpkN1AwbDZwdmxhQ1QzNW9mTmxmcVBwMWdIU3NHMHJJdlVSYVlTc2tDdUE?oc=5",
-        "title": "차정원, 하정우와 결혼 발표 후 첫 근황…꽃다발 안은 ‘예비신부’ - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aYlN3eUwzQXFzN3hKd1phSFdIZlJyYmNIUzA4MjFMLWZjeTJCWXpkN1AwbDZwdmxhQ1QzNW9mTmxmcVBwMWdIU3NHMHJJdlVSYVlTc2tDdUE?oc=5",
-        "date": "2026-10-17T09:47:03+00:00",
-        "summary": "차정원, 하정우와 결혼 발표 후 첫 근황…꽃다발 안은 ‘예비신부’ 매일경제 하정우·차정원, 12월 13일 결혼…6년 열애 결실 맺는다 YTN 하정우♥차정원·이유진♥차경은 결혼…베테랑 김용건·이효정, 배우 가족 꾸렸다 뉴스1 [AI연예가] 하정우·차정원 결혼부터 이수만 걸그룹 A2O 라이트 데뷔까지 뉴스핌 하정우♥차정원·이규한♥솔비·노희찬♥최미소, 3일간 부부 세 쌍 탄생[Oh!쎈 이슈] 조선일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vNjI5U1ZvSkVKVzdGQlRSZnptdFZtckkzNDU1d21UYk40OXhWRVhUOThCV3ZLSTlJRTlCdkZ6MHJIQkpnOF81UDVvay1hUllrM2drSjRpMzhxM1HSAWBBVV95cUxPekRxa0RFS0djVnlEcl9NVVpFeWppUHZBUHpoZTRuaFA4TWZWR2FaVGxVN0h3aVhTZlB6VElKZG1US21lUlZkWlhPQmpPMW1zMklsQndTOWg5M1lIYU4wYV8?oc=5",
-        "title": "LG 임찬규, 장모상…18일 준PO 2차전 선발 등판 강행 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vNjI5U1ZvSkVKVzdGQlRSZnptdFZtckkzNDU1d21UYk40OXhWRVhUOThCV3ZLSTlJRTlCdkZ6MHJIQkpnOF81UDVvay1hUllrM2drSjRpMzhxM1HSAWBBVV95cUxPekRxa0RFS0djVnlEcl9NVVpFeWppUHZBUHpoZTRuaFA4TWZWR2FaVGxVN0h3aVhTZlB6VElKZG1US21lUlZkWlhPQmpPMW1zMklsQndTOWg5M1lIYU4wYV8?oc=5",
-        "date": "2026-10-17T09:46:44+00:00",
-        "summary": "LG 임찬규, 장모상…18일 준PO 2차전 선발 등판 강행 연합뉴스 'LG에 강했던' KIA 올러 \"중심 타선 상대 피해 최소화 집중\" 연합뉴스 LG 임찬규, 장모상에도 내일 준플레이오프 2차전 선발 SBS 뉴스 '1차전 네일 7이닝 1실점' KIA, 2차전 올러가 기세 이어갈까…LG 임찬규, 시즌 최종전 패배 아픔 설욕 도전 - 조선비즈 Chosunbiz 'ERA 2위' KIA 올러 vs '다승왕' LG 임찬규, 준PO 2차전 선발 대결 뉴스1"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uZE9tajdRd3I2UEVDYVZSd0dOUjN6VzBMZ1VBUFlYVFFCaXNkdVlHbkx4OUk0Mlk4Qmk1QWNEa0xQVVhhdGoxU0RIRVZLWjJ4T19ZTERVenNiWjkxWV9fUW9QYkV6a3hZNnc?oc=5",
-        "title": "김도영 '멀티 홈런' 맹활약…KIA 플레이오프행 가능성은 71％ - SBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uZE9tajdRd3I2UEVDYVZSd0dOUjN6VzBMZ1VBUFlYVFFCaXNkdVlHbkx4OUk0Mlk4Qmk1QWNEa0xQVVhhdGoxU0RIRVZLWjJ4T19ZTERVenNiWjkxWV9fUW9QYkV6a3hZNnc?oc=5",
-        "date": "2026-10-17T09:36:42+00:00",
-        "summary": "김도영 '멀티 홈런' 맹활약…KIA 플레이오프행 가능성은 71％ SBS 뉴스 '개인 최초 역사' 김도영 \"공이 수박처럼 보이나요?\" 답은 아니었다 [준PO1 현장] 스타뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNTRaRFNQQTZJbFdnOHRsOHhmZVJWYXJGVkFpV0JibTZzVG5ycnVmU18yYnFXNUprck82R1NFeGxjM1FQNG9iUFcwWlNSRzBhV0pya3dTVm4ydw?oc=5",
-        "title": "[준PO] 'PO 진출 확률 70.6%' 잡은 KIA...이범호 감독 \"질 수 있는 확률 적지 않아\" 경계 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNTRaRFNQQTZJbFdnOHRsOHhmZVJWYXJGVkFpV0JibTZzVG5ycnVmU18yYnFXNUprck82R1NFeGxjM1FQNG9iUFcwWlNSRzBhV0pya3dTVm4ydw?oc=5",
-        "date": "2026-10-17T09:34:00+00:00",
-        "summary": "[준PO] 'PO 진출 확률 70.6%' 잡은 KIA...이범호 감독 \"질 수 있는 확률 적지 않아\" 경계 뉴스핌 KIA, LG 작전 간파·깔끔한 병살 수비로 준PO 1차전 잡았다(종합) 연합뉴스 실패, 또 실패, 또또 실패...욕심이 화근, 런&히트 3연속 하면 누구라도 대비한다, 왜 희생번트 안 했을까 [준PO1] 조선일보 [한번에쓱] 김도영 따돌리며 준PO1차전 MVP '7이닝 1실점 호투' 네일 - 머니투데이 머니투데이 열띈 응원 LG 뉴시스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iaHQyNVZaVHlIQVY4TUdkTFd0ZFhrZGlmeTFCS18za3NDX1JURHViYUdXSl9MZUxmSnNLeVdTZENGd1RVWVRlNm11OXBuRWZhaDY3dUh2WW1XVUNKT2stOHg5bktjUlB3bkE?oc=5",
-        "title": "유도 허미미, 전국체전 여자 일반부 57㎏급 5연속 우승 - SBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iaHQyNVZaVHlIQVY4TUdkTFd0ZFhrZGlmeTFCS18za3NDX1JURHViYUdXSl9MZUxmSnNLeVdTZENGd1RVWVRlNm11OXBuRWZhaDY3dUh2WW1XVUNKT2stOHg5bktjUlB3bkE?oc=5",
-        "date": "2026-10-17T09:32:15+00:00",
-        "summary": "유도 허미미, 전국체전 여자 일반부 57㎏급 5연속 우승 SBS 뉴스 [전국체전] 유도 허미미, 여자 일반부 57㎏급 우승…5연패 달성 연합뉴스 ‘아시안게임 금메달’ 유도 허미미, 전국체전 57㎏급 우승…5연패 동아일보 유도 스타 허미미가 제주에 떴다! KBS 뉴스 '독립운동가 후손' 허미미, 아시안게임 금메달 이어 전국체전 5연패…적수가 없다 OSEN"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzBLM0trOEJOZ3gtc1BWRDY1Yk5PNHZ1UUIzMzdCWGdxLWR4NzNKR21aY0RxSjA4QU9JM2ZHOUxTRGlSaktDOTljOFN2T2I3SzE1d0xmRW5kMkJmdUlZbFpOQkRmMlQ1ckdueTkwQ3RwSjVJNWZwRzkyR0JxZlJ0VUI5eUwyZFh5MUhvZjRWR3IxdUXSAacBQVVfeXFMTTdyeVJDTHp3WjRsbURHQ3ZaLW9NVTRzR25qcWo3OElMZE1FcVBQREZuTUswRmFJMVVicUc2TjRUX1dvUFZrSUs3YUhyMlVzblJIMFNlRkRIMEZ4ellKS3RsM1dvMEN1YlJkMXpoTVR0czhQeEN1VWwzejNHNUN1cTFtT1pyUU9EX054QVA4U0lFcmp2RC1YVWplY1R6N1VzTkoxZXpGajA?oc=5",
-        "title": "하정우♥차정원·이규한♥솔비·노희찬♥최미소, 3일간 부부 세 쌍 탄생[Oh!쎈 이슈] - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzBLM0trOEJOZ3gtc1BWRDY1Yk5PNHZ1UUIzMzdCWGdxLWR4NzNKR21aY0RxSjA4QU9JM2ZHOUxTRGlSaktDOTljOFN2T2I3SzE1d0xmRW5kMkJmdUlZbFpOQkRmMlQ1ckdueTkwQ3RwSjVJNWZwRzkyR0JxZlJ0VUI5eUwyZFh5MUhvZjRWR3IxdUXSAacBQVVfeXFMTTdyeVJDTHp3WjRsbURHQ3ZaLW9NVTRzR25qcWo3OElMZE1FcVBQREZuTUswRmFJMVVicUc2TjRUX1dvUFZrSUs3YUhyMlVzblJIMFNlRkRIMEZ4ellKS3RsM1dvMEN1YlJkMXpoTVR0czhQeEN1VWwzejNHNUN1cTFtT1pyUU9EX054QVA4U0lFcmp2RC1YVWplY1R6N1VzTkoxZXpGajA?oc=5",
-        "date": "2026-10-17T09:31:00+00:00",
-        "summary": "하정우♥차정원·이규한♥솔비·노희찬♥최미소, 3일간 부부 세 쌍 탄생[Oh!쎈 이슈] - 조선비즈 Chosunbiz 하정우·차정원, 12월 13일 결혼…6년 열애 결실 맺는다 YTN 차정원, 하정우와 결혼 발표 후 첫 근황…꽃다발 안은 ‘예비신부’ 매일경제 하정우♥차정원·이유진♥차경은 결혼…베테랑 김용건·이효정, 배우 가족 꾸렸다 뉴스1 하정우♥차정원·이규한♥솔비·노희찬♥최미소, 3일간 부부 세 쌍 탄생[Oh!쎈 이슈] 조선일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDNTk4Y0RDUVRJdGZUZ1BTMnNucEc2ZFg0NEhaZ1kyOHUwZGE4MVBOV2l4RmlkV2tjZEwzZEgzelZfMTNqSUZWeUFod2pYSEtVUER5RXA0b3BoTVlhMHJDMkVuUTFJcjJwVUxLRkRVRVhxbURGd3ZR0gF3QVVfeXFMT1dqbG84VHg1TXJPRlRJbXZ5bEJyNUdHZFFYQV9UR2JXcE1PbGJ6bU84V2prZHVOUHA1aS1oMDc2VXlvNGcyOFFKTkJSSkNTYkctSk9iSlgyNkVGSTJmTmhGakFEVUpXMXBfenFXcERWVU9TczU4Vzg?oc=5",
-        "title": "'두 달 미제' 이천 차량 위협 사건‥피의자 1명 검거, 공범은 출국 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDNTk4Y0RDUVRJdGZUZ1BTMnNucEc2ZFg0NEhaZ1kyOHUwZGE4MVBOV2l4RmlkV2tjZEwzZEgzelZfMTNqSUZWeUFod2pYSEtVUER5RXA0b3BoTVlhMHJDMkVuUTFJcjJwVUxLRkRVRVhxbURGd3ZR0gF3QVVfeXFMT1dqbG84VHg1TXJPRlRJbXZ5bEJyNUdHZFFYQV9UR2JXcE1PbGJ6bU84V2prZHVOUHA1aS1oMDc2VXlvNGcyOFFKTkJSSkNTYkctSk9iSlgyNkVGSTJmTmhGakFEVUpXMXBfenFXcERWVU9TczU4Vzg?oc=5",
-        "date": "2026-10-17T09:23:29+00:00",
-        "summary": "'두 달 미제' 이천 차량 위협 사건‥피의자 1명 검거, 공범은 출국 MBC 뉴스 ’이천 심야 차량습격’ 미제 사건 외국인 용의자 1명 검거 연합뉴스TV ‘이천 심야 차량 습격’ 20대 용의자 충격 정체 문화일보 차 가로막고 발길질하더니…3개월 만에 잡힌 외국인 \"중고차인 줄\" - 머니투데이 머니투데이 '이천 심야 차량습격' 미제 사건 용의자 카자흐스탄인 검거 연합뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTlGUTlNT0Y2ZjZYaERrWHBxMzE0MG40QjFpYTdTZ29OYWxfUERvTkhXUDItOVJxMUtzek9XZmpHS0lhWV9KQVpLSnZ6Um93Yzd6YmRjek8tRktjLXJPcFBSMTFCQ0E0RU9LLS1MT2R0VXdlZW9UbDlzSHJkLTFaTVZmcHdBUVFzR2xpdlhZWQ?oc=5",
-        "title": "바타, 예비신부 ♥지예은 커피차 선물에 뛸 듯이 기뻐하네..'하트' 화답(전참시) - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTlGUTlNT0Y2ZjZYaERrWHBxMzE0MG40QjFpYTdTZ29OYWxfUERvTkhXUDItOVJxMUtzek9XZmpHS0lhWV9KQVpLSnZ6Um93Yzd6YmRjek8tRktjLXJPcFBSMTFCQ0E0RU9LLS1MT2R0VXdlZW9UbDlzSHJkLTFaTVZmcHdBUVFzR2xpdlhZWQ?oc=5",
-        "date": "2026-10-17T09:21:00+00:00",
-        "summary": "바타, 예비신부 ♥지예은 커피차 선물에 뛸 듯이 기뻐하네..'하트' 화답(전참시) 조선일보 Google 뉴스에서 헤드라인 및 의견 더보기"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxanZMQW1fOU5ZQW9FNVB6Tkp5NXRPRWdjNzd3aGxxcWR6blJNRzlfUXpkdjlHU0tQWnBaRmNpeUFKNzdOOFBrVkhIS1M?oc=5",
-        "title": "\"김도영, 대단하다는 말밖에···\" 이범호 감독, 준PO 첫 경기 승리에 웃었다 - 무등일보",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxanZMQW1fOU5ZQW9FNVB6Tkp5NXRPRWdjNzd3aGxxcWR6blJNRzlfUXpkdjlHU0tQWnBaRmNpeUFKNzdOOFBrVkhIS1M?oc=5",
-        "date": "2026-10-17T09:02:00+00:00",
-        "summary": "\"김도영, 대단하다는 말밖에···\" 이범호 감독, 준PO 첫 경기 승리에 웃었다 무등일보 프로야구 준PO 1차전, '70.6% 확률' 누가 잡을까? 연합뉴스 열띈 응원 LG 뉴시스 김도영 보니 뽀뽀 참을 수 없다, ‘1차전 MVP’ 네일 “정말 자랑스럽다, 2024년처럼 우승하고 또 뽀뽀하고 싶어” OSEN '이럴 수가' 최악의 실책-실책, LG 자멸하다...단기전 수비 중요성 강조했는데 \"6회 연속 실수로 추가 실점하며 흐름 넘겨줬다\" [준PO1] - 조선비즈 Chosunbiz"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13YXVnM21ZUkVNZHBnbUZSYTFsRFZSNmRvNnBlTHJkN0QwbUl1OHpqNFplZHdHa0hTS0RNeS04ZnlDQllaZTBXZ3VBakl3Y3F6Wkd5NWxhaTZLWWZu?oc=5",
-        "title": "[프로농구] '23시즌 만에 개막 5연승' 삼성, '우승후보' DB 95-92 제압 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13YXVnM21ZUkVNZHBnbUZSYTFsRFZSNmRvNnBlTHJkN0QwbUl1OHpqNFplZHdHa0hTS0RNeS04ZnlDQllaZTBXZ3VBakl3Y3F6Wkd5NWxhaTZLWWZu?oc=5",
-        "date": "2026-10-17T08:21:00+00:00",
-        "summary": "[프로농구] '23시즌 만에 개막 5연승' 삼성, '우승후보' DB 95-92 제압 뉴스핌 프로농구 삼성, 파죽의 개막 5연승…'우승후보 1순위' DB도 제압 연합뉴스 ‘헤어밴드 때문에 출전불발’ 장발 임동언의 공언 “일요일에 단정하게 자르겠다”…삼성 연승행진 이어갈까 OSEN “선수들 눈빛서 패배 지웠다…‘원팀’ 농구로 연승 행진” 서울경제 [영상] 삼성 23년 만에 개막 4연승…긴 머리 해프닝 화제 KBS 뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1dzlobzVRX1dPbllSSHZiS2F5UUZ5aFRZU0h0eUtRVm5RWWtSRTBoOXpGT3VmbC1Za3N6Wnk2MEdRZ0Q4U0R1a0lSVmpRbjAxT3NiNjNtblpoTzlsRDlLOTYtS0gtNFFSNk9z0gFvQVVfeXFMUDVybWtCMFhnZUZ6ZWVNenF5ZjJ3TXRRNHNKbDZwa3JMeFQ3REIySXNUdVN6cG1xRXlRbFA0aGlNU2J2M08tY3ZXQnlkcEZyUlF5ck5QY3lTY0lFcUJfWDFrLTJiVWJWLU5sWEZvTzMw?oc=5",
-        "title": "한국전 〈콜오브듀티: 모던워페어4〉 캠페인이 주는 단 한 번의 경험 - 글로벌E",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1dzlobzVRX1dPbllSSHZiS2F5UUZ5aFRZU0h0eUtRVm5RWWtSRTBoOXpGT3VmbC1Za3N6Wnk2MEdRZ0Q4U0R1a0lSVmpRbjAxT3NiNjNtblpoTzlsRDlLOTYtS0gtNFFSNk9z0gFvQVVfeXFMUDVybWtCMFhnZUZ6ZWVNenF5ZjJ3TXRRNHNKbDZwa3JMeFQ3REIySXNUdVN6cG1xRXlRbFA0aGlNU2J2M08tY3ZXQnlkcEZyUlF5ck5QY3lTY0lFcUJfWDFrLTJiVWJWLU5sWEZvTzMw?oc=5",
-        "date": "2026-10-17T08:18:47+00:00",
-        "summary": "한국전 〈콜오브듀티: 모던워페어4〉 캠페인이 주는 단 한 번의 경험 글로벌E 콜 오브 듀티: 모던 워페어 4 - 캠페인 리뷰 IGN Korea 신규 모드와 맵, 모던 워페어 4 시즌 1 로드맵 공개 게임메카 В Call of Duty Modern Warfare 4 레이 트레이싱을 활성화하면 DLSS, FSR 및 XeSS가 차단됩니다. GameGPU 파페 산, 파리에서 'Chez Pape' 코리안 팝업 식료품점 겸 PC방을 열다, Call of Duty Modern Warfare 4 출시를 기념해 Sortir à Paris"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kaDVRb0dxb3ZrWmpLMHpfQjBFRXh5T0pBM3NHZUhvbGpEcnp2aGZ6elFWN0FTYk15bjdJeDZ6eDZSdUNHMW5CSnNVVGlQQ3VBYmkzbDU5dkZkRXV4aFZOOHdvMkZQb3c?oc=5",
-        "title": "김도영, 홈런 2방 포함 4타점 맹활약…KIA, LG와 준PO 1차전 승리 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kaDVRb0dxb3ZrWmpLMHpfQjBFRXh5T0pBM3NHZUhvbGpEcnp2aGZ6elFWN0FTYk15bjdJeDZ6eDZSdUNHMW5CSnNVVGlQQ3VBYmkzbDU5dkZkRXV4aFZOOHdvMkZQb3c?oc=5",
-        "date": "2026-10-17T08:14:00+00:00",
-        "summary": "김도영, 홈런 2방 포함 4타점 맹활약…KIA, LG와 준PO 1차전 승리 한겨레 김도영 멀티홈런·네일 역투 빛났다…KIA, LG와 준PO 첫판 완승 제민일보 고의4구로 걸러야 하나…\"대단한 선수, 인정한다\" 솔로-투런, 4타점 미쳤다, 김도영을 LG는 막을 수 있을까 OSEN 프로야구 준PO 1차전, '70.6% 확률' 누가 잡을까? 연합뉴스 \"운이 좋았다\"vs\"작전 예상했다\" 발느린 주자 깜짝 도루실패 → 엇갈린 양팀 수장의 시선 [광주포커스] 조선일보"
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
-    "last_new": "2026-10-24T20:48:16.971922+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
+    "last_new": "2026-10-24T23:12:51.013326+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "published_count": 1000,
     "consecutive_failures": 0,
@@ -17633,9 +17647,9 @@
         "summary": "npm과 Pnpm은 Node.js 개발에서 JavaScript 및 TypeScript 프로젝트의 의존성, 라이브러리, 그리고 도구를 관리하기 위해 사용되는 패키지 매니저입니다. 최근 아우토크립트 EVI 스튜디오에서는 npm에서 Pnpm으로 패키지 매니저를 전환하게 되었습니다. 이번 글에서 전환하면서 겪은 경험을 공유드립니다!"
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
     "last_new": "2026-09-28T11:43:44.881512+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "published_count": 15,
     "consecutive_failures": 0,
@@ -17644,6 +17658,19 @@
   },
   "ai-utilize": {
     "items": [
+      {
+        "id": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=150642",
+        "title": "윤 어게인",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=150642",
+        "date": "2026-10-24T19:24:00+00:00",
+        "summary": "",
+        "content_status": "image_only",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:19.875944+00:00",
+        "content_html": "<p></p><div><img alt=\"7ce58371da8069f051ed87e1449f343332c990ff0699dd881195ce0551\" src=\"https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c347af88bb5d6b5217a1569319b7f45bf03b3a3143b295b1873a586ad8f0cbccc43be91ea1e3f5b26ea1ee7ede0c21c55edb668c40b1\"/></div>",
+        "content_image_count": 1,
+        "content_error": null
+      },
       {
         "id": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=149990",
         "title": "디시에서 제일 쓸모없는 기능은 이거임..",
@@ -22281,17 +22308,17 @@
         "summary": ""
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
-    "last_new": "2026-10-24T18:08:33.472592+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
+    "last_new": "2026-10-24T23:12:51.013326+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "body_collection": {
-      "ready": 145,
+      "ready": 146,
       "pending": 0,
       "failed": 0,
-      "attempted": 0
+      "attempted": 1
     },
-    "published_count": 538,
+    "published_count": 539,
     "consecutive_failures": 0,
     "first_failure": null,
     "alert_required": false
@@ -22322,6 +22349,19 @@
         "content_image_count": 1,
         "content_attempts": 1,
         "content_checked_at": "2026-10-24T18:09:11.992655+00:00",
+        "content_error": null
+      },
+      {
+        "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497382",
+        "title": "유엔 안보리, 샘 알트만의 연설",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497382",
+        "date": "2026-10-24T15:48:33+00:00",
+        "summary": "유엔 안전보장이사회에서 한 샘 알트만의 연설 오픈AI · 2026년 9월 23일 오늘 OpenAI CEO 샘 알트만은 유엔 안전보장이사회에서 인공지능을 주제로 연설했습니다. 그는 AI가 기회를 확대할 잠재력, 강력한 시스템을 인간의 통제 아래 유지하는 일의 중요성, AI 안전을 위한 국제 협력의 필요성을 논의했습니다. 실제 연설문 의장님과 각국 대표 여러분, 감사합니다. 이 중요한 시기에 이 자리에 서서 여러분께 말씀드릴 수 있어 영광입니다. 저희는 여러 해 동안 인공지능을 논의해 왔지만, 최근 몇 주와 몇 달 사이에는 분위기가 달라졌습니다. 모델이 빠르게 발전하면서 예상 일정은 훨씬 앞당겨진 듯하고 긍정적 가능성은 더욱 구체화되었지만, 그만큼 중대한 이해관계와 위험도 눈앞의 현실로 다가왔습니다. 우리 앞에는 선택의 갈림길이 놓여 있습니다. AI는 창의성과 발견이 꽃피는 새로운 르네상스가 될 수도 있고, 격변과 혼란을 일으키는 새로운 산업혁명이 될 수도 있습니다. 르네상스는 새로운 도구와 사상, 제도가 등장해 사람들이 자신에게 가능하다고 믿는 일의 범위를 넓힌 시대였습니다. AI는 우리 시대에 그런 역할을 할 수 있습니다. 저는 사람들이 스스로 생각하는 것보다 훨씬 큰 능력을 지녔다고 믿습니다. 하지만 사람에게 힘을 실어 주어야 할 기술이 오히려 주의를 흩뜨리고 관심을 빼앗는 일이 잦아 그 능력이 제약받아 왔습니다. 가장 바람직한 AI는 사람을 거대한 기계의 부속품으로 만들거나, 인간적인 요소가 사라질 때까지 삶의 모든 부분을 최적화하는 것이 아닙니다. 갈수록 복잡해지는 세상에서 사람들이 더 큰 주도권을 갖게 하는 것입니다. 더 많이 배우고 창조하고 발견하고 만들고 참여할 역량을 주는 것입니다. AI가 자동화할 수 없고, 자동화해서도 안 되는 일은 많습니다. AI는 기계 자체를 위해 그저 더 빠르게 돌리는 것이 아니라 사람을 위해 만들어져야 합니다. AI를 개발하는 이들 중 일부가 한 말은 너무나 디스토피아적이어서 조악한 공상 과학 영화의 줄거리처럼 들릴 정도입니다. 이토록 강력한 것은 무엇이든 두려움을 불러일으키기도 합니다. 엄청난 잠재력과 충분히 이해할 만한 불안을 동시에 느끼고 있기에 지금 이 순간은 복잡합니다. 이러한 모델은 신약, 더 나은 의료와 교육 같은 새로운 지식을 발견하고, 생산성이 더 높은 경제를 구축하도록 사람들을 도울 수 있습니다. 오늘날에는 이룰 수 없을 것처럼 보이는 꿈과 포부를 사람들이 추구할 수 있게 하는 새로운 도구가 될 수 있습니다. 평범한 사람이 감당해야 하는 삶의 복잡성은 엄청나게 커졌습니다. AI는 전례 없는 발견과 혁신의 도구인 동시에 이러한 복잡성으로부터 사람들을 지켜 주는 도구가 될 수 있습니다. 반면 AI 시스템의 역량과 자율성이 높아지면 제도의 대응 속도를 앞지르고, 극소수에게 권력을 집중시키거나, 사람들이 더는 이해하거나 통제할 수 없는 결정을 내릴 수도 있습니다. 흔히 ‘재귀적 자기 개선’이라고 부르는, 자신과 자신의 향후 버전을 개선할 수 있는 시스템에 가까워질수록 이러한 우려는 특히 ",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-24T23:13:22.062133+00:00",
+        "content_html": "<br/><div>\n<div><br/></div>\n<div><span><b>유엔 안전보장이사회에서 한 샘 알트만의 연설</b></span></div><div><span><span>오픈AI </span><span>· 2026년 9월 23일</span></span></div><p><span><br/></span></p><p><span>오늘 OpenAI CEO 샘 알트만은 유엔 안전보장이사회에서 인공지능을 주제로 연설했습니다. 그는 AI가 기회를 확대할 잠재력, 강력한 시스템을 인간의 통제 아래 유지하는 일의 중요성, AI 안전을 위한 국제 협력의 필요성을 논의했습니다.</span><span><br/></span></p><p><br/></p>\n<div><br/></div><p><span><b>실제 연설문</b></span></p><p><span><b><br/></b></span></p><p><span>의장님과 각국 대표 여러분, 감사합니다. 이 중요한 시기에 이 자리에 서서 여러분께 말씀드릴 수 있어 영광입니다.</span></p><p><span><br/></span></p><p><span>저희는 여러 해 동안 인공지능을 논의해 왔지만, 최근 몇 주와 몇 달 사이에는 분위기가 달라졌습니다. 모델이 빠르게 발전하면서 예상 일정은 훨씬 앞당겨진 듯하고 긍정적 가능성은 더욱 구체화되었지만, 그만큼 중대한 이해관계와 위험도 눈앞의 현실로 다가왔습니다.</span></p><p><span><br/></span></p><p><span>우리 앞에는 선택의 갈림길이 놓여 있습니다. AI는 창의성과 발견이 꽃피는 새로운 르네상스가 될 수도 있고, 격변과 혼란을 일으키는 새로운 산업혁명이 될 수도 있습니다.</span></p><p><span><br/></span></p><p><span>르네상스는 새로운 도구와 사상, 제도가 등장해 사람들이 자신에게 가능하다고 믿는 일의 범위를 넓힌 시대였습니다. AI는 우리 시대에 그런 역할을 할 수 있습니다. 저는 사람들이 스스로 생각하는 것보다 훨씬 큰 능력을 지녔다고 믿습니다. 하지만 사람에게 힘을 실어 주어야 할 기술이 오히려 주의를 흩뜨리고 관심을 빼앗는 일이 잦아 그 능력이 제약받아 왔습니다.</span></p><p><span><br/></span></p><p><span>가장 바람직한 AI는 사람을 거대한 기계의 부속품으로 만들거나, 인간적인 요소가 사라질 때까지 삶의 모든 부분을 최적화하는 것이 아닙니다. 갈수록 복잡해지는 세상에서 사람들이 더 큰 주도권을 갖게 하는 것입니다. 더 많이 배우고 창조하고 발견하고 만들고 참여할 역량을 주는 것입니다. AI가 자동화할 수 없고, 자동화해서도 안 되는 일은 많습니다.</span></p><p><span><br/></span></p><p><span>AI는 기계 자체를 위해 그저 더 빠르게 돌리는 것이 아니라 사람을 위해 만들어져야 합니다. AI를 개발하는 이들 중 일부가 한 말은 너무나 디스토피아적이어서 조악한 공상 과학 영화의 줄거리처럼 들릴 정도입니다.</span></p><p><span><br/></span></p><p><span>이토록 강력한 것은 무엇이든 두려움을 불러일으키기도 합니다. 엄청난 잠재력과 충분히 이해할 만한 불안을 동시에 느끼고 있기에 지금 이 순간은 복잡합니다.</span></p><p><span><br/></span></p><p><span>이러한 모델은 신약, 더 나은 의료와 교육 같은 새로운 지식을 발견하고, 생산성이 더 높은 경제를 구축하도록 사람들을 도울 수 있습니다. 오늘날에는 이룰 수 없을 것처럼 보이는 꿈과 포부를 사람들이 추구할 수 있게 하는 새로운 도구가 될 수 있습니다. 평범한 사람이 감당해야 하는 삶의 복잡성은 엄청나게 커졌습니다. AI는 전례 없는 발견과 혁신의 도구인 동시에 이러한 복잡성으로부터 사람들을 지켜 주는 도구가 될 수 있습니다.</span></p><p><span><br/></span></p><p><span>반면 AI 시스템의 역량과 자율성이 높아지면 제도의 대응 속도를 앞지르고, 극소수에게 권력을 집중시키거나, 사람들이 더는 이해하거나 통제할 수 없는 결정을 내릴 수도 있습니다.</span></p><p><span><br/></span></p><p><span>흔히 ‘재귀적 자기 개선’이라고 부르는, 자신과 자신의 향후 버전을 개선할 수 있는 시스템에 가까워질수록 이러한 우려는 특히 중요해집니다. AI 개발 과정이 더욱 자동화되면 AI의 발전 속도는 급격히 빨라질 수 있습니다. 지금은 극도로 신중해야 할 때입니다.</span></p><p><span><br/></span></p><p><span>저는 벤지오 교수의 견해에 대체로 동의합니다. 다만 세 가지가 아닌 두 가지를 말씀드리겠습니다. AI의 발전이 심각하게 잘못될 수 있는 두 가지 경로가 있으며, 이를 반드시 피해야 한다고 생각합니다.</span></p><p><span><br/></span></p><p><span>첫째, 미래에 대한 통제권을 AI에 빼앗길 수 있습니다. 너무 빠르게 발전한 나머지 사람들이 더는 상황을 파악하거나 필요할 때 개입할 수 없게 되는 것이 위험입니다. 이는 분명 끔찍한 일일 것입니다.</span></p><p><span><br/></span></p><p><span>혜택이 너무 크고 발전 속도를 늦춰서는 안 될 만큼 중요하게 느껴진다는 이유만으로 업계가 과도한 기술적 위험을 감수해서는 안 됩니다. 경쟁에서 다른 기업을 앞서겠다는 이유로 성급한 결정을 내려서는 안 됩니다. 또한 속도를 늦출 수조차 없는 경쟁에 갇혀 있다고 생각하지도 않습니다. 저희는 과거에도 독자적으로 개발 속도를 늦춘 적이 있습니다. 앞으로도 그렇게 할 것입니다. 저희는 반드시 필요한 정렬과 모니터링 가능성, 안전성을 보장할 수 없는 시스템을 만들고 싶지 않습니다. 누구도 그런 시스템을 만들어서는 안 된다고 생각합니다.</span></p><p><span><br/></span></p><p><span>이러한 시스템이 무엇을 하는지 이해해야 하며, 시스템이 매우 높은 지능을 갖추더라도 인간이 의도한 대로 행동하리라는 확실한 증거가 있어야 합니다. 정확히는, 지능이 매우 높아질수록 더욱 그래야 합니다. 사람들이 재앙이 발생할 위험을 10%나 1%, 12%, 또는 0.1%로 추정하는지는 중요하지 않습니다. 그 어느 수준도 조금도 용납할 수 없습니다. 또한 인간의 통제 아래 둘 수 있다고 매우 확실하게 입증하지 못하는 모델은 훈련해서는 안 됩니다.</span></p><p><span><br/></span></p><p><span>이것이 상황이 잘못될 수 있는 첫 번째 경로입니다. 또 다른 경로는 이러한 시스템이 극소수에게 지나치게 큰 권력을 집중시키는 것입니다. 어떤 개인이나 기업, 국가도 가장 강력한 AI 모델을 이용해 자신의 세계관을 다른 모든 사람에게 강요할 수 있어서는 안 됩니다. 이 기술을 믿고 맡길 수 있는 주체는 오직 자신뿐이라고 생각하는 기업이나 국가는 그 믿음을 구실로 거의 모든 행동을 정당화할 수 있습니다. 특정 행위자에게 편리한 논리라 해도 우리는 이를 거부해야 합니다.</span></p><p><span><br/></span></p><p><span>저는 이 두 가지 문제를 모두 헤쳐 나갈 실용적인 길이 있다고 믿습니다. OpenAI는 명확한 목표를 바탕으로 이러한 문제에 접근합니다. AI는 사람들이 자신의 삶을 더 주도할 수 있도록 해야 합니다. 원하는 방식으로 살아갈 자유를 더 많이 주어야 합니다. 크고 작은 문제를 해결하고 공동체를 발전시킬 역량을 더욱 키워 주어야 합니다. 저희는 맹목적 낙관주의의 함정에 빠지고 싶지 않습니다. 그렇다고 파국론의 함정에 빠지고 싶지도 않습니다. 어느 한 극단에 휩쓸려도 눈앞의 과제를 성공적으로 풀 수 없습니다. 특히 지금은 전 세계와 인류가 이 기술로 해결할 수 있는 막대한 과제에 직면한 때입니다. 그래서 저희는 이 두 극단 사이에서 중도의 길을 걸으려 합니다.</span></p><p><span><br/></span></p><p><span>저희에게 이는 세 가지 원칙을 의미합니다.</span></p><p><span><br/></span></p><p><span>첫째, AI의 역량이 향상되더라도 AI와 관련된 의사 결정의 중심에는 사람이 있어야 합니다. 정렬은 추상적인 연구 문제가 아닙니다. 이러한 시스템이 언제나 인간의 통제 아래 안정적으로 머물고 인간의 가치를 반영하며, 사람들이 다음 개발 단계를 이끌도록 하는 실질적인 작업입니다. 저희는 인간의 판단이나 가치를 자동화하려 하지 않으며, 그렇게 해서도 안 됩니다.</span></p><p><span><br/></span></p><p><span>둘째, 과학의 진보와 경제 성장의 혜택은 사람들이 만들어 내고 사람들이 누려야 합니다. AI는 연구자의 발견, 의사의 환자 치료, 교사의 학생 교육, 기업가의 창업을 돕고, 공동체가 해결하기 어렵다고 여겼던 문제를 풀도록 지원하는 등 훨씬 더 많은 일을 해야 합니다. 인류 발전의 역사는 도구가 인간의 주체성을 대체해 온 역사가 아닙니다. 올바른 도구가 사람의 역량을 키워 온 역사이며, 저는 그 가능성이 지금 우리가 상상하는 것보다 훨씬 더 커질 것이라고 믿습니다.</span></p><p><span><br/></span></p><p><span>셋째, 이 기술은 개개인에게 힘을 실어 주어야 합니다. 사람들이 잠재력을 실현하고 자신과 공동체, 국가, 더 넓은 세계를 위한 가치를 창출할 때 더 나은 미래가 열릴 것입니다. 저희가 이 기술을 만드는 주체 중 하나일 수는 있지만, 이 이야기의 주인공은 아닙니다. 저희의 역할은 전 세계 사람들이 역량을 펼칠 수 있게 하고, 인류가 지닌 능력과 재능의 놀라운 힘을 믿는 것입니다.</span></p><p><span><br/></span></p><p><span>이제 저희에게는 전에는 알지 못했던 지식을 발견할 수 있는 모델이 있습니다. 수학 분야에서 이룬 발전을 생각해 보십시오. 3년 전 여름, 저희 모델은 초등학교 수학을 어느 정도 풀었습니다. 2년 전 여름에는 고등학교 수학 경시대회 문제를 꽤 잘 풀었습니다. 지난여름에는 세계 최고 권위의 국제 수학 경시대회에서 금메달 수준에 도달했습니다. 그리고 불과 몇 주 전인 올여름, 저희 모델 하나가 밀레니엄 문제 중 하나인 나비에-스토크스 방정식을 풀었습니다.</span></p><p><span><br/></span></p><p><span>이 방정식은 항공기 설계와 일기 예보, 혈류 연구에 사용됩니다. 저희가 수학 문제를 푸는 것은 그 자체가 목적이 아닙니다. 사람들이 새로운 지식을 발견하고 이를 활용해 의료를 개선하고 생활 수준을 높이며, 전 세계 모든 사람의 잠재력을 확장하도록 돕기 위해서입니다. 아직 발견해야 할 것이 너무나 많습니다.</span></p><p><span><br/></span></p><p><span>그러나 기업이 민주적 절차를 대신하지 않는 것이 매우 중요합니다.</span></p><p><span><br/></span></p><p><span>AI가 민주적으로 운영되려면 가장 중요한 결정을 샌프란시스코의 연구소들만 내려서는 안 됩니다. 그러한 결정은 민주적 절차와 국민에게 책임을 지는 정부를 통해 이루어져야 합니다.</span></p><p><span><br/></span></p><p><span>국제적 차원에서는 협력이 필요합니다. 역사를 돌아보면 서로 경쟁하고 사이도 그리 좋지 않은 국가들이 강력한 신기술의 등장에 맞서 공동의 이해와 공익을 위해 힘을 합친 때가 있었습니다. 지금이 바로 그런 때여야 한다고 믿습니다.</span></p><p><span><br/></span></p><p><span>국가와 국제사회의 프런티어 AI 표준이 상호 보완적으로 작동할 수 있는 체계가 필요합니다. 역량을 측정하고 위험을 평가하며 안전장치가 충분한지 판단하고, 시스템의 자율성이 높아지는 가운데 실질적인 인간의 감독을 유지하기 위한 표준이 필요합니다.</span></p><p><span><br/></span></p><p><span>각국이 증거를 비교하고 준수 여부를 검증하며, 현재 벌어지는 일을 공통의 언어로 논의하고 함께 이해할 수 있도록 공동 표준이 필요합니다.</span></p><p><span><br/></span></p><p><span>실패가 재앙으로 번지기 전에 전 세계가 교훈을 얻을 수 있도록 정확하고 신속한 사고 보고 체계와 분류·보고 절차가 필요합니다.</span></p><p><span><br/></span></p><p><span>또한 새롭게 드러나는 취약점과 위협을 공유할 수 있도록 정부, 핵심 인프라 운영자, 기술 전문가 사이에 안전한 소통 채널이 필요합니다.</span></p><p><span><br/></span></p><p><span>물론 이러한 표준이 기존 사업자의 지위를 고착하거나 특정 비즈니스 모델에 유리하게 작용해서는 안 됩니다. 개방형·폐쇄형 모델 개발사, 신규 진입자와 기존 연구소, 국가의 권한과 국제 협력을 모두 뒷받침해야 합니다. 각국 정부는 이러한 표준을 자국 법체계에 어떻게 반영할지 스스로 결정해야 합니다. 그러나 국제사회에서 신뢰할 만한 증거와 안전장치, 감독이 어떤 모습이어야 하는지 합의할 수 있다면 우리 모두에게 도움이 될 것입니다.</span></p><p><span><br/></span></p><p><span>저희가 모든 답을 알고 있는 것은 아니며, 더 나은 아이디어가 있다면 언제든 열린 마음으로 경청하겠습니다. 여러분 모두와 협력하며 앞으로 나아갈 길을 찾기 위해 최선을 다할 준비가 되어 있습니다.</span></p><p><span><br/></span></p><p><span>우리는 갈림길에 서 있습니다. 한쪽 길의 끝에는 권력이 집중되고 의사 결정은 불투명하며, 사람들이 생애 가장 중요한 기술을 자신이 주도하는 것이 아니라 일방적으로 강요받는다고 느끼는 세상이 있습니다. 다른 길의 끝에는 민주적 제도를 통해 사람들이 AI의 발전 방향과 활용 방식을 함께 결정하여 AI가 사람을 위해 일하는 세상, 과학의 진보가 실제 삶을 개선하는 세상, 더 많은 사람이 미래를 만들어 가는 데 참여하는 세상, 그리고 이 기술이 개인과 공동체에 자신이 원하는 삶을 살 더 큰 힘을 계속 부여하는 세상이 있습니다. 잠재력이 실현되고 설렘과 경이로움이 가득한 미래입니다.</span></p><p><span><br/></span></p><p><span>저희는 바로 그런 미래를 만들어 갈 가치가 있다고 믿습니다. 대단히 감사합니다.</span></p><p><span><br/></span></p></div><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc4786969177bd1db89f57dc5e7fb32a933666cd4fcecf7ec541081\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c0368df8ece9600b3d201a4da1c424ee79f6ac070cc42bcee086\"/></p><p><br/></p><p><br/></p><p><a href=\"https://openai.com/ko-KR/index/sam-altman-un-security-council-remarks/\">https://openai.com/ko-KR/index/sam-altman-un-security-council-remarks/</a></p>",
+        "content_image_count": 1,
         "content_error": null
       },
       {
@@ -31850,24 +31890,17 @@
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458719",
         "date": "2026-10-03T08:10:50+00:00",
         "summary": ""
-      },
-      {
-        "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458559",
-        "title": "페이블 5.5 라우팅 모션그래픽",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458559",
-        "date": "2026-10-03T06:21:19+00:00",
-        "summary": ""
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
-    "last_new": "2026-10-24T20:48:16.971922+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
+    "last_new": "2026-10-24T23:12:51.013326+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "body_collection": {
-      "ready": 426,
+      "ready": 427,
       "pending": 0,
       "failed": 1,
-      "attempted": 0
+      "attempted": 1
     },
     "published_count": 999,
     "consecutive_failures": 0,
@@ -31973,11 +32006,11 @@
         "link": "https://gall.dcinside.com/board/view/?id=cartoon&no=730152",
         "date": "2026-10-24T00:23:04+00:00",
         "summary": "세계관에서는 잘 모르겠지만 두 챔프가 인게임에서 뜨게 되면 마이가 유리하다고 하더군요  한번 그려 봤습니다",
+        "content_html": "<p><img alt=\"a15610ad162eb35bb234115d9a2cf07dc992a370fcc3771700a22925015e077a940918f6f519\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ff6c4f3ec527c6143a0bfb115461c71443a8b7edf915b\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06c94cd136f0e310eb4e2a60b7efb609bf19383ee7b39fd66\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ff4c8f7eaa462438cafa84403571fcc0109bc19b48747\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb17803151064e1824f8064ec244a6cbb9521cbcb9294ec2cc\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b815f4c1f3ea913e62dac5e91f2b810d7b072b196074efad\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb14803151064e1824f8064ec244a6cbf64528b4d64324aa5f\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ef4c2f6ea35710e68f22c6d025271ab72a31a41e317bb\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb15803151064e1824f8064ec244a6cbc696c6d8c271525e01\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f2c2f6e963cdf54c98ce1594ddce7910bd797852e7ca\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb13803151064e1824f8064ec244a6cbfe8036d9dceb8373d2\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81effc7f0ec89af3328cc47c2f72cb58477c831d990e968\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb10803151064e1824f8064ec244a6cb6ddec525392b951a29\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ef7c6ffe7e8b7e8afc1fa45b66e1d7e3b3f10933a2821\"/></p><p><br/></p><p><br/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb11803151064e1824f8064ec244a6cb7d662b889001ffb23aa0\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81fffc2f6efa2b6719394a982ba51666825c097f79321ef\"/></p><p><br/></p><p><br/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb1e803151064e1824f8064ec244a6cb95a59737e1fcb21999\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b813f7c1f0e6fb27593659b0c3562138acddeb0476586520\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb1f803151064e1824f8064ec244a6cbae21dd34c1d542e5c2\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f0c3ffe6b0dbc1987b209f1389a4a4d10170c4962e30\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06f9c70f89d7bbf00f5593ff47b408b8cbbb2dc0dd9a3208a\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f7c7ffeb1aa6c6c87fc7b78e5a16f83b468ee059c63a\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06e8200326e359a2e3b20f0612ce171b555da6d8849e7ccdc\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b815f5c6f5e97ffcbefe16d4f62bb071910481f77a5c5ae3\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf069291d8ba219f889484c26d176b452debbccb29898ae65ba\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f0c0f7ecdbbcf84857372b85053435ecfcdda60bb25a\"/></p><p><br/></p><p>세계관에서는 잘 모르겠지만 두 챔프가 인게임에서 뜨게 되면 마이가 유리하다고 하더군요  한번 그려 봤습니다</p>",
         "content_status": "ready",
+        "content_image_count": 13,
         "content_attempts": 1,
         "content_checked_at": "2026-10-24T20:48:52.941944+00:00",
-        "content_html": "<p><img alt=\"a15610ad162eb35bb234115d9a2cf07dc992a370fcc3771700a22925015e077a940918f6f519\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ff6c4f3ec527c6143a0bfb115461c71443a8b7edf915b\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06c94cd136f0e310eb4e2a60b7efb609bf19383ee7b39fd66\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ff4c8f7eaa462438cafa84403571fcc0109bc19b48747\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb17803151064e1824f8064ec244a6cbb9521cbcb9294ec2cc\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b815f4c1f3ea913e62dac5e91f2b810d7b072b196074efad\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb14803151064e1824f8064ec244a6cbf64528b4d64324aa5f\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ef4c2f6ea35710e68f22c6d025271ab72a31a41e317bb\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb15803151064e1824f8064ec244a6cbc696c6d8c271525e01\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f2c2f6e963cdf54c98ce1594ddce7910bd797852e7ca\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb13803151064e1824f8064ec244a6cbfe8036d9dceb8373d2\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81effc7f0ec89af3328cc47c2f72cb58477c831d990e968\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb10803151064e1824f8064ec244a6cb6ddec525392b951a29\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ef7c6ffe7e8b7e8afc1fa45b66e1d7e3b3f10933a2821\"/></p><p><br/></p><p><br/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb11803151064e1824f8064ec244a6cb7d662b889001ffb23aa0\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81fffc2f6efa2b6719394a982ba51666825c097f79321ef\"/></p><p><br/></p><p><br/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb1e803151064e1824f8064ec244a6cb95a59737e1fcb21999\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b813f7c1f0e6fb27593659b0c3562138acddeb0476586520\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06ceb1f803151064e1824f8064ec244a6cbae21dd34c1d542e5c2\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f0c3ffe6b0dbc1987b209f1389a4a4d10170c4962e30\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06f9c70f89d7bbf00f5593ff47b408b8cbbb2dc0dd9a3208a\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f7c7ffeb1aa6c6c87fc7b78e5a16f83b468ee059c63a\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf06e8200326e359a2e3b20f0612ce171b555da6d8849e7ccdc\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b815f5c6f5e97ffcbefe16d4f62bb071910481f77a5c5ae3\"/></p><p><br/></p><p><img alt=\"a15610ad162eb35bb234115d9a2cf069291d8ba219f889484c26d176b452debbccb29898ae65ba\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f0c0f7ecdbbcf84857372b85053435ecfcdda60bb25a\"/></p><p><br/></p><p>세계관에서는 잘 모르겠지만 두 챔프가 인게임에서 뜨게 되면 마이가 유리하다고 하더군요  한번 그려 봤습니다</p>",
-        "content_image_count": 13,
         "content_error": null
       },
       {
@@ -36172,15 +36205,15 @@
         "summary": ""
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
     "last_new": "2026-10-24T20:48:16.971922+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "body_collection": {
       "ready": 150,
       "pending": 0,
       "failed": 0,
-      "attempted": 1
+      "attempted": 0
     },
     "published_count": 485,
     "consecutive_failures": 0,
@@ -42378,9 +42411,9 @@
         "summary": ""
       }
     ],
-    "last_success": "2026-10-24T20:48:16.971922+00:00",
+    "last_success": "2026-10-24T23:12:51.013326+00:00",
     "last_new": "2026-10-24T18:08:33.472592+00:00",
-    "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
     "error": null,
     "body_collection": {
       "ready": 217,

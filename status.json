@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-24T20:48:16.971922+00:00",
+  "updated": "2026-10-24T23:12:51.013326+00:00",
   "feeds": [
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
-      "last_new": "2026-10-24T20:48:16.971922+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
+      "last_new": "2026-10-24T23:12:51.013326+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "body_collection": {
         "ready": 371,
-        "pending": 623,
-        "failed": 6,
+        "pending": 616,
+        "failed": 13,
         "attempted": 10
       },
       "published_count": 371,
@@ -23,9 +23,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
-      "last_new": "2026-10-24T20:48:16.971922+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
+      "last_new": "2026-10-24T23:12:51.013326+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "published_count": 1000,
       "consecutive_failures": 0,
@@ -38,9 +38,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "published_count": 15,
       "consecutive_failures": 0,
@@ -53,36 +53,36 @@
       "available": true
     },
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
-      "last_new": "2026-10-24T18:08:33.472592+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
+      "last_new": "2026-10-24T23:12:51.013326+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "body_collection": {
-        "ready": 145,
+        "ready": 146,
         "pending": 0,
         "failed": 0,
-        "attempted": 0
+        "attempted": 1
       },
-      "published_count": 538,
+      "published_count": 539,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
       "emoji": "🛠️",
-      "count": 538,
+      "count": 539,
       "available": true
     },
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
-      "last_new": "2026-10-24T20:48:16.971922+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
+      "last_new": "2026-10-24T23:12:51.013326+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "body_collection": {
-        "ready": 426,
+        "ready": 427,
         "pending": 0,
         "failed": 1,
-        "attempted": 0
+        "attempted": 1
       },
       "published_count": 999,
       "consecutive_failures": 0,
@@ -95,15 +95,15 @@
       "available": true
     },
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
       "last_new": "2026-10-24T20:48:16.971922+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "body_collection": {
         "ready": 150,
         "pending": 0,
         "failed": 0,
-        "attempted": 1
+        "attempted": 0
       },
       "published_count": 485,
       "consecutive_failures": 0,
@@ -116,9 +116,9 @@
       "available": true
     },
     {
-      "last_success": "2026-10-24T20:48:16.971922+00:00",
+      "last_success": "2026-10-24T23:12:51.013326+00:00",
       "last_new": "2026-10-24T18:08:33.472592+00:00",
-      "last_attempt": "2026-10-24T20:48:16.971922+00:00",
+      "last_attempt": "2026-10-24T23:12:51.013326+00:00",
       "error": null,
       "body_collection": {
         "ready": 217,
