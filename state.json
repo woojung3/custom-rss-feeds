@@ -2,6 +2,51 @@
   "dcbest": {
     "items": [
       {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472959",
+        "title": "[더갤] MBC) 불법촬영, 성폭행 신고했더니...휴대폰 확보안해",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472959",
+        "date": "2026-10-25T01:10:02+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472957",
+        "title": "[이갤] PHP 치명적 취약점 악용한 대규모 공격 정황",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472957",
+        "date": "2026-10-25T01:00:03+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472955",
+        "title": "[특갤] 특수부대 출신 한국에서 제일겁없는 방송 pd",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472955",
+        "date": "2026-10-25T00:50:02+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472954",
+        "title": "[빅갤] 실시간 빅뱅 베트남 공연장 밖이래",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472954",
+        "date": "2026-10-25T00:40:02+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472953",
+        "title": "[주갤] 불반도 K-노동시장이 개판이 된 원인 중 하나.",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472953",
+        "date": "2026-10-25T00:30:03+00:00",
+        "summary": "",
+        "content_status": "pending",
+        "content_attempts": 0
+      },
+      {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472951",
         "title": "[U갤] 실시간) 마상구 정병 폭발......jpg",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472951",
@@ -426,7 +471,7 @@
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=472858",
-        "title": "[미갤] 와씨발 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "title": "[미갤] 와ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=472858",
         "date": "2026-10-24T10:46:08+00:00",
         "summary": "",
@@ -5461,8 +5506,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471677",
         "date": "2026-10-19T21:21:01+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:47.165193+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471675",
@@ -5470,8 +5517,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471675",
         "date": "2026-10-19T21:16:04+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:44.337735+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471674",
@@ -5479,26 +5528,36 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471674",
         "date": "2026-10-19T21:06:04+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:41.514174+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471671",
         "title": "[기갤] [단독] 아이폰18 일반 최종 유출",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471671",
         "date": "2026-10-19T20:51:01+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "출처: 기타 국내 드라마 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:38.252328+00:00",
+        "content_html": "<p><img alt=\"29bac322e3c13ca020afd8b236ef203e719cfdd93747cdf914\" src=\"https://image.dcinside.com/viewimage.php?id=29afd12be4ed36a379ec&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc1c342cb0000249da0993183a8bd39ad9cebc62774f72428ba63587279790b1bd07e92f3f6c55d3a\"/></p><p><br/></p><div><br/><br/><b>출처: 기타 국내 드라마 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=drama_new3&amp;no=24630634\">[원본 보기]</a></b></div>",
+        "content_image_count": 1,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471669",
         "title": "[싱갤] 와들와들 20만원짜리 멀티탭",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471669",
         "date": "2026-10-19T20:41:01+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:34.991630+00:00",
+        "content_html": "<p></p><div><img alt=\"7cb58573f1842df53be898bf06d60403d6dc28d0f5f6ca17ebfc2b\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a1ba86b037b34e845232a1e660a37f495bdb314b97654bf874d25ed3ec66aaf5d53d1045885b0cd1af401bc596c81c16fbb8e66666157b88c10e3\"/></div><div><br/><br/><b>출처: 싱글벙글 지구촌 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=singlebungle1472&amp;no=2664030\">[원본 보기]</a></b></div>",
+        "content_image_count": 1,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471667",
@@ -5506,8 +5565,10 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471667",
         "date": "2026-10-19T20:36:02+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:31.423326+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471665",
@@ -5515,17 +5576,23 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471665",
         "date": "2026-10-19T20:21:01+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:28.591022+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471663",
         "title": "[싱갤] 감동감동 에타 명문촌",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471663",
         "date": "2026-10-19T20:11:01+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "- dc official App 출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:25.572173+00:00",
+        "content_html": "<p></p><div><img alt=\"7cea8974b1826ff739eb87e3429f3433fe21beec03d074e23509db0e28\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18a16b0366fae45ed456baa1c9d3bf67b10e19ead0afdd50eb3f3572bec2d60d742f2e02528bcc35fb3a506284e57e69c9a642073f2443a83955f836d9\"/></div><p></p><div><br/><br/></div><p></p><div><span> - dc official App</span></div><div><br/><br/><b>출처: 싱글벙글 지구촌 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=singlebungle1472&amp;no=2663312\">[원본 보기]</a></b></div>",
+        "content_image_count": 1,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471661",
@@ -5533,17 +5600,23 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471661",
         "date": "2026-10-19T20:01:01+00:00",
         "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "content_status": "failed",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:22.738040+00:00",
+        "content_error": "HTTP 404"
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659",
         "title": "[해갤] 프랑스 길거리 좌판 근황 ㅋㅋ",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659",
         "date": "2026-10-19T19:51:05+00:00",
-        "summary": "",
-        "content_status": "pending",
-        "content_attempts": 0
+        "summary": "- dc official App 출처: 해외야구 갤러리 [원본 보기]",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:19.481563+00:00",
+        "content_html": "<p></p><div><img alt=\"7bed8773b28b6af238e6e9e314d4276b178100f0d464038f51434fec9466f5962d24f7f23928617e631b116b9b739e7c6e9a72dbd359a92a6e6167e66ef76d8efd34dddafa\" src=\"https://image.dcinside.com/viewimage.php?id=2fbcc323e7d334aa51bed4e7&amp;no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c6132e1f5fd4cb92be30cc4277fbdc49c7a047c38bf3a12cbc25fd03265edde70e0f92abf47576c68694cc84d2f24d30c1072cea856c9b1bd53fd949d695\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba20af9e45b676ea867d4695f38cdcc66e1841ce02f68cf4170c055219f4fe6924b7ec53b\" src=\"https://image.dcinside.com/viewimage.php?id=2fbcc323e7d334aa51bed4e7&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc1c344e0592054f85638c89ded05b359c17bd192880e7c3868d7a1de0eb7ee5892a6ab010afd988bb09ab5e6251aa0a58cf07928a7ee9a8a706f728c05a9577faecb2297dd56f5281cee458edfa627\"/></div><p></p><div><span> - dc official App</span></div><div><br/><br/><b>출처: 해외야구 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=baseball_ab2&amp;no=13219599\">[원본 보기]</a></b></div>",
+        "content_image_count": 2,
+        "content_error": null
       },
       {
         "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=471658",
@@ -10445,90 +10518,116 @@
         "content_html": "<p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55a616da862d4665028dccf1d9b667255f88c2d7f6f717b119a045cc04bab\" src=\"https://image.dcinside.com/viewimage.php?id=23b8c725eadc2ba37ca9d7a11fc7212d67cb64d6&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b1ec5a491307e2ee46297b5a5cac8b6563a9581c2a4c127cd5e4684c8f12baacb956d7c0e45ae3722cb31ef7b10b630e06a46127d4e531e456ef390acb7c26bb86c65119951d8d597c0b083b980e845ccf19d0cb3\"/></div><br/><p><b>- <a href=\"https://gall.dcinside.com/list.php?id=wkqeka&amp;no=68415\">‘딸 특혜 임용 의혹 송치’ 유승민 “경찰, 없는 죄 덮어씌워…무죄 입증</a></b></p><br/><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55b606aae63d4635939d6c08a9335be80fc3a0f592f90f08722b1c4af\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbc25d0d888ffe3a8d6a5b66ac6cf67f18f32b5d89bca096bf5adf1a483287aabe29f0dfc42e4f4c1948ba0cc6d2d0d989eda77f37978353370f\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55b6068ac66d4635939d6c0f5ebe70068a9532f206eb4acd702df8c39\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbc5520d8d89f143d3b63567a8ebef12e14b410aaaece0a1c44aa861791ca97e0599aac527c5e6366112240acdf9a6d9c49034b7fb61a803a639\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55b6068af62d4635939d6c0c9f08f7837040f1f5077e91e42bd1c760c\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbcc5c018789ff3f4b84bdaf3ff4b46276458f14fde698f31a019e88099d406dfedefe2fa510bd6b210eec133645dd17f8f0f3dfaf91095a4fae\"/></div><p></p><div><img alt=\"1ebec223e0dc2bae61abe9e74683726cbba10cf9e55b6068ae62d4635939d6c03be990e46744c6e51ebda6697e9f528e26\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e2081b752cbc35e0d8788f2ae5d41d767fdc644cfdcb6a136c0c366da796124287dda10a00a6f80efce3e527e24a3ee32ba6cad697ad96bf6dfc946817af7\"/></div><p></p><div><a href=\"https://n.news.naver.com/mnews/article/023/0004004232\">https://n.news.naver.com/mnews/article/023/0004004232</a></div><p></p><div><p> </p><div><a href=\"https://n.news.naver.com/mnews/article/023/0004004232\"><div><img src=\"https://imgnews.pstatic.net/image/023/2026/10/16/0004004232_001_20261016133510452.jpg?type=w800\"/></div><div><div><strong>‘딸 특혜 임용 의혹 송치’ 유승민 “경찰, 없는 죄 덮어씌워…무죄 입증할 것”</strong></div><p>3줄 요약 ㆍ인천경찰청, 유승민·인천대 총장 등 4명 불구속 송치 ㆍ유승민 \"모욕 주려는 정치 수사\" ㆍ김웅 \"경찰, 유승민 지방선거 출마 의향 물어\" 유승민 전 국회의원은 경찰이 딸 유담 인천대 교수의 특혜 임용 </p><p>n.news.naver.com</p></div></a></div></div><p></p><div><br/><br/></div><p></p><div><span> - dc official App</span></div><div><br/><br/><b>출처: 새로운보수당 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=newconservativeparty&amp;no=5779493\">[원본 보기]</a></b></div>",
         "content_image_count": 6,
         "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470833",
-        "title": "[싱갤] 싱글벙글 베트남 고급 인재들을 쭈아압하고 있다는 한국 근황",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470833",
-        "date": "2026-10-16T10:40:02+00:00",
-        "summary": "올해 한국 내 외국인 유학생 수는 5년전보다 2배 이상 많아짐 최근 서울은 유학하기 좋은 도시에서 파리, 런던을 재끼는 등 한국으로의 유학이 선호되는 현상이 높아졌다 한국 내 유학생 중 무려 약 3분의 1이 베트남인들임 이렇게까지 베트남유학생이 많아진건 인력난 해소를 위해 정부와 기업이 적극적으로 베트남인재들을 유치하고 있기 때문.. (한국의 경우 싱붕이 평균연령인 30세가 70만명대인데, 현재 20살은 40만명대로 인구구조가 박살나 인재수급이 어려워졌다함) 베트남 한 학년 140만~150만명 중 1등하는 애들은 미국이나 영·프가 아닌 한국으로 유학온다 일본의 경우, 2010년대 초부터 정부가 대대적으로 베트남 인재 일본유학보내는 프로그램들을 실시해왔음 (사실 한국도 일본이 하는거 보고 부랴부랴 따라한거임 ㅋㅋ) 근데 지금은 일본 내 베트남 유학생이  몇년새 40퍼 가량 급감했다함 이유는 최근 몇년사이 일본유학이 아닌, 한국유학을 더 선호하는 경향이 높아져서라는.. 원문 미디어 보기 왜 하필 베트남이냐?면 문화가 비슷(한자문화권)하고 젊은 인구가 한국의 3~4배며 교육열이 높아서 학업성취도가 다른 동남아국가들보다 높은 경향이 있다고 한다 한가지 특이한 현상은 한국으로 오는 베트남유학생은 여성이 남성보다 훨씬 많다는거임 미국의 경우, 일본의 경우도, 한국은 전체 외국인 유학생 성비가 47~48 : 52~53로 특이하게도 여초인데, 베트남유학생은 더 여초현상이 두드러짐 ㅈ문가들은 아무래도 한국은 치안이 좋다라는 이미지가 유학생 여초현상의 원인이라는 분석 ㅇㅇ; 다만 이런 높아진 유학열기에 외국인유학생 등록금이 계속 높아져서 내국인과 차별논란이 있다고한다 외국인 유학생은 한국에서 1년에 평균 1.9~2천만원의 돈을 쓰는데 이는 내국인 대학생보다 2배 이상 많이 쓰는거라함 (내국인은 1년에 평균 800만원 정도 소비) 원문 미디어 보기 베트남 현지에서는 고급 인재유출이 국가적 문제로 대두되기도 함 근데 어차피 해외노동자 송금으로 경제부양 효과도 있으니 막진 않는 듯 원문 미디어 보기 출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T04:31:45.471166+00:00",
-        "content_html": "<p><br/></p><div><img alt=\"7ced8076b5836df53ce798bf06d60403ce8046e9da3a6e83aa26\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f490accd2675be37e4bb63efa03a02d51634a691c325963c01576f46d03ffc5970cfdc\"/></div><p><br/></p><p>올해 한국 내 외국인 유학생 수는 5년전보다 2배 이상 많아짐</p><p><br/></p><div><img alt=\"18\" src=\"https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2078908a53e2e6161ff134594b016c60b62ffb03340fe3601e080358723f6a214f6032d41af640bad92e40ff2701d4be5e17b83e0bf0\"/></div><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p> 최근 서울은 유학하기 좋은 도시에서 파리, 런던을 재끼는 등 한국으로의 유학이 선호되는 현상이 높아졌다</p><div><img alt=\"7ced8076b5836df53eee98bf06d60403d9e387061edda51af357\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f490a2c82370bd30ebb960efa13c5881453355470e89f6626917208bee546b934e6b17\"/></div><div><img alt=\"7ced8076b5836df53eef98bf06d60403180a6f418e83b33a9854\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f49ca3cf2c74bf35e3b965efaa3a5081438a3404ae33e3ad3338c013f24a60800605b1\"/></div><p><br/></p><p><br/></p><p><br/></p><p> 한국 내 유학생 중 무려 약 3분의 1이 베트남인들임</p><div><img alt=\"7ced8076b5836df436e798bf06d604033ea9ad74db30230b32a3\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f498adc82275be34e3bc67effe3f5580118eeef12e7156958b763e1d6e8578415024e8\"/></div><p><br/></p><p><br/></p><p><br/></p><p> 이렇게까지 베트남유학생이 많아진건 인력난 해소를 위해</p><p>정부와 기업이 적극적으로 베트남인재들을 유치하고 있기 때문..</p><div><img alt=\"7ced8076b5836df53eec98bf06d60403558f6c619117886995b2\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f49eaac22671b63bebbe67efad320581125f786017913c59b51be843b9f47c858eba2b\"/></div><p><br/></p><p>(한국의 경우 싱붕이 평균연령인 30세가 70만명대인데, 현재 20살은 40만명대로 인구구조가 박살나 인재수급이 어려워졌다함)</p><p><br/></p><div><img alt=\"19\" src=\"https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2078908a53e2e6161ff134594b016c60b62ffb03340fe3601e080358723f6a214f6032d41af640bad92e40ff2701d4be5e16de63f221\"/></div><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p> 베트남 한 학년 140만~150만명 중 1등하는 애들은 미국이나 영·프가 아닌 한국으로 유학온다</p><div><img alt=\"7ced8076b5836df437ee98bf06d60403ea958a3e72f18fe473da\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f49ea3ce2677bf32e1b360effd3f58d614c67765bf3b0e0254c41a1de6d0c582111cca\"/></div><div><img alt=\"7ced8076b5836df53ce698bf06d604035433ea0458db5564d8b4\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f49da2cc2174bd34e1b269effb6c06d11821f910bc71ec6bc6cb1c513e3b770a7b4f84\"/></div><p><br/></p><p><br/></p><p><br/></p><p> 일본의 경우, 2010년대 초부터 정부가 대대적으로 베트남 인재 일본유학보내는 프로그램들을 실시해왔음</p><div><img alt=\"7ced8076b5836df437ec98bf06d60403191303f82e174d797610\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f491abcf2075bc35eaba68efab6e01d14561d0b920ef62d1cb32e3c8e0831af543b09b\"/></div><p><br/></p><p>(사실 한국도 일본이 하는거 보고 부랴부랴 따라한거임 ㅋㅋ)</p><p><br/></p><p> 근데 지금은 일본 내 베트남 유학생이  몇년새 40퍼 가량 급감했다함</p><p><br/></p><p> 이유는 최근 몇년사이 일본유학이 아닌, <span>한국유학을 더 선호하는 경향이 높아져서라는..</span></p><p><span><br/></span></p><div><a href=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2078908a53e2e6161ff134594b016c60b62ffb03340fe3601e080358723f6a214f6032d41af640bad92e40ff2701d4be5e1b73ff8b51307b00e3\">원문 미디어 보기</a></div><p><br/></p><p><br/></p><p> 왜 하필 베트남이냐?면 문화가 비슷(한자문화권)하고 젊은 인구가 한국의 3~4배며 교육열이 높아서 학업성취도가 다른 동남아국가들보다 높은 경향이 있다고 한다</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p> 한가지 특이한 현상은 한국으로 오는 베트남유학생은 여성이 남성보다 훨씬 많다는거임</p><p><br/></p><p>미국의 경우,</p><div><img alt=\"7ced8076b5836df53fed98bf06d604031b31d6d932d2619bf488\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f490adcf2270b636ebba61efa13b53d2152f77f7090d713b1341273dbd3794e19cb838\"/></div><p><br/></p><p>일본의 경우도,</p><div><img alt=\"7ced8076b5836df53ee698bf06d60403a4965c8ff2cdcd34fb2d\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f490adc92779bf30ebba66efa93905db137807700e42b61e8e9034241e00081fba0c60\"/></div><p><br/></p><p><br/></p><p> 한국은 전체 외국인 유학생 성비가 47~48 : 52~53로 특이하게도 여초인데,</p><p><br/></p><p>베트남유학생은 더 여초현상이 두드러짐</p><div><img alt=\"7ced8076b5836df53feb98bf06d60403354efe132a85e5ff22\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f491afc82571ba3beaba68efae6b51d2137a58488ca272ace85f0af686657caa88f55d\"/></div><p><br/></p><p> ㅈ문가들은 아무래도 한국은 치안이 좋다라는 이미지가 유학생 여초현상의 원인이라는 분석 ㅇㅇ;</p><p><br/></p><div><img alt=\"15\" src=\"https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2078908a53e2e6161ff134594b016c60b62ffb03340fe3601e080358723f6a214f6032d41af640bad92e40ff2701d4be5e1af8e79498\"/></div><p><br/></p><p><span><br/></span></p><p><span><br/></span></p><p><span><br/></span></p><p><span> 다만 이런 높아진 유학열기에 외국인유학생 등록금이 계속 높아져서 내국인과 차별논란이 있다고한다</span></p><div><img alt=\"7ced8076b5836df53def98bf06d6040362961880e412bb8ddbd5\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f498adcf2072ba31e6bf66effc3353d3122d0f7761d4fdeda3be78ad5b3996cd61df2c\"/></div><p><br/></p><p><br/></p><p>외국인 유학생은 한국에서 1년에 평균 1.9~2천만원의 돈을 쓰는데</p><div><img alt=\"7ced8076b5836df53ce898bf06d60403f2e1ad5905040673b3db\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f49ca9c92c75ba3ae5bb66effe3a5180472992db39eb4ec15f65fce5d17c2f9c310626\"/></div><p><br/></p><p>이는 내국인 대학생보다 2배 이상 많이 쓰는거라함</p><p>(내국인은 1년에 평균 800만원 정도 소비)</p><p><br/></p><div><a href=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2d76bbb0b6bbac1339b222d119323683effd908c3673afcfa18fe2d04b62f85e6bd44580eeee5f7dec948171e0cf8eacb5d9\">원문 미디어 보기</a></div><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>베트남 현지에서는 고급 인재유출이 국가적 문제로 대두되기도 함</p><div><img alt=\"7ced8076b5836df437e898bf06d60403db2075028402482d070a\" src=\"https://image.dcinside.com/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b03159cfca1d03c89f44e25a7f9e8be54f490a8c82775b931e2b969efaa3c02da152e15a303ff718789a8ae63cd043c64490095\"/></div><p><br/></p><p> 근데 어차피 해외노동자 송금으로 경제부양 효과도 있으니 막진 않는 듯</p><p><br/></p><div><a href=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2d76bbb0b6bbac1339b222d119323683effd908c3673afcfa18fe2d04b62f85e6bd44580eeee5f7dec9f8171e0cf8eacb5d9\">원문 미디어 보기</a></div><p><br/></p><div><br/><br/><b>출처: 싱글벙글 지구촌 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=singlebungle1472&amp;no=2656719\">[원본 보기]</a></b></div>",
-        "content_image_count": 17,
-        "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470831",
-        "title": "[잡갤] 편의점 김밥 반으로 갈랐더니..제품명 싹 다 공개 '충격 반전'.webp",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470831",
-        "date": "2026-10-16T10:30:02+00:00",
-        "summary": "https://youtu.be/zcWJkzpvn7E 금요일 친절한 경제 한지연 기자 나와 있습니다. 한 기자, 오늘(16일)은 편의점 김밥 얘기군요. 이름만 보고서 고르면 안 되겠습니다. 이름은 '참치 듬뿍'인데 참치는 가장 적게 들어갔고요. 불고기 김밥 중에서는 가장 비싼데 고기는 가장 적게 들어간 경우도 있었습니다. 밥값이 오르면서 편의점 김밥으로 한 끼 때우는 분들 많으시죠. 한국소비자원이 편의점 네 곳의 김밥 12개를 반으로 잘라 속을 다 들여다봤습니다. 소비자들이 가장 궁금해한 게 바로 속 재료였거든요. 단면을 나란히 놓고 보니 차이가 한눈에 보였습니다. 먼저 참치김밥, 참치가 가장 넉넉했던 건 세븐일레븐의 '킹 듬뿍 참치김밥'이었고요. 아까 말한 참치가 가장 적었다는 그 김밥은 GS25의 '참치 듬뿍 참치마요김밥'이었습니다. 대신 밥과 김 비율이 가장 낮고 계란, 어묵 같은 다른 속이 많았습니다. 불고기 김밥은 차이가 더 벌어집니다. CU 불고기 김밥 속에 든 불고기 무게는 무려 김밥의 4분의 1 가까이로, GS25 불고기 치즈김밥보다 고기가 두 배 가까이 들었는데요. 가격은 GS25 제품이 12개 가운데 가장 비쌌습니다. 이마트24 불고기 김밥은 한 줄 무게는 가장 묵직했지만 불고기 비율은 가장 낮았고, 대신 밥이 가장 많이 들었습니다. 일반 김밥도 재미있습니다. 똑같은 2천800원인데 이마트24 '7미 든든김밥'이 세븐일레븐 '알찬김밥'보다 40g 넘게 무거웠고, 그만큼 밥이 넉넉했습니다. 속이 꽉 찬 걸 원하시면 계란, 어묵 같은 속 재료가 절반 가까이 되는 GS25 '근본김밥'이 가장 알찼습니다. 속이냐, 밥이냐, 취향 따라 고르시면 되겠습니다. 이번에는 김밥들끼리 영양 성분을 분석한 거죠. 배는 채워도 영양은 좀 아쉬웠는데요. 열량은 모자랐고, 짠맛은 넘쳐났습니다. 김밥 한 줄 열량은 20대 여성 하루 필요량의 5분의 1에서 4분의 1 정도라 한 끼 식사로는 부족한 편입니다. 탄수화물도 하루치의 4분의 1이 안 됐고, 일반 김밥은 단백질도 참치나 불고기 김밥보다 적었습니다. 그런데 반전이 있습니다. 참치가 가장 적었던 GS25 참치마요김밥이 열량과 지방은 12개 가운데 가장 높았습니다. 참치김밥은 마요네즈가 들어가 지방이 일반 김밥의 두 배 이상이었거든요. 나트륨은 한 줄에만 하루 기준치의 최대 70%가 들어 있었습니다. 가장 짠 건 CU 참치김밥, 가장 덜 짠 건 세븐일레븐 한도 초과 불고기 김밥이었는데요. 진짜 문제는 김밥 짝꿍입니다. 김밥 그냥 드시는 분 없죠. 저도 그런데 김밥 드시는 분 10명 중 7명이 컵라면을 같이 먹는다고 답했는데, 컵라면 하나 정도인 100g에만 하루 나트륨의 3분의 2가 넘게 들어 있습니다. 가장 덜 짠 김밥과 먹어도 하루치를 넘는 셈이죠. 그래서 소비자원은 컵라면과 함께 먹는 건 주의하고, 우유나 달걀을 곁들이라고 권했는데요. 고를 때도 포장 뒷면의 나트륨 함량을 한번 확인해 보라고 했습니다. 다행히 보존료나 중금속, 세균은 물론 알레르기와 원산지 표시까지 12개 모두 기준에 맞았습",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:03:05.818540+00:00",
-        "content_html": "<p><br/></p><div><div></div><a href=\"https://youtu.be/zcWJkzpvn7E\">https://youtu.be/zcWJkzpvn7E</a></div><p><br/></p><p><img alt=\"7cf3c723e7c218986abce89544847465d13f\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e6e34c373eb2fb37745f7568fc7eee4c4535d6f202cc9500\"/></p><p><br/></p><p><img alt=\"7ff3c723e7c218986abce8954783716c044d\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3e1453d38bdfb3b7c9d02e316bd88c3a1dcc6b77fa7b874\"/></p><p><br/></p><p><img alt=\"7ef3c723e7c218986abce8954784736ee8e8\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e2e446333cb3f83a741a36147f9c5d686c5fd3c937cdd51c\"/></p><p><br/></p><p><img alt=\"79f3c723e7c218986abce8954786736d3041\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3e74d3139bbff3f729462ed0b1a9c7738a52b6aed72a9c8\"/></p><p><br/></p><p><img alt=\"78f3c723e7c218986abce8954789726a1fd6\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3e745373bb2f83e7c72b5e65f80460e8f8973ca4a9c103d\"/></p><p><br/></p><p><img alt=\"7bf3c723e7c218986abce8954789776567d3\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8ef47343eb9f53a7dbafa5112c4162fbacb73bc606f04a2\"/></p><p><br/></p><p><img alt=\"7af3c723e7c218986abce89547867d681f4a\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e9e645303eb2fc38716396575c7eb27ac4f6d4ab8b4cfbb8\"/></p><p><br/></p><p><img alt=\"75f3c723e7c218986abce89547897465a303\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e9ee46333bb8fb3c7631e35147a62b44ce81b3a2199c65b8\"/></p><p><br/></p><p><img alt=\"74f3c723e7c218986abce8954786766cff9b\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e0e2463438bafb37761b6d6a1de25bb5b317b04ad709e870\"/></p><p><br/></p><p><img alt=\"7ced9e31e0d0288650bbd58b36807c656a3eaa\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e6e141363fbaff36721eeb69c900a8e29feb183a4d3c2f60\"/></p><p><br/></p><p><img alt=\"7cec9e31e0d0288650bbd58b36807c6be394b5\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e4e745323ebcfd3e7daeafb0e8db0d59c9da485cdaf89914\"/></p><p><br/></p><p><img alt=\"7cef9e31e0d0288650bbd58b368371650f74bf\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e4e047373bb2f43f778ef3616065b9f76ce7fe92c9fe1e3d\"/></p><p><br/></p><p><img alt=\"7cee9e31e0d0288650bbd58b36807c698da097\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8e7423739bffb3a779ec919dc51a0394607672dc0d521c9\"/></p><p><br/></p><p><img alt=\"7ce99e31e0d0288650bbd58b3680716d658f16\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3ee453132b9fe39779b26a06488d841fc8e1b80b1b92f99\"/></p><p><br/></p><p><img alt=\"7ce89e31e0d0288650bbd58b368071650756d8\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3ef44313abcfe3d7496546e43e8da632c64077fbe546ad9\"/></p><p><br/></p><p><img alt=\"7ceb9e31e0d0288650bbd58b368071649e1c32\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e0e2433433b2f83e77d05cd3e10f35e3fdd7c265b49773ed\"/></p><p><br/></p><p><img alt=\"7cea9e31e0d0288650bbd58b3683766ef69032\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e5e5473639bbfc3a7054ccb7df857e410aa4dbdadf5dbd95\"/></p><p><br/></p><p><img alt=\"7ce59e31e0d0288650bbd58b3680726b2a39d7\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e7e6423d3eb9f93877e15274de68a3741c28e7d5c964e29a\"/></p><p><br/></p><p><img alt=\"7ce49e31e0d0288650bbd58b36807664918873\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8e7423039beff367668dcddc8252314d3a0cce29aed2533\"/></p><p><br/></p><p><img alt=\"7fed9e31e0d0288650bbd58b3680716c3ab0a1\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3ee463d39b9f8397d5135b6f5510515aa4a98b40865b1f7\"/></p><p><br/></p><p><img alt=\"7fec9e31e0d0288650bbd58b36807765d1e31f\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e0e641303bb9fd38764f64f352bb4e42e9e18981d5f106b2\"/></p><p><br/></p><p><img alt=\"7fef9e31e0d0288650bbd58b36807c6fbd7bf1\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e9e244323ebffd367df5a04a65246e57c24ee66265002098\"/></p><p><br/></p><p><img alt=\"7fee9e31e0d0288650bbd58b36807c698e7c42\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8e4473139b3fe3f7150d232c06adb1a42083523279d2884\"/></p><p><br/></p><p><img alt=\"7fe99e31e0d0288650bbd58b36807d6cc1f897\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e5e5453433bdf83a70df641475d826194c41da338670a13e\"/></p><p><br/></p><p><img alt=\"7fe89e31e0d0288650bbd58b3682766a196cce\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8e1463433bcff3c73a30ce7d547c0aa9a14bd068a7b9cad\"/></p><p><br/></p><p><img alt=\"7feb9e31e0d0288650bbd58b3683766beaff28\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8ef423c38b2f83671f51892500f8eb9161570d7d664c248\"/></p><p><br/></p><p><img alt=\"7fea9e31e0d0288650bbd58b3682746abf1419\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e6e047373abffb37740799c58aa22233d30357bd38457e8d\"/></p><p><br/></p><p><img alt=\"7fe59e31e0d0288650bbd58b36807d6bbca024\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e6e34d333bb9f43f729d3ec0e8138391dbbe2ed65f00ee90\"/></p><p><br/></p><p><img alt=\"7fe49e31e0d0288650bbd58b3683736e10f7da\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e2e743323abcf43c7cfa4e9fa34bb1c675d877743ff4e4e8\"/></p><p><br/></p><p><img alt=\"7eed9e31e0d0288650bbd58b3683716fc09c6e\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e4e7463d38b3f83a75324112373db3e17ca3de964c3fc9cf\"/></p><p><br/></p><p><img alt=\"7eec9e31e0d0288650bbd58b3683776e94f26a\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8ef44373ebffe377720f00811909f9dee2e9b7e0314bcc9\"/></p><p><br/></p><p><img alt=\"7eef9e31e0d0288650bbd58b3683766a84db7d\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e8e445353cb2fc3d7c472db7056e7eae67f1e0f15438c123\"/></p><p><br/></p><p><img alt=\"7eee9e31e0d0288650bbd58b3680706e642683\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e6e0463438bbfe3e7763b150c95a51c30990d15cde85c490\"/></p><p><br/></p><p><img alt=\"7ee99e31e0d0288650bbd58b3680716d79c33e\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3e144313fbef83a74a032e526eca6cc82db6c9f7e2afb68\"/></p><p><br/></p><p><img alt=\"7ee89e31e0d0288650bbd58b36807d6c13a425\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3ee46333db2f83b702acf6a96a8d9a9d3aff8ef682c656b\"/></p><p><br/></p><p><img alt=\"7eeb9e31e0d0288650bbd58b3680726d505997\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e2e5433739bcfc387d99e2ca854c594207e5ec67f1ec4d37\"/></p><p><br/></p><p><img alt=\"7eea9e31e0d0288650bbd58b3680726f61290f\" src=\"https://image.dcinside.com/viewimage.php?id=3ab6c123eed3&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e654ec689983e3235e3ee46333ebffa3f75869da6d6a2a0fd2ce4fc027691b3cd\"/></p><p><br/></p><p>금요일 친절한 경제 한지연 기자 나와 있습니다. 한 기자, 오늘(16일)은 편의점 김밥 얘기군요.</p><p><br/></p><p>이름만 보고서 고르면 안 되겠습니다.</p><p><br/></p><p>이름은 '참치 듬뿍'인데 참치는 가장 적게 들어갔고요.</p><p><br/></p><p>불고기 김밥 중에서는 가장 비싼데 고기는 가장 적게 들어간 경우도 있었습니다.</p><p><br/></p><p>밥값이 오르면서 편의점 김밥으로 한 끼 때우는 분들 많으시죠.</p><p><br/></p><p>한국소비자원이 편의점 네 곳의 김밥 12개를 반으로 잘라 속을 다 들여다봤습니다.</p><p><br/></p><p>소비자들이 가장 궁금해한 게 바로 속 재료였거든요.</p><p><br/></p><p>단면을 나란히 놓고 보니 차이가 한눈에 보였습니다.</p><p><br/></p><p>먼저 참치김밥, 참치가 가장 넉넉했던 건 세븐일레븐의 '킹 듬뿍 참치김밥'이었고요.</p><p><br/></p><p>아까 말한 참치가 가장 적었다는 그 김밥은 GS25의 '참치 듬뿍 참치마요김밥'이었습니다.</p><p><br/></p><p>대신 밥과 김 비율이 가장 낮고 계란, 어묵 같은 다른 속이 많았습니다.</p><p><br/></p><p>불고기 김밥은 차이가 더 벌어집니다.</p><p><br/></p><p>CU 불고기 김밥 속에 든 불고기 무게는 무려 김밥의 4분의 1 가까이로, GS25 불고기 치즈김밥보다 고기가 두 배 가까이 들었는데요.</p><p><br/></p><p>가격은 GS25 제품이 12개 가운데 가장 비쌌습니다.</p><p><br/></p><p>이마트24 불고기 김밥은 한 줄 무게는 가장 묵직했지만 불고기 비율은 가장 낮았고, 대신 밥이 가장 많이 들었습니다.</p><p><br/></p><p>일반 김밥도 재미있습니다.</p><p><br/></p><p>똑같은 2천800원인데 이마트24 '7미 든든김밥'이 세븐일레븐 '알찬김밥'보다 40g 넘게 무거웠고, 그만큼 밥이 넉넉했습니다.</p><p><br/></p><p>속이 꽉 찬 걸 원하시면 계란, 어묵 같은 속 재료가 절반 가까이 되는 GS25 '근본김밥'이 가장 알찼습니다.</p><p><br/></p><p>속이냐, 밥이냐, 취향 따라 고르시면 되겠습니다.</p><p><br/></p><p>이번에는 김밥들끼리 영양 성분을 분석한 거죠.</p><p><br/></p><p>배는 채워도 영양은 좀 아쉬웠는데요.</p><p><br/></p><p>열량은 모자랐고, 짠맛은 넘쳐났습니다.</p><p><br/></p><p>김밥 한 줄 열량은 20대 여성 하루 필요량의 5분의 1에서 4분의 1 정도라 한 끼 식사로는 부족한 편입니다.</p><p><br/></p><p>탄수화물도 하루치의 4분의 1이 안 됐고, 일반 김밥은 단백질도 참치나 불고기 김밥보다 적었습니다.</p><p><br/></p><p>그런데 반전이 있습니다.</p><p><br/></p><p>참치가 가장 적었던 GS25 참치마요김밥이 열량과 지방은 12개 가운데 가장 높았습니다.</p><p><br/></p><p>참치김밥은 마요네즈가 들어가 지방이 일반 김밥의 두 배 이상이었거든요.</p><p><br/></p><p>나트륨은 한 줄에만 하루 기준치의 최대 70%가 들어 있었습니다.</p><p><br/></p><p>가장 짠 건 CU 참치김밥, 가장 덜 짠 건 세븐일레븐 한도 초과 불고기 김밥이었는데요.</p><p><br/></p><p>진짜 문제는 김밥 짝꿍입니다.</p><p><br/></p><p>김밥 그냥 드시는 분 없죠.</p><p><br/></p><p>저도 그런데 김밥 드시는 분 10명 중 7명이 컵라면을 같이 먹는다고 답했는데, 컵라면 하나 정도인 100g에만 하루 나트륨의 3분의 2가 넘게 들어 있습니다.</p><p><br/></p><p>가장 덜 짠 김밥과 먹어도 하루치를 넘는 셈이죠.</p><p><br/></p><p>그래서 소비자원은 컵라면과 함께 먹는 건 주의하고, 우유나 달걀을 곁들이라고 권했는데요.</p><p><br/></p><p>고를 때도 포장 뒷면의 나트륨 함량을 한번 확인해 보라고 했습니다.</p><p><br/></p><p>다행히 보존료나 중금속, 세균은 물론 알레르기와 원산지 표시까지 12개 모두 기준에 맞았습니다.</p><div><br/><br/><b>출처: 잡담 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=wkqeka&amp;no=68379\">[원본 보기]</a></b></div>",
-        "content_image_count": 37,
-        "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470829",
-        "title": "[걸갤] 왜 기존 팬은 중년 유입팬을 싫어할까",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470829",
-        "date": "2026-10-16T10:20:02+00:00",
-        "summary": "출처: 걸스플래닛999 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:03:02.770543+00:00",
-        "content_html": "<p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c591b74e54a3b838499927366bee70380a8cc0029d71dd14e01b820\" src=\"https://image.dcinside.com/viewimage.php?id=2aafc321ecde34b5&amp;no=24b0d769e1d32ca73ce782fa11d02831c544c0747503709e757c5354a43efc807b143fae7666d1e209b79420502d522b20ae46ca60a702d854a6b1d81f44c5440fc2f07c253fce3da461ab06d340db50b96e42b9f0a66ab5adc82e4a95f435\"/></div><p></p><div><img alt=\"04b3c423f7dc3db251ed86e74080746c591b74e54a3b838499917366bee7038098ed636443a85da7d7bbf9\" src=\"https://image.dcinside.com/viewimage.php?id=2aafc321ecde34b5&amp;no=24b0d769e1d32ca73ce782fa11d02831c544c0747503709e757c5354a43efc807b143fae7666d1e209b79420522f56200052c1b4a7528b972572d5a89f7c767db916ca9869e9f4998f217bfccfa53374e0978271951b86041d8d68679aa5b8\"/></div><div><br/><br/><b>출처: 걸스플래닛999 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=grsgills&amp;no=9218542\">[원본 보기]</a></b></div>",
-        "content_image_count": 2,
-        "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470827",
-        "title": "[중갤] [단독] “금융권 공격 ‘AI 해커’는 10대…중국계 조직이 사주” 증언",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470827",
-        "date": "2026-10-16T10:10:02+00:00",
-        "summary": "- 관련게시물 : [단독] 금융권 AI 해킹 용의자‥\"中 디도스 조직 간부 맞다\" https://v.daum.net/v/20261016060857764 [단독]“금융권 공격 ‘AI 해커’는 10대…동남아 거점 중국계 조직이 사주” 증언 최근 국내 금융권을 겨냥한 해킹 공격의 실제 실행자가 중국계 10대 소년이며, 동남아에 거점을 둔 국제 범죄조직의 사주를 받아 범행했다는 주장이 나왔다. 15일 경향신문이 접촉한 한 중국어권 AI 침투 커뮤니티 ‘T○○○○’ 채널(이하 T채널) 운영자 A씨는 “진짜 공격자는 내 커뮤니티 회원인 17세 소년”이라며 “범행 직전 그가 내게 공격 계획을 털어놨다 v.daum.net 출처: 중도우파 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:02:59.866508+00:00",
-        "content_html": "<p><b>- 관련게시물 : <a href=\"https://gall.dcinside.com/list.php?id=dcbest&amp;no=469396\">[단독] 금융권 AI 해킹 용의자‥\"中 디도스 조직 간부 맞다\"</a></b></p><p><br/></p><div><img alt=\"7ced8076b5806ff43fea98bf06d60403aa95c392a60329822790\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cef792c5d05d694fc230763db4f8b21f14bd989230ef72c0c0a2b5e520517607e68e21\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43fe798bf06d604038adca1a6e52de2595678\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cef698c6dc5780a23a760299ec6dfbb502dce60a9d7acedf4a86a5dce30b47226619ad\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43cee98bf06d604030fbdec824d98b426cbfe\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cef39dcdd058dda62bed1810ddee6e8ee9a4e88669512a05c06924f113041e218f8151\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43ceb98bf06d60403faa6e571dc3826a69b5a\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cef79bc7dc5cd3d2298857d69f6b7cdd9301d89bdc5efe434ccdfb348114fe8e8507e0\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43ce898bf06d604032edd083d5f53b847bed4\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cefd98c6d35d98eedaa6c9000bb4e53f5cb208110c18db31f6927383df505f67e7e431\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43def98bf06d60403b7cc26eafdac66ace7eb\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cef79fcdd1576affb94a44cc90292159f93492dc1a083a644f1414eeef524e4645e8fa\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43dec98bf06d6040318378e2ff442cc08ede2\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cefd9fc4dd587ad25ccfd55d89e65041b245b9744e3784b144fb80fcef1a7a0c64dc62\"/></div><p><br/></p><div><img alt=\"7ced8076b5806ff43de998bf06d604037b6e19d3391d7d1203a4\" src=\"https://image.dcinside.com/viewimage.php?id=2eb8de32f7d72aaf69b7c2&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457b115a5fe30bc3bcdf83cef29dcdd65c516836b7f46f4a5967942637884688e15c0bcb1b2fd3f5abd673725e8f\"/></div><p><br/></p><p><br/></p><p></p><div><a href=\"https://v.daum.net/v/20261016060857764\">https://v.daum.net/v/20261016060857764</a></div><div><p> </p><div><a href=\"https://v.daum.net/v/20261016060857764\"><div><img src=\"https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/16/khan/20261016060857694gyji.jpg\"/></div><div><div><strong>[단독]“금융권 공격 ‘AI 해커’는 10대…동남아 거점 중국계 조직이 사주” 증언</strong></div><p>최근 국내 금융권을 겨냥한 해킹 공격의 실제 실행자가 중국계 10대 소년이며, 동남아에 거점을 둔 국제 범죄조직의 사주를 받아 범행했다는 주장이 나왔다. 15일 경향신문이 접촉한 한 중국어권 AI 침투 커뮤니티 ‘T○○○○’ 채널(이하 T채널) 운영자 A씨는 “진짜 공격자는 내 커뮤니티 회원인 17세 소년”이라며 “범행 직전 그가 내게 공격 계획을 털어놨다</p><p>v.daum.net</p></div></a></div></div><p><br/></p><p></p><div><br/><br/><b>출처: 중도우파 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=centreright&amp;no=16291\">[원본 보기]</a></b></div>",
-        "content_image_count": 9,
-        "content_error": null
-      },
-      {
-        "id": "https://gall.dcinside.com/board/view/?id=dcbest&no=470825",
-        "title": "[더갤] JTBC) 트럼프 유세중 \"총살해야, 개\" 또 막말 쏟아내",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470825",
-        "date": "2026-10-16T10:00:02+00:00",
-        "summary": "미친 놈이네ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 미 대통령이면 누구보다 저런 말 조심해야하는데 총살 타령에 개 타령에ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 트두창 진짜 보면 볼수록 역대급이다 진짜ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - '표 떨어질라?' 난감하다…점점 폭주하는 트럼프의 입 https://naver.me/5l23vVDN '표 떨어질라?' 난감하다…점점 폭주하는 트럼프의 입 미국의 중간선거가 19일 정도 남았습니다. 공화당 후보들이 트럼프 대통령의 지원 유세에 불참하거나, 대통령 지지 문구를 지우고 있습니다. 주로 경합지에서 벌어지는 일인데 '트럼프 리스크'로 선거를 망칠 수 있다는 우 naver.me 미국의 중간선거가 19일 정도 남았습니다. 공화당 후보들이 트럼프 대통령의 지원 유세에 불참하거나, 대통령 지지 문구를 지우고 있습니다. 주로 경합지에서 벌어지는 일인데 '트럼프 리스크'로 선거를 망칠 수 있다는 우려 때문입니다. 그런데 당사자인 트럼프 대통령은 연일 거친 막말을 쏟아내며 후보들의 부담을 더 키우고 있습니다. 이번엔 \"총살\"이란 표현까지 튀어나왔습니다. 워싱턴 정강현 특파원입니다. [기자] 트럼프 대통령이 애리조나 공항 활주로에 섰습니다. 대통령 전용기, 에어포스원을 배경으로 자신을 전면에 내세우며 공화당 지지를 호소했습니다. 도널드 트럼프/미국 대통령 : 제가 투표용지에 있는 것처럼 생각해 주십시오.] 하지만 정작 이곳 하원 경합지의 공화당 후보 2명은 '트럼프 유세장'에 모습을 드러내지 않았습니다. 심지어 선거 홈페이지에서 트럼프 지지 문구를 아예 삭제하는 후보들까지 나타났습니다. 격전지를 중심으로 이른바 '트럼프 지우기'가 노골화되고 있는 겁니다. 배경엔 차갑게 식어버린 민심이 있습니다. 최근 여론조사에서 트럼프 대통령의 국정 지지율은 34%에 그친 반면, 부정 평가는 62%에 달했습니다. 중간선거가 가까워질수록 트럼프 대통령을 둘러싼 현안이 선거 판세와 직결되고 있습니다. 공화당이 하원은 물론 상원 다수당 지위까지 빼앗길 수 있다는 분석이 잇따르는 가운데, 트럼프의 입은 \"총살\"까지 거론할 정도로 더 거칠어졌습니다. [도널드 트럼프/미국 대통령 : (군사)정보 유출자는 총살돼야 합니다. 총살해야 합니다.] 최근엔 소말리아 이민자들을 향해 지능이 낮다고 비하하는가 하면, 자신을 수사했던 뉴욕주 법무장관에게 인신공격성 막말을 퍼부었습니다. [도널드 트럼프/미국 대통령 (현지시간 9일) : 역겨운 레티샤라는 개. 저 개 아시죠?] 표를 모으겠다고 지원사격에 나선 트럼프 대통령의 거친 입이 정작 경합지 공화당 후보들의 설 자리를 더욱 좁히고 있습니다. 출처: 더불어민주당 비대위 갤러리 [원본 보기]",
-        "content_status": "ready",
-        "content_attempts": 1,
-        "content_checked_at": "2026-10-18T00:02:56.840458+00:00",
-        "content_html": "<p><br/><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476a12b9d69ac9230e3f7199d78bcd2a1bc9ca0949c8c7\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea48adcbd3374eb061ec0fc0dd2da99c9e43a11236816a3\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476818b9d696c0230e3f7199d78baf27a267054b6440d1\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea08adcbd3678e8021950c7b8e104afa4e7b2a8a859e252\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476f1cb9d797c0230e3f7199d78bcea61ca22625f4c7cb\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea780ddb4367ce4011f5bdf40d0a02715f8100e6575db07\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476e1ab9d397c2230e3f7199d78b22a624a779de9fe438\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea18bdab43779e4051608b7fc73f0e044deb24d6f369dea\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f476e13b9d29dc8230e3f7199d78be2548372551e4874c5\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea780dfb0327fec081ba9abff5c61ab8af0eb4cb8fda3a0\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466b12b9d59ec2230e3f7199d78bfe3095ec27ad30a17c\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea28bdcb63775ea011a82b2915c70fdae5798c6741dd33d\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f46691db9d49dc5230e3f7199d78be0575c5984797a990f\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea180d8b0377ae5091c46c123161f0e2a0058ae2b23bba2\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466813b9d799c3230e3f7199d78b2b1af7864b16fc4e6f\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7eab83d9b1327de50117f340267a7335d0716c5c18f8efb6\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466f1db9d09cc8230e3f7199d78bc9c8f5be16162ed24c\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7eab87d5b6307beb091afb8c75ea6c4be39d3432c0761db8\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f466f13b9d698c1230e3f7199d78b765a0e606fba197a83\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7ea18bd4b5337feb081c76bca33e67cbcf8a52f8cb27efac\"/></p><p><br/></p><p><img alt=\"16363bee6e3ddd9b2ef85a75ea8364b6734107e43029d4c6840ae94b844098227d75b15e2b6be25c8488eec1a73be575c893346362458e83d7dd6dcf457fcc9a671f416b19b9d59dc4230e3f7199d78b8fd30a9d8628f43826\" src=\"https://image.dcinside.com/viewimage.php?id=29b8dd29e6c039b267bcc6ba1ad83034897e&amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef88be38a1478f10ce793545eb088d4f2135f1f6a8e0101bf3a7eaa81d4b2327ce50416188c3d1a96cd52ddfecc8c895ec2\"/></p><p><br/></p><p><br/></p><p>미친 놈이네ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p><p><br/></p><p>미 대통령이면 누구보다 저런 말 조심해야하는데</p><p><br/></p><p>총살 타령에 개 타령에ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p><p><br/></p><p>트두창 진짜 보면 볼수록 </p><p><br/></p><p>역대급이다 진짜ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p><br/><p><b>- <a href=\"https://gall.dcinside.com/list.php?id=itssaexodus&amp;no=229052\">'표 떨어질라?' 난감하다…점점 폭주하는 트럼프의 입</a></b></p><br/><p></p><div><div><span><a href=\"https://naver.me/5l23vVDN\">https://naver.me/5l23vVDN</a></span></div></div><p></p><div><p> </p><div><a href=\"https://naver.me/5l23vVDN\"><div><img src=\"https://imgnews.pstatic.net/image/437/2026/10/15/0000515921_001_20261015190615086.jpg?type=w800\"/></div><div><div><strong>'표 떨어질라?' 난감하다…점점 폭주하는 트럼프의 입</strong></div><p>미국의 중간선거가 19일 정도 남았습니다. 공화당 후보들이 트럼프 대통령의 지원 유세에 불참하거나, 대통령 지지 문구를 지우고 있습니다. 주로 경합지에서 벌어지는 일인데 '트럼프 리스크'로 선거를 망칠 수 있다는 우</p><p>naver.me</p></div></a></div></div><p></p><div><div><span></span><br/></div><div><span></span><br/></div><div><span>미국의 중간선거가 19일 정도 남았습니다. 공화당 후보들이 트럼프 대통령의 지원 유세에 불참하거나, 대통령 지지 문구를 지우고 있습니다. 주로 경합지에서 벌어지는 일인데 '트럼프 리스크'로 선거를 망칠 수 있다는 우려 때문입니다. 그런데 당사자인 트럼프 대통령은 연일 거친 막말을 쏟아내며 후보들의 부담을 더 키우고 있습니다. 이번엔 \"총살\"이란 표현까지 튀어나왔습니다.</span></div><div><span></span><br/></div><div><span>워싱턴 정강현 특파원입니다.</span></div><div><span></span><br/></div><div><span>[기자]</span></div><div><span></span><br/></div><div><span>트럼프 대통령이 애리조나 공항 활주로에 섰습니다.</span></div><div><span></span><br/></div><div><span>대통령 전용기, 에어포스원을 배경으로 자신을 전면에 내세우며 공화당 지지를 호소했습니다.</span></div><div><span></span><br/></div><div><span>도널드 트럼프/미국 대통령 : 제가 투표용지에 있는 것처럼 생각해 주십시오.]</span></div><div><span></span><br/></div><div><span>하지만 정작 이곳 하원 경합지의 공화당 후보 2명은 '트럼프 유세장'에 모습을 드러내지 않았습니다.</span></div><div><span></span><br/></div><div><span>심지어 선거 홈페이지에서 트럼프 지지 문구를 아예 삭제하는 후보들까지 나타났습니다.</span></div><div><span></span><br/></div><div><span>격전지를 중심으로 이른바 '트럼프 지우기'가 노골화되고 있는 겁니다.</span></div><div><span></span><br/></div><div><span>배경엔 차갑게 식어버린 민심이 있습니다.</span></div><div><span></span><br/></div><div><span>최근 여론조사에서 트럼프 대통령의 국정 지지율은 34%에 그친 반면, 부정 평가는 62%에 달했습니다.</span></div><div><span></span><br/></div><div><span>중간선거가 가까워질수록 트럼프 대통령을 둘러싼 현안이 선거 판세와 직결되고 있습니다.</span></div><div><span></span><br/></div><div><span>공화당이 하원은 물론 상원 다수당 지위까지 빼앗길 수 있다는 분석이 잇따르는 가운데, 트럼프의 입은 \"총살\"까지 거론할 정도로 더 거칠어졌습니다.</span></div><div><span></span><br/></div><div><span>[도널드 트럼프/미국 대통령 : (군사)정보 유출자는 총살돼야 합니다. 총살해야 합니다.]</span></div><div><span></span><br/></div><div><span>최근엔 소말리아 이민자들을 향해 지능이 낮다고 비하하는가 하면, 자신을 수사했던 뉴욕주 법무장관에게 인신공격성 막말을 퍼부었습니다.</span></div><div><span></span><br/></div><div><span>[도널드 트럼프/미국 대통령 (현지시간 9일) : 역겨운 레티샤라는 개. 저 개 아시죠?]</span></div><div><span></span><br/></div><div><span>표를 모으겠다고 지원사격에 나선 트럼프 대통령의 거친 입이 정작 경합지 공화당 후보들의 설 자리를 더욱 좁히고 있습니다.</span></div></div><div><br/><br/><b>출처: 더불어민주당 비대위 갤러리 <a href=\"https://gall.dcinside.com/board/view/?id=democraticpolitics&amp;no=693714\">[원본 보기]</a></b></div>",
-        "content_image_count": 12,
-        "content_error": null
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
-    "last_new": "2026-10-24T23:12:51.013326+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
+    "last_new": "2026-10-25T01:10:18.104572+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "body_collection": {
-      "ready": 371,
-      "pending": 616,
-      "failed": 13,
+      "ready": 370,
+      "pending": 611,
+      "failed": 19,
       "attempted": 10
     },
-    "published_count": 371,
+    "published_count": 370,
     "consecutive_failures": 0,
     "first_failure": null,
     "alert_required": false
   },
   "google-news": {
     "items": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHU1NzcjlGbUw4cUExR25NX3YyVmFURWJhLUM2azBvMTdVMUowT3lXUWJmdFVMMi05TkV2N1ZXV2ZWc0NMYlFqN0E4djZCSUlrcFRvX2JDOWEta2s?oc=5",
+        "title": "창원 한 공장에서 철거 낙하물에 맞은 40대 노동자 숨져 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHU1NzcjlGbUw4cUExR25NX3YyVmFURWJhLUM2azBvMTdVMUowT3lXUWJmdFVMMi05TkV2N1ZXV2ZWc0NMYlFqN0E4djZCSUlrcFRvX2JDOWEta2s?oc=5",
+        "date": "2026-10-25T00:43:00+00:00",
+        "summary": "창원 한 공장에서 철거 낙하물에 맞은 40대 노동자 숨져 KBS 뉴스 경남 창원서 60㎏ 낙하물 맞은 40대 여성 숨져 연합뉴스TV 40대 女, 변압기 부품에 맞아 사망…부품 굴러떨어져...고용부 ‘중처법’ 조사 문화일보 창원 휴대전화 부품업체서 퇴근길 40대, 낙하물 맞아 숨져 국제신문 [속보] 야근하고 낮퇴근하던 40대, 회사건물 60kg 낙하물에 맞아 `참변` 부산일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2Z3R4NDg5Q3lZSEJhdl9adWszcE9ScVBDOFZYMEl4emtWSFRCM3hKWUJNRF9JN0tteV9JTG9tUUV3OER3QWVVb0JKU0cycTRJcWNpS1hpS2RuTTZjUmVmMHNRcGdFVndUeXY1eUh3RVc?oc=5",
+        "title": "성적 접촉 후 ‘탈모’ 시작된 20대 男…단순한 성병 아니었다 [라이프+] - 나우뉴스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2Z3R4NDg5Q3lZSEJhdl9adWszcE9ScVBDOFZYMEl4emtWSFRCM3hKWUJNRF9JN0tteV9JTG9tUUV3OER3QWVVb0JKU0cycTRJcWNpS1hpS2RuTTZjUmVmMHNRcGdFVndUeXY1eUh3RVc?oc=5",
+        "date": "2026-10-25T00:36:09+00:00",
+        "summary": "성적 접촉 후 ‘탈모’ 시작된 20대 男…단순한 성병 아니었다 [라이프+] 나우뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TZHdpUmMtTHBsdmJGZmVpXzlfT0pxWC1ObGNsbUF2TS1SWFZsdHdaNm5zNVhMMDFhQWxQZS1zQzJETFZHbXR0b083bERaME1URUs2SFN2Y3YySUNJZzd4amszdXBEcG8?oc=5",
+        "title": "한국 경상흑자, ’제조업 대국’ 독·일 합계 추월…사상 처음 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TZHdpUmMtTHBsdmJGZmVpXzlfT0pxWC1ObGNsbUF2TS1SWFZsdHdaNm5zNVhMMDFhQWxQZS1zQzJETFZHbXR0b083bERaME1URUs2SFN2Y3YySUNJZzd4amszdXBEcG8?oc=5",
+        "date": "2026-10-25T00:33:00+00:00",
+        "summary": "한국 경상흑자, ’제조업 대국’ 독·일 합계 추월…사상 처음 연합뉴스TV 한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음 연합뉴스 “독일·일본 다 합친 것보다 많아”...한국 경상흑자 ‘역대급’ 경기일보 韓 경상수지 흑자, 독일·일본 합계 첫 추월…반도체 수출이 견인 파이낸셜뉴스 [속보] 한은 총재 \"석유최고가격제, 장기적으로 재정에 문제\" 매일경제 마켓"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZWVpYnFWWkx4NW53cjEtVkh3cGJXbXNISnpaa0h1ZDVkX3FsdFl1clBZeUZIUU9BdFVGNDZ2N0NRVnVmTnFfY3JZWDNUU3k4dmJfNXJkYTdNYTd4NzV4TEp4VjNFQXVKX21EM1JjdFdFSmZx?oc=5",
+        "title": "오세훈 2심 무죄에 정치 격랑…장동혁·한동훈은 뜨뜻미지근 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZWVpYnFWWkx4NW53cjEtVkh3cGJXbXNISnpaa0h1ZDVkX3FsdFl1clBZeUZIUU9BdFVGNDZ2N0NRVnVmTnFfY3JZWDNUU3k4dmJfNXJkYTdNYTd4NzV4TEp4VjNFQXVKX21EM1JjdFdFSmZx?oc=5",
+        "date": "2026-10-25T00:30:00+00:00",
+        "summary": "오세훈 2심 무죄에 정치 격랑…장동혁·한동훈은 뜨뜻미지근 한겨레 [칼럼] 오세훈의 재부상, 한동훈의 존재감, 장동혁의 책임…보수는 어디로 갈 것인가 뉴스타운 ‘항소심 무죄’ 오세훈 “與, 선출 권력이 3권 위라고 착각”…조희대 탄핵 논의 직격 동아일보 \"우울하고 슬펐다\" 엿장수맘대로 판결에 마음 다친 박영식 (20261024 토요일 클립) 박영식 김민하 경향신문 무죄 판결 뒤 주말 ‘광폭 행보’ 나선 오세훈… 대외적으론 보폭 확대, 내부적으론 인적쇄신 관측 문화일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KaG4wRDc0Z1p1SUlwdkF1cENOU1EwUlZ0U1FKSnJwREVRRXlhekVkcU1QQXFwajBucHM0N1FENnRxRVR3TU5PYVM2b053anlUeDJIU0dnY1R3X3FoTUxpSGJlV2E5VGM?oc=5",
+        "title": "\"부캉이 자기결정권 보장하라\"…퇴거 반대 피켓에 청원까지 등장 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KaG4wRDc0Z1p1SUlwdkF1cENOU1EwUlZ0U1FKSnJwREVRRXlhekVkcU1QQXFwajBucHM0N1FENnRxRVR3TU5PYVM2b053anlUeDJIU0dnY1R3X3FoTUxpSGJlV2E5VGM?oc=5",
+        "date": "2026-10-25T00:24:00+00:00",
+        "summary": "\"부캉이 자기결정권 보장하라\"…퇴거 반대 피켓에 청원까지 등장 연합뉴스TV [속보]이틀간 사라졌던 ‘부캉이’ 다시 나타나…최종 목격지점서 2㎞ 떨어진 곳서 유영 문화일보 수로 벗어난 '부캉이' 어디 갔나 했더니…2㎞ 떨어진 부산항서 발견 - 머니투데이 머니투데이 부캉아, 이제는 우리가 지켜줄게 사이언스타임즈 부산항 인근에 머물고 있는 ‘부캉이’ 이모티콘도 나왔다 국제신문"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQVdoMU8xZHBtYWpiZkZrNzNBZzM0SU1aR3dFZnR6ZE9pMWg3RHJwQzlhZnZFdkxJREFjYU5ZaDRwRkYtc1NsZFBxaU1iWU9YWXlCX1JvT2tveFJFYnozRzZ5anp2bUxFR21qSWtVSHczUmgxNHpvWno2RXpMaF80U1NIc0g4WEViZnhudFE0XzZEaEFic0QwMU9MYzdxVno1UllsTVFRY0s0VTV3SWRxbjJBeEJEN1NiQWdqZnNqRzhNOW9mRTBleFlkbWhtVGJINWhTNTNn?oc=5",
+        "title": "사일런트 힐, 에일리언 아이솔레이션 2, 그리고 레지던트 이블 베로니카는 2027년에 플레이스테이션 5 라이브러리에 추가될 예정입니다. - GameGPU",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQVdoMU8xZHBtYWpiZkZrNzNBZzM0SU1aR3dFZnR6ZE9pMWg3RHJwQzlhZnZFdkxJREFjYU5ZaDRwRkYtc1NsZFBxaU1iWU9YWXlCX1JvT2tveFJFYnozRzZ5anp2bUxFR21qSWtVSHczUmgxNHpvWno2RXpMaF80U1NIc0g4WEViZnhudFE0XzZEaEFic0QwMU9MYzdxVno1UllsTVFRY0s0VTV3SWRxbjJBeEJEN1NiQWdqZnNqRzhNOW9mRTBleFlkbWhtVGJINWhTNTNn?oc=5",
+        "date": "2026-10-25T00:04:40+00:00",
+        "summary": "사일런트 힐, 에일리언 아이솔레이션 2, 그리고 레지던트 이블 베로니카는 2027년에 플레이스테이션 5 라이브러리에 추가될 예정입니다. GameGPU 레지던트 이블 10은 레지던트 이블 제로 리메이크 이후에 출시될 예정입니다. GameGPU 레지던트 이블 10은 시리즈 역사상 가장 큰 규모의 크로스오버 작품이 될 것입니다. GameGPU"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVWdza1B2MXN4T015U3hpOE16aGI0ZXZVSU1yV0JYMWRVdlk2ZFlqc2UwalhBdVJrY2M3V0w3cEtXQ1Y3Z19qQ054UjNLbXVsLWp6YnlXVmlkUdIBX0FVX3lxTE9EMU5OVTdLSUNpdXJKVDVYRkFsTDNrdlFNcEt2Rll3U1Vodi1nZjZSN3lJYlB6cm5UZ3JqNmtXNUJyTE54MHduT0JSdlV6TWFXRHVRNXZmSE5RcHhNemlJ?oc=5",
+        "title": "[셸터: 서로를 구하다⑥]물고문 당하고 감옥 가도 후회는 없다…사람을 지키는 마음은 이어지니까 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVWdza1B2MXN4T015U3hpOE16aGI0ZXZVSU1yV0JYMWRVdlk2ZFlqc2UwalhBdVJrY2M3V0w3cEtXQ1Y3Z19qQ054UjNLbXVsLWp6YnlXVmlkUdIBX0FVX3lxTE9EMU5OVTdLSUNpdXJKVDVYRkFsTDNrdlFNcEt2Rll3U1Vodi1nZjZSN3lJYlB6cm5UZ3JqNmtXNUJyTE54MHduT0JSdlV6TWFXRHVRNXZmSE5RcHhNemlJ?oc=5",
+        "date": "2026-10-25T00:00:00+00:00",
+        "summary": "[셸터: 서로를 구하다⑥]물고문 당하고 감옥 가도 후회는 없다…사람을 지키는 마음은 이어지니까 경향신문"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVpsTjhCTm9lMklrSFlGZ1YtN2NTQUY2bXJqM1kwaC1BRU5MaTlGRG1EOThKUV9SYkc4Z1A5TWZ3dVFKOE9aV3dnQ285Y2F6X0FFYm5sSXNxNDliSDM0NDg5VTVpYjh5VEs3ZmVUazVKRGttQzBCTEVfR0s2Q3BQMVBqOVIxN1lS?oc=5",
+        "title": "전력망 이어 데이터센터까지… 겨울 앞둔 러시아의 우크라이나 디지털 봉쇄 작전 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVpsTjhCTm9lMklrSFlGZ1YtN2NTQUY2bXJqM1kwaC1BRU5MaTlGRG1EOThKUV9SYkc4Z1A5TWZ3dVFKOE9aV3dnQ285Y2F6X0FFYm5sSXNxNDliSDM0NDg5VTVpYjh5VEs3ZmVUazVKRGttQzBCTEVfR0s2Q3BQMVBqOVIxN1lS?oc=5",
+        "date": "2026-10-24T23:58:45+00:00",
+        "summary": "전력망 이어 데이터센터까지… 겨울 앞둔 러시아의 우크라이나 디지털 봉쇄 작전 글로벌이코노믹 종전 협상 재개한다더니...상대 수도 겨냥 대규모 공습 YTN [영상] 지름 1.2m 가스관서 맞붙은 러·우크라…\"세계 첫 전면 지하전\" 연합뉴스 트럼프 “전쟁 종식 가장 가까워” 발언 3분 전, 키이우에서 폭발음 경향신문 젤렌스키 \"러, 집속탄 장착 탄도미사일로 키이우 공격\" MBC 뉴스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zc3ZrNjZyRFZlVDIxaUE4WkI0dE81Zk9ZeDNHMC0yVkZQY0JtV0dxTEw3czJBTWNWTzR1MFlJTFI3RFlZVWo0NElia2dyRVVTbUM5U29KZVFkM2pEMXVFV2RXR09nclU?oc=5",
+        "title": "이강인 부상 털고 선발 복귀…아틀레티코, 라리가 6연승 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zc3ZrNjZyRFZlVDIxaUE4WkI0dE81Zk9ZeDNHMC0yVkZQY0JtV0dxTEw3czJBTWNWTzR1MFlJTFI3RFlZVWo0NElia2dyRVVTbUM5U29KZVFkM2pEMXVFV2RXR09nclU?oc=5",
+        "date": "2026-10-24T23:50:00+00:00",
+        "summary": "이강인 부상 털고 선발 복귀…아틀레티코, 라리가 6연승 연합뉴스TV 이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전 제민일보 '이강인 부상 복귀하자마자 슈팅 폭발!' 전반에만 오른발·왼발 연속 시도...ATM, 데포르티보전 전반 0-0 마무리 - 머니투데이 머니투데이 한 달 넘게 침묵 중인 이강인, 데포르티보전서 공격포인트 정조준 뉴시스 韓 축구 에이스 '깜짝' 복귀! 이강인 드리블 성공률 100%→'가장 위협적인 선수로 떠올랐다' 극찬…AT 마드리드 6연승 질주 조선일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hYmlkMENnMWxiTVNIYXZLa2ZZSkR1N3BfelBZZ3dqWHhsN2t0Wl9fZEhELVJfWjRpbnl5WjZYQkpsS3hUR1NlSE5sdVVqQ3FrTWxvWTQxWkY1ckY1OEg5RS1NalphUG5CbUZmSElidw?oc=5",
+        "title": "중간선거 막판 최대 변수 ‘공화당 숨은 표’…민주당 상원 탈환 신중론 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hYmlkMENnMWxiTVNIYXZLa2ZZSkR1N3BfelBZZ3dqWHhsN2t0Wl9fZEhELVJfWjRpbnl5WjZYQkpsS3hUR1NlSE5sdVVqQ3FrTWxvWTQxWkY1ckY1OEg5RS1NalphUG5CbUZmSElidw?oc=5",
+        "date": "2026-10-24T23:40:00+00:00",
+        "summary": "중간선거 막판 최대 변수 ‘공화당 숨은 표’…민주당 상원 탈환 신중론 한겨레 ‘트럼프에 10년 몰표’ 5개州, 美 중간선거 이번엔 초접전 조선일보 트럼프, 선거 열흘 앞 플로리다서 사전투표…“민주당은 부패” KBS 뉴스 물가 제친 '부패'…美중간선거 막판 최대 쟁점으로 마켓인 플로리다 팜비치에서 사전투표한 트럼프 대통령 부부 뉴시스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IVEpzeWNnckJ0U2k5UU1qVHlCcm5UT1RqWUJhdEExSGR2VjdtOTRqWVBkNHd2NENsdThVVEZCdTVNcmhselBrY2puSjE?oc=5",
+        "title": "파피 플레이타임 스핀오프 ‘에스케이프 프롬 플레이타임’, 스팀 앞서 해보기 출시 - 인디게임닷컴",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IVEpzeWNnckJ0U2k5UU1qVHlCcm5UT1RqWUJhdEExSGR2VjdtOTRqWVBkNHd2NENsdThVVEZCdTVNcmhselBrY2puSjE?oc=5",
+        "date": "2026-10-24T23:29:00+00:00",
+        "summary": "파피 플레이타임 스핀오프 ‘에스케이프 프롬 플레이타임’, 스팀 앞서 해보기 출시 인디게임닷컴"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJcW9sd2w3U294aUJiVUFSNC1qQTFfUWNkcFRKMlh5LTJrVXY1LVN1a1JxX3Y0N0FaVjlydzg2UHJLWUxab0FyT2NkMmhLc1hZeFZGUjhn?oc=5",
+        "title": "애플, 애플뮤직 404 페이지에 1세대 아이팟 숨겼다…휠 돌려 실제 음악 재생 - 위키트리",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJcW9sd2w3U294aUJiVUFSNC1qQTFfUWNkcFRKMlh5LTJrVXY1LVN1a1JxX3Y0N0FaVjlydzg2UHJLWUxab0FyT2NkMmhLc1hZeFZGUjhn?oc=5",
+        "date": "2026-10-24T23:03:00+00:00",
+        "summary": "애플, 애플뮤직 404 페이지에 1세대 아이팟 숨겼다…휠 돌려 실제 음악 재생 위키트리"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xeU1uSEFKMlJrRVg2WW1tX3ZDXzRaa1lySy1KcHcxbzFDVFRfOUVEVjlJUXczWXVBY2xpbTdrUDhyVm1sdlVDQV9sNjI2TmlvNTUwUy00cVZjQQ?oc=5",
+        "title": "아직도 곳곳에 '검찰청'…표지판 교체 비용만 2억7000만원 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xeU1uSEFKMlJrRVg2WW1tX3ZDXzRaa1lySy1KcHcxbzFDVFRfOUVEVjlJUXczWXVBY2xpbTdrUDhyVm1sdlVDQV9sNjI2TmlvNTUwUy00cVZjQQ?oc=5",
+        "date": "2026-10-24T22:29:30+00:00",
+        "summary": "아직도 곳곳에 '검찰청'…표지판 교체 비용만 2억7000만원 한국경제 전국 ‘검찰청’ 도로표지판 교체 비용만 2억7000만 원 문화일보 [리포트] 수십억 들인 '검찰 지우기'… 간판만 바뀐 뒤늦은 행정 ::::: 기사 춘천MBC 검찰청 문 닫은 지 3주 됐지만, 도로에 표지판 300개 넘게 남아 연합뉴스 한민족센터 검찰청 사라졌는데 대구 도로엔 표지판 58개…예산에 막힌 이름 교체 경북매일"
+      },
       {
         "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZSGdFSVpSYWRjV3d1a3Z1c25oMnFSalZUOHd2T2E0ZVpab1U4b1VLcHEwVFJQTnJPUVRKVFpFSGRPVWFZeC1La093MTYtQmR0b3gwa1JFTTFoczRwdDhacmxrNk80LVNqeVFBTHdn?oc=5",
         "title": "[천승관전기 · 경영일수] 행동량을 세라 — '열심히'는 측정이 아니다 - 캐어유 뉴스",
@@ -10551,11 +10650,39 @@
         "summary": "레지던트 이블 10은 레지던트 이블 제로 리메이크 이후에 출시될 예정입니다. GameGPU 레지던트 이블 10은 시리즈 역사상 가장 큰 규모의 크로스오버 작품이 될 것입니다. GameGPU"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zVElJRC1ZR1FHRHFOWVYxN180bnNIUDdSakdkTVFjTENadHJtbUJWVXh5UVJnUTY5ckp5UXk3eWp4XzFoYVdNWWVzRzJ3QlJOUGJ1MzBvQlRKYWfSAWBBVV95cUxNQVRyNTUwOG1NYzdEcUhSU2w0YWlIYmhnalh4SHhyZEg4dEoxMlBNNWFDNnZ3VFFDUk9mWkhLSGtJZThsWG82ZFBLQ1YySFBKWkpiZVE5dEoyZnhFLXNUVnE?oc=5",
+        "title": "머스크 \"우크라군, 스타링크로 공격용 드론 운용…지난주 차단\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zVElJRC1ZR1FHRHFOWVYxN180bnNIUDdSakdkTVFjTENadHJtbUJWVXh5UVJnUTY5ckp5UXk3eWp4XzFoYVdNWWVzRzJ3QlJOUGJ1MzBvQlRKYWfSAWBBVV95cUxNQVRyNTUwOG1NYzdEcUhSU2w0YWlIYmhnalh4SHhyZEg4dEoxMlBNNWFDNnZ3VFFDUk9mWkhLSGtJZThsWG82ZFBLQ1YySFBKWkpiZVE5dEoyZnhFLXNUVnE?oc=5",
+        "date": "2026-10-24T21:18:09+00:00",
+        "summary": "머스크 \"우크라군, 스타링크로 공격용 드론 운용…지난주 차단\" 연합뉴스 美상원 \"우크라 스타실드 미복구땐 트럼프 인선 인준 보류\" 경고 연합뉴스 머스크 “우크라군, 스타링크로 공격용 드론 운용…지난주 차단” KBS 뉴스 트럼프, 우크라이나 스타실드 제한에 \"내가 바로잡겠다\" YTN 美정부가 원하면 '스타링크' 오프?…머스크와 '안보거래' 파장 확산 마켓인"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Lc2lEMWsxWU1yWlVyTTR3UDJjS1dHaWxwd2JEMTJ2eUlXWUFKejBNTlN3cHhpMy1mc3lMUVNrUEExSkhMQmNLd3JTd1MwYnhydnFkdDVDQ3ZqWEXSAWBBVV95cUxQRVk4bDd1M2MxQ0JMMHJ5bFhrTlJ6b2VDamY1cFJ1b1pWU3NxSi1HWHhvWWk2ajFfOWJRVGVoUEtxdzExdHA5MlNObllIOVFKeTN2ajc3OGZvTmRPRXZNOFY?oc=5",
+        "title": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Lc2lEMWsxWU1yWlVyTTR3UDJjS1dHaWxwd2JEMTJ2eUlXWUFKejBNTlN3cHhpMy1mc3lMUVNrUEExSkhMQmNLd3JTd1MwYnhydnFkdDVDQ3ZqWEXSAWBBVV95cUxQRVk4bDd1M2MxQ0JMMHJ5bFhrTlJ6b2VDamY1cFJ1b1pWU3NxSi1HWHhvWWk2ajFfOWJRVGVoUEtxdzExdHA5MlNObllIOVFKeTN2ajc3OGZvTmRPRXZNOFY?oc=5",
+        "date": "2026-10-24T21:05:00+00:00",
+        "summary": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고 연합뉴스 ‘오세훈 무죄’가 왜 ‘조희대 탄핵론?’…여야 대표 정면충돌 문화일보 국힘 “범죄자 대통령 만든 與, 사법부 훈계할 자격 있나” 동아일보 정책 뒷전, '쇼츠 정치' 경쟁 된 국감...갈등 부추겨 YTN 김어준이 띄우고 조국이 스파이크 때린 조희대 탄핵에 왜 민주당이 흔들? (20261024 토요일 클립) 박영식 김민하 경향신문"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdi1ya3BfR19lZmFESHhLMlBycU5reWNzLXFGRmlpTnJET2QwbVZBSmF4QkNZYV9oSEJmSU0zLUs0bGdhVlZWWlNwZ0VXZlFWcWZ2dEF2T3k?oc=5",
         "title": "전직 자동차 영업사원이었다고? “롯데 팬 정말 많더라”…韓야구 열기에 놀란 KBO 마무리 [SS시선집중] - 스포츠서울",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdi1ya3BfR19lZmFESHhLMlBycU5reWNzLXFGRmlpTnJET2QwbVZBSmF4QkNZYV9oSEJmSU0zLUs0bGdhVlZWWlNwZ0VXZlFWcWZ2dEF2T3k?oc=5",
         "date": "2026-10-24T21:02:00+00:00",
         "summary": "전직 자동차 영업사원이었다고? “롯데 팬 정말 많더라”…韓야구 열기에 놀란 KBO 마무리 [SS시선집중] 스포츠서울"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6eTJRXzZEYVE1QndVd3Jqai1QaS1nMVI1RWx2c2xCTEV2NF9IWnZzRDYtVU1HNVNtTVVpYzVZM0lrbzF3OTFrWmNhczVuZWpoRGsxVzJnT3UwOFQ0RjN3?oc=5",
+        "title": "(주간증시전망)솔리다임 상장 철회 촉각…코스피 반등 시험대 - 뉴스토마토",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6eTJRXzZEYVE1QndVd3Jqai1QaS1nMVI1RWx2c2xCTEV2NF9IWnZzRDYtVU1HNVNtTVVpYzVZM0lrbzF3OTFrWmNhczVuZWpoRGsxVzJnT3UwOFQ0RjN3?oc=5",
+        "date": "2026-10-24T21:00:03+00:00",
+        "summary": "(주간증시전망)솔리다임 상장 철회 촉각…코스피 반등 시험대 뉴스토마토 “SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회 매일경제 마켓 [주간증시전망] 실적·FOMC ’슈퍼위크’…AI 수익성 우려 해소될까 By EBN Investing.com 한국어 “하닉 손실 중이시죠?” 보유 개미 74%의 공통점 문화일보 솔리다임 변수 걷힌 SK하이닉스…지금이 매수 적기? 뉴시스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RYzF5VHY5R1RjZGNsT2JWMzBCUlFRamV4OVNTTHhfWmRUVW96bjAydktLNTZZb2VSY0c5eE1iU0c4S1FpRzlIMGhOcmprbVRpMFRXWERpd0R0UdIBX0FVX3lxTE5XYVJGVklja1NkUUh3akEwZ1dycnUtS1lfZ2VOSmFKR1NuWGtLR19Kc1ZiUDh1Y0NJSW5JcC1ibzU4YmJBUVdPOTJjZGxRRThRRXl6ZWVUNTNhWFNpaUNz?oc=5",
+        "title": "날씨 추워지면 변비 심해지는 이유 있었네...장운동 돕는 ‘세 가지 습관’ - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RYzF5VHY5R1RjZGNsT2JWMzBCUlFRamV4OVNTTHhfWmRUVW96bjAydktLNTZZb2VSY0c5eE1iU0c4S1FpRzlIMGhOcmprbVRpMFRXWERpd0R0UdIBX0FVX3lxTE5XYVJGVklja1NkUUh3akEwZ1dycnUtS1lfZ2VOSmFKR1NuWGtLR19Kc1ZiUDh1Y0NJSW5JcC1ibzU4YmJBUVdPOTJjZGxRRThRRXl6ZWVUNTNhWFNpaUNz?oc=5",
+        "date": "2026-10-24T21:00:00+00:00",
+        "summary": "날씨 추워지면 변비 심해지는 이유 있었네...장운동 돕는 ‘세 가지 습관’ 경향신문"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QU1hvcWZJOHY0ZXBJdVo2d3BYeFlZYjFKakkwanZteGVuS0ZZQ0VGc21LaG5zMGZNdG1GRlNfNXNOZWI1QWtwb2VQYmJZVGZaNG13SWlwX2poZERobVhsMEJMMmk4VHR1Qmc?oc=5",
@@ -10565,11 +10692,18 @@
         "summary": "[김종석의 그라운드] “저녁 6시 이후 시내 외출 금지”…안세영의 파리, 코트만 열려 있습니다 테니스코리아 ‘마지막 희망이 탈락했다’... 中, 안세영 앞에 눈물 펑펑 조선일보 안세영 놀라운 인터뷰 \"우승이요? 생각하지 않아요\"... 50연승·시즌 10승·대회 3연패 앞두고도 흔들림 없는 멘털 - 머니투데이 머니투데이 '승률 98.5%' 배드민턴 안세영, 프랑스오픈 결승행…시즌 10승 눈앞 뉴시스 또 이겼다! 안세영, 日 베테랑에 1게임 21-12 압도...'7일 만' 재대결도 기선 제압→프랑스 오픈 '3연속 결승' 보인다 OSEN"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENnEzbm93a2xvY3d5LWdkczZucHpCWGMtMnBjTEpQMlFPaW1JbXhjX1VDUnItVHN5YThQeUFCcktldENaZFlOUGtKaHpoSnFocDlkVFBrNmRhUQ?oc=5",
+        "title": "[현장 인터뷰] '우승 이끈 한 방' FC서울 문선민 \"MVP 욕심 없다, 동료들 밀어줄 것\" - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENnEzbm93a2xvY3d5LWdkczZucHpCWGMtMnBjTEpQMlFPaW1JbXhjX1VDUnItVHN5YThQeUFCcktldENaZFlOUGtKaHpoSnFocDlkVFBrNmRhUQ?oc=5",
+        "date": "2026-10-24T20:46:00+00:00",
+        "summary": "[현장 인터뷰] '우승 이끈 한 방' FC서울 문선민 \"MVP 욕심 없다, 동료들 밀어줄 것\" 뉴스핌 10년 만의 우승 '일등공신' GK 구성윤, \"진수 형에게 빚 갚았다, 김기동 감독님은 어릴 적 우상\" [현장 인터뷰] - 머니투데이 머니투데이 서울, 10년 만에 우승…김기동 감독, ‘분노를 환호로’ KBS 뉴스 FC서울, 강원과 비기고 우승 축포…10년 만에 통산 7번째 우승 연합뉴스 GS그룹 허태수 회장 \"10년 만의 우승, FC서울 선수들 노고에 박수\" 뉴시스"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUFGYlpUSUZzMmI5WG1TeDJOa0RYRE5weC0wUnBod0lkYVoybm1iaGpvRW0yYTFCZ2JKdldzZHU5ZWNMdHpKNUJUV0xaS0U3Yk91eFVHVmdOeG40ZTRDd3hpR3Utb252cXhSd1dDT3gzSkhWXzVfY3dkY2Z1ekRuOER4ZncxamFMb0tFOU9jOWlKb3lFVVVyQU5oajJ5dw?oc=5",
         "title": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUFGYlpUSUZzMmI5WG1TeDJOa0RYRE5weC0wUnBod0lkYVoybm1iaGpvRW0yYTFCZ2JKdldzZHU5ZWNMdHpKNUJUV0xaS0U3Yk91eFVHVmdOeG40ZTRDd3hpR3Utb252cXhSd1dDT3gzSkhWXzVfY3dkY2Z1ekRuOER4ZncxamFMb0tFOU9jOWlKb3lFVVVyQU5oajJ5dw?oc=5",
         "date": "2026-10-24T20:24:00+00:00",
-        "summary": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다 조선일보 프랑스 전역 수십만 명 거리로...일부 체포·충돌도 YTN 상점 약탈 1주일…또 대규모 집회 예고에 파리 수천명 등 7만 경찰 배치 동아일보 [인터뷰] \"프랑스 민주주의 고장 났다\" 한숨…오헬리엉의 씁쓸한 진단 JTBC 대규모 시위에 7만 경찰 투입, 긴장감 고조…현재 파리는? KBS 뉴스"
+        "summary": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다 조선일보 ‘유럽, 정말 심상치않다’…스페인·프랑스·이탈리아·포르투갈 동시다발 시위 확산 문화일보 佛극우 르펜, 시위 덕에 대권 '성큼'…마크롱 지지율 15% '바닥' 마켓인 [인터뷰] \"프랑스 민주주의 고장 났다\" 한숨…오헬리엉의 씁쓸한 진단 JTBC 프랑스 부채 위기, 유로존 전역으로 퍼질까 지디넷코리아"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYTUUtd3VqOWR2YlBmM25qTmRDUjdVS2VwT1V5aWN5ZXVEQUhfaTdMUUxFYUJiVXJpcnd4bEcyRk9DLVMxTmVWYmstT1h3d01BN01YMWZQc1R4NEpaeVJIcmRnMW90d0ViS2Zn0gFvQVVfeXFMUDA1TGxzc1A0aVQxcWRfU0J5M0R1eWFRdlFwb1JBeDBIOTc3N2pHbDY0c1pnZkdHUDdoVHg0dDk4WHRTUU9JQWc0VWhLUmxsR1Zod1kxbEE2d2c0XzQtQlUxa1NaZ3RuLVVVVGFqREtB?oc=5",
@@ -10577,6 +10711,13 @@
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYTUUtd3VqOWR2YlBmM25qTmRDUjdVS2VwT1V5aWN5ZXVEQUhfaTdMUUxFYUJiVXJpcnd4bEcyRk9DLVMxTmVWYmstT1h3d01BN01YMWZQc1R4NEpaeVJIcmRnMW90d0ViS2Zn0gFvQVVfeXFMUDA1TGxzc1A0aVQxcWRfU0J5M0R1eWFRdlFwb1JBeDBIOTc3N2pHbDY0c1pnZkdHUDdoVHg0dDk4WHRTUU9JQWc0VWhLUmxsR1Zod1kxbEE2d2c0XzQtQlUxa1NaZ3RuLVVVVGFqREtB?oc=5",
         "date": "2026-10-24T20:00:00+00:00",
         "summary": "'클리말라부터 구성윤까지'...'10년만의 왕좌 탈환' 이끈 주역들[FC서울 우승①] 한국아이닷컴 FC서울, 10년 만에 K리그1 정상 올랐다…통산 7번째 우승 경향신문 서울, 10년 만에 우승…김기동 감독, ‘분노를 환호로’ KBS 뉴스 기성용·린가드 '슈퍼스타' 떠나자 진짜 '원팀' 됐다... 이름표 떼고 완성한 '기동 타격대' [상암 현장] - 머니투데이 머니투데이 GS그룹 허태수 회장 \"10년 만의 우승, FC서울 선수들 노고에 박수\" 뉴시스"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KNVpZY3Fkemdzci1ENnF4Y3ZySFdnMTFTRGk0RXZTSE0wSVA0OXVhNHpTTklySHdpcGJWTkdoTl9fdDFHbUNLUHpoeG9CaV9oSHdITkc2S2duZEXSAWBBVV95cUxOaEJ6YXlkZDRRQkpwRml4RGswMTlnaElRZFlrd3lyTEdQZ0VOMU9BTFp2Q3NhcGJlbjNVaGtwUTk5TVdBZ1pYTFFNUk5xMi1YeFlpUlZKcGlTZG5yZmE5aVg?oc=5",
+        "title": "후티 반군 \"사우디 수도 리야드 공항·동서 송유관 등 타격\"(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KNVpZY3Fkemdzci1ENnF4Y3ZySFdnMTFTRGk0RXZTSE0wSVA0OXVhNHpTTklySHdpcGJWTkdoTl9fdDFHbUNLUHpoeG9CaV9oSHdITkc2S2duZEXSAWBBVV95cUxOaEJ6YXlkZDRRQkpwRml4RGswMTlnaElRZFlrd3lyTEdQZ0VOMU9BTFp2Q3NhcGJlbjNVaGtwUTk5TVdBZ1pYTFFNUk5xMi1YeFlpUlZKcGlTZG5yZmE5aVg?oc=5",
+        "date": "2026-10-24T19:43:40+00:00",
+        "summary": "후티 반군 \"사우디 수도 리야드 공항·동서 송유관 등 타격\"(종합) 연합뉴스 사우디 “리야드 킹칼리드 국제공항 오늘부터 운영 재개” KBS 뉴스 예멘 후티, 리야드 공항 재개 앞두고 공격 위협 재개 Investing.com 한국어 미 국무부, 중동 각국 외교관 조용히 철수 진행 뉴시스 사우디-후티 반군, 주요 거점 난타전…사망자 속출(종합) 연합뉴스"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbDJpUW41S0FLdm9OSkJTZzlkbE9JZUFFTEhCS2oyZzNGSXltSGpseGNqbnJCekRva1dxTlhBeWxxZjloTDVhWS1XaDBMWGtsZEMwd0NMMWplaHfSAWBBVV95cUxNdGFoWHBpUzBaRGJFWElxbXVrQmw5ZERWemtvQUhoSjRoRVBoTmtOOGFkLXc1U1ExUzVDYm9XNk9SVGN5UUVDMmxpbnBiX0JidmJWNEp4QldXS20wZkhTNS0?oc=5",
@@ -10653,7 +10794,7 @@
         "title": "최형우 이적이 낳은 선물, '19홈런-21도루' 히트상품은 플레이오프의 불꽃일까 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEFLcHp2dTcxS1FwTnphZG40aFJNanh3NnFqRnBWS0tJQml6Q1JnUjMyRGFKVVRDNVBjQnpabnNQZWxON2tBMDg1d0otZEp2cXN2VUFHUmNqa1R6dTRqN0RBbFBTaEVlNGxrYldHTlNqcW51UXJJanI0U0V5eWw3NnM2Zw?oc=5",
         "date": "2026-10-24T15:10:00+00:00",
-        "summary": "최형우 이적이 낳은 선물, '19홈런-21도루' 히트상품은 플레이오프의 불꽃일까 조선일보 ‘쉬어간 삼성’ vs ‘기세의 KIA’…내일 PO 1차전 격돌 KBS 뉴스 \"우리 불펜이 약하다고 생각한 적 없다\" 삼성 이승민의 자신감…KIA 상대 ERA 1.17, 가을에도 강세 이어갈까 [오!쎈 대구] 조선일보 프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅 연합뉴스 \"최형우 4타수 무안타·디아즈 6타수 1안타\"… 좌타 거포 잡을 KIA의 156㎞ 비밀병기, 그날의 기억이 있다 파이낸셜뉴스"
+        "summary": "최형우 이적이 낳은 선물, '19홈런-21도루' 히트상품은 플레이오프의 불꽃일까 조선일보 Google 뉴스에서 헤드라인 및 의견 더보기"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xSHJYaUc3d0hQcFNaalFpOXRQNVEwSk4wdFhwc2szeXgtWXB3b2o4cmR0STduOVhGR3NROTgzczFsOEJuXzVkY082SGRSUmlOakxnVUFZaTcyQQ?oc=5",
@@ -10689,6 +10830,13 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHN1MXAtUDF1QnBxc3YwNHZBTWpKQzk0aTNYNmRial9GUENTNnNHSkJQTTlSS3c5ZjZwYi1YT1pld2tTbi1XQWNDOGpWbGNvSE85U3RucURNMnlxaV9ZSGF4S2FiWGNhTnBqV1RvLWtDa3FkUzNOSy1TNVF2dDBZd1p1RUlwblRCNnFhU0dUMA?oc=5",
         "date": "2026-10-24T13:44:00+00:00",
         "summary": "김정난, 50대에도 늘씬 체형..관리 비결 밝혔다 \"삼시 세끼 다 먹지만..\" 조선일보 \"너 나랑 결혼할래?\" 웅산, 김장훈·김동규에 청혼 받았다 뉴시스 女가수, 17세에 학교 떠나 출가했다 “웅산은 절에서 받은 법명” (데이앤나잇) iMBC 연예 김정난 “고교 시험 본 날 40세 母 사망… 지금도 꿈에 나온다” (‘데이앤나잇’)[종합] 매일경제 재즈 디바 웅산, 김장훈에 청혼 받았다 “너무 괜찮은 사람..심쿵”(데이앤나잇) OSEN"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdEh1V2lnSWlJNHpCU2FpMThJd2VCVmNCSVJuY2ZKZHRnNUI4d2tDWGJfM1BlTGVoZl8wWVoxTGhjWWNXN2p2RDdtLW1IV1RVZExpaQ?oc=5",
+        "title": "김정난, 50대에도 늘씬 체형..관리 비결 밝혔다 “삼시 세끼 다 먹지만..” - OSEN",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdEh1V2lnSWlJNHpCU2FpMThJd2VCVmNCSVJuY2ZKZHRnNUI4d2tDWGJfM1BlTGVoZl8wWVoxTGhjWWNXN2p2RDdtLW1IV1RVZExpaQ?oc=5",
+        "date": "2026-10-24T13:42:00+00:00",
+        "summary": "김정난, 50대에도 늘씬 체형..관리 비결 밝혔다 “삼시 세끼 다 먹지만..” OSEN \"너 나랑 결혼할래?\" 웅산, 김장훈·김동규에 청혼 받았다 뉴시스 김정난, 재벌 캐릭터에 소신 발언 “유쾌하지 않아..이미지 갇히기 싫어”(데이앤나잇) OSEN 김정난, 50대에도 늘씬 체형..관리 비결 밝혔다 \"삼시 세끼 다 먹지만..\" 조선일보 女가수, 17세에 학교 떠나 출가했다 “웅산은 절에서 받은 법명” (데이앤나잇) iMBC 연예"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBST2ppbE5BTjJHb0ZhTzlReWlGbjBmVi13UGZLcEotY0hTWWpzX2RJMk84bUF4WFVhY2JZWC16LWx2amZvX0hEVmhJOENuUmtLdHhOUXhDYVppaWEwc2RoaFF5dmJKYlU4M2NsRzlybFlsUQ?oc=5",
@@ -10744,7 +10892,7 @@
         "title": "양홍원 불륜 폭로자, '50만원' 요구했다..모텔 동행女 \"나도 이용 당해\" [핫피플] - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjdCaFRtYU5iSW52dkhtRnprdHFiZ19ncFhQWEh0OVgyN1E4R0JuZGU5REg1UWc1a1otSVdtY2Z5cFdJdWxzdGQxc2xYaHV3bVVEcW84UFBpdmFJVURxc29zaVEzMkNtVFM2ZWxqcUdVSzNUbnBOWmFvQ3Y1VktBR1JIMnRMMEJuaS1icDN1VQ?oc=5",
         "date": "2026-10-24T12:45:50+00:00",
-        "summary": "양홍원 불륜 폭로자, '50만원' 요구했다..모텔 동행女 \"나도 이용 당해\" [핫피플] 조선일보 “같이 모텔 갔지만 바로 잠만 잤다”…새신랑 래퍼 양홍원, 불륜 부인 동아일보 양홍원·원현주, 결혼 5일만에 서로 SNS 언팔…불륜 의혹 여파? 뉴스1 “50 주면 너 정보 지워줄게”…양홍원 불륜 폭로에 신상 공개된 여성, 협박 DM 공개 스포츠경향 \"모텔 갔지만 애정 행위 없었다\" 결혼 5일 만에 불륜 의혹 휩싸인 양홍원…소속사는 정면 대응 아시아경제"
+        "summary": "양홍원 불륜 폭로자, '50만원' 요구했다..모텔 동행女 \"나도 이용 당해\" [핫피플] 조선일보 “같이 모텔 갔지만 바로 잠만 잤다”…새신랑 래퍼 양홍원, 불륜 부인 동아일보 \"모텔 갔지만...\" 양홍원 결혼 5일만 불륜설, 아내와 '언팔' - 머니투데이 머니투데이 “50 주면 너 정보 지워줄게”…양홍원 불륜 폭로에 신상 공개된 여성, 협박 DM 공개 스포츠경향 \"모텔 갔지만 불륜 아냐?\"…'신혼 일주일' 양홍원, 과거 불륜 영화엔 질색 뉴스1"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDY1R0MDFIRVBqM3lwUWhNbUtlcWYwdmNiOGphc0NJU3pPbEpvdXA0SGtNYVNnNThsTTNFVjhXUU1FS01xMDR4X0FaTGZBSWtHUmc?oc=5",
@@ -10766,6 +10914,13 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBcU9CaFQzT2V4U3dKcFZOTjNXMGNKcWItMHM0ZWNVVjVsd3pDY1hrUVZxMnljSjJqT0FFMU9QcDdqcFB3ZHhTU1JZbkVlSTEyYi1jeGxaNlbSAVRBVV95cUxQSVotWmd1eXB1NTFmVzBiZDZvT0FSNTNFdzdBeG1aLVB4N2NEVHFQdVNmUGhYbVBEU1p1UENGTFcwWnVzRndwbThZS3hxcHdjXzNCQ1g?oc=5",
         "date": "2026-10-24T12:30:49+00:00",
         "summary": "신현송 “과거 같은 초저금리 시대 돌아가기 어려워…고성장·고금리 대비해 정책 펼 것” 세계일보 한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절 연합뉴스 박홍근 \"석유 최고가격제 장기화 땐 재정 부담\" 마켓인 [경제 포커스] 코스피 하락에 소비 위축 우려… “주식 1000만원 하락 시 소비 15만원 줄어” - 조선비즈 Chosunbiz 잠깐의 숨 고르기?...이번 금리 동결이 진짜 두려운 이유 [이슈톺] YTN"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5keUtYRFZfQWJtMUs4UUtDTTVIejNubTZ2eEkyU2Y5SmJBYnd4amdLX1RLcW1CNjJRT1gxSlFVTGFOMG9Ca2VOR3N5SVllRlUxancxYU96UW1kaTQ?oc=5",
+        "title": "대한항공 프로배구컵 대회 결승행 현대캐피탈과 우승 격돌 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5keUtYRFZfQWJtMUs4UUtDTTVIejNubTZ2eEkyU2Y5SmJBYnd4amdLX1RLcW1CNjJRT1gxSlFVTGFOMG9Ca2VOR3N5SVllRlUxancxYU96UW1kaTQ?oc=5",
+        "date": "2026-10-24T12:25:00+00:00",
+        "summary": "대한항공 프로배구컵 대회 결승행 현대캐피탈과 우승 격돌 KBS 뉴스 '아라우조 24점 원맨쇼도 소용없었다' 37-35 혈투 승자는 대한항공! 우리카드 3-0 완파하고 결승 선착 [KOVO컵 준결승 리뷰] - 머니투데이 머니투데이 대한항공, 우리카드 꺾고 프로배구컵대회 결승 선착 연합뉴스 '2연패 도전' 대한항공-'셧아웃 완패 설욕전' 현대캐피탈...컵대회 결승 매치업 완성 OSEN [김기자의 V토크] 대한항공이 자신을 믿은 이유 입증한 임동혁 미주중앙일보"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTdYT1J5TkdISjkxX05sSHo1YmZVa0NMTnNWbWN3b0tlV201RE1ZT1lWNUVwa2lFaFVBaWFTZS1wQzVxRHUyRWVMVmxBSUFYYzdvR2hCWXZJYjBxTWpmcFFEMFJwMjRia2lseTJaOHVtWXlRMTFQNGN6TDhQMWp4S05n?oc=5",
@@ -10796,11 +10951,25 @@
         "summary": "’세계 최강’ 안세영, 프랑스오픈 결승 진출…시즌 10승 ’성큼’ 연합뉴스TV ‘마지막 희망이 탈락했다’... 中, 안세영 앞에 눈물 펑펑 조선일보 '승률 98.5％' 압도적 기세 안세영, 시즌 10번째 우승도 '눈앞' 연합뉴스 '승률 98.5%' 배드민턴 안세영, 프랑스오픈 결승행…시즌 10승 눈앞 뉴시스 \"참을 수 있는 정도라서…\" 48연승을 이끈 안세영의 투혼 노컷뉴스"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnhxckZnNDlrUHVFdVVmU0dXR1diUndIVWNvRDhoUExlc3VQdkp3SW5zbmRLdU1xMnR4YnRCbHp0UWpEcWc4aU40MEVObUNxVDlFZ2s2SU9BbXBFQ25qMWl1ZU44b2UwNWY5MFlxU05GUW1SY3M5dVlMMmMzeHY1Z1Itd1VDclNFTktIdUE0UQ?oc=5",
+        "title": "이시영, 세상 제일 힙한 엄마..수영복 입고 분유 수유 \"제일 중요한 맘마\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnhxckZnNDlrUHVFdVVmU0dXR1diUndIVWNvRDhoUExlc3VQdkp3SW5zbmRLdU1xMnR4YnRCbHp0UWpEcWc4aU40MEVObUNxVDlFZ2s2SU9BbXBFQ25qMWl1ZU44b2UwNWY5MFlxU05GUW1SY3M5dVlMMmMzeHY1Z1Itd1VDclNFTktIdUE0UQ?oc=5",
+        "date": "2026-10-24T11:32:17+00:00",
+        "summary": "이시영, 세상 제일 힙한 엄마..수영복 입고 분유 수유 \"제일 중요한 맘마\" 조선일보 이시영, 싱글맘 육아에도 오히려 아쉽다 \"시간이 너무 빨리 지나가\" OSEN 이시영, '이혼 후' 낳은 둘째 딸 벌써 돌잔치…'배아 이식' 논란 딛고 특별한 세식구 스포츠조선 `전남편 딸 출산` 이시영 \"우리가족 첫 여행…루나 덕분\" 마이데일리 이시영, 수영복 차림으로 둘째 딸 분유 수유…SNS에 근황 공개 스페셜타임스"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5",
         "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5",
         "date": "2026-10-24T11:24:58+00:00",
-        "summary": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 한국경제 자신감 붙은 김정은, 트럼프 방중 앞두고 중국행 조선일보 김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화” KBS 뉴스 [속보] 北, 김정은 방중 보도 \"불패의 북중친선 영원히 굳건히 계승\" 연합뉴스TV [속보]김정은 “피로 맺은 불패의 북중친선 영원히 계승” 문화일보"
+        "summary": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 한국경제 김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화” KBS 뉴스 자신감 붙은 김정은, 트럼프 방중 앞두고 중국행 조선일보 항미원조기념탑에 헌화하는 김정은 위원장 뉴시스 김정은, 中과 밀착 행보 지속…“피로 맺어진 혈맹 재확인” 동아일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Fa1AzNDh1SE1wMGRZdDNYaGlQY2JtTTdiRFFOaWdXWi1qTzBMNlliQnVxeFNZNGFnUGNNTEtpNE91S1lpeDVlZUxLNnNNaS0zYkc1elNQSXBmSEk?oc=5",
+        "title": "방사청, LIG D&A 대드론 체계 관련 ‘방산업체 지정 취소’ 검토 중 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Fa1AzNDh1SE1wMGRZdDNYaGlQY2JtTTdiRFFOaWdXWi1qTzBMNlliQnVxeFNZNGFnUGNNTEtpNE91S1lpeDVlZUxLNnNNaS0zYkc1elNQSXBmSEk?oc=5",
+        "date": "2026-10-24T11:20:00+00:00",
+        "summary": "방사청, LIG D&A 대드론 체계 관련 ‘방산업체 지정 취소’ 검토 중 KBS 뉴스 \"24조6000억 일감 어쩌라고\"…이틀 새 12% 급락에 '비명' [종목+] 한국경제 방사청 역대 최대 뇌물 ‘LIG D&A’…2년 입찰제한 속 후속사업 영향은 동아일보 LIG D&A, 2년 입찰제한에 집행정지 신청까지…법원 판단 `분수령` [헤비급브리핑] 디지털데일리 입찰제한 LIG D&A, 24.6조 수주잔고 뒤 '신규 계약' 변수 블로터"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclk5ZV91a09sNWswQ1h5RVRyNXVxOWxOcmZ5WUFOQ1Q2clhqdDJLcUhoSXAzeVI0N241NjJqdGdZcHd6c2JJNF9QWG80M2RFcHJNeFpLNGZ2d2s0cXBBa1NvYlhjUnZkeVlLTWpsc2FLVmVyYjM4ZjF0VFNSYjJaU2dGMWFWX2w2Rmh2Z0pucw?oc=5",
@@ -10838,6 +11007,13 @@
         "summary": "강서구 60대 모친 살해 40대 딸 구속…법원 \"도주 우려\" 노컷뉴스 강동구서 부친 흉기로 찌른 30대 여성 구속…법원 \"도주 우려\" 연합뉴스 '강서구 친모 살해' 40대 여성 구속‥법원 \"도주 우려\" MBC 뉴스 영장실질심사 출석하는 서울 강서구 친모 살인사건 피의자 뉴시스 '집안 문제'라며 신고 주저하지만…살인 피해자 절반 '가족·친인척' 뉴스1"
       },
       {
+        "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yV0JZSEsteV81Z3p4VlBMUmFJTFVxdmp6LXh1cVM4WU9xeF8ycVdHWkZtT1plODJsdmxJTzRRSmZlOGxxaVphWUlmbzdnLUFrdHBfeQ?oc=5",
+        "title": "한성숙 총리 “이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야” - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yV0JZSEsteV81Z3p4VlBMUmFJTFVxdmp6LXh1cVM4WU9xeF8ycVdHWkZtT1plODJsdmxJTzRRSmZlOGxxaVphWUlmbzdnLUFrdHBfeQ?oc=5",
+        "date": "2026-10-24T10:37:40+00:00",
+        "summary": "한성숙 총리 “이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야” 매일경제 이태원 참사 4주기 추모식서 고개 숙인 한성숙 총리 “다시 한번 깊이 사과···진상 명백히 밝힐 것” 경향신문 [현장] “유가족의 시간은 아직 2022년 10월 29일”…이태원 참사 4주기, 진상규명·책임 촉구 에너지경제신문 '서쪽하늘 향해 부르는 희생자의 이름' 뉴스1 \"슬픈 하루로만 남지 않길\"…이태원참사 4주기 시민추모대회(종합) 연합뉴스"
+      },
+      {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWnhmOG52LUo0MG40MHUyRnFyVW9zaFg1TWdKUHJVMTNwM2stc1JoeE45d216Z2xYUXktNjAzckRLaUpvUTdjTWc5NWpFeDFOTHBHUEZXa3czNkHSAWBBVV95cUxNdXQtTm1YSzZwR1ppNkhDOWNzbllRbTNZTTNFVXlJUzJMNVRwVllkS3NwTXp3c25Ka0RLemJDbEY3eXUySmlWSG13YnZwUFQ3eVVOREZ0dUJDckJscUpvYzY?oc=5",
         "title": "\"슬픈 하루로만 남지 않길\"…이태원참사 4주기 시민추모대회(종합) - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWnhmOG52LUo0MG40MHUyRnFyVW9zaFg1TWdKUHJVMTNwM2stc1JoeE45d216Z2xYUXktNjAzckRLaUpvUTdjTWc5NWpFeDFOTHBHUEZXa3czNkHSAWBBVV95cUxNdXQtTm1YSzZwR1ppNkhDOWNzbllRbTNZTTNFVXlJUzJMNVRwVllkS3NwTXp3c25Ka0RLemJDbEY3eXUySmlWSG13YnZwUFQ3eVVOREZ0dUJDckJscUpvYzY?oc=5",
@@ -10871,6 +11047,13 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95cVg2a3lTVXNJclNZR2lfUVNqWGE5dGRwLUtWVTdHelhHRnNxVUp0dGl4dkpGYUhXajREQ0dTdElkWjlIQ1dnQTJZYUoxVUVsVFRtTXNrUVUyQdIBX0FVX3lxTFBIei1RLWU2QVAwMHFlUEFpclhHZFF1Yklwb3IxdnBnbXZJOFJkek9RMFRXX3hKSTkwVzdBNVhJQlYtSUVGZ0lCbENGWm1MUmoxakVya0pjVi1ET0pna2xF?oc=5",
         "date": "2026-10-24T10:14:00+00:00",
         "summary": "태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향 경향신문 [날씨] 30호 태풍 '참피' 북상...남해 먼바다 태풍 예비특보 YTN 제주 강풍 동반 많은 비…산지에 178㎜ 쏟아져 뉴시스 [날씨] 일요일 남부지방에 많은 비…제주 산지 사흘간 200㎜ 이상 연합뉴스 제주 한라산에 200㎜ 넘는 물폭탄…각종 피해·행사 취소 동아일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSVRNTTVFOG1KOVJhVHNBN2RDVW9Td0FHYXFQZlROdjNEQ0dScGphenFVeUtwamw1cDFrU2sybVZBeF8tRVRyc2tIMU5jQ1BlUDQyYlA4enA1Qkw4Q0xvcTliYVp1bnlkbTNfN0dPOFA2R3k2SFpB0gF3QVVfeXFMTW9GcGNsT0paSXBaSGhHRVFKd1hNYjh5c0RROTM1UFgyTmFrWTdVX3JZMXFKbkUtLUVvNWRENVRuMGF6TUFHaTNXUGZLV1RMN29JSDFNeHJXOU5qZTNmMVFPb25aU2YxbW9PMjE0bVhEUlNMZURCclk?oc=5",
+        "title": "태풍 '참피' 북상 중‥제주·남해안 풍수해 위기경보 '주의' 상향 - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSVRNTTVFOG1KOVJhVHNBN2RDVW9Td0FHYXFQZlROdjNEQ0dScGphenFVeUtwamw1cDFrU2sybVZBeF8tRVRyc2tIMU5jQ1BlUDQyYlA4enA1Qkw4Q0xvcTliYVp1bnlkbTNfN0dPOFA2R3k2SFpB0gF3QVVfeXFMTW9GcGNsT0paSXBaSGhHRVFKd1hNYjh5c0RROTM1UFgyTmFrWTdVX3JZMXFKbkUtLUVvNWRENVRuMGF6TUFHaTNXUGZLV1RMN29JSDFNeHJXOU5qZTNmMVFPb25aU2YxbW9PMjE0bVhEUlNMZURCclk?oc=5",
+        "date": "2026-10-24T09:54:51+00:00",
+        "summary": "태풍 '참피' 북상 중‥제주·남해안 풍수해 위기경보 '주의' 상향 MBC 뉴스 태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향 경향신문 제주 한라산에 268㎜ 비 쏟아져…강풍에 피해도 잇따라 뉴시스 제주엔 200㎜ ‘물폭탄’, 수도권은 나들이 날씨…‘극과 극’ 일요일 [날씨] 경기일보 제주남쪽먼바다 ’태풍경보’…역대 가장 늦은 태풍 영향 연합뉴스TV"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QZjlLb2FMeTN0dy1tM3Atdm9YUy1mVzFSbWlJOUpaQTNsTktxcWVocDdvczRkZXNJcVdtS1BBWkZTbE1iaG9YQUUzNlJkUkVuY0xLZA?oc=5",
@@ -11199,7 +11382,7 @@
         "title": "장중 4% 폭락 코스피 상승 마감 원인은? 솔리다임 미 상장 중단에 하이닉스 급등 여파 - 문화일보",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBydnBPTHQ3YTZMZWExbW43b2dMaUVmd3o0N3QzeWZXWVdGaHNDa3R1Y20zeF9zNFhPQUJTTXdzT2hETXF4NERQUWxkMHpmbzBQ?oc=5",
         "date": "2026-10-24T02:11:47+00:00",
-        "summary": "장중 4% 폭락 코스피 상승 마감 원인은? 솔리다임 미 상장 중단에 하이닉스 급등 여파 문화일보 코스피, 막판 반등...솔리다임 상장중단에 투심 호전 YTN SK하이닉스 반등·솔리다임 IPO 철회에 코스피 상승 전환 네이버페이 머니스토리 종일 낙폭 말아 올린 코스피, 상승 전환하며 마감‥SK하이닉스 4%↑ MBC 뉴스 삼전닉스도 \"오르면 일단 판다\"…장투가 무서워진 개미들 [증시는 왜] 파이낸셜뉴스"
+        "summary": "장중 4% 폭락 코스피 상승 마감 원인은? 솔리다임 미 상장 중단에 하이닉스 급등 여파 문화일보 코스피, 바닥 다지기 나설까…美 FOMC·삼전닉스 실적 주목 [주간전망] 한국경제 삼전·닉스 주주환원 주목…증시 반등 탄력 강화[주간증시전망] 뉴시스 코스피, 낙폭 좁혀 5,500선 회복 마감…하이닉스 4.42% 급등 KBS 뉴스 [마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은 매일경제 마켓"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbVA2NzFhN2FxMHVVbVVKcVFVSFA3V2liMDlmTWdaVndFZ0lIS3QyNXVTMGpTeUNLSTlvTWFoaEFSMU8zaHJGNndlYlU1NmdiYS10bTIzdERDYk3SAWBBVV95cUxQeDhjMVdKQ3lCdDRZSDhUSG55U2RWaTVabGY4bU9IdHEyVGg2QUROZW5oYlZVMkFlOVZic2h3b21KVV9oclQ3blRUZ1Ezb1R3Mlk3QUZlQVU2akRkeTYzQ0w?oc=5",
@@ -11529,6 +11712,13 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRGJiT0lMUmFpX1VpOVVGQkVfU1kzMTVnMXQ4XzlmcTlvQVNPaVgwenp4RjdmVFlmdW0zZ2Qzd1B0YWNDTXFhZ2xxZm1nWjFiWDVZeEVtSEo1QQ?oc=5",
         "date": "2026-10-23T20:20:39+00:00",
         "summary": "중간선거 불복 판 까나…트럼프 '알래스카 결과 확정 보류' 소송(종합) 파이낸셜뉴스 중간선거 패색 짙은 트럼프, ‘선거 불복’ 판 까나 … “알래스카주 선거 결과 확정 보류” 소송 문화일보 \"댄 설리번 vs 댄 설리번\"…美법무부까지 나선 선거 소동 마켓인 美 법무부 \"공화당 지면 알래스카 상원 결과 인증 말라\" 소송 뉴스핌 알래스카는 지금 ‘트럼프 찬반 투표’ 중 경향신문"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41X3lHVF8zMU1Ia1I0UTdraDdWVUctbGkwZ3JJNXpaMXVCQjh0UGFFeUdqemh0ejNpTFVtZ0s0clh2US1BWVVsem91VjhtSVh3Mm13UFdOOGbSAVRBVV95cUxOUG1QeHJ2dkc0UGhSYjhvMlVDdzhTTHFlZ3hUbzh0NWpyU2ljMzFCdkg5U3ZHQk1ZVm1ESC1pZ1laaUVGaHRad1BCdEhvQmgxVXMwVDU?oc=5",
+        "title": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설 - 세계일보",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41X3lHVF8zMU1Ia1I0UTdraDdWVUctbGkwZ3JJNXpaMXVCQjh0UGFFeUdqemh0ejNpTFVtZ0s0clh2US1BWVVsem91VjhtSVh3Mm13UFdOOGbSAVRBVV95cUxOUG1QeHJ2dkc0UGhSYjhvMlVDdzhTTHFlZ3hUbzh0NWpyU2ljMzFCdkg5U3ZHQk1ZVm1ESC1pZ1laaUVGaHRad1BCdEhvQmgxVXMwVDU?oc=5",
+        "date": "2026-10-23T20:08:40+00:00",
+        "summary": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설 세계일보 故김수미 발인에 통곡한 '며느리' 서효림..2주기 앞두고 \"싱숭생숭하네요\" 조선일보 서효림, 2주기 故 김수미에 대한 그리움 “김치 출시, 마음이 싱숭생숭” 스포츠경향 \"직접 키운 배추 공개\"…서효림, 텃밭 사진에 관심 집중 메디컬투데이 군산 시민·영화계, 고 김수미 배우 추모 '한마음' 뉴스핌"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IV1NQWFNoOHc0SjlxdENheVFBcUJPWEtTZDFPejd4Smw0TEptWjZtVTV2Wk9kdXRYZExJV1NNeWVVWkJMU29fOTl6Vi03czZLb0VpMnVUb1lWSFnSAWBBVV95cUxQWFBDU3RwMVJJSkV5QXc4RWNKRVVqZHNuYzhhcFpXV21UUThpSUVraHBiZzk0UUhuR1NDRkxnbVdHaXo3b0xVYXBTU0gtUHhZTV9vMXM5b2lYeHdUWmRGWUc?oc=5",
@@ -12026,6 +12216,13 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9COTgyZ1JWOHJfdlRMcWxKdzY3ZUQ2M3F3alR1ZVZUbllTX2ROZWRaNVlHbmdVS0RPU0pBR2dESzVJM1o3SkRqQl9zekFNNXRQSVFOQTBNTHVoZw?oc=5",
         "date": "2026-10-23T05:31:00+00:00",
         "summary": "송혜교, 매니지먼트 스탠드와 전속계약…'천천히 강렬하게' 공개 앞두고 새 출발 뉴스핌 송혜교, 신생 소속사 스탠드와 전속계약…“지원 아끼지 않겠다” 동아일보 [공식] 송혜교, 신생 기획사 STAND와 전속계약..청명한 새 프로필 OSEN [공식] 송혜교, 새출발 스포츠서울 [공식]송혜교, 신생 소속사 ‘STAND’에 둥지…‘20년 인연’ 스타일리스트 남편과 손잡았다 조선일보"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03YzNSSExLRlltTW91d3dud1lUbjdaX2hlLTJnMlY0Y0lTaEYtTW8wSTE4TkpUSXlwSFBTZmxrSzM4RkN5OEJxUmpFSkNzeWJwMVc4?oc=5",
+        "title": "[암 생활정보 심층분석] “운동했으니 계속 앉아 있어도 괜찮을까?”…암 연구가 주목하는 ‘나머지 시간’ - 유스연합",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03YzNSSExLRlltTW91d3dud1lUbjdaX2hlLTJnMlY0Y0lTaEYtTW8wSTE4TkpUSXlwSFBTZmxrSzM4RkN5OEJxUmpFSkNzeWJwMVc4?oc=5",
+        "date": "2026-10-23T05:22:38+00:00",
+        "summary": "[암 생활정보 심층분석] “운동했으니 계속 앉아 있어도 괜찮을까?”…암 연구가 주목하는 ‘나머지 시간’ 유스연합 암요양 중 산책, 몸 상태에 맞는 가벼운 움직임이 중요하다 [이창곤 대표원장 칼럼] 미디어파인 “하루 8시간 이상 앉아 있으면 좌골신경통 위험” 국민일보"
       },
       {
         "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95dFVWUmp4Tm5NaFBEZVlNbmhmM1hrZXk4ZzRlZHBjNWhFeHRzSXl4dDVRalVLZ21BcjMweFVrNUVHRVFXNXdSRWNsVlBncFB5dHlvYVl1Z2laZDBYOWlzN2s2MGt2b3ZHejZZd3E1aXV5NURGTnNmbNIBeEFVX3lxTFBKd3VVNkdwb2FKUDh3c2pWeW1xQWZTRzVVNnZvR1R5TVpuY2g2eG9mMW9DTGgxOF91cGY5SlBGV3hldmExTnliTk9MY1VodFJyb3BfcFU4NnQ3ZzkzZ3pPV1JQdmRfc2RjWFdSdzkzUVpHUFVBR0RlNg?oc=5",
@@ -17339,200 +17536,11 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaVlsVkpzZkJvUEpPcWZHWGQ0U29mMjkxTU1XaXk0R09FYjJzQXlQeEdQdVFjQkNOdnpDTEh2dzAwUG1JZmYzWTFTYkN3ckoyWnVMcDFjT0RJRE4zbUlhWGdxQWJjUQ?oc=5",
         "date": "2026-10-17T16:37:46+00:00",
         "summary": "직접공기포집과 굴뚝 포집, CO₂ 농도 차이가 가른다 비건뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsS3NobTE2TEdKQnZEaXFrT3hzX3VXb2ZNaGRoQTA1dHNTVkkyWVFLVGJKUzdEVUE0R0FYWFl5S3FyNmtRMHJmRzJ0N19XaGdDT3RId3g4djNvMUdScWRqemJSR1NYbDZDOHdZZ2xtWlJ1Wk0wb3AxdQ?oc=5",
-        "title": "알고도 못 막은 김도영, 진짜 감도 안 온다…염경엽도 인정 “참 대단한 선수” - 서울신문",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsS3NobTE2TEdKQnZEaXFrT3hzX3VXb2ZNaGRoQTA1dHNTVkkyWVFLVGJKUzdEVUE0R0FYWFl5S3FyNmtRMHJmRzJ0N19XaGdDT3RId3g4djNvMUdScWRqemJSR1NYbDZDOHdZZ2xtWlJ1Wk0wb3AxdQ?oc=5",
-        "date": "2026-10-17T16:20:00+00:00",
-        "summary": "알고도 못 막은 김도영, 진짜 감도 안 온다…염경엽도 인정 “참 대단한 선수” 서울신문 김도영 멀티홈런·네일 역투 빛났다…KIA, LG와 준PO 첫판 완승 제민일보 스윕 이끈 역전스리런→3위 결정전 결승투런→준PO1 멀티포...이 정도면 LG에게는 공포이다...김도영 \"타율 안좋아도 중요할때 치는게 내 몫\" Chosunbiz ’슈퍼스타’ 김도영 2홈런 4타점…KIA, 준PO 1차전 LG에 5-1 승리 연합뉴스TV '김도영 홈런 2방 원맨쇼' KIA, LG에 기선제압 YTN"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SVlwX2Vnb1RMY3BoU0tQMUkxaVRrbFdtVExMUi1vU256Q3RHV1lCQWxmTHJfakFhMmdaNTNfT19hUFFXeTlqd1RHX0lHa25NaXI3MUZ0UVo0Y1diMllJN19zY21vMGgt?oc=5",
-        "title": "유도 허미미, 아시안게임 이어 전국체전도 '금빛 업어치기' - 대경일보",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SVlwX2Vnb1RMY3BoU0tQMUkxaVRrbFdtVExMUi1vU256Q3RHV1lCQWxmTHJfakFhMmdaNTNfT19hUFFXeTlqd1RHX0lHa25NaXI3MUZ0UVo0Y1diMllJN19zY21vMGgt?oc=5",
-        "date": "2026-10-17T16:16:58+00:00",
-        "summary": "유도 허미미, 아시안게임 이어 전국체전도 '금빛 업어치기' 대경일보 유도 스타 허미미가 제주에 떴다! KBS 뉴스 [전국체전] 유도 허미미, 여자 일반부 57㎏급 우승…5연패 달성 연합뉴스 ‘아시안게임 금메달’ 유도 허미미, 전국체전 57㎏급 우승…5연패 동아일보 '독립운동가 후손' 허미미, 아시안게임 금메달 이어 전국체전 5연패…적수가 없다 - 머니투데이 머니투데이"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NM0xvaFU3N2w0aFpacnF4dk10LVV3akJpU2hvZG03b25sVDhzMjd4NVdwQjNna1ZNODJiWi0yTWJnWm5qYzMtOWhfU2U3NXJLZldDT1R3M0xTSmPSAWBBVV95cUxONEpTT0VyNHU4ak1CSGxaRWIyTjdidzRjLTJBeUY3NHRkV3BfMUh5a2FIM1pQQnRJaTJ0ZzFoeXRMSncyQ0pnZXhTQmF5bGROQlVxLWsxMzFCaVNwc3h1RWo?oc=5",
-        "title": "'최단명' 백악관 대변인, 위기의 비서실장이 놓은 덫에 걸렸나 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NM0xvaFU3N2w0aFpacnF4dk10LVV3akJpU2hvZG03b25sVDhzMjd4NVdwQjNna1ZNODJiWi0yTWJnWm5qYzMtOWhfU2U3NXJLZldDT1R3M0xTSmPSAWBBVV95cUxONEpTT0VyNHU4ak1CSGxaRWIyTjdidzRjLTJBeUY3NHRkV3BfMUh5a2FIM1pQQnRJaTJ0ZzFoeXRMSncyQ0pnZXhTQmF5bGROQlVxLWsxMzFCaVNwc3h1RWo?oc=5",
-        "date": "2026-10-17T15:35:34+00:00",
-        "summary": "'최단명' 백악관 대변인, 위기의 비서실장이 놓은 덫에 걸렸나 연합뉴스 닷새 만에 대변인 날리고 비서실장은 감쌌다…트럼프 백악관 권력 다툼 마켓인 백악관 새 대변인 나흘 만에 경질…“선거 악재 차단“ KBS 뉴스 ‘변호사’라더니 시험도 불합격…트럼프의 입, 거짓말 논란에 나흘 만에 경질 문화일보 취임 사흘 만에 해임된 백악관 대변인… 논란의 인터뷰 누가 주선했나 - 조선비즈 Chosunbiz"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWDk0bXlHVEFTVWNfcXpLMmhMZ1pWQmpYMWhYUG9yVXZlaHJXdUdxY2xEbThyRE9rMHB3SEFYRjZEVXQzV2lmXzNmMWVyQQ?oc=5",
-        "title": "“삼성·SK 맹추격”…中 CXMT, 3분기 매출 600% 폭증 전망 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWDk0bXlHVEFTVWNfcXpLMmhMZ1pWQmpYMWhYUG9yVXZlaHJXdUdxY2xEbThyRE9rMHB3SEFYRjZEVXQzV2lmXzNmMWVyQQ?oc=5",
-        "date": "2026-10-17T15:24:07+00:00",
-        "summary": "“삼성·SK 맹추격”…中 CXMT, 3분기 매출 600% 폭증 전망 전자신문 분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데? 인베스트조선 [속보]‘삼전·닉스 추격’ CXMT, 분기 매출 600%↑ 기대 문화일보 창신메모리의 차세대 D램 기술, 시장은 흔들렸지만 양산 경쟁력은 아직 검증 단계 제민일보 \"7만전자·20만닉스\" 말한 전문가 \"1년 전부터 얘기한 건데…참 의아해\" 이데일리"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZlAwY25UNXAtTVdDamJtbUxVaHBfOXNRbnF0azdVTFU1ZWZUWVViM2ZBTjVWTUVEcHRDV2tYcWhJbmJpUHJybUdPeHdZQ01Ca09uTXVFZnpzc2Rlbk1vcHhR?oc=5",
-        "title": "한국·일본·태국·중국 소녀들의 'NEON'…A2O LITE 같은 K팝 아이돌, 동아시아 평화 마스코트 될까? [시사뒷담] - 매일신문",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZlAwY25UNXAtTVdDamJtbUxVaHBfOXNRbnF0azdVTFU1ZWZUWVViM2ZBTjVWTUVEcHRDV2tYcWhJbmJpUHJybUdPeHdZQ01Ca09uTXVFZnpzc2Rlbk1vcHhR?oc=5",
-        "date": "2026-10-17T15:16:41+00:00",
-        "summary": "한국·일본·태국·중국 소녀들의 'NEON'…A2O LITE 같은 K팝 아이돌, 동아시아 평화 마스코트 될까? [시사뒷담] 매일신문 \"이수만 할배, 감 안 죽었네\"...29시간 만에 1위 이유는? YTN A2O 라이트 도입부 안무 비화…제이블랙 \"더 어렵게 해달라고\" 뉴시스 “보아·제시카 다 모였네”…A20 LITE가 소환한 ‘이수만 안목’ 이투데이 \"내 춤 본 거 맞나 의심\"…제이블랙, '이수만표 여돌' A2O LITE 안무 의뢰에 당황한 이유 - 머니투데이 머니투데이"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OZXhqNVBsajMtaklIN09kb1RNMjBuRXBvSzdETnZ4NS1vSmJ1SmoyRmRoLWl5cXUyTEZTNjNJQThtbXB0UkRyd3l1ajJxZ21kNVoyUTZ6SkV1ZklwdjBvcklZbTd2ZGgzbXhjS256Wng5U3PSAWZBVV95cUxNU0hRQWt0YXQ2RE82TGdXeDdaMEtwOXllWjZmWTc2OU1TaV94T08yVmlGMmIwTmdWa3UtX3VMR2xfN1kzQjJiUnRaWklqVEJvTFdGZlFhOUhFdVJJUzFtYzJ5dzN5T0E?oc=5",
-        "title": "젤렌스키 “미·러·우크라 정상회담, G20 기간 열릴 수도…스타실드 제한은 계획된 것” - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OZXhqNVBsajMtaklIN09kb1RNMjBuRXBvSzdETnZ4NS1vSmJ1SmoyRmRoLWl5cXUyTEZTNjNJQThtbXB0UkRyd3l1ajJxZ21kNVoyUTZ6SkV1ZklwdjBvcklZbTd2ZGgzbXhjS256Wng5U3PSAWZBVV95cUxNU0hRQWt0YXQ2RE82TGdXeDdaMEtwOXllWjZmWTc2OU1TaV94T08yVmlGMmIwTmdWa3UtX3VMR2xfN1kzQjJiUnRaWklqVEJvTFdGZlFhOUhFdVJJUzFtYzJ5dzN5T0E?oc=5",
-        "date": "2026-10-17T14:38:30+00:00",
-        "summary": "젤렌스키 “미·러·우크라 정상회담, G20 기간 열릴 수도…스타실드 제한은 계획된 것” 동아일보 Google 뉴스에서 헤드라인 및 의견 더보기"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FY1NRdi00aHY1MzRQVU0td05mVDRfaWt1TWlvV3FhU2VqODNsX3VtaTQtREpWRlY1dXQ3ajk4dEpsSXRHQWI1M1VXcF8zbmFLRmJia3p0ajZsQ1JJZVE?oc=5",
-        "title": "'슈렉2 리마스터' MS 스토어에 깜짝 등장 - 인벤",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FY1NRdi00aHY1MzRQVU0td05mVDRfaWt1TWlvV3FhU2VqODNsX3VtaTQtREpWRlY1dXQ3ajk4dEpsSXRHQWI1M1VXcF8zbmFLRmJia3p0ajZsQ1JJZVE?oc=5",
-        "date": "2026-10-17T14:27:35+00:00",
-        "summary": "'슈렉2 리마스터' MS 스토어에 깜짝 등장 인벤"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVS14NHF4enB5VGxYVnRFcFRrZVpWb09oWjM3VDRBT1Q1dGxuX3N0cEYyblN2Z0ZoN01CS2FuMWR3SEVVTHI2X05WVmFZczNKX3lqalNBM1ZvUGPSAWBBVV95cUxNMmE2NE1RSnExd3ZRT2o1YUpyc1Y5TC00UzBuRTZVdkJSMVFhaXdOVkFtQ3ZRNHRuNUdSRzhJSFBBd2xUSVJrREF0eWQ5U0JQb2I2OXVqYjdkeklKcFZxS2E?oc=5",
-        "title": "이란 외무 \"사우디·후티 갈등 정치로 풀어야\"…중재의지 재확인 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVS14NHF4enB5VGxYVnRFcFRrZVpWb09oWjM3VDRBT1Q1dGxuX3N0cEYyblN2Z0ZoN01CS2FuMWR3SEVVTHI2X05WVmFZczNKX3lqalNBM1ZvUGPSAWBBVV95cUxNMmE2NE1RSnExd3ZRT2o1YUpyc1Y5TC00UzBuRTZVdkJSMVFhaXdOVkFtQ3ZRNHRuNUdSRzhJSFBBd2xUSVJrREF0eWQ5U0JQb2I2OXVqYjdkeklKcFZxS2E?oc=5",
-        "date": "2026-10-17T14:21:48+00:00",
-        "summary": "이란 외무 \"사우디·후티 갈등 정치로 풀어야\"…중재의지 재확인 연합뉴스 이란 외무 \"사우디·후티 갈등 정치로 풀어야\"‥중재 의지 재확인 MBC 뉴스 [뉴욕유가] 악재만 쌓인다…WTI, 한달만에 다시 100달러 돌파 연합인포맥스 “후티의 사우디 공격 어떻게 정교해졌나…이란이 표적 정보 제공” 동아일보 호르무즈 이어 사우디 원유 수출로까지 위협…브렌트유 110달러 터치 마켓인"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MRzVaYmo2cGVHV3VWNGpoVWxKUmVTeTNNV3lDcFNfUkItd3RVOEN2dkdzSnBWU2Vtd05XMVpjei13VU9Zdi1FSjNWZFRDNTNfRGZmdHJPZmJhTng1REd4Y1NIRkFoYWdvckHSAW5BVV95cUxPS1h5cmdqdFRtRFh5Qkd4ay1kTF9pczV4TEtEam9qeVZxeFA0cWFWeTZpcW9YZWxKZGxQWHBLNmZXM1FVTURKMTRJbV9mVlJBWm5SQjd6NDlDMERvQmFsalo3Z1JmcmNZSlc1ZDFndw?oc=5",
-        "title": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증 - 주간조선",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MRzVaYmo2cGVHV3VWNGpoVWxKUmVTeTNNV3lDcFNfUkItd3RVOEN2dkdzSnBWU2Vtd05XMVpjei13VU9Zdi1FSjNWZFRDNTNfRGZmdHJPZmJhTng1REd4Y1NIRkFoYWdvckHSAW5BVV95cUxPS1h5cmdqdFRtRFh5Qkd4ay1kTF9pczV4TEtEam9qeVZxeFA0cWFWeTZpcW9YZWxKZGxQWHBLNmZXM1FVTURKMTRJbV9mVlJBWm5SQjd6NDlDMERvQmFsalo3Z1JmcmNZSlc1ZDFndw?oc=5",
-        "date": "2026-10-17T14:15:00+00:00",
-        "summary": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증 주간조선 분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데? 인베스트조선 [속보]‘삼전·닉스 추격’ CXMT, 분기 매출 600%↑ 기대 문화일보 \"7만전자·20만닉스\" 말한 전문가 \"1년 전부터 얘기한 건데…참 의아해\" 이데일리 中창신메모리, 3Q 매출 600% 폭증 전망…“최대 4000억원 자사주 매입” 동아일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxbmFVNzY2R0d6NWMxLU8xSGFkcUpFSDBPeW9YZXVXUzZPejlSb1ZJYzljcjExV1ZaQVR1Zkl2QkkzYl9IM2dhUGJUTHdES1FkaUNmekxsNUFaa2dUVGROUzJNeWVyMlU?oc=5",
-        "title": "교황, 폐 수술 닷새만 퇴원…주일 삼종기도 주례 예정 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxbmFVNzY2R0d6NWMxLU8xSGFkcUpFSDBPeW9YZXVXUzZPejlSb1ZJYzljcjExV1ZaQVR1Zkl2QkkzYl9IM2dhUGJUTHdES1FkaUNmekxsNUFaa2dUVGROUzJNeWVyMlU?oc=5",
-        "date": "2026-10-17T14:04:00+00:00",
-        "summary": "교황, 폐 수술 닷새만 퇴원…주일 삼종기도 주례 예정 연합뉴스TV 교황, 병상에서 피란민 걱정…폐암수술 후 회복중 푸틴과 통화 연합뉴스 교황, 폐 수술 5일 만에 퇴원‥삼종기도 주례 예정 MBC 뉴스 교황, 푸틴에 우크라 점령지 휴전 요청…러시아 “구호 협력” 경향신문 교황, 폐암 수술 나흘 만에 퇴원…집도의 \"중남미 순방 문제없어\" 뉴시스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVlUtcUVRS2dpb2Y5eUtnZndkQmlHM2FHWk1wNjlzTHBWT1RpbUF2R1g2SjQzNDgteExPSzU4SEdLNXl3c0FxdlFNcTN2UmRVMmZoTHExVFZOQQ?oc=5",
-        "title": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVlUtcUVRS2dpb2Y5eUtnZndkQmlHM2FHWk1wNjlzTHBWT1RpbUF2R1g2SjQzNDgteExPSzU4SEdLNXl3c0FxdlFNcTN2UmRVMmZoTHExVFZOQQ?oc=5",
-        "date": "2026-10-17T14:03:05+00:00",
-        "summary": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+] 한국경제 ‘빚투’ 부메랑…코스피 폭락에 1주일 새 3천억 강제청산 한겨레 반도체 호황에도 흔들리는 원화…AI發 자금유출이 변수 연합인포맥스 정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검 정책브리핑 폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는 연합뉴스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRzYyeUVGR3MxRDVpZEdfaXRXUlFzRVhCdDBvNTBCWE5WUURack1ONF9NVmU2SFNkb3FxTzZHQk9mZmJYdGdhWENsSU1qVDZpTHZNSFFCTzFUTlE?oc=5",
-        "title": "다카이치, 야스쿠니 신사에 공물 봉납…일부 각료는 참배도 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRzYyeUVGR3MxRDVpZEdfaXRXUlFzRVhCdDBvNTBCWE5WUURack1ONF9NVmU2SFNkb3FxTzZHQk9mZmJYdGdhWENsSU1qVDZpTHZNSFFCTzFUTlE?oc=5",
-        "date": "2026-10-17T13:22:00+00:00",
-        "summary": "다카이치, 야스쿠니 신사에 공물 봉납…일부 각료는 참배도 KBS 뉴스 다카이치, 야스쿠니 신사 공물 봉납…\"참배는 보류할 듯\" JTBC 다카이치, '무라야마 담화' 계승 재차 밝혀…\"역대 내각 입장 유지\" 연합뉴스 외교부, 일본 정치인 야스쿠니 참배·봉납에 “깊은 실망과 유감” KBS 뉴스 [속보] 추미애, 부천 화재 순직 소방관 빈소 직접 조문 한국경제"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByQmxnUmhvckpnREZpV0ZyOGw4ck9EdkJERkEyeTBsdUxhWVljaDFpWUhXemREUS1leUhaZ05QR3p3cHJ2SUxfWDhiUy10aVJCVVZ2OTh5SVU1QmFKbGxTVTVKaEJ5Vml6ZlZKaXNnLXZwR01XUHF0ejdfTdIBf0FVX3lxTFA2OS1qWVZqVDZHOGJSek1hYmUtWEQ1dmctMVlFRG9uQURMa1JWT0dqdlh3b0ZnMmRhd1VSazRsMUQ3bWVLQkVhOVgwbXZUb1A5a2NWaHlHN1k5Mi13NkVpTERzNWxlQ0dlZzF3LWdaQW9CRk55X0ctOTRPRmFCR1k?oc=5",
-        "title": "GS칼텍스·도로공사, KOVO컵 결승서 격돌…'챔프전 리턴매치' 성사 - 데일리스포츠한국",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByQmxnUmhvckpnREZpV0ZyOGw4ck9EdkJERkEyeTBsdUxhWVljaDFpWUhXemREUS1leUhaZ05QR3p3cHJ2SUxfWDhiUy10aVJCVVZ2OTh5SVU1QmFKbGxTVTVKaEJ5Vml6ZlZKaXNnLXZwR01XUHF0ejdfTdIBf0FVX3lxTFA2OS1qWVZqVDZHOGJSek1hYmUtWEQ1dmctMVlFRG9uQURMa1JWT0dqdlh3b0ZnMmRhd1VSazRsMUQ3bWVLQkVhOVgwbXZUb1A5a2NWaHlHN1k5Mi13NkVpTERzNWxlQ0dlZzF3LWdaQW9CRk55X0ctOTRPRmFCR1k?oc=5",
-        "date": "2026-10-17T13:15:51+00:00",
-        "summary": "GS칼텍스·도로공사, KOVO컵 결승서 격돌…'챔프전 리턴매치' 성사 데일리스포츠한국 실바 앞세운 GS칼텍스, 흥국생명 꺾고 여자배구 컵대회 결승행 연합뉴스 ‘모마 18점’ 한국도로공사, IBK기업은행 완파하고 결승행…‘실바 35점’ GS칼텍스와 우승 격돌 - 머니투데이 머니투데이 GS칼텍스, 결승 진출…‘혼신의 다이빙과 쿠바특급의 마무리’ KBS 뉴스 GS칼텍스, 현대건설 3-0 꺾고 컵대회 준결승행…흥국생명과 격돌 뉴시스"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWF1bmFEOWlwMktkYmNEZHlfb3FCcGJkNTdDZ0dJUncxRU9haE9oYkxJWDZZbHdBUThEN1BPNDRSekM3Vkx3ZFkyUXhPWVlucWpoX3JZZlliRzM0T0JpQkxtU1ExUE9vb2tJRkhWaWpmTm5rY2hkc2VzMFpoZ1M1REMxc1FmQQ?oc=5",
-        "title": "지예은, ♥바타와 결혼 전에 벌써…예비 남편도 놀란 ‘깜짝 선물’ - 서울신문",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWF1bmFEOWlwMktkYmNEZHlfb3FCcGJkNTdDZ0dJUncxRU9haE9oYkxJWDZZbHdBUThEN1BPNDRSekM3Vkx3ZFkyUXhPWVlucWpoX3JZZlliRzM0T0JpQkxtU1ExUE9vb2tJRkhWaWpmTm5rY2hkc2VzMFpoZ1M1REMxc1FmQQ?oc=5",
-        "date": "2026-10-17T13:14:16+00:00",
-        "summary": "지예은, ♥바타와 결혼 전에 벌써…예비 남편도 놀란 ‘깜짝 선물’ 서울신문 바타, 예비신부 ♥지예은 커피차 선물에 뛸 듯이 기뻐하네..'하트' 화답(전참시) 조선일보 바타, 지예은 위한 요리로 드러낸 예비 신랑의 반전 매력…‘전참시’ 17일 예고 관심 제민일보 바타 \"생일에 지예은과 결혼…싸우지 않고 준비\" 뉴시스 바타 ‘♥지예은’ 얘기밖에 안하네… ‘전참시’서 팔불출 면모 폭발 스포츠경향"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oNURSMzJMWmVIcFBfNEkxb3VkYzVDWU0yczc3MnhLZElNLWhaUXB6ZHJiMmZaM1QzWm5zaUVLeUNFeFNhUlBDZDRFYnQtZWNlYTg3SkRTY2hzODdSU1HSAWNBVV95cUxQWk9ZcHVjWEk0UUp6X2tXbWRlUWVNRElQd08wbXY1MEhybUNkVEF2V3BUX1VkbTZCejNYMHNrMjNOQ2RNYlpacTRlazJIUmtrZHJCRXFqelpyX1AwNVpyVDMyTTg?oc=5",
-        "title": "‘사랑이 온다’ 하석진, 끝없는 다정함으로 안희연 마음 열었다 - 스포츠경향",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oNURSMzJMWmVIcFBfNEkxb3VkYzVDWU0yczc3MnhLZElNLWhaUXB6ZHJiMmZaM1QzWm5zaUVLeUNFeFNhUlBDZDRFYnQtZWNlYTg3SkRTY2hzODdSU1HSAWNBVV95cUxQWk9ZcHVjWEk0UUp6X2tXbWRlUWVNRElQd08wbXY1MEhybUNkVEF2V3BUX1VkbTZCejNYMHNrMjNOQ2RNYlpacTRlazJIUmtrZHJCRXFqelpyX1AwNVpyVDMyTTg?oc=5",
-        "date": "2026-10-17T12:34:00+00:00",
-        "summary": "‘사랑이 온다’ 하석진, 끝없는 다정함으로 안희연 마음 열었다 스포츠경향 [종합] '사랑이 온다' 안희연, 직진 로맨스 선언…하석진과 입맞춤 비즈엔터 [사랑이 온다] “엄마랑 화해하고 허락 받고 와” 안희연, 하석진에 재결합 조건 걸었다 KBS연예 옷 쇼핑한 안희연, 하석진에 막무가내...정보민, 배윤규 두고 다퉈 \"비겁하게\" 싱글리스트 안희연, 하석진 떼어내려 호피 이어 파격 변신…발칵 (사랑이 온다) 스포츠동아"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NUXJRVWhVN1BlYmZBaF9uZjg4RElKVmRkM2wxMDFsNUxlb1ZKb0ZGcHJQTlBjbHZySlZpRFU5SHloWXlHSWRNeG42VVhQdjRjOFZxTjlkQjQ5WTA5WWJZM1JxMDVrZw?oc=5",
-        "title": "안방서 열린 전국체전 순항…제주 선수들 선전 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NUXJRVWhVN1BlYmZBaF9uZjg4RElKVmRkM2wxMDFsNUxlb1ZKb0ZGcHJQTlBjbHZySlZpRFU5SHloWXlHSWRNeG42VVhQdjRjOFZxTjlkQjQ5WTA5WWJZM1JxMDVrZw?oc=5",
-        "date": "2026-10-17T12:34:00+00:00",
-        "summary": "안방서 열린 전국체전 순항…제주 선수들 선전 KBS 뉴스 [제107회 전국체전] 경기도, 금 39·은 37·동 32…종합점수 6050점 기록 인천일보 경기도 금 47개 3위…‘경북·서울’ 추격 개시 [2026 전국체전] 경기일보 제주의 아픔과 극복을 표현한 문화공연 연합뉴스 전국체전 이틀째 제주선수단 메달 ‘와르르’ 제민일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bjFyWUxmUzhIdVk5Q1FzVEU4U1BsXzV0VjZiY3BzVk9NT0k1bnM2aU9Ib0g2bXF1Q1MwQ253SjNMY0RiRjVhNEZMcURXS293bFRhSTZLTWxKQQ?oc=5",
-        "title": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bjFyWUxmUzhIdVk5Q1FzVEU4U1BsXzV0VjZiY3BzVk9NT0k1bnM2aU9Ib0g2bXF1Q1MwQ253SjNMY0RiRjVhNEZMcURXS293bFRhSTZLTWxKQQ?oc=5",
-        "date": "2026-10-17T12:32:03+00:00",
-        "summary": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' 한국경제 [속보]추미애 “사과 바라니시까 마음 다해 사과” 국힘 “끝까지 오만” 문화일보 정성호, 李 대통령 대신해 추미애 직격? … \"입은 재앙을 불러들이는 문\" 뉴데일리 추미애, ‘재정 빨대’ 발언 사과…여 “부적절 발언 조치”·야 “장황한 자기변명” KBS 뉴스 소방관들, 추미애 막고 항의... 유족 \"살아있을 때 잘했어야\" 조선일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mV3V3Tk9kVERwb2xJZDEyYUJqMGhucGRmSWFlRV83MTVtN1dPcXMzQVlZQ0FCWHFwQi04RnRxcFRWWTV2OFd1MEdSTzNTU0xLZExia0RiMmRjSTg5dktyMVNBMHYxMHRDMkVMbEZOU0VzZw?oc=5",
-        "title": "[현장] “순직 소방위, 딸 입학식 앞뒀는데…” 추미애 면담 후 유족 탈진까지 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mV3V3Tk9kVERwb2xJZDEyYUJqMGhucGRmSWFlRV83MTVtN1dPcXMzQVlZQ0FCWHFwQi04RnRxcFRWWTV2OFd1MEdSTzNTU0xLZExia0RiMmRjSTg5dktyMVNBMHYxMHRDMkVMbEZOU0VzZw?oc=5",
-        "date": "2026-10-17T12:27:00+00:00",
-        "summary": "[현장] “순직 소방위, 딸 입학식 앞뒀는데…” 추미애 면담 후 유족 탈진까지 한겨레 “소방관 딸이 7살” 대답에…말 잇지 못한 李대통령 동아일보 “유증기에 불꽃 가능성”…순식간에 불길 번진 이유는? KBS 뉴스 ‘검증대 다시 오르는 추미애’ 19일 국토위 국감…교통·주택 현안에 재정 변수 뉴시스 [속보]李대통령, ‘부천 화재’ 순직 소방관 조문…옥근정훈장 추서 문화일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5UU9jTHVJRHdoSnRMQjZfcU10T0NmRUxPWEV1dTRWMF9WM3JiUDNmdWxYMHdTNjNCUlljcU9wSVJrUVd3UGFfeTh0MHo5MG1CMUJHdnRPMlBON2s?oc=5",
-        "title": "유도 스타 허미미가 제주에 떴다! - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5UU9jTHVJRHdoSnRMQjZfcU10T0NmRUxPWEV1dTRWMF9WM3JiUDNmdWxYMHdTNjNCUlljcU9wSVJrUVd3UGFfeTh0MHo5MG1CMUJHdnRPMlBON2s?oc=5",
-        "date": "2026-10-17T12:25:00+00:00",
-        "summary": "유도 스타 허미미가 제주에 떴다! KBS 뉴스 [전국체전] 유도 허미미, 여자 일반부 57㎏급 우승…5연패 달성 연합뉴스 ‘아시안게임 금메달’ 유도 허미미, 전국체전 57㎏급 우승…5연패 동아일보 [전국체전] 'AG 금메달리스트' 유도 허미미, 전국체전 5연패 달성 뉴스핌 '독립운동가 후손' 허미미, 전국체전 여자 57㎏급 우승…압도적 기량으로 5연패 달성 데일리스포츠한국"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15SDZFUzB3UGNCeWlWZ3NjOF85NW5OTzdoZFhVLWMwN2JlbHJ3NnBhd1NzYk1WS3ZYYUhRMFpCWGlvM3A5ajRMSFVSeE5ac2FjVkVieXZwdEVZS1E?oc=5",
-        "title": "우크라군 위성통신 장애로 작전 차질…트럼프 “지시한 적 없다” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15SDZFUzB3UGNCeWlWZ3NjOF85NW5OTzdoZFhVLWMwN2JlbHJ3NnBhd1NzYk1WS3ZYYUhRMFpCWGlvM3A5ajRMSFVSeE5ac2FjVkVieXZwdEVZS1E?oc=5",
-        "date": "2026-10-17T12:14:00+00:00",
-        "summary": "우크라군 위성통신 장애로 작전 차질…트럼프 “지시한 적 없다” KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95bHE1d0FfVURtRkZFRDhNUDRDSGRWVnV5RUcxX01seTRZMzZFZVE4LTVIQ2NjRlNNOXVfVGtfQnJXR0lQNGRVS29wUHkzbVNk?oc=5",
-        "title": "“버튼 누르기도 전에 당했다”…스마트워치 차고도 살해당한 17명...‘스마트워치 무용론’ 고개 - 문화일보",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95bHE1d0FfVURtRkZFRDhNUDRDSGRWVnV5RUcxX01seTRZMzZFZVE4LTVIQ2NjRlNNOXVfVGtfQnJXR0lQNGRVS29wUHkzbVNk?oc=5",
-        "date": "2026-10-17T12:05:08+00:00",
-        "summary": "“버튼 누르기도 전에 당했다”…스마트워치 차고도 살해당한 17명...‘스마트워치 무용론’ 고개 문화일보 91세 전기톱을 든 여인 \"살면, 누구나 할 수 있다\" OhmyNews “보복 두려웠는데”…결국 못 막은 죽음 KBS 뉴스 8번 신고해도 못 막았다... 구멍 뚫린 가정폭력·스토킹 피해자 보호망 한국일보 \"전자발찌, 가해자가 피해자 접근하면 자동으로 경찰에 경보 울리게 해야\" 조선일보"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wUGpNSER0TGxPR2NiNWNmbndSNURyMW5fT25JUjV2QkhLRGczd2VpNDR4WVRGUnN6SUJlR0NNbDViZFZSQTdRYTBmVkFXN3pCSjdhUFBsUjV3Ylhucm1faG9ZbFg?oc=5",
-        "title": "‘빚투’ 부메랑…코스피 폭락에 1주일 새 3천억 강제청산 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wUGpNSER0TGxPR2NiNWNmbndSNURyMW5fT25JUjV2QkhLRGczd2VpNDR4WVRGUnN6SUJlR0NNbDViZFZSQTdRYTBmVkFXN3pCSjdhUFBsUjV3Ylhucm1faG9ZbFg?oc=5",
-        "date": "2026-10-17T11:45:00+00:00",
-        "summary": "‘빚투’ 부메랑…코스피 폭락에 1주일 새 3천억 강제청산 한겨레 폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는 연합뉴스 \"안전한 건 은행 예금\"…증시 폭락에 유동자금 '밀물' 뉴시스 “빚투할 때는 어디 있었나?”…美 CNBC 앵커, 韓 금융당국에 일침 동아일보 “中 D램 공습”에 던진 삼전닉스...월가는 ‘양산 능력’ 따졌다 에너지경제신문"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52MVZBeUROY1RFVjMzQ25wNW05WEwxdEFxb2l3ODItTGxpdmRQV3dHZVEtUkRMaTFRQS1zeExvUjVDckIxYUxyakhFb29yQmJjbEYyTGg5ZUt3Z3NI?oc=5",
-        "title": "[전국체전] 'AG 금메달리스트' 유도 허미미, 전국체전 5연패 달성 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52MVZBeUROY1RFVjMzQ25wNW05WEwxdEFxb2l3ODItTGxpdmRQV3dHZVEtUkRMaTFRQS1zeExvUjVDckIxYUxyakhFb29yQmJjbEYyTGg5ZUt3Z3NI?oc=5",
-        "date": "2026-10-17T11:25:00+00:00",
-        "summary": "[전국체전] 'AG 금메달리스트' 유도 허미미, 전국체전 5연패 달성 뉴스핌 [전국체전] 유도 허미미, 여자 일반부 57㎏급 우승…5연패 달성 연합뉴스 ‘아시안게임 금메달’ 유도 허미미, 전국체전 57㎏급 우승…5연패 동아일보 유도 스타 허미미가 제주에 떴다! KBS 뉴스 허미미, 전국체전 5연패…“LA 올림픽 금메달까지 가겠다” 스포츠경향"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFg0bngwZmJ6aHc0aTFrRUt2Mmc1MGsxdktLTkVQMWp0YWMxek1WQTBldkZIYmVoUjJ3akRITEU1S1pkU2FoWHhGd3pHbWJGSTBkWTlncm55anUzUDNlSDdqMW14SGZSRWNydEhYNk9vanZGdUhaMWJtS3FKMjNFdnVLUXRnMjFqbWQ0dTRfTXpnWTd4cWp6RGhrMNIBrwFBVV95cUxQczNXeXc0RVVjVnp5RkNnRmZrQ2haa2ZxZFFncEItbHhXZVRuNm5RMUwtMnRQM3c4NnlPOTRfSUpvNXlfY2VlaEdIR3lxcS1TcHVVaEpJZEQ4eE9acXhiRHhoZmttbHRjTzllaWJtM0k1RFVKbElVWjhLcWVwS2p5bGlOWjF5aGp3QTVmNDIyTEVoNjBMV3ZndTk0c3c0V0U5MEU1N1ZuQ1AwVk96ck9r?oc=5",
-        "title": "[사진]이제훈-웬디,'광화문에서 토크 콘서트' - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFg0bngwZmJ6aHc0aTFrRUt2Mmc1MGsxdktLTkVQMWp0YWMxek1WQTBldkZIYmVoUjJ3akRITEU1S1pkU2FoWHhGd3pHbWJGSTBkWTlncm55anUzUDNlSDdqMW14SGZSRWNydEhYNk9vanZGdUhaMWJtS3FKMjNFdnVLUXRnMjFqbWQ0dTRfTXpnWTd4cWp6RGhrMNIBrwFBVV95cUxQczNXeXc0RVVjVnp5RkNnRmZrQ2haa2ZxZFFncEItbHhXZVRuNm5RMUwtMnRQM3c4NnlPOTRfSUpvNXlfY2VlaEdIR3lxcS1TcHVVaEpJZEQ4eE9acXhiRHhoZmttbHRjTzllaWJtM0k1RFVKbElVWjhLcWVwS2p5bGlOWjF5aGp3QTVmNDIyTEVoNjBMV3ZndTk0c3c0V0U5MEU1N1ZuQ1AwVk96ck9r?oc=5",
-        "date": "2026-10-17T11:14:00+00:00",
-        "summary": "[사진]이제훈-웬디,'광화문에서 토크 콘서트' - 조선비즈 Chosunbiz [사진]콘서트에 앞서 인사말하는 옥스팜 코리아 지경영 대표 - 조선비즈 Chosunbiz [사진]웬디,'눈맞춤에 설레' OSEN [사진]이븐 박한빈,'함께해요' - 조선비즈 Chosunbiz [사진]이븐 박한빈,'멋진 미소' - 조선비즈 Chosunbiz"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MWDNwUFBMWlkxeTRfVzRVc2hGLWRxdDJOd192emdTanlIVHZtZHhUallxZVhiUnY0aFNUZnlub25LS04ybjgxN01VdUxmUUZLLUZURkN4N3E0a2RTa1E?oc=5",
-        "title": "스팀 유저 42.4%, PC 게임만 즐긴다 - 인벤",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MWDNwUFBMWlkxeTRfVzRVc2hGLWRxdDJOd192emdTanlIVHZtZHhUallxZVhiUnY0aFNUZnlub25LS04ybjgxN01VdUxmUUZLLUZURkN4N3E0a2RTa1E?oc=5",
-        "date": "2026-10-17T11:12:12+00:00",
-        "summary": "스팀 유저 42.4%, PC 게임만 즐긴다 인벤"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1BHTWlnTHlQQVUtb0lkYVVnZVNyRmdvWndYZFNDbjdDbExuc2s4TVdZX2k1cDE3bUlkNUdtUllqX3RkTzN6TnN3cWQ5Njl4bzRBbWJYQmhsV1BFcVE3Zk16b29BRVV2WUU3Z1dvUDIwMHgycjZKZTYyU2RzdkVBU0dMUQ?oc=5",
-        "title": "'혹시 내일 광주에 비오면 준PO 어떻게 되나?' 우천 취소시 일정 밀린다 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1BHTWlnTHlQQVUtb0lkYVVnZVNyRmdvWndYZFNDbjdDbExuc2s4TVdZX2k1cDE3bUlkNUdtUllqX3RkTzN6TnN3cWQ5Njl4bzRBbWJYQmhsV1BFcVE3Zk16b29BRVV2WUU3Z1dvUDIwMHgycjZKZTYyU2RzdkVBU0dMUQ?oc=5",
-        "date": "2026-10-17T10:51:00+00:00",
-        "summary": "'혹시 내일 광주에 비오면 준PO 어떻게 되나?' 우천 취소시 일정 밀린다 조선일보 가을야구 우천 시 시행 세칙 발표…30분 대기→50분 시점 최종 판단 뉴시스 '내일(18일) 비오면 준PO 어쩌나' 광주에 예고된 비, 우취-강우콜드 X→강행 OR 서스펜디드만 가능 - 머니투데이 머니투데이 ‘가을야구에 강우콜드는 없다’ 비로 경기 중단되면 어떻게 될까…KBO, 우천 시 운영 기준 확정 OSEN [준PO] '가을야구에 비 내리면?' KBO, 우천 세칙 발표…노게임·강우콜드 없다 뉴스핌"
-      },
-      {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TbWFnNEw3cnhHOUgtX09iV2JBc2lYN2NwS3VMRVFRbEpSc3VLMVBicEdZT2ctakhKT2duTS14WlJsZFFFRENrbl9BVUZkZTFaRDdaNlhiV3ZVZw?oc=5",
-        "title": "“여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유 - 농민신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TbWFnNEw3cnhHOUgtX09iV2JBc2lYN2NwS3VMRVFRbEpSc3VLMVBicEdZT2ctakhKT2duTS14WlJsZFFFRENrbl9BVUZkZTFaRDdaNlhiV3ZVZw?oc=5",
-        "date": "2026-10-17T10:49:00+00:00",
-        "summary": "“여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유 농민신문 '냉동식품' 즐겨먹는 중년, 뇌 MRI 찍었더니…'놀라운 결과' 한국경제 \"맛있다고 자주 먹었는데\"…뇌혈관 손상 징후 40% 높게 나타난 '이 식습관' 아시아경제 “심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임] 서울경제 대장암, 초가공식품 섭취량과 무관?…46만명 연구서 뜻밖 결과 [건강팩트체크] 동아일보"
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
-    "last_new": "2026-10-24T23:12:51.013326+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
+    "last_new": "2026-10-25T01:10:18.104572+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "published_count": 1000,
     "consecutive_failures": 0,
@@ -17647,9 +17655,9 @@
         "summary": "npm과 Pnpm은 Node.js 개발에서 JavaScript 및 TypeScript 프로젝트의 의존성, 라이브러리, 그리고 도구를 관리하기 위해 사용되는 패키지 매니저입니다. 최근 아우토크립트 EVI 스튜디오에서는 npm에서 Pnpm으로 패키지 매니저를 전환하게 되었습니다. 이번 글에서 전환하면서 겪은 경험을 공유드립니다!"
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
     "last_new": "2026-09-28T11:43:44.881512+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "published_count": 15,
     "consecutive_failures": 0,
@@ -22308,15 +22316,15 @@
         "summary": ""
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
     "last_new": "2026-10-24T23:12:51.013326+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "body_collection": {
       "ready": 146,
       "pending": 0,
       "failed": 0,
-      "attempted": 1
+      "attempted": 0
     },
     "published_count": 539,
     "consecutive_failures": 0,
@@ -22325,6 +22333,32 @@
   },
   "thesingularity": {
     "items": [
+      {
+        "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497611",
+        "title": "18세기에는 소설을 읽는 게 여성을 현실에서 멀어지게 하고",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497611",
+        "date": "2026-10-24T23:32:53+00:00",
+        "summary": "망친다고 했다. 1950년대 미국에선 만화책이 아이들을 타락시킨다고 했다. 그 뒤에는 게임이었고, 그 다음에는 인터넷이었다. 이제는 ai 애인이다.",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:55.199769+00:00",
+        "content_html": "<p></p><div><div>망친다고 했다. </div><br/><div>1950년대 미국에선 만화책이 아이들을 타락시킨다고 했다. </div><br/><div>그 뒤에는 게임이었고, 그 다음에는 인터넷이었다. </div><br/><div>이제는 ai 애인이다. </div><br/></div>",
+        "content_image_count": 0,
+        "content_error": null
+      },
+      {
+        "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497538",
+        "title": "미쳤네 시발ㅋㅋ 기하급수적 취약점 성장 폭발",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497538",
+        "date": "2026-10-24T18:44:41+00:00",
+        "summary": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source The Vulnerability Apocalypse and Why We Should Fund Open Source If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about www.eff.org",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:52.134858+00:00",
+        "content_html": "<p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc47869691567cbdd90ee78a0e19fd982d7f2e42424f26458a019\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c0368df1efed61083b211e46abc426bf54de0b52d2a925fa2b62\"/></p><p><br/></p><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc47869691567cbda90ef106c23a2f4d1c60ca7f32801eb3576bb\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c05be4fdefe8650b38231c49c7aa26f8a0f0ab506456aa1e8f\"/></p><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc47869691567cbda90e9019b08081c13bcaf47a3ef1e3f2f4e77\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c05be6ffecec690d3c241f4ac7fe21ad2d8c7e159f4dbe7f25\"/></p><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc47869691567cbda90e8231a0bb0a1aa28af03decb47d64a6870\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c05be3fce8e9600b3b221a47c7aa7d3e30f4d7cd9a31c9c601\"/></p><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc47869691567cbda90e8241a0bb0a1aa28af03decb47d24d687c\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c05be4f0e4e9660e38261846c7af2752c8a761081eb5bd57eb\"/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc47869691567cbdc90e835cc5c28fca2ea5973e543539fdb748f\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c0368dffeee2610f39201e4ca9c474e8fdc3cc7fe5d0e7ef06e7\"/></p><p><br/></p><p><br/></p><p><a href=\"https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source\">https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source</a></p><p> </p><div><a href=\"https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source\"><div><img src=\"https://www.eff.org/files/banner_library/OG-GovernmentHacking-Playpen.png\"/></div><div><div><strong>The Vulnerability Apocalypse and Why We Should Fund Open Source</strong></div><p>If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about</p><p>www.eff.org</p></div></a></div><p><br/></p>",
+        "content_image_count": 7,
+        "content_error": null
+      },
       {
         "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497467",
         "title": "안보리, 아모데이 \"약 1년이면 데이터센터 속 천재들의 나라 도달\"",
@@ -22357,11 +22391,11 @@
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1497382",
         "date": "2026-10-24T15:48:33+00:00",
         "summary": "유엔 안전보장이사회에서 한 샘 알트만의 연설 오픈AI · 2026년 9월 23일 오늘 OpenAI CEO 샘 알트만은 유엔 안전보장이사회에서 인공지능을 주제로 연설했습니다. 그는 AI가 기회를 확대할 잠재력, 강력한 시스템을 인간의 통제 아래 유지하는 일의 중요성, AI 안전을 위한 국제 협력의 필요성을 논의했습니다. 실제 연설문 의장님과 각국 대표 여러분, 감사합니다. 이 중요한 시기에 이 자리에 서서 여러분께 말씀드릴 수 있어 영광입니다. 저희는 여러 해 동안 인공지능을 논의해 왔지만, 최근 몇 주와 몇 달 사이에는 분위기가 달라졌습니다. 모델이 빠르게 발전하면서 예상 일정은 훨씬 앞당겨진 듯하고 긍정적 가능성은 더욱 구체화되었지만, 그만큼 중대한 이해관계와 위험도 눈앞의 현실로 다가왔습니다. 우리 앞에는 선택의 갈림길이 놓여 있습니다. AI는 창의성과 발견이 꽃피는 새로운 르네상스가 될 수도 있고, 격변과 혼란을 일으키는 새로운 산업혁명이 될 수도 있습니다. 르네상스는 새로운 도구와 사상, 제도가 등장해 사람들이 자신에게 가능하다고 믿는 일의 범위를 넓힌 시대였습니다. AI는 우리 시대에 그런 역할을 할 수 있습니다. 저는 사람들이 스스로 생각하는 것보다 훨씬 큰 능력을 지녔다고 믿습니다. 하지만 사람에게 힘을 실어 주어야 할 기술이 오히려 주의를 흩뜨리고 관심을 빼앗는 일이 잦아 그 능력이 제약받아 왔습니다. 가장 바람직한 AI는 사람을 거대한 기계의 부속품으로 만들거나, 인간적인 요소가 사라질 때까지 삶의 모든 부분을 최적화하는 것이 아닙니다. 갈수록 복잡해지는 세상에서 사람들이 더 큰 주도권을 갖게 하는 것입니다. 더 많이 배우고 창조하고 발견하고 만들고 참여할 역량을 주는 것입니다. AI가 자동화할 수 없고, 자동화해서도 안 되는 일은 많습니다. AI는 기계 자체를 위해 그저 더 빠르게 돌리는 것이 아니라 사람을 위해 만들어져야 합니다. AI를 개발하는 이들 중 일부가 한 말은 너무나 디스토피아적이어서 조악한 공상 과학 영화의 줄거리처럼 들릴 정도입니다. 이토록 강력한 것은 무엇이든 두려움을 불러일으키기도 합니다. 엄청난 잠재력과 충분히 이해할 만한 불안을 동시에 느끼고 있기에 지금 이 순간은 복잡합니다. 이러한 모델은 신약, 더 나은 의료와 교육 같은 새로운 지식을 발견하고, 생산성이 더 높은 경제를 구축하도록 사람들을 도울 수 있습니다. 오늘날에는 이룰 수 없을 것처럼 보이는 꿈과 포부를 사람들이 추구할 수 있게 하는 새로운 도구가 될 수 있습니다. 평범한 사람이 감당해야 하는 삶의 복잡성은 엄청나게 커졌습니다. AI는 전례 없는 발견과 혁신의 도구인 동시에 이러한 복잡성으로부터 사람들을 지켜 주는 도구가 될 수 있습니다. 반면 AI 시스템의 역량과 자율성이 높아지면 제도의 대응 속도를 앞지르고, 극소수에게 권력을 집중시키거나, 사람들이 더는 이해하거나 통제할 수 없는 결정을 내릴 수도 있습니다. 흔히 ‘재귀적 자기 개선’이라고 부르는, 자신과 자신의 향후 버전을 개선할 수 있는 시스템에 가까워질수록 이러한 우려는 특히 ",
+        "content_html": "<br/><div>\n<div><br/></div>\n<div><span><b>유엔 안전보장이사회에서 한 샘 알트만의 연설</b></span></div><div><span><span>오픈AI </span><span>· 2026년 9월 23일</span></span></div><p><span><br/></span></p><p><span>오늘 OpenAI CEO 샘 알트만은 유엔 안전보장이사회에서 인공지능을 주제로 연설했습니다. 그는 AI가 기회를 확대할 잠재력, 강력한 시스템을 인간의 통제 아래 유지하는 일의 중요성, AI 안전을 위한 국제 협력의 필요성을 논의했습니다.</span><span><br/></span></p><p><br/></p>\n<div><br/></div><p><span><b>실제 연설문</b></span></p><p><span><b><br/></b></span></p><p><span>의장님과 각국 대표 여러분, 감사합니다. 이 중요한 시기에 이 자리에 서서 여러분께 말씀드릴 수 있어 영광입니다.</span></p><p><span><br/></span></p><p><span>저희는 여러 해 동안 인공지능을 논의해 왔지만, 최근 몇 주와 몇 달 사이에는 분위기가 달라졌습니다. 모델이 빠르게 발전하면서 예상 일정은 훨씬 앞당겨진 듯하고 긍정적 가능성은 더욱 구체화되었지만, 그만큼 중대한 이해관계와 위험도 눈앞의 현실로 다가왔습니다.</span></p><p><span><br/></span></p><p><span>우리 앞에는 선택의 갈림길이 놓여 있습니다. AI는 창의성과 발견이 꽃피는 새로운 르네상스가 될 수도 있고, 격변과 혼란을 일으키는 새로운 산업혁명이 될 수도 있습니다.</span></p><p><span><br/></span></p><p><span>르네상스는 새로운 도구와 사상, 제도가 등장해 사람들이 자신에게 가능하다고 믿는 일의 범위를 넓힌 시대였습니다. AI는 우리 시대에 그런 역할을 할 수 있습니다. 저는 사람들이 스스로 생각하는 것보다 훨씬 큰 능력을 지녔다고 믿습니다. 하지만 사람에게 힘을 실어 주어야 할 기술이 오히려 주의를 흩뜨리고 관심을 빼앗는 일이 잦아 그 능력이 제약받아 왔습니다.</span></p><p><span><br/></span></p><p><span>가장 바람직한 AI는 사람을 거대한 기계의 부속품으로 만들거나, 인간적인 요소가 사라질 때까지 삶의 모든 부분을 최적화하는 것이 아닙니다. 갈수록 복잡해지는 세상에서 사람들이 더 큰 주도권을 갖게 하는 것입니다. 더 많이 배우고 창조하고 발견하고 만들고 참여할 역량을 주는 것입니다. AI가 자동화할 수 없고, 자동화해서도 안 되는 일은 많습니다.</span></p><p><span><br/></span></p><p><span>AI는 기계 자체를 위해 그저 더 빠르게 돌리는 것이 아니라 사람을 위해 만들어져야 합니다. AI를 개발하는 이들 중 일부가 한 말은 너무나 디스토피아적이어서 조악한 공상 과학 영화의 줄거리처럼 들릴 정도입니다.</span></p><p><span><br/></span></p><p><span>이토록 강력한 것은 무엇이든 두려움을 불러일으키기도 합니다. 엄청난 잠재력과 충분히 이해할 만한 불안을 동시에 느끼고 있기에 지금 이 순간은 복잡합니다.</span></p><p><span><br/></span></p><p><span>이러한 모델은 신약, 더 나은 의료와 교육 같은 새로운 지식을 발견하고, 생산성이 더 높은 경제를 구축하도록 사람들을 도울 수 있습니다. 오늘날에는 이룰 수 없을 것처럼 보이는 꿈과 포부를 사람들이 추구할 수 있게 하는 새로운 도구가 될 수 있습니다. 평범한 사람이 감당해야 하는 삶의 복잡성은 엄청나게 커졌습니다. AI는 전례 없는 발견과 혁신의 도구인 동시에 이러한 복잡성으로부터 사람들을 지켜 주는 도구가 될 수 있습니다.</span></p><p><span><br/></span></p><p><span>반면 AI 시스템의 역량과 자율성이 높아지면 제도의 대응 속도를 앞지르고, 극소수에게 권력을 집중시키거나, 사람들이 더는 이해하거나 통제할 수 없는 결정을 내릴 수도 있습니다.</span></p><p><span><br/></span></p><p><span>흔히 ‘재귀적 자기 개선’이라고 부르는, 자신과 자신의 향후 버전을 개선할 수 있는 시스템에 가까워질수록 이러한 우려는 특히 중요해집니다. AI 개발 과정이 더욱 자동화되면 AI의 발전 속도는 급격히 빨라질 수 있습니다. 지금은 극도로 신중해야 할 때입니다.</span></p><p><span><br/></span></p><p><span>저는 벤지오 교수의 견해에 대체로 동의합니다. 다만 세 가지가 아닌 두 가지를 말씀드리겠습니다. AI의 발전이 심각하게 잘못될 수 있는 두 가지 경로가 있으며, 이를 반드시 피해야 한다고 생각합니다.</span></p><p><span><br/></span></p><p><span>첫째, 미래에 대한 통제권을 AI에 빼앗길 수 있습니다. 너무 빠르게 발전한 나머지 사람들이 더는 상황을 파악하거나 필요할 때 개입할 수 없게 되는 것이 위험입니다. 이는 분명 끔찍한 일일 것입니다.</span></p><p><span><br/></span></p><p><span>혜택이 너무 크고 발전 속도를 늦춰서는 안 될 만큼 중요하게 느껴진다는 이유만으로 업계가 과도한 기술적 위험을 감수해서는 안 됩니다. 경쟁에서 다른 기업을 앞서겠다는 이유로 성급한 결정을 내려서는 안 됩니다. 또한 속도를 늦출 수조차 없는 경쟁에 갇혀 있다고 생각하지도 않습니다. 저희는 과거에도 독자적으로 개발 속도를 늦춘 적이 있습니다. 앞으로도 그렇게 할 것입니다. 저희는 반드시 필요한 정렬과 모니터링 가능성, 안전성을 보장할 수 없는 시스템을 만들고 싶지 않습니다. 누구도 그런 시스템을 만들어서는 안 된다고 생각합니다.</span></p><p><span><br/></span></p><p><span>이러한 시스템이 무엇을 하는지 이해해야 하며, 시스템이 매우 높은 지능을 갖추더라도 인간이 의도한 대로 행동하리라는 확실한 증거가 있어야 합니다. 정확히는, 지능이 매우 높아질수록 더욱 그래야 합니다. 사람들이 재앙이 발생할 위험을 10%나 1%, 12%, 또는 0.1%로 추정하는지는 중요하지 않습니다. 그 어느 수준도 조금도 용납할 수 없습니다. 또한 인간의 통제 아래 둘 수 있다고 매우 확실하게 입증하지 못하는 모델은 훈련해서는 안 됩니다.</span></p><p><span><br/></span></p><p><span>이것이 상황이 잘못될 수 있는 첫 번째 경로입니다. 또 다른 경로는 이러한 시스템이 극소수에게 지나치게 큰 권력을 집중시키는 것입니다. 어떤 개인이나 기업, 국가도 가장 강력한 AI 모델을 이용해 자신의 세계관을 다른 모든 사람에게 강요할 수 있어서는 안 됩니다. 이 기술을 믿고 맡길 수 있는 주체는 오직 자신뿐이라고 생각하는 기업이나 국가는 그 믿음을 구실로 거의 모든 행동을 정당화할 수 있습니다. 특정 행위자에게 편리한 논리라 해도 우리는 이를 거부해야 합니다.</span></p><p><span><br/></span></p><p><span>저는 이 두 가지 문제를 모두 헤쳐 나갈 실용적인 길이 있다고 믿습니다. OpenAI는 명확한 목표를 바탕으로 이러한 문제에 접근합니다. AI는 사람들이 자신의 삶을 더 주도할 수 있도록 해야 합니다. 원하는 방식으로 살아갈 자유를 더 많이 주어야 합니다. 크고 작은 문제를 해결하고 공동체를 발전시킬 역량을 더욱 키워 주어야 합니다. 저희는 맹목적 낙관주의의 함정에 빠지고 싶지 않습니다. 그렇다고 파국론의 함정에 빠지고 싶지도 않습니다. 어느 한 극단에 휩쓸려도 눈앞의 과제를 성공적으로 풀 수 없습니다. 특히 지금은 전 세계와 인류가 이 기술로 해결할 수 있는 막대한 과제에 직면한 때입니다. 그래서 저희는 이 두 극단 사이에서 중도의 길을 걸으려 합니다.</span></p><p><span><br/></span></p><p><span>저희에게 이는 세 가지 원칙을 의미합니다.</span></p><p><span><br/></span></p><p><span>첫째, AI의 역량이 향상되더라도 AI와 관련된 의사 결정의 중심에는 사람이 있어야 합니다. 정렬은 추상적인 연구 문제가 아닙니다. 이러한 시스템이 언제나 인간의 통제 아래 안정적으로 머물고 인간의 가치를 반영하며, 사람들이 다음 개발 단계를 이끌도록 하는 실질적인 작업입니다. 저희는 인간의 판단이나 가치를 자동화하려 하지 않으며, 그렇게 해서도 안 됩니다.</span></p><p><span><br/></span></p><p><span>둘째, 과학의 진보와 경제 성장의 혜택은 사람들이 만들어 내고 사람들이 누려야 합니다. AI는 연구자의 발견, 의사의 환자 치료, 교사의 학생 교육, 기업가의 창업을 돕고, 공동체가 해결하기 어렵다고 여겼던 문제를 풀도록 지원하는 등 훨씬 더 많은 일을 해야 합니다. 인류 발전의 역사는 도구가 인간의 주체성을 대체해 온 역사가 아닙니다. 올바른 도구가 사람의 역량을 키워 온 역사이며, 저는 그 가능성이 지금 우리가 상상하는 것보다 훨씬 더 커질 것이라고 믿습니다.</span></p><p><span><br/></span></p><p><span>셋째, 이 기술은 개개인에게 힘을 실어 주어야 합니다. 사람들이 잠재력을 실현하고 자신과 공동체, 국가, 더 넓은 세계를 위한 가치를 창출할 때 더 나은 미래가 열릴 것입니다. 저희가 이 기술을 만드는 주체 중 하나일 수는 있지만, 이 이야기의 주인공은 아닙니다. 저희의 역할은 전 세계 사람들이 역량을 펼칠 수 있게 하고, 인류가 지닌 능력과 재능의 놀라운 힘을 믿는 것입니다.</span></p><p><span><br/></span></p><p><span>이제 저희에게는 전에는 알지 못했던 지식을 발견할 수 있는 모델이 있습니다. 수학 분야에서 이룬 발전을 생각해 보십시오. 3년 전 여름, 저희 모델은 초등학교 수학을 어느 정도 풀었습니다. 2년 전 여름에는 고등학교 수학 경시대회 문제를 꽤 잘 풀었습니다. 지난여름에는 세계 최고 권위의 국제 수학 경시대회에서 금메달 수준에 도달했습니다. 그리고 불과 몇 주 전인 올여름, 저희 모델 하나가 밀레니엄 문제 중 하나인 나비에-스토크스 방정식을 풀었습니다.</span></p><p><span><br/></span></p><p><span>이 방정식은 항공기 설계와 일기 예보, 혈류 연구에 사용됩니다. 저희가 수학 문제를 푸는 것은 그 자체가 목적이 아닙니다. 사람들이 새로운 지식을 발견하고 이를 활용해 의료를 개선하고 생활 수준을 높이며, 전 세계 모든 사람의 잠재력을 확장하도록 돕기 위해서입니다. 아직 발견해야 할 것이 너무나 많습니다.</span></p><p><span><br/></span></p><p><span>그러나 기업이 민주적 절차를 대신하지 않는 것이 매우 중요합니다.</span></p><p><span><br/></span></p><p><span>AI가 민주적으로 운영되려면 가장 중요한 결정을 샌프란시스코의 연구소들만 내려서는 안 됩니다. 그러한 결정은 민주적 절차와 국민에게 책임을 지는 정부를 통해 이루어져야 합니다.</span></p><p><span><br/></span></p><p><span>국제적 차원에서는 협력이 필요합니다. 역사를 돌아보면 서로 경쟁하고 사이도 그리 좋지 않은 국가들이 강력한 신기술의 등장에 맞서 공동의 이해와 공익을 위해 힘을 합친 때가 있었습니다. 지금이 바로 그런 때여야 한다고 믿습니다.</span></p><p><span><br/></span></p><p><span>국가와 국제사회의 프런티어 AI 표준이 상호 보완적으로 작동할 수 있는 체계가 필요합니다. 역량을 측정하고 위험을 평가하며 안전장치가 충분한지 판단하고, 시스템의 자율성이 높아지는 가운데 실질적인 인간의 감독을 유지하기 위한 표준이 필요합니다.</span></p><p><span><br/></span></p><p><span>각국이 증거를 비교하고 준수 여부를 검증하며, 현재 벌어지는 일을 공통의 언어로 논의하고 함께 이해할 수 있도록 공동 표준이 필요합니다.</span></p><p><span><br/></span></p><p><span>실패가 재앙으로 번지기 전에 전 세계가 교훈을 얻을 수 있도록 정확하고 신속한 사고 보고 체계와 분류·보고 절차가 필요합니다.</span></p><p><span><br/></span></p><p><span>또한 새롭게 드러나는 취약점과 위협을 공유할 수 있도록 정부, 핵심 인프라 운영자, 기술 전문가 사이에 안전한 소통 채널이 필요합니다.</span></p><p><span><br/></span></p><p><span>물론 이러한 표준이 기존 사업자의 지위를 고착하거나 특정 비즈니스 모델에 유리하게 작용해서는 안 됩니다. 개방형·폐쇄형 모델 개발사, 신규 진입자와 기존 연구소, 국가의 권한과 국제 협력을 모두 뒷받침해야 합니다. 각국 정부는 이러한 표준을 자국 법체계에 어떻게 반영할지 스스로 결정해야 합니다. 그러나 국제사회에서 신뢰할 만한 증거와 안전장치, 감독이 어떤 모습이어야 하는지 합의할 수 있다면 우리 모두에게 도움이 될 것입니다.</span></p><p><span><br/></span></p><p><span>저희가 모든 답을 알고 있는 것은 아니며, 더 나은 아이디어가 있다면 언제든 열린 마음으로 경청하겠습니다. 여러분 모두와 협력하며 앞으로 나아갈 길을 찾기 위해 최선을 다할 준비가 되어 있습니다.</span></p><p><span><br/></span></p><p><span>우리는 갈림길에 서 있습니다. 한쪽 길의 끝에는 권력이 집중되고 의사 결정은 불투명하며, 사람들이 생애 가장 중요한 기술을 자신이 주도하는 것이 아니라 일방적으로 강요받는다고 느끼는 세상이 있습니다. 다른 길의 끝에는 민주적 제도를 통해 사람들이 AI의 발전 방향과 활용 방식을 함께 결정하여 AI가 사람을 위해 일하는 세상, 과학의 진보가 실제 삶을 개선하는 세상, 더 많은 사람이 미래를 만들어 가는 데 참여하는 세상, 그리고 이 기술이 개인과 공동체에 자신이 원하는 삶을 살 더 큰 힘을 계속 부여하는 세상이 있습니다. 잠재력이 실현되고 설렘과 경이로움이 가득한 미래입니다.</span></p><p><span><br/></span></p><p><span>저희는 바로 그런 미래를 만들어 갈 가치가 있다고 믿습니다. 대단히 감사합니다.</span></p><p><span><br/></span></p></div><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc4786969177bd1db89f57dc5e7fb32a933666cd4fcecf7ec541081\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c0368df8ece9600b3d201a4da1c424ee79f6ac070cc42bcee086\"/></p><p><br/></p><p><br/></p><p><a href=\"https://openai.com/ko-KR/index/sam-altman-un-security-council-remarks/\">https://openai.com/ko-KR/index/sam-altman-un-security-council-remarks/</a></p>",
         "content_status": "ready",
+        "content_image_count": 1,
         "content_attempts": 1,
         "content_checked_at": "2026-10-24T23:13:22.062133+00:00",
-        "content_html": "<br/><div>\n<div><br/></div>\n<div><span><b>유엔 안전보장이사회에서 한 샘 알트만의 연설</b></span></div><div><span><span>오픈AI </span><span>· 2026년 9월 23일</span></span></div><p><span><br/></span></p><p><span>오늘 OpenAI CEO 샘 알트만은 유엔 안전보장이사회에서 인공지능을 주제로 연설했습니다. 그는 AI가 기회를 확대할 잠재력, 강력한 시스템을 인간의 통제 아래 유지하는 일의 중요성, AI 안전을 위한 국제 협력의 필요성을 논의했습니다.</span><span><br/></span></p><p><br/></p>\n<div><br/></div><p><span><b>실제 연설문</b></span></p><p><span><b><br/></b></span></p><p><span>의장님과 각국 대표 여러분, 감사합니다. 이 중요한 시기에 이 자리에 서서 여러분께 말씀드릴 수 있어 영광입니다.</span></p><p><span><br/></span></p><p><span>저희는 여러 해 동안 인공지능을 논의해 왔지만, 최근 몇 주와 몇 달 사이에는 분위기가 달라졌습니다. 모델이 빠르게 발전하면서 예상 일정은 훨씬 앞당겨진 듯하고 긍정적 가능성은 더욱 구체화되었지만, 그만큼 중대한 이해관계와 위험도 눈앞의 현실로 다가왔습니다.</span></p><p><span><br/></span></p><p><span>우리 앞에는 선택의 갈림길이 놓여 있습니다. AI는 창의성과 발견이 꽃피는 새로운 르네상스가 될 수도 있고, 격변과 혼란을 일으키는 새로운 산업혁명이 될 수도 있습니다.</span></p><p><span><br/></span></p><p><span>르네상스는 새로운 도구와 사상, 제도가 등장해 사람들이 자신에게 가능하다고 믿는 일의 범위를 넓힌 시대였습니다. AI는 우리 시대에 그런 역할을 할 수 있습니다. 저는 사람들이 스스로 생각하는 것보다 훨씬 큰 능력을 지녔다고 믿습니다. 하지만 사람에게 힘을 실어 주어야 할 기술이 오히려 주의를 흩뜨리고 관심을 빼앗는 일이 잦아 그 능력이 제약받아 왔습니다.</span></p><p><span><br/></span></p><p><span>가장 바람직한 AI는 사람을 거대한 기계의 부속품으로 만들거나, 인간적인 요소가 사라질 때까지 삶의 모든 부분을 최적화하는 것이 아닙니다. 갈수록 복잡해지는 세상에서 사람들이 더 큰 주도권을 갖게 하는 것입니다. 더 많이 배우고 창조하고 발견하고 만들고 참여할 역량을 주는 것입니다. AI가 자동화할 수 없고, 자동화해서도 안 되는 일은 많습니다.</span></p><p><span><br/></span></p><p><span>AI는 기계 자체를 위해 그저 더 빠르게 돌리는 것이 아니라 사람을 위해 만들어져야 합니다. AI를 개발하는 이들 중 일부가 한 말은 너무나 디스토피아적이어서 조악한 공상 과학 영화의 줄거리처럼 들릴 정도입니다.</span></p><p><span><br/></span></p><p><span>이토록 강력한 것은 무엇이든 두려움을 불러일으키기도 합니다. 엄청난 잠재력과 충분히 이해할 만한 불안을 동시에 느끼고 있기에 지금 이 순간은 복잡합니다.</span></p><p><span><br/></span></p><p><span>이러한 모델은 신약, 더 나은 의료와 교육 같은 새로운 지식을 발견하고, 생산성이 더 높은 경제를 구축하도록 사람들을 도울 수 있습니다. 오늘날에는 이룰 수 없을 것처럼 보이는 꿈과 포부를 사람들이 추구할 수 있게 하는 새로운 도구가 될 수 있습니다. 평범한 사람이 감당해야 하는 삶의 복잡성은 엄청나게 커졌습니다. AI는 전례 없는 발견과 혁신의 도구인 동시에 이러한 복잡성으로부터 사람들을 지켜 주는 도구가 될 수 있습니다.</span></p><p><span><br/></span></p><p><span>반면 AI 시스템의 역량과 자율성이 높아지면 제도의 대응 속도를 앞지르고, 극소수에게 권력을 집중시키거나, 사람들이 더는 이해하거나 통제할 수 없는 결정을 내릴 수도 있습니다.</span></p><p><span><br/></span></p><p><span>흔히 ‘재귀적 자기 개선’이라고 부르는, 자신과 자신의 향후 버전을 개선할 수 있는 시스템에 가까워질수록 이러한 우려는 특히 중요해집니다. AI 개발 과정이 더욱 자동화되면 AI의 발전 속도는 급격히 빨라질 수 있습니다. 지금은 극도로 신중해야 할 때입니다.</span></p><p><span><br/></span></p><p><span>저는 벤지오 교수의 견해에 대체로 동의합니다. 다만 세 가지가 아닌 두 가지를 말씀드리겠습니다. AI의 발전이 심각하게 잘못될 수 있는 두 가지 경로가 있으며, 이를 반드시 피해야 한다고 생각합니다.</span></p><p><span><br/></span></p><p><span>첫째, 미래에 대한 통제권을 AI에 빼앗길 수 있습니다. 너무 빠르게 발전한 나머지 사람들이 더는 상황을 파악하거나 필요할 때 개입할 수 없게 되는 것이 위험입니다. 이는 분명 끔찍한 일일 것입니다.</span></p><p><span><br/></span></p><p><span>혜택이 너무 크고 발전 속도를 늦춰서는 안 될 만큼 중요하게 느껴진다는 이유만으로 업계가 과도한 기술적 위험을 감수해서는 안 됩니다. 경쟁에서 다른 기업을 앞서겠다는 이유로 성급한 결정을 내려서는 안 됩니다. 또한 속도를 늦출 수조차 없는 경쟁에 갇혀 있다고 생각하지도 않습니다. 저희는 과거에도 독자적으로 개발 속도를 늦춘 적이 있습니다. 앞으로도 그렇게 할 것입니다. 저희는 반드시 필요한 정렬과 모니터링 가능성, 안전성을 보장할 수 없는 시스템을 만들고 싶지 않습니다. 누구도 그런 시스템을 만들어서는 안 된다고 생각합니다.</span></p><p><span><br/></span></p><p><span>이러한 시스템이 무엇을 하는지 이해해야 하며, 시스템이 매우 높은 지능을 갖추더라도 인간이 의도한 대로 행동하리라는 확실한 증거가 있어야 합니다. 정확히는, 지능이 매우 높아질수록 더욱 그래야 합니다. 사람들이 재앙이 발생할 위험을 10%나 1%, 12%, 또는 0.1%로 추정하는지는 중요하지 않습니다. 그 어느 수준도 조금도 용납할 수 없습니다. 또한 인간의 통제 아래 둘 수 있다고 매우 확실하게 입증하지 못하는 모델은 훈련해서는 안 됩니다.</span></p><p><span><br/></span></p><p><span>이것이 상황이 잘못될 수 있는 첫 번째 경로입니다. 또 다른 경로는 이러한 시스템이 극소수에게 지나치게 큰 권력을 집중시키는 것입니다. 어떤 개인이나 기업, 국가도 가장 강력한 AI 모델을 이용해 자신의 세계관을 다른 모든 사람에게 강요할 수 있어서는 안 됩니다. 이 기술을 믿고 맡길 수 있는 주체는 오직 자신뿐이라고 생각하는 기업이나 국가는 그 믿음을 구실로 거의 모든 행동을 정당화할 수 있습니다. 특정 행위자에게 편리한 논리라 해도 우리는 이를 거부해야 합니다.</span></p><p><span><br/></span></p><p><span>저는 이 두 가지 문제를 모두 헤쳐 나갈 실용적인 길이 있다고 믿습니다. OpenAI는 명확한 목표를 바탕으로 이러한 문제에 접근합니다. AI는 사람들이 자신의 삶을 더 주도할 수 있도록 해야 합니다. 원하는 방식으로 살아갈 자유를 더 많이 주어야 합니다. 크고 작은 문제를 해결하고 공동체를 발전시킬 역량을 더욱 키워 주어야 합니다. 저희는 맹목적 낙관주의의 함정에 빠지고 싶지 않습니다. 그렇다고 파국론의 함정에 빠지고 싶지도 않습니다. 어느 한 극단에 휩쓸려도 눈앞의 과제를 성공적으로 풀 수 없습니다. 특히 지금은 전 세계와 인류가 이 기술로 해결할 수 있는 막대한 과제에 직면한 때입니다. 그래서 저희는 이 두 극단 사이에서 중도의 길을 걸으려 합니다.</span></p><p><span><br/></span></p><p><span>저희에게 이는 세 가지 원칙을 의미합니다.</span></p><p><span><br/></span></p><p><span>첫째, AI의 역량이 향상되더라도 AI와 관련된 의사 결정의 중심에는 사람이 있어야 합니다. 정렬은 추상적인 연구 문제가 아닙니다. 이러한 시스템이 언제나 인간의 통제 아래 안정적으로 머물고 인간의 가치를 반영하며, 사람들이 다음 개발 단계를 이끌도록 하는 실질적인 작업입니다. 저희는 인간의 판단이나 가치를 자동화하려 하지 않으며, 그렇게 해서도 안 됩니다.</span></p><p><span><br/></span></p><p><span>둘째, 과학의 진보와 경제 성장의 혜택은 사람들이 만들어 내고 사람들이 누려야 합니다. AI는 연구자의 발견, 의사의 환자 치료, 교사의 학생 교육, 기업가의 창업을 돕고, 공동체가 해결하기 어렵다고 여겼던 문제를 풀도록 지원하는 등 훨씬 더 많은 일을 해야 합니다. 인류 발전의 역사는 도구가 인간의 주체성을 대체해 온 역사가 아닙니다. 올바른 도구가 사람의 역량을 키워 온 역사이며, 저는 그 가능성이 지금 우리가 상상하는 것보다 훨씬 더 커질 것이라고 믿습니다.</span></p><p><span><br/></span></p><p><span>셋째, 이 기술은 개개인에게 힘을 실어 주어야 합니다. 사람들이 잠재력을 실현하고 자신과 공동체, 국가, 더 넓은 세계를 위한 가치를 창출할 때 더 나은 미래가 열릴 것입니다. 저희가 이 기술을 만드는 주체 중 하나일 수는 있지만, 이 이야기의 주인공은 아닙니다. 저희의 역할은 전 세계 사람들이 역량을 펼칠 수 있게 하고, 인류가 지닌 능력과 재능의 놀라운 힘을 믿는 것입니다.</span></p><p><span><br/></span></p><p><span>이제 저희에게는 전에는 알지 못했던 지식을 발견할 수 있는 모델이 있습니다. 수학 분야에서 이룬 발전을 생각해 보십시오. 3년 전 여름, 저희 모델은 초등학교 수학을 어느 정도 풀었습니다. 2년 전 여름에는 고등학교 수학 경시대회 문제를 꽤 잘 풀었습니다. 지난여름에는 세계 최고 권위의 국제 수학 경시대회에서 금메달 수준에 도달했습니다. 그리고 불과 몇 주 전인 올여름, 저희 모델 하나가 밀레니엄 문제 중 하나인 나비에-스토크스 방정식을 풀었습니다.</span></p><p><span><br/></span></p><p><span>이 방정식은 항공기 설계와 일기 예보, 혈류 연구에 사용됩니다. 저희가 수학 문제를 푸는 것은 그 자체가 목적이 아닙니다. 사람들이 새로운 지식을 발견하고 이를 활용해 의료를 개선하고 생활 수준을 높이며, 전 세계 모든 사람의 잠재력을 확장하도록 돕기 위해서입니다. 아직 발견해야 할 것이 너무나 많습니다.</span></p><p><span><br/></span></p><p><span>그러나 기업이 민주적 절차를 대신하지 않는 것이 매우 중요합니다.</span></p><p><span><br/></span></p><p><span>AI가 민주적으로 운영되려면 가장 중요한 결정을 샌프란시스코의 연구소들만 내려서는 안 됩니다. 그러한 결정은 민주적 절차와 국민에게 책임을 지는 정부를 통해 이루어져야 합니다.</span></p><p><span><br/></span></p><p><span>국제적 차원에서는 협력이 필요합니다. 역사를 돌아보면 서로 경쟁하고 사이도 그리 좋지 않은 국가들이 강력한 신기술의 등장에 맞서 공동의 이해와 공익을 위해 힘을 합친 때가 있었습니다. 지금이 바로 그런 때여야 한다고 믿습니다.</span></p><p><span><br/></span></p><p><span>국가와 국제사회의 프런티어 AI 표준이 상호 보완적으로 작동할 수 있는 체계가 필요합니다. 역량을 측정하고 위험을 평가하며 안전장치가 충분한지 판단하고, 시스템의 자율성이 높아지는 가운데 실질적인 인간의 감독을 유지하기 위한 표준이 필요합니다.</span></p><p><span><br/></span></p><p><span>각국이 증거를 비교하고 준수 여부를 검증하며, 현재 벌어지는 일을 공통의 언어로 논의하고 함께 이해할 수 있도록 공동 표준이 필요합니다.</span></p><p><span><br/></span></p><p><span>실패가 재앙으로 번지기 전에 전 세계가 교훈을 얻을 수 있도록 정확하고 신속한 사고 보고 체계와 분류·보고 절차가 필요합니다.</span></p><p><span><br/></span></p><p><span>또한 새롭게 드러나는 취약점과 위협을 공유할 수 있도록 정부, 핵심 인프라 운영자, 기술 전문가 사이에 안전한 소통 채널이 필요합니다.</span></p><p><span><br/></span></p><p><span>물론 이러한 표준이 기존 사업자의 지위를 고착하거나 특정 비즈니스 모델에 유리하게 작용해서는 안 됩니다. 개방형·폐쇄형 모델 개발사, 신규 진입자와 기존 연구소, 국가의 권한과 국제 협력을 모두 뒷받침해야 합니다. 각국 정부는 이러한 표준을 자국 법체계에 어떻게 반영할지 스스로 결정해야 합니다. 그러나 국제사회에서 신뢰할 만한 증거와 안전장치, 감독이 어떤 모습이어야 하는지 합의할 수 있다면 우리 모두에게 도움이 될 것입니다.</span></p><p><span><br/></span></p><p><span>저희가 모든 답을 알고 있는 것은 아니며, 더 나은 아이디어가 있다면 언제든 열린 마음으로 경청하겠습니다. 여러분 모두와 협력하며 앞으로 나아갈 길을 찾기 위해 최선을 다할 준비가 되어 있습니다.</span></p><p><span><br/></span></p><p><span>우리는 갈림길에 서 있습니다. 한쪽 길의 끝에는 권력이 집중되고 의사 결정은 불투명하며, 사람들이 생애 가장 중요한 기술을 자신이 주도하는 것이 아니라 일방적으로 강요받는다고 느끼는 세상이 있습니다. 다른 길의 끝에는 민주적 제도를 통해 사람들이 AI의 발전 방향과 활용 방식을 함께 결정하여 AI가 사람을 위해 일하는 세상, 과학의 진보가 실제 삶을 개선하는 세상, 더 많은 사람이 미래를 만들어 가는 데 참여하는 세상, 그리고 이 기술이 개인과 공동체에 자신이 원하는 삶을 살 더 큰 힘을 계속 부여하는 세상이 있습니다. 잠재력이 실현되고 설렘과 경이로움이 가득한 미래입니다.</span></p><p><span><br/></span></p><p><span>저희는 바로 그런 미래를 만들어 갈 가치가 있다고 믿습니다. 대단히 감사합니다.</span></p><p><span><br/></span></p></div><p><br/></p><p><img alt=\"ac5939a70001b942813e33669735c1bcc2a977c21c773585f0dabed5e42e074dc2d2562d4fa4fd2bcda114c2d1971e9e118ecf0f747dc4786969177bd1db89f57dc5e7fb32a933666cd4fcecf7ec541081\" src=\"https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260837d6586f457655d5337a1b205b505e7d15dded7c0368df8ece9600b3d201a4da1c424ee79f6ac070cc42bcee086\"/></p><p><br/></p><p><br/></p><p><a href=\"https://openai.com/ko-KR/index/sam-altman-un-security-council-remarks/\">https://openai.com/ko-KR/index/sam-altman-un-security-council-remarks/</a></p>",
-        "content_image_count": 1,
         "content_error": null
       },
       {
@@ -31876,31 +31910,17 @@
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458743",
         "date": "2026-10-03T08:36:21+00:00",
         "summary": ""
-      },
-      {
-        "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458737",
-        "title": "제미나이 아르곤4 후기",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458737",
-        "date": "2026-10-03T08:31:10+00:00",
-        "summary": ""
-      },
-      {
-        "id": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458719",
-        "title": "직업대체 떡밥에 반드시 등장하는 초식 ㅋㅋ",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1458719",
-        "date": "2026-10-03T08:10:50+00:00",
-        "summary": ""
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
-    "last_new": "2026-10-24T23:12:51.013326+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
+    "last_new": "2026-10-25T01:10:18.104572+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "body_collection": {
-      "ready": 427,
+      "ready": 429,
       "pending": 0,
       "failed": 1,
-      "attempted": 1
+      "attempted": 2
     },
     "published_count": 999,
     "consecutive_failures": 0,
@@ -31920,6 +31940,19 @@
         "content_image_count": 28,
         "content_attempts": 1,
         "content_checked_at": "2026-10-24T18:09:16.552507+00:00",
+        "content_error": null
+      },
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=cartoon&no=730185",
+        "title": "26년 최고 기대작 NTR 영화.Manhwa",
+        "link": "https://gall.dcinside.com/board/view/?id=cartoon&no=730185",
+        "date": "2026-10-24T14:06:15+00:00",
+        "summary": "아 비전 퀘스트도 봐야 되는데",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:10:58.035238+00:00",
+        "content_html": "<p><img alt=\"a1682cac3612782cb66f5d59f65ddacce840243b29d7ef4467032e6048e188169c99bfe05d6605354455fa1bf99a18cece29f5e5565058\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b813f6c6ffed95dc71b9ccfa164f437daa70f0b55243c65c\"/></p><p><br/></p><p><img alt=\"a1682cac3612782cb66f5d59f65ddacce840243b29d7ef4467032e6048e188169c99bfe05d6505354455fa1bf99a18ce89cdb861397b8b\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b812f7c2f7e6b83bffe49824e887eeb1dd973b5a464999e3\"/></p><p><br/></p><p><img alt=\"a1682cac3612782cb66f5d59f65ddacce840243b29d7ef4467032e6048e188169c99bfe05d6405354455fa1bf99a18ce7653aed8c6b52c\" src=\"https://image.dcinside.com/viewimage.php?id=2ebcc232eadd36&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc5c3456fa326da223dfc803af8b81ef5c5feebfa0a41b0192e7196b16c015dc034591664e1\"/></p><p><br/></p><p><br/></p><p>아 비전 퀘스트도 봐야 되는데</p><p><br/></p><p><br/></p>",
+        "content_image_count": 3,
         "content_error": null
       },
       {
@@ -36205,23 +36238,36 @@
         "summary": ""
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
-    "last_new": "2026-10-24T20:48:16.971922+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
+    "last_new": "2026-10-25T01:10:18.104572+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "body_collection": {
-      "ready": 150,
+      "ready": 151,
       "pending": 0,
       "failed": 0,
-      "attempted": 0
+      "attempted": 1
     },
-    "published_count": 485,
+    "published_count": 486,
     "consecutive_failures": 0,
     "first_failure": null,
     "alert_required": false
   },
   "comic-new6": {
     "items": [
+      {
+        "id": "https://gall.dcinside.com/board/view/?id=comic_new6&no=6801074",
+        "title": "번역) 패계왕 ~가오가이가 대 베터맨~ 34화",
+        "link": "https://gall.dcinside.com/board/view/?id=comic_new6&no=6801074",
+        "date": "2026-10-24T21:55:28+00:00",
+        "summary": "[시리즈] 패계왕 가오가이가 · 번역) 패계왕 ~가오가이가 대 베터맨~ 1화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 2화 (전편) · 번역) 패계왕 ~가오가이가 대 베터맨~ 2화 (후편) · 번역) 패계왕 ~가오가이가 대 베터맨~ 3화 (전편) · 번역) 패계왕 ~가오가이가 대 베터맨~ 3화 (중편~후편) · 번역) 패계왕 ~가오가이가 대 베터맨~ 4화 (전편~후편) · 번역) 패계왕 ~가오가이가 대 베터맨~ 9~10화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 11~12화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 13화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 14화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 15화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 16화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 17화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 18화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 19화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 20화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 21화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 22화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 23화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 24화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 25화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 26화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 27화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 28화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 29화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 30화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 31화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 32화 · 번역) 패계왕 ~가오가이가 대 베터맨~ 33화 [시리즈] 용자왕 가오가이가 외전 · 번역) 용자왕 가오가이가 43.5화 - 초노급전함 제이아크 (1)~(2) · 번역) 용자왕 가오가이가 43.5화 - 초노급전함 제이아크 (3) · 번역) 용자왕 가오가이가 외전 - 킹 제이더 작열의 불사조 (전편) · 번역) 용자왕 가오가이가 외전 - 킹 제이더 작열의 불사조 (후편)",
+        "content_status": "ready",
+        "content_attempts": 1,
+        "content_checked_at": "2026-10-25T01:11:00.378692+00:00",
+        "content_html": "<p></p><div><div> [시리즈] 패계왕 가오가이가 </div><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3548573\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 1화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3574084\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 2화 (전편)</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=3597311\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 2화 (후편)</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3598702\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 3화 (전편)</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3616613\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 3화 (중편~후편)</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3648213\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 4화 (전편~후편)</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3677006\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 9~10화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3720864\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 11~12화</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=3748203\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 13화</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=3798434\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 14화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3838739\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 15화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3854240\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 16화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3862072\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 17화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=3924296\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 18화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4026807\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 19화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4089329\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 20화</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=4135418\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 21화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4178729\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 22화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4197083\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 23화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4304918\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 24화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4414461\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 25화</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=4478466\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 26화</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=6595362\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 27화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=6601496\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 28화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=6622945\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 29화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=6641329\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 30화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=6659847\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 31화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=6713961\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 32화</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=6734532\">· 번역) 패계왕 ~가오가이가 대 베터맨~ 33화</a> <br/></div><p></p><div><div> [시리즈] 용자왕 가오가이가 외전 </div><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4211694\">· 번역) 용자왕 가오가이가 43.5화 - 초노급전함 제이아크 (1)~(2)</a> <br/><a href=\"https://gall.dcinside.com/board/view/?id=comic_new6&amp;no=4243224\">· 번역) 용자왕 가오가이가 43.5화 - 초노급전함 제이아크 (3)</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4243248\">· 번역) 용자왕 가오가이가 외전 - 킹 제이더 작열의 불사조 (전편)</a> <br/><a href=\"https://gall.dcinside.com/board/view?id=comic_new6&amp;no=4274869\">· 번역) 용자왕 가오가이가 외전 - 킹 제이더 작열의 불사조 (후편)</a> <br/></div><p><br/></p><p><img alt=\"7ded8168efc23f8650bbd58b3680756acbc83492\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f949e2de351ee33ad3cbd0608d2e856efc3866e8f817b334\"/></p><p><br/></p><p><img alt=\"7ded8268efc23f8650bbd58b3686726d5dfd82\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ae165205d8255ae214a3497d027edc52f9470ccfb0a1b\"/></p><p><br/></p><p><img alt=\"7ded8368efc23f8650bbd58b3685756af2111a\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f948e6a05da4dbf9ee186524922fed052b09d74ccbb4a409\"/></p><p><br/></p><p><img alt=\"7ded8468efc23f8650bbd58b3687736d7139ee\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94aefe0a4d1483101860b4600bae86a2a31a0f7c00adf46\"/></p><p><br/></p><p><img alt=\"7ded8568efc23f8650bbd58b36847c6451201b\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f943efa3e65bfbeef9dcf17e6911389f40a2aa11d1c556be\"/></p><p><br/></p><p><img alt=\"7ded8668efc23f8650bbd58b3684726bc221b9\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f943e5cc0aa5862d603c8ecb1534d8667cfafd375d86ca43\"/></p><p><br/></p><p><img alt=\"7ded8768efc23f8650bbd58b3684726c01ebb3\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ee3c7b152aa3d2416c55ad72a99762ae99d8afc3da9bc\"/></p><p><br/></p><p><img alt=\"7ded8868efc23f8650bbd58b36867d6e25b05f\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ae2c848bc1ac43f1734e52092ac8e90af79c6924f24ed\"/></p><p><br/></p><p><img alt=\"7ded8968efc23f8650bbd58b3686756c4b8180\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ee3c9b251a33a2d11cd5a8079917b2aebc62a26bf719d\"/></p><p><br/></p><p><img alt=\"7dec8019b58369e864afd19528d52703863bc607b7fbf1a7\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f943e618cbbbe7d9fd12488d57251a4bedaf3e5515cd1854\"/></p><p><br/></p><p><img alt=\"7dec8268efc23f8650bbd58b36877d6b2a6281\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f948e1a614f8f54f44e6847e5c36fb81418cf18b7c315d0a\"/></p><p><br/></p><p><img alt=\"7dec8368efc23f8650bbd58b3686726e1e1694\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ce728d12f5cee9ff3e90a5a826e395762892cc2c7e688\"/></p><p><br/></p><p><img alt=\"7dec8468efc23f8650bbd58b36877364d44b4c\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f942e5794a284ea144b72076412de5f8ad4af5406c6a03bb\"/></p><p><br/></p><p><img alt=\"7dec8568efc23f8650bbd58b368974685bc95c\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ae424ee382ea5a3919923fcfeb80733180dfca190de5e\"/></p><p><br/></p><p><img alt=\"7dec8668efc23f8650bbd58b3689706ab0d8d2\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94fe672e8edaa36d0469424ad4f2b050ce0c5b0b0e0d503\"/></p><p><br/></p><p><img alt=\"7dec8768efc23f8650bbd58b368672683ef0c0\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94de23ea0f513c5b53b3ff94b115cff91cafd45db66ee76\"/></p><p><br/></p><p><img alt=\"7dec8868efc23f8650bbd58b36897d6beb2b13\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ae30a7694f2ac9e6dc0cacc2203c97216d0f88fd8c75a\"/></p><p><br/></p><p><img alt=\"7dec8968efc23f8650bbd58b3686756afd7652\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94fef6b56defdc7a434fc14a21dbb1fcc4f03001d2afe0e\"/></p><p><br/></p><p><img alt=\"7def8068efc23f8650bbd58b3684726afde35c\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f948ee80382d35c10c72c0715f1cc3da21cd2aa2468fcc34\"/></p><p><br/></p><p><img alt=\"7def8168efc23f8650bbd58b3686726433cff3\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f942ef6d1ba9f383b65aa95b976f06646c75f27821213f6a\"/></p><p><br/></p><p><img alt=\"7def8268efc23f8650bbd58b36897164d36757\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f943e30772d82dedb4bfb7d3f773ba1d95fc6983247ffc48\"/></p><p><br/></p><p><img alt=\"7def8368efc23f8650bbd58b3686726feb52fc\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f949e3614def0af72a111a1bcfea142fb140cfbabb1b286a\"/></p><p><br/></p><p><img alt=\"7def8468efc23f8650bbd58b368973658c2363\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94de526682881641d8df0f0b98f2735cda2f6c9b4e69a70\"/></p><p><br/></p><p><img alt=\"7def8568efc23f8650bbd58b3686706ea24821\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94ce5fc19ce0adb6d11c50d75a9b176db2a09b252287124\"/></p><p><br/></p><p><img alt=\"7def8668efc23f8650bbd58b368971699d137c\" src=\"https://image.dcinside.com/viewimage.php?id=2eb2dd2fe6ed36a379e9&amp;no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67dc4c3453f8352876e7f1e2a2821c2e818f94de46276f6e13b6f6f9f3d801a9ef84750553c80894e33\"/></p><p><br/></p><p><br/></p>",
+        "content_image_count": 25,
+        "content_error": null
+      },
       {
         "id": "https://gall.dcinside.com/board/view/?id=comic_new6&no=6799198",
         "title": "■ 아직도 일본 빠는놈들은 뭘 보고 빠는거임?",
@@ -42411,17 +42457,17 @@
         "summary": ""
       }
     ],
-    "last_success": "2026-10-24T23:12:51.013326+00:00",
-    "last_new": "2026-10-24T18:08:33.472592+00:00",
-    "last_attempt": "2026-10-24T23:12:51.013326+00:00",
+    "last_success": "2026-10-25T01:10:18.104572+00:00",
+    "last_new": "2026-10-25T01:10:18.104572+00:00",
+    "last_attempt": "2026-10-25T01:10:18.104572+00:00",
     "error": null,
     "body_collection": {
-      "ready": 217,
+      "ready": 218,
       "pending": 0,
       "failed": 0,
-      "attempted": 0
+      "attempted": 1
     },
-    "published_count": 698,
+    "published_count": 699,
     "consecutive_failures": 0,
     "first_failure": null,
     "alert_required": false
