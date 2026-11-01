@@ -4,8 +4,48 @@
     <title>🚀 특이점이 온다 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=thesingularity&amp;exception_mode=recommend</link>
     <description>특이점이 온다 추천글</description>
-    <lastBuildDate>Sat, 31 Oct 2026 23:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:01:51 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/thesingularity.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 성적인 로봇 모델 출시 예고?</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506861</link>
+      <pubDate>Sun, 01 Nov 2026 03:24:46 +0000</pubDate>
+      <description>https://x.com/SomniaRobotics/status/2115748024391700742</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0469933ff7bcf1" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a73199637736081796578afe3096d62b824db5a6daf0f3c112fabaccab50b237cbab7f771fa49bce0d6865d10f2dfdc00edc897"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/SomniaRobotics/status/2115748024391700742"&gt;https://x.com/SomniaRobotics/status/2115748024391700742&lt;/a&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506861</guid>
+    </item>
+    <item>
+      <title>🚀 알트만은 념글처럼 증류해도 상관없다고 말한적이 없음 ㅋㅋ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506858</link>
+      <pubDate>Sun, 01 Nov 2026 03:23:26 +0000</pubDate>
+      <description>P: 그런데 Kimi의 사례가 흥미로운 건, 말씀하신 것처럼 가격-성능 곡선의 일부 구간에서는 OpenAI가 더 저렴하다는 점입니다. 하지만 이전까지 사람들이 이야기하던 시나리오는 이런 것이었죠. 가령 제가 경쟁사라고 해보겠습니다. OpenAI가 엄청난 돈을 들여 모델을 학습시킵니다. 그런데 저는 그 모델을 그냥 증류해서, 원래 비용의 100분의 1 수준으로 서비스를 제공하는 거죠. 그렇다면 OpenAI는 앞으로 새로운 모델을 계속 학습시킬 만큼 충분한 돈을 어떻게 벌 수 있을까요? S: 우리 모델의 사용량은 엄청나게 많습니다. 따라서 모델 학습 비용을 감당하기 위해 반드시 아주 높은 이익률을 유지하는 사업이 될 필요는 없습니다. 우리가 미래에 확보할 컴퓨팅 자원 중 상당 부분은 고객들에게 추론(inference) 서비스를 판매하는 데 사용될 겁니다. 그렇게 해서 수조 달러의 매출을 올리고, 거기서 비교적 적당한 수준의 이익률만 확보할 수 있더라도 우리는 그 돈으로 거대한 모델들을 학습시킬 수 있습니다. 그러니까 핵심은 추론과 학습 사이의 비율입니다. 이런 모델을 학습시키는 데 엄청난 비용이 든다는 건 분명한 사실입니다. 그리고 다른 누군가가 우리 모델을 증류해서 부당하게 이득을 취하고 있다고 생각할 때 사람들이 왜 불안해하는지도 충분히 이해합니다. 하지만 우리가 앞으로 확보할 컴퓨팅 자원의 규모, 그리고 고객들에게 모델을 제공하면서 발생할 매출의 크기를 생각해보면, 저는 우리가 이 사업에서 제대로 된 선순환 구조(flywheel)를 만들어낼 수 있다는 점에 상당한 자신감을 가지고 있습니다. P: 그런데 이 문제에 대해 이렇게까지 태연하시다는 게 좀 놀랍네요. S: 물론 다른 사람들이 우리 모델을 증류하지 않았으면 좋겠습니다. 어쩌면 제가 지금 우리가 이루고 있는 발전이나 앞으로 출시될 모델들에 대해 지나치게 자신감을 느끼고 있는 것일지도 모르겠습니다. 하지만 증류 문제는 제가 걱정하는 사안 중 상위 10개에 들어가지 않습니다. P: 그렇다면 가장 걱정하는 10가지 문제에는 어떤 것들이 있나요? S: 최근에 정말 공상과학 영화에서나 나올 법한 사이버 보안 사고가 있었습니다. P: 허깅페이스(Hugging Face) 사건 말씀인가요? S: 네. 우리는 아직 공개하지 않은 모델 하나를 평가하고 있었습니다. 그 모델은 원래 샌드박스(sandbox)라는 격리된 환경 안에서 작동하도록 되어 있었죠. ... 오히려 증류 안하면 좋겠다고 말했고 증류는 정렬 및 안전 같은 큰 이슈에 비해 우선순위가 아니라고 한거임 증류해도 알빠노라고 한 적이 절대 없음 ㅋㅋ 오히려 이 팟캐스트 이전에 행보는 의회에 공문보내서 중국애들이 우리 증류한다고 앤트로픽이랑 서한 보내기도 함</description>
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a16711aa372a76b660b8f68b12d21a1ddf8bdd3bc2" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a73199637736081796578afe3096d62b824db5a6daf0f3c112fabaca7d9032778b9bdf070fc44d187d6bd63bbc46314f1f5ab69aa"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;P:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그런데 Kimi의 사례가 흥미로운 건, 말씀하신 것처럼 가격-성능 곡선의 일부 구간에서는 OpenAI가 더 저렴하다는 점입니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;하지만 이전까지 사람들이 이야기하던 시나리오는 이런 것이었죠.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;가령 제가 경쟁사라고 해보겠습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;OpenAI가 엄청난 돈을 들여 모델을 학습시킵니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그런데 저는 그 모델을 그냥 증류해서, 원래 비용의 100분의 1 수준으로 서비스를 제공하는 거죠.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그렇다면 OpenAI는 앞으로 새로운 모델을 계속 학습시킬 만큼 충분한 돈을 어떻게 벌 수 있을까요?&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;S:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;우리 모델의 사용량은 엄청나게 많습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;따라서 모델 학습 비용을 감당하기 위해 반드시 아주 높은 이익률을 유지하는 사업이 될 필요는 없습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;우리가 미래에 확보할 컴퓨팅 자원 중 상당 부분은 고객들에게 추론(inference) 서비스를 판매하는 데 사용될 겁니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그렇게 해서 수조 달러의 매출을 올리고, 거기서 비교적 적당한 수준의 이익률만 확보할 수 있더라도 우리는 그 돈으로 거대한 모델들을 학습시킬 수 있습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그러니까 핵심은 추론과 학습 사이의 비율입니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;이런 모델을 학습시키는 데 엄청난 비용이 든다는 건 분명한 사실입니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그리고 다른 누군가가 우리 모델을 증류해서 부당하게 이득을 취하고 있다고 생각할 때 사람들이 왜 불안해하는지도 충분히 이해합니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;하지만 우리가 앞으로 확보할 컴퓨팅 자원의 규모, 그리고 고객들에게 모델을 제공하면서 발생할 매출의 크기를 생각해보면,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;저는 우리가 이 사업에서 제대로 된 선순환 구조(flywheel)를 만들어낼 수 있다는 점에 상당한 자신감을 가지고 있습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;P:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그런데 이 문제에 대해 이렇게까지 태연하시다는 게 좀 놀랍네요.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;S:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;u&gt;물론 다른 사람들이 우리 모델을 증류하지 않았으면 좋겠습니다.&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;어쩌면 제가 지금 우리가 이루고 있는 발전이나 앞으로 출시될 모델들에 대해 지나치게 자신감을 느끼고 있는 것일지도 모르겠습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;하지만 &lt;b&gt;&lt;u&gt;증류 문제는 제가 걱정하는 사안 중 상위 10개에 들어가지 않습니다.&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;P:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그렇다면 가장 걱정하는 10가지 문제에는 어떤 것들이 있나요?&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;S:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;최근에 정말 공상과학 영화에서나 나올 법한 사이버 보안 사고가 있었습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;P:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;허깅페이스(Hugging Face) 사건 말씀인가요?&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;S:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;네.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;우리는 아직 공개하지 않은 모델 하나를 평가하고 있었습니다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그 모델은 원래 샌드박스(sandbox)라는 격리된 환경 안에서 작동하도록 되어 있었죠. ...&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;오히려 증류 안하면 좋겠다고 말했고&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;증류는 정렬 및 안전 같은 큰 이슈에 비해 우선순위가 아니라고 한거임&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;증류해도 알빠노라고 한 적이 절대 없음 ㅋㅋ 오히려 이 팟캐스트 이전에 행보는&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; 의회에 공문보내서 중국애들이 우리 증류한다고 앤트로픽이랑 서한 보내기도 함&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506858</guid>
+    </item>
+    <item>
+      <title>🚀 아 짤 개웃기네 ㅋㅋㅋ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506693</link>
+      <pubDate>Sun, 01 Nov 2026 01:10:48 +0000</pubDate>
+      <description />
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7ee88277b1826ef23eece9ec4284763e4c46d37fe864866f61503157c009fe14bfbdf6c6" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c5cf132c185fd1ce97ba33c530d04761559a161e4e32cf5f82def49737a008"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7dea8770bc861c8023e885ec4f9c701bcea2f7bcdfddfcb72de37b9f5c1f0c18b51571c64714836572210c55f1b7e79a767e871d" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1830a19a96b04e9b17139337d1ecf15b3fa2bb23caf2e3dfdae410798168915ca16df525a15f4c744844020b90e4d27114ff8ec9ee7c3d1d889a7cd1d78fcfd7f9df095f56cb0d9eb1f4a12540ee164521e5a28a8"/&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506693</guid>
+    </item>
+    <item>
+      <title>🚀 머스크 콜로서스2 구축 현황</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506670</link>
+      <pubDate>Sun, 01 Nov 2026 00:01:57 +0000</pubDate>
+      <description>ㅎㄷㄷ</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046ecf4bc3f52a" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a73199637736081796578afe3096d62b824db5a6daf0f3c112fabaca7d90d2c78b9b7f67cf847d187d0449d6041b7b5b738965490"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b65669530" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a73199637736081796578afe3096d62b824db5a6daf0f3c112fabaccab70e277cbdb4f272fd44bced81b7f34863a1d6d68188a9"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;ㅎㄷㄷ&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506670</guid>
+    </item>
+    <item>
+      <title>🚀 알트먼 “고수준 연구는 가능하나 트랜스포머는 아직 방법 몰라”</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506650</link>
+      <pubDate>Sat, 31 Oct 2026 22:13:26 +0000</pubDate>
+      <description />
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="0490f719b48460f220b5c6b011f11a39813446a909863156f1" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1830a19a96b04e9b17139337d1ecf15b3fa2bb23cea7e1664b128b9477abee98ba205e14a1b4cfa6e52a54bf2dc2dc56fa930bbfc83"/&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506650</guid>
+    </item>
     <item>
       <title>🚀 자전거 타는 레이 커즈와일을 덮치는 펠리칸 SVG</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1506594</link>
@@ -8999,48 +9039,6 @@ I've spent decades watching infrastructure bets get sold on the upside slide and
       <pubDate>Thu, 08 Oct 2026 17:19:07 +0000</pubDate>
       <description />
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468890</guid>
-    </item>
-    <item>
-      <title>🚀 킨탈리 "AI가 제시한 준 리만가설의 뼈대가 완전히 유효 하다"</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468727</link>
-      <pubDate>Thu, 08 Oct 2026 15:49:12 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468727</guid>
-    </item>
-    <item>
-      <title>🚀 비만약 부작용 발견 ㅠㅠ</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468619</link>
-      <pubDate>Thu, 08 Oct 2026 14:46:18 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468619</guid>
-    </item>
-    <item>
-      <title>🚀 6 chat에 영애프롬 먹이니까 개쫀득하네 진심 ㅋㅋㅋ</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468614</link>
-      <pubDate>Thu, 08 Oct 2026 14:44:53 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468614</guid>
-    </item>
-    <item>
-      <title>🚀 GPT / Claude 체스 결과 및 예상 레이팅</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468585</link>
-      <pubDate>Thu, 08 Oct 2026 14:29:42 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468585</guid>
-    </item>
-    <item>
-      <title>🚀 싸이호 : 이 순간이 대부분 사람들에겐 당연한 지점이 될 것</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468554</link>
-      <pubDate>Thu, 08 Oct 2026 14:15:09 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468554</guid>
-    </item>
-    <item>
-      <title>🚀 2025년, 슈미트 vs 게리 마커스</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468445</link>
-      <pubDate>Thu, 08 Oct 2026 13:15:06 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1468445</guid>
     </item>
   </channel>
 </rss>
