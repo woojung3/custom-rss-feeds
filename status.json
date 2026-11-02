@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-01T22:48:32.994337+00:00",
+  "updated": "2026-11-02T02:30:00.090652+00:00",
   "feeds": [
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
-      "last_new": "2026-11-01T22:48:32.994337+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
+      "last_new": "2026-11-02T02:30:00.090652+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "body_collection": {
-        "ready": 15,
-        "pending": 984,
-        "failed": 1,
+        "ready": 10,
+        "pending": 990,
+        "failed": 0,
         "attempted": 10
       },
-      "published_count": 15,
+      "published_count": 10,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
@@ -23,9 +23,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
-      "last_new": "2026-11-01T22:48:32.994337+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
+      "last_new": "2026-11-02T02:30:00.090652+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "published_count": 1000,
       "consecutive_failures": 0,
@@ -38,9 +38,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "published_count": 15,
       "consecutive_failures": 0,
@@ -53,36 +53,36 @@
       "available": true
     },
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
-      "last_new": "2026-11-01T18:55:47.475986+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
+      "last_new": "2026-11-02T02:30:00.090652+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "body_collection": {
-        "ready": 251,
+        "ready": 257,
         "pending": 0,
         "failed": 2,
-        "attempted": 0
+        "attempted": 6
       },
-      "published_count": 644,
+      "published_count": 650,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
       "emoji": "🛠️",
-      "count": 646,
+      "count": 652,
       "available": true
     },
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
-      "last_new": "2026-11-01T18:55:47.475986+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
+      "last_new": "2026-11-02T02:30:00.090652+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "body_collection": {
-        "ready": 734,
+        "ready": 741,
         "pending": 0,
         "failed": 3,
-        "attempted": 2
+        "attempted": 7
       },
       "published_count": 997,
       "consecutive_failures": 0,
@@ -95,45 +95,45 @@
       "available": true
     },
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
-      "last_new": "2026-11-01T18:55:47.475986+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
+      "last_new": "2026-11-02T02:30:00.090652+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "body_collection": {
-        "ready": 276,
+        "ready": 277,
         "pending": 0,
         "failed": 0,
-        "attempted": 0
+        "attempted": 1
       },
-      "published_count": 611,
+      "published_count": 612,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
       "id": "cartoon",
       "name": "카툰·연재 추천글",
       "emoji": "🎨",
-      "count": 611,
+      "count": 612,
       "available": true
     },
     {
-      "last_success": "2026-11-01T22:48:32.994337+00:00",
-      "last_new": "2026-11-01T22:48:32.994337+00:00",
-      "last_attempt": "2026-11-01T22:48:32.994337+00:00",
+      "last_success": "2026-11-02T02:30:00.090652+00:00",
+      "last_new": "2026-11-02T02:30:00.090652+00:00",
+      "last_attempt": "2026-11-02T02:30:00.090652+00:00",
       "error": null,
       "body_collection": {
-        "ready": 389,
+        "ready": 390,
         "pending": 0,
         "failed": 0,
-        "attempted": 5
+        "attempted": 1
       },
-      "published_count": 870,
+      "published_count": 871,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
       "id": "comic-new6",
       "name": "만화 갤러리 추천글",
       "emoji": "📚",
-      "count": 870,
+      "count": 871,
       "available": true
     }
   ]
