@@ -4,8 +4,88 @@
     <title>🚀 특이점이 온다 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=thesingularity&amp;exception_mode=recommend</link>
     <description>특이점이 온다 추천글</description>
-    <lastBuildDate>Sat, 07 Nov 2026 14:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:47:29 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/thesingularity.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514970</link>
+      <pubDate>Fri, 06 Nov 2026 11:13:17 +0000</pubDate>
+      <description>https://x.com/RicursiveAI/status/2118046765857546733 오늘 우리는 처음부터 사전 훈련한 65B 밀집 LLM인 Ripple-65B Preview를 출시합니다. Ripple은 에이전트 코딩 작업에서 미국 오픈 웨이트 모델의 새로운 최첨단을 설정하며, Muse Spark Open-816B, Beam-501B, Inkling-975B, Nemotron 3 Ultra-550B를 포함한 훨씬 더 큰 모델들을 능가합니다.</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://x.com/RicursiveAI/status/2118046765857546733"&gt;https://x.com/RicursiveAI/status/2118046765857546733&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;오늘 우리는 처음부터 사전 훈련한 65B 밀집 LLM인 Ripple-65B Preview를 출시합니다.&lt;br/&gt;&lt;br/&gt;Ripple은 에이전트 코딩 작업에서 미국 오픈 웨이트 모델의 새로운 최첨단을 설정하며, Muse Spark Open-816B, Beam-501B, Inkling-975B, Nemotron 3 Ultra-550B를 포함한 훨씬 더 큰 모델들을 능가합니다.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514970</guid>
+    </item>
+    <item>
+      <title>🚀 결국 쳐맞고 항복한 클로드, 게임 개발 가능</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514968</link>
+      <pubDate>Fri, 06 Nov 2026 11:11:55 +0000</pubDate>
+      <description>https://x.com/addyosmani/status/2117848568535106001 Claude Code로 게임 제작에 대한 업데이트: 지난주에 여러분 중 일부가 Claude Code가 단순히 제작해야 할 게임 프로젝트에 대해 거부하는 상황을 겪으셨습니다. 우리는 Opus 5.5 프롬프트에 기존 특정 게임을 재현하지 않도록 Claude를 유도하는 짧은 규칙을 추가했지만, 원하는 메커니즘을 설명하기 위해 게임 하나를 언급할 때도 그 규칙이 작동하며 문제가 되었습니다. 우리는 2.1.317에서 그 규칙을 업데이트했습니다. 이제 원하는 것을 설명하기 위해 게임 이름을 언급할 수 있으며, Claude는 이제 그 장르에서 독창적인 게임을 제작해야 합니다. 원작의 복사본을 요청하면, 대신 유사한 것을 제작해 주겠다고 제안할 것입니다. 우리는 여러분이 독창적인 무언가를 제작할 때 Claude가 최대한 도움이 되기를 바랍니다. 하지만 다른 사람이 복사하려 할 경우 여러분의 작업을 보호하기도 합니다. 우리는 이를 계속 개선할 테니, Claude가 여러분의 작업을 거부한다면 알려주세요. 피드백을 공유해 주신 모든 분들께 감사드립니다!</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0469973bf4bbf3" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f89450e60a7aab7409a09fab30f7722366661c1c7d932a62c305c7269d3123c9ded0f88cb20c2a5b364425a92f"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/addyosmani/status/2117848568535106001"&gt;https://x.com/addyosmani/status/2117848568535106001&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Claude Code로 게임 제작에 대한 업데이트:&lt;br/&gt;&lt;br/&gt;지난주에 여러분 중 일부가 Claude Code가 단순히 제작해야 할 게임 프로젝트에 대해 거부하는 상황을 겪으셨습니다. 우리는 Opus 5.5 프롬프트에 기존 특정 게임을 재현하지 않도록 Claude를 유도하는 짧은 규칙을 추가했지만, 원하는 메커니즘을 설명하기 위해 게임 하나를 언급할 때도 그 규칙이 작동하며 문제가 되었습니다.&lt;br/&gt;&lt;br/&gt;우리는 2.1.317에서 그 규칙을 업데이트했습니다. 이제 원하는 것을 설명하기 위해 게임 이름을 언급할 수 있으며, Claude는 이제 그 장르에서 독창적인 게임을 제작해야 합니다. 원작의 복사본을 요청하면, 대신 유사한 것을 제작해 주겠다고 제안할 것입니다.&lt;br/&gt;&lt;br/&gt;우리는 여러분이 독창적인 무언가를 제작할 때 Claude가 최대한 도움이 되기를 바랍니다. 하지만 다른 사람이 복사하려 할 경우 여러분의 작업을 보호하기도 합니다. 우리는 이를 계속 개선할 테니, Claude가 여러분의 작업을 거부한다면 알려주세요. 피드백을 공유해 주신 모든 분들께 감사드립니다!&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514968</guid>
+    </item>
+    <item>
+      <title>🚀 6.2 루머들ㄷㄷ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514930</link>
+      <pubDate>Fri, 06 Nov 2026 10:31:53 +0000</pubDate>
+      <description>6.2가 6보다 높은건 진짜면 충격이네.. - dc official App</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e551666fac64d4735026cad857111514ca9c8b611ca863cee344cc8b70020fcb6885ef2e3a" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5745f6c4b8de0135e1140f8eb28fe528f3c61829f44f13b184b4bc076cc21a39da4c4263158b7e9ee186a72a47961dea1b8a4380f4a3f30c8a406ce910290f43ee"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e551666faf66d4735026cad858f3b7aa1fa5e7a5d3065de764c182250c35e1184694fb7c82" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e554df6c0b4dc0636e8110f8ce789be1e131c9756d92b0ae8bbeaf7ca9e1289dfe429ad34959fb6bac9686c7e70860c632b0bdbb2d81e0b2b9c8d5da90f8e1ef20f"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;6.2가 6보다 높은건 진짜면 충격이네.. &lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt; - dc official App&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514930</guid>
+    </item>
+    <item>
+      <title>🚀 새로운 추세선 그려왔다</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514900</link>
+      <pubDate>Fri, 06 Nov 2026 10:07:27 +0000</pubDate>
+      <description>2027년 2월이 초지능이구나 ㄷㄷㄷㄷㄷㄷㄷㄷ - 2026 AGI</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="39b5d535ecdc3fb362bec4bc02c8696fb256f74e769309ade02307d847201eb69a19da4d4e2e5d3f34fcf31811d9cb1dbe3e" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5e42faceb4df043aeb160f8be78e815f59bd9d61ab3ed5f61deae0b12ad46f3d44ea97ec9cb37bfba07b0ac5ca39d6455080a4a92d42d164e9c9"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;div&gt;2027년 2월이 초지능이구나 ㄷㄷㄷㄷㄷㄷㄷㄷ &lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt; - 2026 AGI&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514900</guid>
+    </item>
+    <item>
+      <title>🚀 구글, 제미니4 hydrogen 테스트 중 ㄷㄷㄷ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514871</link>
+      <pubDate>Fri, 06 Nov 2026 09:40:41 +0000</pubDate>
+      <description />
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046ec94bc3f024" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f89450e60a7aab7409a09fab30f7722366661c1c7dfe4d67c409c625983225c9b6bcad0894a1f9888c2f3d646284"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514871</guid>
+    </item>
+    <item>
+      <title>🚀 metr 보고서 읽어보니까 은근 폭염인데? 정리해왔음.</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514826</link>
+      <pubDate>Fri, 06 Nov 2026 09:02:39 +0000</pubDate>
+      <description>오푸스랑 같이 봤는데, metr 얘네들 ai 엄청 깐깐하고 보수적으로 보는 애들인데 얘네가 엔트로픽 들어가서 직접 보고 쓴 내용들이 하나같이 큼직큼직해서 흥미로운 내용들 정리해왔음 1.얘네가 엔트로픽 들어가서 보기 전에 이렇게 크게 가속했다면 놀라운 일이라고 생각했었는데, 지금 실제로 그러고 있다고 함. 2.그리고 그게 컴퓨팅 늘려서 생긴 가속이 아니고 AI 모델 발전 덕이라고 함. 3.향후 12개월 동안 이 가속이 멈출 만한 큰 병목을 못 찾았고 그래서 ㅈㄴ 위험하다 함. 4.얘네가 엔트로픽 와서 보기 전에 예측 기울기를 2개 그려놨다고 함. 하나는 느려지는 거. 하나는 그냥 대충 기울기 꺾어서 위로 쭉 가는 거. 근데 그 단순하게 쭉 그은 후자 기울기가 더 정확했다고 함;; 5.&amp;#x27;생명의 신호&amp;#x27;가 있다고 함. 여기서 말하는 &amp;#x27;생명의 신호&amp;#x27;는 RSI 진입 각이 보인다는 소리인데, 아직은 진입하지 못했지만 곧 그럴 조짐이 보인다고 함. 우리는 이걸 봤지만 엔트로픽 측에서 이건 공개하면 안 된다고 해서 말하지는 못한다고 덧붙임. 6.엔트로픽이 내부 발전 속도를 낮춰 말하고 있다고 함. 얘네가 지금 가속을 축소하는 부분이 꽤 있다고 함. 7.6개월~1년 안에 큰 추가 가속을 배제할 수 없고, 그게 높은 위험으로 이어질 수 있다고 함. 참고로 지금 엔트로픽 연구의 26%를 내부모델이 맡아서 하고 있으므로, 저 추가 가속이 이루어지면 그게 곧 RSI 본격 진입이란 소리임</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 오푸스랑 같이 봤는데, metr 얘네들 ai 엄청 깐깐하고 보수적으로 보는 애들인데&lt;/div&gt;&lt;br/&gt;&lt;div&gt; 얘네가 엔트로픽 들어가서 직접 보고 쓴 내용들이 하나같이 큼직큼직해서 흥미로운 내용들 정리해왔음&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6168a862d4635d2accc92568843a9a30202f45b872d916858112d0" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e574cfec0b4d20437ea150f8bb18f1970ecfb084f538e58f8247562559cb26aeeecd2fc51b3c1d5dca4ffa101b79f54c3784d45e64a7ad87505"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 1.얘네가 엔트로픽 들어가서 보기 전에 이렇게 크게 가속했다면 놀라운 일이라고 생각했었는데, 지금 실제로 그러고 있다고 함.&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6169ad67d4635d2accc9cac7b3872f95b7c1dc9004f62a5d3f57" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5e47f6c5b3d30836ec150fdbe68da0604ead0f928c2f73e34eb288c498bcbb018bedb8df1b2aa71302db561cad63ba6720c6f66d5b3ba9c35e"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 2.그리고 그게 컴퓨팅 늘려서 생긴 가속이 아니고 AI 모델 발전 덕이라고 함.&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6169ac64d4635d2accc911867aa252d775478aa5b1e8d76cd658" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5344ffc5b8d3073be0120f88b08b7616788062ea8e1944772d973d9da9d12548810f6cbf55da3112a680fafec6c056c8baae85a4e1d0e7f3fc"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 3.향후 12개월 동안 이 가속이 멈출 만한 큰 병목을 못 찾았고 그래서 ㅈㄴ 위험하다 함.&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6169af6ad4635d2accc919b8cfe6e808c4d79db4f9224c79e27bed" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5f4dffc7b2d90031ee1a0fdfe18fbd65e3913134e58f2be49ca4020fd18de316ac9fd75a731303278d2f2b58f0d82f82b1bf8c91a0c45eba03"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;4.얘네가 엔트로픽 와서 보기 전에 예측 기울기를 2개 그려놨다고 함. &lt;/div&gt;&lt;div&gt;하나는 느려지는 거. 하나는 그냥 대충 기울기 꺾어서 위로 쭉 가는 거. &lt;/div&gt;&lt;div&gt;근데 그 단순하게 쭉 그은 후자 기울기가 더 정확했다고 함;; &lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6166ae64d4635d2accc91a24c4de6c6bbdb2dc5ad43f5a26cf8f52" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5242fec5b3d90932eb100fdfe5831fcf4ade78b643c1e3c454336f1e788075fb4ca28a989e7f13658f6ff13820fba996b9e902f5194e3334bb"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 5.'생명의 신호'가 있다고 함.&lt;/div&gt;&lt;div&gt; 여기서 말하는 '생명의 신호'는 RSI 진입 각이 보인다는 소리인데, 아직은 진입하지 못했지만 곧 그럴 조짐이 보인다고 함.&lt;/div&gt;&lt;div&gt; 우리는 이걸 봤지만 엔트로픽 측에서 이건 공개하면 안 된다고 해서 말하지는 못한다고 덧붙임.&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6166a861d4635d2accc99e6d70cd28586f73af567d4bf9844c8895" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5447fac4b8da093ae8160fdce4831e6694a2df0d1301c8b230ae44ef676c78088fd8b5132fe3beaafcb822eef1cb6acb6bd8584130210c9480"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 6.엔트로픽이 내부 발전 속도를 낮춰 말하고 있다고 함.&lt;/div&gt;&lt;div&gt; 얘네가 지금 가속을 축소하는 부분이 꽤 있다고 함.&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55f6167ad67d4635d2accc9b66da79e03864a8dba9eb2fa6a518bb6" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e524df7c0b1dd0436e8110fd4b088197254760059180c162896c61346e04fd7a83fe9524ba6c60fc319f605336c515d8a5080f20bf4f774d1d3"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt; 7.6개월~1년 안에 큰 추가 가속을 배제할 수 없고, 그게 높은 위험으로 이어질 수 있다고 함.&lt;/div&gt;&lt;div&gt; 참고로 지금 엔트로픽 연구의 26%를 내부모델이 맡아서 하고 있으므로, 저 추가 가속이 이루어지면 그게 곧 RSI 본격 진입이란 소리임&lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514826</guid>
+    </item>
+    <item>
+      <title>🚀 과학 연구 자동화의 시작이 도래하는</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514679</link>
+      <pubDate>Fri, 06 Nov 2026 07:08:38 +0000</pubDate>
+      <description>병목을 포함해도 3~4배! 그치만 연구의 질을 고려하지는 않은 것 같아요. 과학자 분들이 2030년이라 하셨으니 2028년 까지는 될 것 같은 링크: https://www.anthropic.com/research/how-researchers-use-claude</description>
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7ced8076b5816af23eea98bf06d60403ffc3e4a549ced850e666" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f68674988ac4313169d6ff400288f3cd4dc1948c127482e62ca7171b501c457dc77d569d2"/&gt;&lt;/div&gt;&lt;p&gt;병목을 포함해도 3~4배! 그치만 연구의 질을 고려하지는 않은 것 같아요.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;과학자 분들이 2030년이라 하셨으니 2028년 까지는 될 것 같은&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="61" src="https://image.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132745765fdc52e2cd0b6330a1bf1350d66fadf7b7bbf9550af244939d22aa870e22f88076"/&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;링크: https://www.anthropic.com/research/how-researchers-use-claude&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514679</guid>
+    </item>
+    <item>
+      <title>🚀 METR 념글이 개 레전드인 이유 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514663</link>
+      <pubDate>Fri, 06 Nov 2026 06:58:53 +0000</pubDate>
+      <description>AI 2027 예측보다 무려 반 년 가까이 빠르게 진행중임 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="7cea8975bd8569f239eb98a518d604035396735c12c277f61e7f" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f89450e60a7aab7409a09fab30f7722366661c1c7dfe4d68c008c4209c3021ccb6bcfad9a4adae239d37114dd539"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;AI 2027 예측보다 무려 반 년 가까이 빠르게 진행중임&lt;/p&gt;&lt;p&gt;ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514663</guid>
+    </item>
+    <item>
+      <title>🚀 텍사스 주지사 관련으로 검증 해봤어</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514632</link>
+      <pubDate>Fri, 06 Nov 2026 06:35:57 +0000</pubDate>
+      <description>이 트윗에서 말한 것처럼 &amp;#x27;2027~2028년 예정 물량이 차질 없이 완공된다&amp;#x27;라고 강하게 단정할 수는 없대. 다만 Hinojosa가 도입하려는 규제는 신규 데이터센터와 이미 공사 중인 것을 구분한대. 그래서 기존 공사는 영향이 적을 거래. 또한 데이터센터 산업을 무조건 반대하는 것도 아니래. 지역 사회가 협상할 수 있는 권한을 가지고, 동등한 파트너의 입장에서 수용한다는 게 Hinojosa의 뜻이래. 그리고 해당 게시물과는 별개로 이미 허가됐거나 공사 중인 프로젝트는 대체로 진행될 것이라는 전문가의 전망이 있네. --- https://abc7amarillo.com/news/local/democratic-gubernatorial-nominee-gina-hinojosa-visits-texas-panhandle-data-center-site https://www.aol.com/articles/big-country-politics-gina-hinojosa-230252000.html https://trans.cnn.com/show/cg/date/2026-11-05/segment/02 https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;이 트윗에서 말한 것처럼 '2027~2028년 예정 물량이 차질 없이 완공된다'라고 강하게 단정할 수는 없대.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;다만 Hinojosa가 도입하려는 규제는 신규 데이터센터와 이미 공사 중인 것을 구분한대. 그래서 기존 공사는 영향이 적을 거래.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;또한 데이터센터 산업을 무조건 반대하는 것도 아니래. 지역 사회가 협상할 수 있는 권한을 가지고, 동등한 파트너의 입장에서 수용한다는 게 Hinojosa의 뜻이래.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;그리고 해당 게시물과는 별개로 이미 허가됐거나 공사 중인 프로젝트는 대체로 진행될 것이라는 전문가의 전망이 있네.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;---&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a href="https://abc7amarillo.com/news/local/democratic-gubernatorial-nominee-gina-hinojosa-visits-texas-panhandle-data-center-site"&gt;https://abc7amarillo.com/news/local/democratic-gubernatorial-nominee-gina-hinojosa-visits-texas-panhandle-data-center-site&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a href="https://www.aol.com/articles/big-country-politics-gina-hinojosa-230252000.html"&gt;https://www.aol.com/articles/big-country-politics-gina-hinojosa-230252000.html&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a href="https://trans.cnn.com/show/cg/date/2026-11-05/segment/02"&gt;https://trans.cnn.com/show/cg/date/2026-11-05/segment/02&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a href="https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes"&gt;https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514632</guid>
+    </item>
+    <item>
+      <title>🚀 티보 : 이젠 무를 수 없다</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514602</link>
+      <pubDate>Fri, 06 Nov 2026 06:05:46 +0000</pubDate>
+      <description />
+      <content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa00cf9e55d656aac65d4781f21c9ca82458565d951cf8385262364" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5147fec5b3d20132e8130f8fb1df164562ada92a62b6e9bc89ac2e3adec3958f7e62f12e1e2187f363bdd6d3def6d4e8b22e5a6e"/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="7fed8270b58568f251ee84e640807473c7bf90673e807bb17eb631c832e4" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b4757ebb968f2e8b7a6970bf32b78c4f686708ddba5e5747fbceb7df0233ea1b0fdaebd88828d8028e2b04137cabc02e2b35b478073228af91dcbb4207"/&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514602</guid>
+    </item>
     <item>
       <title>🚀 특슬람 의사, 텍사스 주지사 규제안 합리적이다.</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1514410</link>
@@ -9055,56 +9135,6 @@ I've spent decades watching infrastructure bets get sold on the upside slide and
       <description />
       <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c63f7284f9bea" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664757ef0920d80a77002241c9f92e55579e24d005f895fa"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479344</guid>
-    </item>
-    <item>
-      <title>🚀 제미니 4가 새 핵융합 해답을 찾아내다</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479309</link>
-      <pubDate>Wed, 14 Oct 2026 01:29:12 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479309</guid>
-    </item>
-    <item>
-      <title>🚀 백악관 : 초지능 경쟁 반드시 승리할 것</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479190</link>
-      <pubDate>Wed, 14 Oct 2026 00:34:55 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479190</guid>
-    </item>
-    <item>
-      <title>🚀 속보) 자전거 타는 펠리컨 테스트 -완-</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479186</link>
-      <pubDate>Wed, 14 Oct 2026 00:32:35 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479186</guid>
-    </item>
-    <item>
-      <title>🚀 4시간 동안 아르곤 갈군 3D 모델링 중간평가점</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479159</link>
-      <pubDate>Wed, 14 Oct 2026 00:21:01 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479159</guid>
-    </item>
-    <item>
-      <title>🚀 메타 저커버그도 생물학 ai에 참전</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479135</link>
-      <pubDate>Wed, 14 Oct 2026 00:12:11 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479135</guid>
-    </item>
-    <item>
-      <title>🚀 아르곤 공홈 svg 지린다 (작업에서 돌림)</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479130</link>
-      <pubDate>Wed, 14 Oct 2026 00:08:21 +0000</pubDate>
-      <description />
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479130</guid>
-    </item>
-    <item>
-      <title>🚀 속보) 아르곤 룬스케이프 벤치마크에서 2위 등극 ㄷㄷ</title>
-      <link>https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479094</link>
-      <pubDate>Tue, 13 Oct 2026 23:49:51 +0000</pubDate>
-      <description />
-      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6c6d923626" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664255e60c25d50a7b0e2041cca087c17cf5501e66f35798"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0469943df3bef6" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807c65c47e66273eb51767a564311d94e96c1af9b4664559ee0124dc0f770f2541cba1687f4c37f7def2f48c8a"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&amp;no=1479094</guid>
     </item>
   </channel>
 </rss>
