@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-09T00:53:48.580953+00:00",
+  "updated": "2026-11-09T07:57:58.833823+00:00",
   "feeds": [
     {
       "last_success": "2026-11-09T00:53:48.580953+00:00",
       "last_new": "2026-11-09T00:53:48.580953+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
-      "error": null,
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='gall.dcinside.com', port=443): Max retries exceeded with url: /board/lists/?id=dcbest&page=1&list_num=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='gall.dcinside.com', port=443) at 0x7f0a70e29df0>, 'Connection to gall.dcinside.com timed out. (connect timeout=40)'))",
       "body_collection": {
         "ready": 10,
         "pending": 990,
@@ -13,8 +13,8 @@
         "attempted": 10
       },
       "published_count": 10,
-      "consecutive_failures": 0,
-      "first_failure": null,
+      "consecutive_failures": 1,
+      "first_failure": "2026-11-09T07:57:58.833823+00:00",
       "alert_required": false,
       "id": "dcbest",
       "name": "실시간 베스트",
@@ -23,9 +23,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-09T00:53:48.580953+00:00",
-      "last_new": "2026-11-09T00:53:48.580953+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
+      "last_success": "2026-11-09T07:57:58.833823+00:00",
+      "last_new": "2026-11-09T07:57:58.833823+00:00",
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
       "error": null,
       "published_count": 1000,
       "consecutive_failures": 0,
@@ -38,9 +38,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-09T00:53:48.580953+00:00",
+      "last_success": "2026-11-09T07:57:58.833823+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
       "error": null,
       "published_count": 15,
       "consecutive_failures": 0,
@@ -55,8 +55,8 @@
     {
       "last_success": "2026-11-09T00:53:48.580953+00:00",
       "last_new": "2026-11-08T17:03:23.926064+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
-      "error": null,
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='gall.dcinside.com', port=443): Max retries exceeded with url: /mgallery/board/lists/?id=ai_utilize&exception_mode=recommend&page=1&list_num=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='gall.dcinside.com', port=443) at 0x7f0a70caeba0>, 'Connection to gall.dcinside.com timed out. (connect timeout=40)'))",
       "body_collection": {
         "ready": 357,
         "pending": 0,
@@ -64,8 +64,8 @@
         "attempted": 0
       },
       "published_count": 750,
-      "consecutive_failures": 0,
-      "first_failure": null,
+      "consecutive_failures": 1,
+      "first_failure": "2026-11-09T07:57:58.833823+00:00",
       "alert_required": false,
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
@@ -76,8 +76,8 @@
     {
       "last_success": "2026-11-09T00:53:48.580953+00:00",
       "last_new": "2026-11-09T00:53:48.580953+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
-      "error": null,
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='gall.dcinside.com', port=443): Max retries exceeded with url: /mgallery/board/lists/?id=thesingularity&exception_mode=recommend&page=1&list_num=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='gall.dcinside.com', port=443) at 0x7f0a70cad850>, 'Connection to gall.dcinside.com timed out. (connect timeout=40)'))",
       "body_collection": {
         "ready": 980,
         "pending": 15,
@@ -85,8 +85,8 @@
         "attempted": 10
       },
       "published_count": 980,
-      "consecutive_failures": 0,
-      "first_failure": null,
+      "consecutive_failures": 1,
+      "first_failure": "2026-11-09T07:57:58.833823+00:00",
       "alert_required": false,
       "id": "thesingularity",
       "name": "특이점이 온다 추천글",
@@ -97,8 +97,8 @@
     {
       "last_success": "2026-11-09T00:53:48.580953+00:00",
       "last_new": "2026-11-08T17:03:23.926064+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
-      "error": null,
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='gall.dcinside.com', port=443): Max retries exceeded with url: /board/lists/?id=cartoon&exception_mode=recommend&page=1&list_num=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='gall.dcinside.com', port=443) at 0x7f0a70caddf0>, 'Connection to gall.dcinside.com timed out. (connect timeout=40)'))",
       "body_collection": {
         "ready": 377,
         "pending": 0,
@@ -106,8 +106,8 @@
         "attempted": 0
       },
       "published_count": 712,
-      "consecutive_failures": 0,
-      "first_failure": null,
+      "consecutive_failures": 1,
+      "first_failure": "2026-11-09T07:57:58.833823+00:00",
       "alert_required": false,
       "id": "cartoon",
       "name": "카툰·연재 추천글",
@@ -118,8 +118,8 @@
     {
       "last_success": "2026-11-09T00:53:48.580953+00:00",
       "last_new": "2026-11-09T00:53:48.580953+00:00",
-      "last_attempt": "2026-11-09T00:53:48.580953+00:00",
-      "error": null,
+      "last_attempt": "2026-11-09T07:57:58.833823+00:00",
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='gall.dcinside.com', port=443): Max retries exceeded with url: /board/lists/?id=comic_new6&exception_mode=recommend&page=1&list_num=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='gall.dcinside.com', port=443) at 0x7f0a70caf5f0>, 'Connection to gall.dcinside.com timed out. (connect timeout=40)'))",
       "body_collection": {
         "ready": 565,
         "pending": 0,
@@ -127,8 +127,8 @@
         "attempted": 2
       },
       "published_count": 999,
-      "consecutive_failures": 0,
-      "first_failure": null,
+      "consecutive_failures": 1,
+      "first_failure": "2026-11-09T07:57:58.833823+00:00",
       "alert_required": false,
       "id": "comic-new6",
       "name": "만화 갤러리 추천글",
