@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T03:52:24.814763+00:00",
+  "updated": "2026-11-17T13:24:30.786203+00:00",
   "feeds": [
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
-      "last_new": "2026-11-17T03:52:24.814763+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
+      "last_new": "2026-11-17T13:24:30.786203+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "body_collection": {
         "ready": 10,
@@ -23,9 +23,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
-      "last_new": "2026-11-17T03:52:24.814763+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
+      "last_new": "2026-11-17T13:24:30.786203+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "published_count": 1000,
       "consecutive_failures": 0,
@@ -38,9 +38,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "published_count": 15,
       "consecutive_failures": 0,
@@ -53,38 +53,38 @@
       "available": true
     },
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
-      "last_new": "2026-11-16T20:27:58.111315+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
+      "last_new": "2026-11-17T13:24:30.786203+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "body_collection": {
-        "ready": 419,
+        "ready": 424,
         "pending": 0,
         "failed": 2,
-        "attempted": 1
+        "attempted": 5
       },
-      "published_count": 812,
+      "published_count": 817,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
       "emoji": "🛠️",
-      "count": 814,
+      "count": 819,
       "available": true
     },
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
-      "last_new": "2026-11-17T03:52:24.814763+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
+      "last_new": "2026-11-17T13:24:30.786203+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "body_collection": {
-        "ready": 838,
-        "pending": 155,
+        "ready": 834,
+        "pending": 159,
         "failed": 7,
         "attempted": 10
       },
-      "published_count": 838,
+      "published_count": 834,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
@@ -95,38 +95,38 @@
       "available": true
     },
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
-      "last_new": "2026-11-17T03:52:24.814763+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
+      "last_new": "2026-11-17T13:24:30.786203+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "body_collection": {
-        "ready": 484,
-        "pending": 0,
+        "ready": 494,
+        "pending": 2,
         "failed": 0,
-        "attempted": 3
+        "attempted": 10
       },
-      "published_count": 819,
+      "published_count": 829,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
       "id": "cartoon",
       "name": "카툰·연재 추천글",
       "emoji": "🎨",
-      "count": 819,
+      "count": 831,
       "available": true
     },
     {
-      "last_success": "2026-11-17T03:52:24.814763+00:00",
-      "last_new": "2026-11-17T03:52:24.814763+00:00",
-      "last_attempt": "2026-11-17T03:52:24.814763+00:00",
+      "last_success": "2026-11-17T13:24:30.786203+00:00",
+      "last_new": "2026-11-17T13:24:30.786203+00:00",
+      "last_attempt": "2026-11-17T13:24:30.786203+00:00",
       "error": null,
       "body_collection": {
-        "ready": 769,
-        "pending": 14,
+        "ready": 779,
+        "pending": 26,
         "failed": 5,
         "attempted": 10
       },
-      "published_count": 981,
+      "published_count": 969,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
