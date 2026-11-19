@@ -4,8 +4,16 @@
     <title>🛠️ AI 활용 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize&amp;exception_mode=recommend</link>
     <description>AI 활용 추천글</description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:31:56 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/ai-utilize.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛠️ 2027학년도 대입 수능 전체 결과</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=195087</link>
+      <pubDate>Thu, 19 Nov 2026 16:49:16 +0000</pubDate>
+      <description>대시보드: https://hehee9.github.io/CSAT-benchmark/ 문제 PDF -&amp;gt; 텍스트 추출 후 Markdown 등 적절한 방식으로 형식을 유지하고 텍스트로 바꿀 수 없는 부분만 이미지 째 캡처해서 전송 일반적으로 벤치마크는 1회 실행 당 1문제만 풀지만, 최신 모델에게는 너무 쉬운 관계로 1번 실행에 1과목 단위로 문제를 넣음 당연하게도 검색, 계산 등의 도구는 준 게 없고 지침으로는 &amp;#x27;제공된 모든 문제를 풀어라&amp;#x27; 정도 말고는 아무것도 안 넣었음 원점수 총합: 1276점 만점 수험생 방식 환산: 450점 만점 선택하는 과목 개수에 맞춰서 각 선택과목 점수를 평균낸 것 GPT-6.2 Astra , Gemini 4 Neon 이 국(화/언) + 수(확/미/기) + 영 + 한 + 탐(17과목) 에서 전부 정답을 맞아 &amp;#x27; 진짜 전과목 만점 &amp;#x27; 달성 선택과목 조합에 따라 만점이 가능한 모델은 위 9개 특이하게 Gemini는 4 버전이면 어떤 변형이어도 만점이 가능함 만점이 가능한 모델 중 - 가장 저렴한 모델: GPT-6.1 Terra (1,171원) - 가장 빠른 모델: GPT-6.2 Sol (약 48분) ※ 전과목 총합 기준. 일부 과목만 풀면 더 내려감 카본, 하이드로젠 최저점이 낮은 건 일부 과목에서 출력 한도 제한에 걸릴 때까지 답을 못 내서 0점 처리 되었기 때문 결정 모델 결정 모델은 총점이 다들 비슷하게 나왔음 과목별로 보면 차이가 있는데, 총점으로 보면 또 거기서 거기가 됨 국산 모델 국산 모델 중에서는 LG의 K-EXAONE 2.5가 1위 달성 KT의 믿:음은 공통 영역에서 많이 깎인 반면, 크래프톤의 Raon은 탐구 영역에서 많이 깎였기 때문에 원점수 / 환산 점수로 볼 때 순위가 역전됨 Upstage의 Solar는 Pro 4.5가 나온다면 국산 1위 차지할 수 있을지도 모르겠음 모티프는 API 점검 중이라서, 언제 끝날지는 모르지만 점검 끝나면 추가할 예정 무료 모델 유료 요금제 구독 없이 이용 가능한 모델만 보면 점수는 위와 같음 무료-유료 성능 격차가 가장 큰 건 GPT , 가장 적은 건 Claude 전체 점수표 참고로 핸드폰에서 온디바이스로 돌릴만한 건 제일 아래의 Gemma 4 E4B / E2B 정도임 시간, 비용 주요 모델의 성적-비용, 성적-시간 그래프 ※ X축이 로그 스케일이니 읽을 때 주의 언제나 그렇듯 GPT 계열이 토큰을 가장 적게 사용하고 그렇기 때문에 풀이 시간도 짧은 편임 과목별 만점 모델 국어 : 12개 모델. 이 중에서 - 가장 저렴한 모델: GLM-5.3 Flash (53원) - 가장 빠른 모델: GPT-6.2 Sol (약 2분) 수학 : 14개 모델. 이 중에서 - 가장 저렴한 모델: Claude Haiku 5.5 (47원) - 가장 빠른 모델: Claude Sonnet 5.5 (5분) 영어 : 16개 모델. 이 중에서 - 가장 저렴한 모델: GPT-6 Luna ( 4 원) - 가장 빠른 모델: Claude Fable 5.2 (1분) 한국사 : 23개 모델. 이 중에서 - </description>
+      <content:encoded>&lt;p&gt;&lt;span&gt;대시보드: &lt;/span&gt;&lt;a href="https://hehee9.github.io/CSAT-benchmark/"&gt;&lt;span&gt;https://hehee9.github.io/CSAT-benchmark/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;문제 PDF -&amp;gt; 텍스트 추출 후 Markdown 등 적절한 방식으로 형식을 유지하고&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;텍스트로 바꿀 수 없는 부분만 이미지 째 캡처해서 전송&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;일반적으로 벤치마크는 1회 실행 당 1문제만 풀지만,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;최신 모델에게는 너무 쉬운 관계로 1번 실행에 1과목 단위로 문제를 넣음&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;당연하게도 검색, 계산 등의 도구는 준 게 없고&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;지침으로는 '제공된 모든 문제를 풀어라' 정도 말고는 아무것도 안 넣었음&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;원점수 총합: 1276점 만점&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370676b660b8f68b12d21a1dbf48c0f6f466" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f72f19f3941874f7b0486697fb8874b9b050e4089c3b51"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;수험생 방식 환산: 450점 만점&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;선택하는 과목 개수에 맞춰서 각 선택과목 점수를 평균낸 것&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370678ee3af698a518d604038d8041c38f694e66a469" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f82415f89f1875ffb14866ccfa58cc56d21d4d2ad07377"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;GPT-6.2 Astra&lt;/b&gt;, &lt;b&gt;Gemini 4 Neon&lt;/b&gt;이 &lt;b&gt;국(화/언) + 수(확/미/기) + 영 + 한 + 탐(17과목)&lt;/b&gt;에서 전부 정답을 맞아 '&lt;b&gt;진짜 전과목 만점&lt;/b&gt;' 달성&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370678ee3bf698a518d6040394cb854a26bcde3a1556" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f4201df49e1a7bffb2446694f1feb3779079422ee4958d"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;선택과목 조합에 따라 만점이 가능한 모델은 위 9개&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;특이하게 Gemini는 4 버전이면 어떤 변형이어도 만점이 가능함&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a66434aa1f1b072db85b5a51eb916c6fedbbe932186ea423015f08b6f49c319d5d" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f4261ff0991a72f2b74f6690f4c35947e68e8055181e48"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a66434aa1f1b072db85b5a51eb916c6e1c9d55d3938ae22dc08e7da36fafe982ca" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f6271cf6941274f7b64866c2a083fcf280c818a1a9af1f"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;만점이 가능한 모델 중&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6.1 Terra (1,171원)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- 가장 빠른 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6.2 Sol (약 48분)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;※ 전과목 총합 기준. 일부 과목만 풀면 더 내려감&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;카본, 하이드로젠 최저점이 낮은 건 일부 과목에서 출력 한도 제한에 걸릴 때까지 답을 못 내서 0점 처리 되었기 때문&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;결정 모델&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370678ee3df698a518d6040350f9c133a60cacab35e5" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f72019f49d1c75f7ba4966c7fa197e3ba1edd52e5a09a3"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;결정 모델은 총점이 다들 비슷하게 나왔음&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;과목별로 보면 차이가 있는데, 총점으로 보면 또 거기서 거기가 됨&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;국산 모델&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370678ee38f698a518d604038a3f3d0221f35a4abf67" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f4231df59c1d73f3b14866c5a1b82501083006eab2f38d"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370678ee39f698a518d60403e76b1177a1664c2aab30" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f6211af09f1c75f5b24966c1fad856d352afa3e6aa5274"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;국산 모델 중에서는 LG의 &lt;/span&gt;&lt;b&gt;&lt;span&gt;K-EXAONE 2.5가 1위&lt;/span&gt;&lt;/b&gt;&lt;span&gt; 달성&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;KT의 믿:음은 공통 영역에서 많이 깎인 반면, 크래프톤의 Raon은 탐구 영역에서 많이 깎였기 때문에 원점수 / 환산 점수로 볼 때 순위가 역전됨&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Upstage의 Solar는 Pro 4.5가 나온다면 국산 1위 차지할 수 있을지도 모르겠음&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;모티프는 API 점검 중이라서, 언제 끝날지는 모르지만 점검 끝나면 추가할 예정&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;무료 모델&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a17d34aa370678ee36f698a518d6040362d06e4f99c3d9d466a2" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f32315f99d1c74ffb64c66c5a665333850634f2631483c"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;유료 요금제 구독 없이 이용 가능한 모델만 보면 점수는 위와 같음&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;무료-유료 성능 격차가 가장 큰 건 &lt;b&gt;GPT&lt;/b&gt;, 가장 적은 건 &lt;b&gt;Claude&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;전체 점수표&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a67718ad080ab3758aff5a75e65dccc5d63e646431d177de20e971d5e4e36cbece1122b42d5494c4" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f1201df0951e7af3b34f6693f519b107f6823a9035a34c"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;참고로 핸드폰에서 온디바이스로 돌릴만한 건 제일 아래의 Gemma 4 E4B / E2B 정도임&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;시간, 비용&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;주요 모델의 성적-비용, 성적-시간 그래프&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a66434aa1f1b072db85b5a51eb9f3433d56327bf37290c97cb91747d06" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f82419f8951d77ffb24e66c5a616b7a1c66ef42769dc86"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a66434aa1f1b072db85b5a51eb916c6c9638a6e1b6e38eb82f5db159edb998c377" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f32f1af09a1974ffb74e66c3a437fda2f75931530a8293"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;※ X축이 로그 스케일이니 읽을 때 주의&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a05b10ab0402072a8c735a4fdf5adbd4535566c924f8fc1c3c56d0671bb70b13ceb0877e" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f72115f99a1b73f6b5486691a04248e6cd17791e092329"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;언제나 그렇듯 GPT 계열이 토큰을 가장 적게 사용하고&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;그렇기 때문에 풀이 시간도 짧은 편임&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;과목별 만점 모델&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a04424aa1b2374e6e2490e3ed1156a2df7620ed8657de91bb4a6b7b97d51" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f92114f89e197bf5b64a66ccfb0d7cecb98c1ed5866314"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;국어&lt;/span&gt;&lt;/b&gt;&lt;span&gt;: 12개 모델. 이 중에서&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GLM-5.3 Flash (53원)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 빠른 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6.2 Sol (약 2분)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a04425ab030774e6e5700e39d630687da9905777d6e9cd9909842354dedfaccb29f2e41a7869" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f1241af59a1373f2b34c66c6a697bac0effd558fbdb746"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;수학&lt;/span&gt;&lt;/b&gt;&lt;span&gt;: 14개 모델. 이 중에서&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;span&gt;&lt;b&gt;Claude Haiku 5.5 (47원)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- 가장 빠른 모델: &lt;/span&gt;&lt;span&gt;&lt;b&gt;Claude Sonnet 5.5 (5분)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a14531aa130676b660b8f68b12d21a1d7ff37b2db768" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f12114f5951b7af2b04466c1f1b90b89ce4bea6ff23308"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;영어&lt;/span&gt;&lt;/b&gt;&lt;span&gt;: 16개 모델. 이 중에서&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;GPT-6 Luna (&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;원)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- 가장 빠른 모델: &lt;/span&gt;&lt;span&gt;&lt;b&gt;Claude Fable 5.2 (1분)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a0482cac301fb444a2f1c6bb11f11a39c2b4a572a5abf0af67" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f42f18f69e1d7bf1b54c6697fb195c5c98f5f96480121c"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;한국사&lt;/span&gt;&lt;/b&gt;&lt;span&gt;: 23개 모델. 이 중에서&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6 Luna (&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;원)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 빠른 모델:&lt;/span&gt;&lt;b&gt;&lt;span&gt; Gemini Decision 1 (&lt;/span&gt;&lt;span&gt;5초&lt;/span&gt;&lt;span&gt; 미만)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a15e2dab1c2eb275b2332a719d17e87160598e232bc82b87f790a4237335051184cd382404b5570aa799d4b5836275d21a67540abdcb17cef0dd9ed20ff528d057c862c9d5a4ca8fce015abb933971cd81195ed5c0227ac1d56f5a202101a8bf84402c61c18221cb462a1fee429a5a6c49d14753a30584244e4c668a2069692a5920056895ab390ce3ae13a4" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f62e19f59e1870f6b74466c0f5689999bc29be1215c645"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;사탐(9개 과목)&lt;/span&gt;&lt;/b&gt;&lt;span&gt;: 3개 모델. 이 중에서&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;Gemini 4 Neon (&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;span&gt;2,376&lt;/span&gt;&lt;span&gt;원)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 빠른 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6.2 Astra (15분)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="a6710cad231e69ea2e341a699d17e86fc81e8b23888d954fa46951b3af7c85f84f5dab2a5d069eb71ab943aaaea3639d3074f8554949ceeabe923c53edde4f3c1f9ed43e678d59141262f13acb37c17df02fdf9737ce" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe5165f3201df19f1973f5b64966c1f0b0c1d8d7c8e3eaebbbf1"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;과탐(8개 과목)&lt;/span&gt;&lt;/b&gt;&lt;span&gt;: 4개 모델. 이 중에서&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 저렴한 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6.2 Sol (1,044원)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;- 가장 빠른 모델: &lt;/span&gt;&lt;b&gt;&lt;span&gt;GPT-6.2 Sol (23분)&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;이 글을 퍼갈 때를 위한 참고사항&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046b6a699130" src="https://image.dcinside.com/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&amp;amp;no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9250dd8b2afa4c71096fa281564ae32681dffe51089f2e1ff19e1d71f4b04408aaa78e86b53132a431ded7aee2"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;대시보드에도 있는 설명임&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hehee9.github.io/CSAT-benchmark"&gt;&lt;span&gt;https://hehee9.github.io/CSAT-benchmark&lt;/span&gt;&lt;/a&gt;&lt;span&gt; 에서&lt;/span&gt;&lt;span&gt; 더 자세한 내용 확인 가능&lt;/span&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=195087</guid>
+    </item>
     <item>
       <title>🛠️ 제미나이 네온 버그벤치</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=194413</link>
@@ -13,6 +21,14 @@
       <description>https://x.com/pawelhuryn/status/2123351354303300052/photo/1?a=6Pxq8zrNkGl7W4IqSGU&amp;amp;s=46</description>
       <content:encoded>&lt;p&gt;&lt;a href="https://x.com/pawelhuryn/status/2123351354303300052/photo/1?a=6Pxq8zrNkGl7W4IqSGU&amp;amp;s=46"&gt;https://x.com/pawelhuryn/status/2123351354303300052/photo/1?a=6Pxq8zrNkGl7W4IqSGU&amp;amp;s=46&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="0490f719b18461f520b5c6b011f11a392b0b6f9547e71beeca" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757784566815c6ec1614c6a7773979e653348c7046dd74efa6006e46a49d38734819effbb47a78a3ce9a3412fb601c"/&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=194413</guid>
+    </item>
+    <item>
+      <title>🛠️ 제미나이 4 모델 평가 (코딩용)</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=194265</link>
+      <pubDate>Thu, 19 Nov 2026 08:31:24 +0000</pubDate>
+      <description>우선 제미나이 API 가격을 살펴보자. (할인 적용 전 정상가 기준) - Hydrogen : $1.5/$7.5 - Neon : $3/$15 - Argon : $4/$20 - Carbon : $4/$20 Argon과 Carbon이 Opus 5.5 급이고, Hydrogen이 Sonnet 5.5 급인거 같은데, Neon의 가격 포지션이 어중간하다. 클로드의 오푸스-소넷-하이쿠 체계나 오픈AI의 아스트라-솔-루나 체계를 기준으로 생각하면 이해가 안 될 거다. (구글은 남들이 하는 대로 따라가지 않고 독자적인 방식을 쓰는 특성이 있다.) 제미나이 모델명을 원소명으로 대충 짓고 있는데 앞으로 어떤 모델을 내놓을지 장기적인 플랜이 없는 거 같다. 계획을 먼저 세우고 그 계획에 맞춰서 모델을 출시하는 방식으로는 경쟁사를 쫓아가기 어렵다고 본 건지 일단 모델을 만들어보고 괜찮으면 출시하는 거 같다. (거창한 계획을 세워놓고 실천을 못하는 것보다는 낫다고 본다.) 그래서 체급을 나눠서 보는 접근보다는 각 모델의 특성을 잘 파악하는게 중요하다는 거다. 그러면 모델별 특성을 살펴보자. 1. Argon (기획 및 리뷰) 2026년 10월 13일에 출시된 모델이다. 터미널 벤치 4.0( https://www.vals.ai/benchmarks/terminal-bench-4 )를 보면 가성비 떨어지는 걸로 나오는데 가성비가 떨어지는 이유가 중요하다. 실제 사용해보면 방향성은 잘 잡지만 환각이 심해서 뻘짓을 계속 해대니 토큰을 많이 잡아먹는거다. (과추론으로 인해서 추론 토큰 사용량도 많음.) 근데 시야가 오푸스보다 넓고 창의력이 좋아서 기획을 맡기는게 좋다. 코드 리뷰를 맡기면 환각이 심하기는 하지만 남들이 못 보는걸 많이 찾아내서 애용 중이다. (아르곤이 작성한 코드 리뷰에 잘못된 정보가 있을 수 있으니 그건 주의해야 함.) 커서 벤치( https://cursor.com/ko/cursorbench )를 보면 Medium과 High 차이가 크지 않다. 참고로 나는 추론 레벨은 Medium로 고정 해놓고 쓴다. 2. Carbon (봉인) 2026년 11월 10일에 출시된 모델이다. 터미널 벤치 4.0상으로는 가성비가 좋은 모델이다. Argon에 비해서 환각이 많이 줄어서 벤치상으로는 Argon 보다는 가성비가 좋아졌다. 근데 이걸 쓰려면 제미나이 울트라를 구독해야하는데(11월 19일 현재 기준) 구독자들의 평으로는 속도까지 느리다고 한다. 제미나이 모델의 스윗 스팟은 거의 Medium~High였다. High는 괜찮은데 Medium 성능이 과도하게 낮다면, 어려운 문제를 만나면 밑천 드러날 가능성이 높다. 나는 안정적인 성능을 원하니까 Medium과 High의 가성비가 둘 다 좋아야 된다고 생각한다. 커서 벤치( https://cursor.com/ko/cursorbench )를 보면 다음 문제점이 보인다. 1) High와 Medium의 차이가 적다. =&amp;gt; 굳이 High를 쓸 이유가 없다. 2) Low로 낮추면 비용이 늘어난다. =&amp;gt; Low로 낮추면 문제를 못 풀고 과하</description>
+      <content:encoded>&lt;p&gt;우선 제미나이 API 가격을 살펴보자. (할인 적용 전 정상가 기준)&lt;/p&gt;&lt;p&gt;- Hydrogen : $1.5/$7.5&lt;/p&gt;&lt;p&gt;- Neon : $3/$15&lt;/p&gt;&lt;p&gt;- Argon : $4/$20&lt;/p&gt;&lt;p&gt;- Carbon : $4/$20&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Argon과 Carbon이 Opus 5.5 급이고, Hydrogen이 Sonnet 5.5 급인거 같은데, Neon의 가격 포지션이 어중간하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;클로드의 오푸스-소넷-하이쿠 체계나 오픈AI의 아스트라-솔-루나 체계를 기준으로 생각하면 이해가 안 될 거다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(구글은 남들이 하는 대로 따라가지 않고 독자적인 방식을 쓰는 특성이 있다.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;제미나이 모델명을 원소명으로 대충 짓고 있는데&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;앞으로 어떤 모델을 내놓을지 장기적인 플랜이 없는 거 같다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;계획을 먼저 세우고 그 계획에 맞춰서 모델을 출시하는 방식으로는 경쟁사를 쫓아가기 어렵다고 본 건지&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;일단 모델을 만들어보고 괜찮으면 출시하는 거 같다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(거창한 계획을 세워놓고 실천을 못하는 것보다는 낫다고 본다.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그래서 체급을 나눠서 보는 접근보다는 각 모델의 특성을 잘 파악하는게 중요하다는 거다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그러면 모델별 특성을 살펴보자.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1. Argon (기획 및 리뷰)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2026년 10월 13일에 출시된 모델이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;터미널 벤치 4.0(&lt;a href="https://www.vals.ai/benchmarks/terminal-bench-4"&gt;https://www.vals.ai/benchmarks/terminal-bench-4&lt;/a&gt;)를 보면 가성비 떨어지는 걸로 나오는데&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;가성비가 떨어지는 이유가 중요하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;실제 사용해보면 방향성은 잘 잡지만 환각이 심해서 뻘짓을 계속 해대니 토큰을 많이 잡아먹는거다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(과추론으로 인해서 추론 토큰 사용량도 많음.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;근데 시야가 오푸스보다 넓고 창의력이 좋아서 기획을 맡기는게 좋다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;코드 리뷰를 맡기면 환각이 심하기는 하지만 남들이 못 보는걸 많이 찾아내서 애용 중이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(아르곤이 작성한 코드 리뷰에 잘못된 정보가 있을 수 있으니 그건 주의해야 함.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;커서 벤치(&lt;a href="https://cursor.com/ko/cursorbench"&gt;https://cursor.com/ko/cursorbench&lt;/a&gt;)를 보면 Medium과 High 차이가 크지 않다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c64f12f49" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403efc8c2e4edaf7dae1eb7ffb21d91102bb091a60182e484"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;참고로 나는 &lt;b&gt;추론 레벨은 Medium로 고정&lt;/b&gt;해놓고 쓴다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. Carbon (봉인)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2026년 11월 10일에 출시된 모델이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;터미널 벤치 4.0상으로는 가성비가 좋은 모델이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Argon에 비해서 환각이 많이 줄어서 벤치상으로는 Argon 보다는 가성비가 좋아졌다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;근데 이걸 쓰려면 제미나이 울트라를 구독해야하는데(11월 19일 현재 기준)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;구독자들의 평으로는 속도까지 느리다고 한다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;제미나이 모델의 스윗 스팟은 거의 Medium~High였다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;High는 괜찮은데 Medium 성능이 과도하게 낮다면, 어려운 문제를 만나면 밑천 드러날 가능성이 높다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;나는 안정적인 성능을 원하니까 Medium과 High의 가성비가 둘 다 좋아야 된다고 생각한다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;커서 벤치(&lt;a href="https://cursor.com/ko/cursorbench"&gt;https://cursor.com/ko/cursorbench&lt;/a&gt;)를 보면&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c64f3214c" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403e3ccc7eaeaa67cad13b6ffe51e951129077c73240b60c1"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;다음 문제점이 보인다.&lt;/p&gt;&lt;p&gt;1) High와 Medium의 차이가 적다. =&amp;gt; 굳이 High를 쓸 이유가 없다.&lt;/p&gt;&lt;p&gt;2) Low로 낮추면 비용이 늘어난다. =&amp;gt; Low로 낮추면 문제를 못 풀고 과하게 헤매는 상태가 된다는 의미다.&lt;/p&gt;&lt;p&gt;3) 그러면 어쩔 수 없이 Medium을 써야하는데, 이건 추론 토큰 수가 많다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Carbon은 실체감이 구린 모델의 특징을 보이고 있다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Carbon은 봉인해두는게 좋을 거 같다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3. Hydrogen (워커)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2026년 11월 12일에 출시된 모델이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Carbon이 출시된 직후에 출시돼서 Carbon을 증류해서 나온 모델이라고 생각하는거 같은데&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;프로급 모델과 플래시급 모델은 따로 개발하는걸로 알고 있어서 엄밀히 말하면 그건 아닐거라고 본다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;다만, Hydrogen은 Argon보다는 Carbon에 가까운 모델이기는 한게, 환각이 적은 편이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;커서 벤치(&lt;a href="https://cursor.com/ko/cursorbench"&gt;https://cursor.com/ko/cursorbench&lt;/a&gt;)를 보면&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c68f92949" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403ebcdc5eeecaf74ae1bb6ffe71b9c477e937fa7b8aec926"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hydrogen Medium이 가성비가 특히 좋게 나왔다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Sonnet 5.5도 가성비가 괜찮은 편인데, Sonnet 5.5 High와 Hydrogen Medium의 가성비가 비슷하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef0464d38fe3" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403ebc8c0e5e9a374ad13bbffe61bc0467e22ed6585cd20dc"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;반면에 Hydrogen High는 가성비가 좀 애매하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;벤치마크 점수야 높게 나오지만, 경량급 모델의 한계상 설계를 맡기기에는 많이 부족하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;사용량이 부족하다면 Hydrogen Medium을 워커로 추천&lt;/b&gt;하고,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;사용량이 넉넉하다면 Hydrogen High를 워커로 추천&lt;/b&gt;한다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;4. Neon (설계)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2026년 11월 18일에 출시된 모델이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c67f52e46" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403ebc0c3e5e8a07ca81dbaffe54ec01c7e26bc40d6d7e1c7"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Argon은 환각이 많고, Hydrogen은 체급이 떨어지는데&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Neon은 환각도 적고, 체급도 적당한 편이다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Neon에게 설계를 맡길 만하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;주요 모델의 커서 벤치 결과(스윗 스팟)&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046f5b459b96" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403e8c9c3e5edae7fad1dbeffe44a934728a77c1437e6a6d1"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c65f52e47" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf71e203c07b852029e573cb53310e9e4e4403e3c9c1efe9a67dac13bdffef4fc1432ac34bb3ece67676"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;설계를 맡기기에 가성비가 좋다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;그러나 써보면 Neon의 한계도 보인다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;설계를 맡기기에는 체급이 다소 낮은 편이라 시야가 좁고 판단력이 아쉽다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Neon을 설계자로 추천하되, Opus/Argon 등의 보조를 받는게 좋다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(물론 Opus 5.5가 Neon보다 설계자로서 더 낫다.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;추론 레벨은 Medium~High&lt;/b&gt;로 둔다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;5. 결론&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(1) 예산이 3만원인 경우&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;클로드 프로 구독 해지하고 제미나이 프로로 갈아타는 건 추천하지 않는다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; (이유 : Opus를 대체할 메인 설계 모델이 제미나이에 없다.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;(2) 예산이 6만원인 경우&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;클로드 프로 구독 유지하고 제미나이 프로도 추가 구독하는게 어떠냐면 한 번 해볼 만하다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;이 경우에는 다음과 같이 업무 분담하는 걸 추천한다.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;1) &lt;em&gt;난이도가 높거나 클로드 사용량에 여유가 있는 경우&lt;/em&gt;&lt;/p&gt;&lt;p&gt; =&amp;gt; Opus 설계 + Hydrogen 워커 + Argon 리뷰&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2) 난이도가 그리 높지 않거나 클로드 사용량을 아껴야 하는 경우&lt;/p&gt;&lt;p&gt; =&amp;gt; Neon 설계(+ Opus/Argon 기획) + Hydrogen 워커 + Argon/Opus 리뷰&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=194265</guid>
     </item>
     <item>
       <title>🛠️ 병신.jpg</title>
@@ -357,6 +373,280 @@
       <description>&amp;quot;그냥 서로를 믿어라&amp;quot;</description>
       <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef04699c3df4b5f2" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cf7ee22e6b010a395d458132131fa5c6025abd435bc4d2d4255b3a5e91c8a71b123fc3cca4ab20fa44"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;"그냥 서로를 믿어라"&lt;/span&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=187705</guid>
+    </item>
+    <item>
+      <title>🛠️ ⭐구글 안티그래비티 (반중력) (밴) 정지 사례 구글포럼 3개월치 전수조사</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=186831</link>
+      <pubDate>Sun, 15 Nov 2026 18:56:19 +0000</pubDate>
+      <description>[정보] Google AI 공식 포럼 ToS 태그 3개월(2026-08-16 ~ 2026-11-16) 전수 조사 Antigravity(안티그래비티) 계정 정지 기준·허용 범위 총정리 (155건 + 정책 Q&amp;amp;A) 기준 출처: discuss.ai.google.dev/tag/tos/448 (최근 3개월 전체 232개 중 Antigravity 155건 및 연관 공식 답변 스레드 2건 전수 분석) 요약 배경: 최근 안티그래비티(Antigravity) CLI, MCP, ACP, 외부 에이전트 연동 과정에서 403 ToS Violation 정지 사례가 급증하여, 공식 포럼 약관 문의 및 이의제기 글 155건(정책/자격 Q&amp;amp;A 19건 + 정지 호소 136건) 의 본문과 댓글을 전수 확인해 정리함. ※ 갤러리 금칙어·스팸 필터 예방을 위해 단축 URL 대신 전체 URL을 사용했고 일부 민감 단어를 순화했음. (맨 아래 디시체 세 줄 요약 있음) 1. 핵심 정책 타임라인 — 10월 8일 전후로 바뀐 기준 9/16 ~ 10/7 (초기 완화 해석): 로컬에서 다른 도구가 공식 agy -p 서브프로세스를 직접 호출하는 방식은 조건부 허용 취지의 초기 스태프 답변이 있었음.
+      ( [186246] , [186952] ) 10/8 이후 ~ 현재 (엄격 차단으로 선회): 10/8 스태프( @chunduriv ) 답변 및 10월 중순 공식 FAQ 개정을 통해, 소비자 구독(AI Pro·Ultra·Free 플랜) 로그인 상태에서 제3자 에이전트(Codex, Claude Code, OpenClaw, OpenCode 등) 내부에 agy 를 끼워 호출·래핑하는 구조 를 비지원·자동 정지 대상으로 명시함. (약관 원문 변경 없이 FAQ &amp;quot;not supported&amp;quot; 기준 적용)
+      ( [187241] , [191689] , [198430] ) 공식 예외 해법 (API 키 분리 모드): 외부 에이전트나 자동화에서 써야 한다면 ~/.gemini/antigravity-cli/settings.json 에 &amp;quot;modelProvider&amp;quot;: &amp;quot;gemini&amp;quot; 와 GEMINI_API_KEY 를 설정해 계정 OAuth 세션을 열지 않는 API 모드로 분리해야 함.
+      ( [191689] #8 ) 추가 크레딧 과금 차단 설정: 기본 할당량 한도 내에서만 멈추게 하려면 ~/.gemini/config/config.json 의 &amp;quot;useAiCredits&amp;quot;: false 와 ~/.gemini/antigravity-cli/settings.json 의 &amp;quot;useG1Credits&amp;quot;: false 적용이 공식 안내됨.
+      ( [190756] ) 2. 기능별 공식 허용 vs 주의 vs 정지 기준표 영역 판정 상세 허용 범위 및 금지 조건 근거 링크 OAuth 토큰 추출·프록시·라우터 정지 대상 공식 클라이언트가 아닌 OpenCode, 9Router, OmniRoute, Hermes, OpenClaw 등에 구독 OAuth 로그인을 연결해 API처럼 대리 호출하거나 다중 계정 한도 분산을 하는 경</description>
+      <content:encoded>html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"
+xml encoding="UTF-8"&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+      [정보] Google AI 공식 포럼 ToS 태그 3개월(2026-08-16 ~ 2026-11-16) 전수 조사
+    &lt;/div&gt;
+&lt;div&gt;
+      Antigravity(안티그래비티) 계정 정지 기준·허용 범위 총정리 (155건 + 정책 Q&amp;amp;A)
+    &lt;/div&gt;
+&lt;div&gt;
+      기준 출처: &lt;a href="https://discuss.ai.google.dev/tag/tos/448"&gt;discuss.ai.google.dev/tag/tos/448&lt;/a&gt; (최근 3개월 전체 232개 중 Antigravity 155건 및 연관 공식 답변 스레드 2건 전수 분석)
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;요약 배경:&lt;/strong&gt; 최근 안티그래비티(Antigravity) CLI, MCP, ACP, 외부 에이전트 연동 과정에서 &lt;strong&gt;403 ToS Violation 정지&lt;/strong&gt; 사례가 급증하여, 공식 포럼 약관 문의 및 이의제기 글 &lt;strong&gt;155건(정책/자격 Q&amp;amp;A 19건 + 정지 호소 136건)&lt;/strong&gt;의 본문과 댓글을 전수 확인해 정리함.
+    &lt;/p&gt;
+&lt;p&gt;
+      ※ 갤러리 금칙어·스팸 필터 예방을 위해 단축 URL 대신 전체 URL을 사용했고 일부 민감 단어를 순화했음. (맨 아래 &lt;strong&gt;디시체 세 줄 요약&lt;/strong&gt; 있음)
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    1. 핵심 정책 타임라인 — 10월 8일 전후로 바뀐 기준
+  &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;9/16 ~ 10/7 (초기 완화 해석):&lt;/strong&gt; 로컬에서 다른 도구가 공식 &lt;span&gt;agy -p&lt;/span&gt; 서브프로세스를 직접 호출하는 방식은 조건부 허용 취지의 초기 스태프 답변이 있었음.
+      (&lt;a href="https://discuss.ai.google.dev/t/can-a-local-ai-coordinator-launch-the-official-antigravity-cli-with-subscription-sign-in/186246"&gt;[186246]&lt;/a&gt;,
+      &lt;a href="https://discuss.ai.google.dev/t/is-invoking-the-official-antigravity-cli-from-codex-allowed/186952"&gt;[186952]&lt;/a&gt;)
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;10/8 이후 ~ 현재 (엄격 차단으로 선회):&lt;/strong&gt; 10/8 스태프(&lt;span&gt;@chunduriv&lt;/span&gt;) 답변 및 10월 중순 공식 FAQ 개정을 통해, 소비자 구독(AI Pro·Ultra·Free 플랜) 로그인 상태에서 &lt;strong&gt;제3자 에이전트(Codex, Claude Code, OpenClaw, OpenCode 등) 내부에 &lt;span&gt;agy&lt;/span&gt;를 끼워 호출·래핑하는 구조&lt;/strong&gt;를 비지원·자동 정지 대상으로 명시함. (약관 원문 변경 없이 FAQ "not supported" 기준 적용)
+      (&lt;a href="https://discuss.ai.google.dev/t/is-google-ai-pro-antigravity-cli-automation-with-codex-permitted/187241"&gt;[187241]&lt;/a&gt;,
+      &lt;a href="https://discuss.ai.google.dev/t/paying-google-ai-pro-subscriber-allow-subscription-use-with-third-party-agents-like-openclaw/191689"&gt;[191689]&lt;/a&gt;,
+      &lt;a href="https://discuss.ai.google.dev/t/1m-advertised-context-vs-a-256k-compaction-clamp-in-the-shipped-binaries-plus-quota-and-agy-p-policy-questions-desktop-2-29-0-cli-1-5-1/198430"&gt;[198430]&lt;/a&gt;)
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;공식 예외 해법 (API 키 분리 모드):&lt;/strong&gt; 외부 에이전트나 자동화에서 써야 한다면 &lt;span&gt;~/.gemini/antigravity-cli/settings.json&lt;/span&gt;에 &lt;span&gt;"modelProvider": "gemini"&lt;/span&gt;와 &lt;span&gt;GEMINI_API_KEY&lt;/span&gt;를 설정해 계정 OAuth 세션을 열지 않는 API 모드로 분리해야 함.
+      (&lt;a href="https://discuss.ai.google.dev/t/paying-google-ai-pro-subscriber-allow-subscription-use-with-third-party-agents-like-openclaw/191689"&gt;[191689] #8&lt;/a&gt;)
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;추가 크레딧 과금 차단 설정:&lt;/strong&gt; 기본 할당량 한도 내에서만 멈추게 하려면 &lt;span&gt;~/.gemini/config/config.json&lt;/span&gt;의 &lt;span&gt;"useAiCredits": false&lt;/span&gt;와 &lt;span&gt;~/.gemini/antigravity-cli/settings.json&lt;/span&gt;의 &lt;span&gt;"useG1Credits": false&lt;/span&gt; 적용이 공식 안내됨.
+      (&lt;a href="https://discuss.ai.google.dev/t/policy-clarification-private-monitoring-app-using-official-antigravity-cli-and-subscription-quota/190756"&gt;[190756]&lt;/a&gt;)
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+    2. 기능별 공식 허용 vs 주의 vs 정지 기준표
+  &lt;/div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;영역&lt;/th&gt;
+&lt;th&gt;판정&lt;/th&gt;
+&lt;th&gt;상세 허용 범위 및 금지 조건&lt;/th&gt;
+&lt;th&gt;근거 링크&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OAuth 토큰 추출·프록시·라우터&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;정지 대상&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;공식 클라이언트가 아닌 OpenCode, 9Router, OmniRoute, Hermes, OpenClaw 등에 구독 OAuth 로그인을 연결해 API처럼 대리 호출하거나 다중 계정 한도 분산을 하는 경우 &lt;strong&gt;즉시 정지 1순위&lt;/strong&gt;.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/request-for-manual-review-antigravity-cli-disabled-google-ai-pro-opencode-omniroute/198468"&gt;[198468]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/paying-google-ai-pro-subscriber-allow-subscription-use-with-third-party-agents-like-openclaw/191689"&gt;[191689]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;agy -p 및 외부 에이전트 래핑&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;비지원·위험&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;사람이 직접 터미널에서 실행하는 것 외에, 다른 AI 도구나 커스텀 앱이 OAuth 세션의 agy를 자동 호출하거나 설정 파일을 변형해 로컬 MCP를 강제 주입하면 Section 6 위반으로 차단됨. (API 키 모드만 예외)&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/is-google-ai-pro-antigravity-cli-automation-with-codex-permitted/187241"&gt;[187241]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/terms-section-6-may-a-local-script-run-the-official-agy-cli-when-launched-by-another-vendors-ai-tool/199021"&gt;[199021]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-submitted-antigravity-cli-403-after-headless-reviews-run-by-my-ai-assistant-all-automated-agy-use-removed/199919"&gt;[199919]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;ACP &amp;amp; MCP 공식 연동&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;조건부 허용&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;span&gt;허용&lt;/span&gt; 순정 &lt;span&gt;agy acp&lt;/span&gt; / &lt;span&gt;antigravity-acp&lt;/span&gt;를 공식 ACP 레지스트리 에디터(JetBrains &lt;span&gt;~/.jetbrains/acp.json&lt;/span&gt;, Android Studio, Zed, Xcode, VS Code ACP Client)에서 &lt;strong&gt;사용자가 직접 대면 조작&lt;/strong&gt;할 때. OpenBot+로컬 브라우저 MCP도 백그라운드·작업 큐·데이터 수집·주기적 폴링·자동 보안검증 기능을 모두 끈 대면 사용만 허용.&lt;br/&gt;
+&lt;span&gt;금지·주의&lt;/span&gt; &lt;span&gt;dsh-antigravity-acp&lt;/span&gt; 등 OAuth 크레덴셜 추출·할당량 주기적 폴링·워커 풀 구성 금지. 또한 공식 antigravity-acp/Zed ACP 실험 중 정지 사례 2건도 실제 보고됨.
+        &lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/clarification-request-is-local-ipc-pty-wrapping-of-agy-cli-for-open-standard-editor-bridges-e-g-acp-tos-compliant/175905"&gt;[175905]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/tos-clarification-is-openbot-official-antigravity-acp-server-permitted-under-the-antigravity-terms-of-service/197826"&gt;[197826]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/tos-clarification-dsh-antigravity-acp/199574"&gt;[199574]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/an-acp-service-compliance-question/200200"&gt;[200200]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-antigravity-agy-cli-disabled-for-tos-403-requesting-manual-review/198478"&gt;[198478]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-for-antigravity-account-suspension-for-using-official-zed-gemini-acp/198956"&gt;[198956]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;UI 자동 입력 vs 클립보드 전달&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;조건부 허용&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;다른 비서가 작업 파일 작성·클립보드 복사까지만 해주고 &lt;strong&gt;사람이 직접 붙여넣기 + 엔터&lt;/strong&gt; 치는 건 허용. 단, 외부 앱이 안티그래비티 입력창에 텍스트를 직접 꽂아넣거나 엔터를 대신 누르면 Section 6 위반(가족 요금제는 위반 계정만 개별 제재).&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/consumer-google-ai-pro-may-my-personal-assistant-prepare-tasks-that-i-start-myself-in-antigravity/199756"&gt;[199756]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;SSH · tmux · 공식 원격제어 · Docker&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;원칙 허용&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;개인 SSH, tmux, 셀프 호스팅 웹 터미널에서 본인이 직접 입력하거나 &lt;span&gt;/remote-control&lt;/span&gt;·&lt;span&gt;agy remote-control start&lt;/span&gt; 사용은 허용. Docker 샌드박스 자체도 허용이나, 빈번한 컨테이너 재생성·IP 변동으로 오탐이 발생한 사례가 있음.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/is-using-the-official-agy-cli-in-my-own-self-hosted-web-terminal-allowed-on-a-personal-ai-pro-account/200116"&gt;[200116]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/i-was-just-using-docker-sandboxes-using-the-appeal-form-is-not-fair-terms-of-service-violation/200001"&gt;[200001]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;다중 계정 전환 &amp;amp; 생성 이미지 상업 이용&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;조건부 허용&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;본인 소유 유료 계정 간 &lt;strong&gt;수동 전환&lt;/strong&gt;은 허용, 자동 계정 로테이션·비구독(Free) 다계정 한도 늘리기는 금지. Antigravity에서 생성한 이미지의 상업적 활용은 허용.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/is-switching-google-antigravity-accounts-a-tos-violation/174378"&gt;[174378]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/commercial-use-of-images-generated-with-antigravity-gemini-3-1-flash-image/186718"&gt;[186718]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div&gt;
+    3. 실제 정지(403 ToS Violation) 136건 유형별 분류 &amp;amp; 3대 웨이브
+  &lt;/div&gt;
+&lt;p&gt;
+    최근 3개월간 Antigravity 정지·이의제기 스레드 &lt;strong&gt;136건&lt;/strong&gt;을 중복 없이 상호 배타적으로 분류한 통계표(합계 136건 = 100%)임.
+  &lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;정지 추정 유형&lt;/th&gt;
+&lt;th&gt;건수(비율)&lt;/th&gt;
+&lt;th&gt;주요 특징 및 작성자 보고 내용&lt;/th&gt;
+&lt;th&gt;대표 사례&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;① 제3자 OAuth 프록시·멀티라우터&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;54건&lt;/strong&gt;&lt;br/&gt;(39.7%)&lt;/td&gt;
+&lt;td&gt;구독 계정 OAuth 인증을 외부 툴에 물린 경우.&lt;br/&gt;&lt;span&gt;(본인 기재 도구: OpenCode 11, 9Router 9, OmniRoute 5, Hermes 5, OpenClaw 3, Antigravity-Tools/Manager 2, 기타 Insightful Pipe·DeepSeek Harness·CLIProxyAPI·omp·Ganymede 각 1)&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/request-for-manual-review-antigravity-cli-disabled-google-ai-pro-opencode-omniroute/198468"&gt;[198468]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/request-for-manual-review-account-disabled-error-id-32a431b9-7705-45ec-aa47-4e337dd48767-143/198991"&gt;[198991]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-antigravity-service-disabled-403-tos-violation-appeal-antigravity-service-disabled-403-tos-violation-error-id-4be74702-e273-4c6f-9be3-43fe5daf99a1-1/199194"&gt;[199194]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;② 공식 클라이언트만 사용 주장·원인 미상&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;32건&lt;/strong&gt;&lt;br/&gt;(23.5%)&lt;/td&gt;
+&lt;td&gt;순정 IDE/CLI만 썼다고 호소하거나 오류 ID만 첨부해 구체적 경위 확인이 어려운 일반 정지 건.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-stuck-flag-google-ai-pro-subscriber-403-permission-denied-on-antigravity-17-days-pending-case-9-0176000041304/192076"&gt;[192076]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-for-antigravity-cli-service-restriction/199897"&gt;[199897]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;③ 11/12~ 신버전(Hydrogen 등) 오탐 웨이브&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;17건&lt;/strong&gt;&lt;br/&gt;(12.5%)&lt;/td&gt;
+&lt;td&gt;공식 VS Code 확장(v1.12.0), IDE(v2.7.0), 앱(v2.31.2) 업데이트 및 Hydrogen 모델 전환 직후 단순 질문 1회 만에 403 발생한 대형 웨이브. 42댓글 스레드 및 구글 고객센터의 "알려진 문제" 회신 인용 포함.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/submit-an-appeal-to-continue-using-this-product/199867"&gt;[199867]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-bug-false-positive-403-tos-violation-after-gemini-4-hydrogen-official-vs-code-extension-only/200029"&gt;[200029]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/possible-antigravity-false-positive-suspension/200014"&gt;[200014]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-antigravity-cli-agy-403-disabled-for-violation-of-terms-of-service-ai-pro-subscriber-official-cli-only/199882"&gt;[199882]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;④ CLI 자동화·외부 에이전트·백엔드 과부하&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;12건&lt;/strong&gt;&lt;br/&gt;(8.8%)&lt;/td&gt;
+&lt;td&gt;헤드리스 리뷰 스크립트, 커스텀 비서 앱에서 agy 자동 호출, 1일 20회 이상 연속 자동 루프, CI/CD·서브에이전트 대량 스폰 등.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/request-for-manual-account-review-antigravity-service-suspension-error-id-1a3e2258-833e-4611-971b-7c3ff7edb8f4-578/199869"&gt;[199869]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-submitted-antigravity-cli-403-after-headless-reviews-run-by-my-ai-assistant-all-automated-agy-use-removed/199919"&gt;[199919]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/service-has-been-disabled-for-violation-of-terms-of-service/199903"&gt;[199903]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;⑤ VPN·네트워크·다중 기기·Docker 변동&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;11건&lt;/strong&gt;&lt;br/&gt;(8.1%)&lt;/td&gt;
+&lt;td&gt;VPN·프록시 지역 급변, PC+노트북+맥북 동시 접속, OS 재설치, Docker 컨테이너 반복 생성·삭제 중 토큰 이상 탐지.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/antigravity-services-has-been-disabled-in-this-account-for-violation-of-t-s/198983"&gt;[198983]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/tos-appeal-service-disabled/198718"&gt;[198718]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-for-account-suspension-error-id-ab4ddd26-3381-4f1d-9b57-4d1fe507c949-1/198900"&gt;[198900]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;⑥ 프롬프트 키워드·안전 필터 오탐&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;6건&lt;/strong&gt;&lt;br/&gt;(4.4%)&lt;/td&gt;
+&lt;td&gt;보안 로그 점검(&lt;a href="https://discuss.ai.google.dev/t/appeal-request-for-account-suspension-false-positive-on-log-analysis/199881"&gt;[199881]&lt;/a&gt;), 게임 테스트용 디버그 명령어·비정상 작동 검증 단어 언급(&lt;a href="https://discuss.ai.google.dev/t/appeal-request-false-positive-this-service-has-been-disabled-in-this-account-for-violation-of-terms-of-service-please-submit-an-appeal-to-continue-using-this-product-error-id-4c1c0677-52c2-4ffe-827b-1b56389f0570-306/199872"&gt;[199872]&lt;/a&gt;), QA 문서(&lt;a href="https://discuss.ai.google.dev/t/false-positive-tos-suspension-during-legitimate-qa-test-plan-documentation-review-via-agy-cli-error-id-4c817de9-e40d-4f4f-9f0a-f34fce81be66-1/198199"&gt;[198199]&lt;/a&gt;), 시스템 파일 수정 맥락(&lt;a href="https://discuss.ai.google.dev/t/tos-suspension-appeal-error-c9c51af7-8e0b-4ba6-83e7-238785abad59-7/199883"&gt;[199883]&lt;/a&gt;) 등에서 안전 필터가 작동한 사례.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-for-false-positive-account-suspension-google-ai-pro-subscriber/199790"&gt;[199790]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-request-for-account-suspension-false-positive-on-log-analysis/199881"&gt;[199881]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;⑦ 다중 계정 전환·반복 제재&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2건&lt;/strong&gt;&lt;br/&gt;(1.5%)&lt;/td&gt;
+&lt;td&gt;비구독 계정 병행 또는 복구 직후 재정지 사례. (제3자 유형 1건 &lt;a href="https://discuss.ai.google.dev/t/second-tos-suspension-pro-account-appeal-form-submitted-requesting-manual-review/187418"&gt;[187418]&lt;/a&gt;은 ①번에 포함)&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/second-tos-suspension-pro-account-appeal-form-submitted-requesting-manual-review/187418"&gt;[187418]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;⑧ 공식 ACP 연동 중 제재 호소&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2건&lt;/strong&gt;&lt;br/&gt;(1.5%)&lt;/td&gt;
+&lt;td&gt;허용 범위로 알려진 antigravity-acp 및 Zed ACP 연동 테스트 중 정지된 사례.&lt;/td&gt;
+&lt;td&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-antigravity-agy-cli-disabled-for-tos-403-requesting-manual-review/198478"&gt;[198478]&lt;/a&gt;&lt;br/&gt;
+&lt;a href="https://discuss.ai.google.dev/t/appeal-for-antigravity-account-suspension-for-using-official-zed-gemini-acp/198956"&gt;[198956]&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div&gt;
+&lt;strong&gt;시기별 3대 웨이브(합계 136건):&lt;/strong&gt;&lt;br/&gt;
+    • &lt;strong&gt;1차(~11/4 이전, 23건):&lt;/strong&gt; 초기 개별 정지 및 정책 해석 혼선기&lt;br/&gt;
+    • &lt;strong&gt;2차(11/5~11/11, 72건):&lt;/strong&gt; 9Router·OpenCode·OmniRoute 등 OAuth 프록시 집중 단속 (명시적 제3자 프록시만 36건)&lt;br/&gt;
+    • &lt;strong&gt;3차(11/12~11/15, 41건):&lt;/strong&gt; Hydrogen/신버전 오탐 의심 16건 + CLI/외부에이전트 8건 + 제3자 10건 + 키워드 4건 + VPN/네트워크 3건
+  &lt;/div&gt;
+&lt;div&gt;
+    4. 예방 수칙 및 정지(403) 발생 시 이의제기 가이드
+  &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;재발 방지 정리 순서 (매우 중요):&lt;/strong&gt; 제3자 프록시 데몬(9Router 등) 백그라운드 프로세스 완전 종료 → &lt;a href="https://myaccount.google.com/permissions"&gt;구글 계정 권한 관리(myaccount.google.com/permissions)&lt;/a&gt;에서 비공식 앱 연결 해제 → 로컬 인증/세션 캐시(&lt;span&gt;~/.antigravity&lt;/span&gt;, &lt;span&gt;~/.gemini&lt;/span&gt;, &lt;span&gt;%APPDATA%\Antigravity&lt;/span&gt;) 정리 후 순정 최신 버전으로만 로그인.
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;단일 이의제기 원칙(One-Time Appeal Policy):&lt;/strong&gt; 개인 계정은 반드시 공식 폼을 &lt;strong&gt;1회만 정확히 제출&lt;/strong&gt;하고 48~72시간 대기해야 함 (중복 제출 금지, 포럼 내 실제 복구 확인 사례도 존재 — 예: [198965] #3, [198841] #8, [198940] #8, &lt;a href="https://discuss.ai.google.dev/t/submit-an-appeal-to-continue-using-this-product/199867"&gt;[199867]&lt;/a&gt;).&lt;br/&gt;
+      ▶ &lt;strong&gt;개인 계정 공식 이의제기 폼:&lt;/strong&gt; &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-QY1gz8U0CGA/viewform"&gt;https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-QY1gz8U0CGA/viewform&lt;/a&gt;&lt;br/&gt;
+      ▶ &lt;strong&gt;기업/워크스페이스 고객:&lt;/strong&gt; &lt;a href="https://console.cloud.google.com/support"&gt;https://console.cloud.google.com/support&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;div&gt;
+      ★ 디시체 세 줄 요약 (안티그래비티 403 정지 피하는 법)
+    &lt;/div&gt;
+&lt;p&gt;
+&lt;strong&gt;1.&lt;/strong&gt; 구독 계정 OAuth 빼서 OpenCode·9Router 같은 외부 프록시나 &lt;span&gt;agy -p&lt;/span&gt; 자동화 스크립트에 물리면 거의 바로 403 썰림(전체 정지의 약 40%가 프록시, 10/8 이후 정책 못 박음).
+    &lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2.&lt;/strong&gt; 외부 에이전트나 자동화에 꼭 붙이고 싶으면 구독 로그인 쓰지 말고 &lt;span&gt;settings.json&lt;/span&gt;에서 &lt;span&gt;"modelProvider": "gemini"&lt;/span&gt; + &lt;span&gt;GEMINI_API_KEY&lt;/span&gt; 종량제 API 키 모드로만 돌리셈.
+    &lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;3.&lt;/strong&gt; 순정 유저도 11/12 신버전 업데이트·VPN 급변·보안 키워드 오탐으로 억울하게 날아가는 경우가 꽤 있으니, 걸리면 백그라운드 프록시·권한부터 다 밀고 공식 구글 폼에 이의제기 &lt;strong&gt;딱 1번만&lt;/strong&gt; 넣고 2~3일 존버하면 복구되는 케이스도 많음.
+    &lt;br/&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;
+&lt;div&gt;&lt;div&gt;
+&lt;img alt="AI 이미지1(google ceo)" src="https://dcimg1.dcinside.com/viewimageFile.php?no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75788456bd4828c4ba8a4064f3c0d51cd5344b2b066b4188b17b0fddde2ea7a0500175&amp;amp;logo=33"/&gt;
+&lt;/div&gt;
+&lt;p&gt;AI 이미지가 생성되었습니다.&lt;/p&gt;&lt;p&gt;새로고침(F5) 해 주세요.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;프롬프트&lt;/div&gt;
+&lt;div&gt;&lt;div&gt;google ceo&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;네거티브&lt;br/&gt;프롬프트&lt;/div&gt;
+&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;샘플링&lt;/div&gt;
+&lt;div&gt;Euler&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=186831</guid>
     </item>
     <item>
       <title>🛠️ 이미 뉴스도 GPT가 점령 중임</title>
@@ -5433,6 +5723,32 @@ AgentRouter 공급자만 다음처럼 변경해:
       <pubDate>Tue, 06 Oct 2026 13:56:56 +0000</pubDate>
       <description />
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=114998</guid>
+    </item>
+    <item>
+      <title>🛠️ 바이브코딩으로 버튜버 사이버 납골당 사이트 만들었음</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=114890</link>
+      <pubDate>Tue, 06 Oct 2026 12:57:48 +0000</pubDate>
+      <description>https://vyearbook.com 버튜버 졸업앨범 편집부 졸업한 버튜버의 활동 기록을 모은 앨범. 한국, 일본, 영어권 졸업생의 데뷔부터 졸업까지를 기억합니다. vyearbook.com 바이브코딩 첫경험으로 사이트 하나 만들어봐서 공유해봄. 1. 이게 뭔 사이트임? 졸업한 버튜버들 모아놓은 졸업앨범 사이트임. 공식 명칭은 버튜버 졸업앨범 편집부인데 사실 그냥 사이버 납골당임. 나무위키는 정보용인데, 그냥 &amp;quot;얘 있었지&amp;quot; 하고 모아두고 기억하는 곳이 없길래 만듦. 졸업한 버튜버한테 꽃 놓고, 추억 한마디 남기고, 사이트 안에서 관계도 쌓고 하는 거임. 2. 제작과정 왼쪽부터 순서대로 개편 버전.
+
+1번 2번은 처음에 impeccable 하고 taste-skill 써서 시안 뽑은 건데 AI 슬롭 티가 너무 나는 거임. 바이브코딩으로 클코 엄청 채찍질해가면서 디자인 다듬음. 느낌상으로는 3번부터 괜찮아짐. 졸업앨범 컨셉에 충실하게 증명사진을 나열하는 느낌이었음.
+
+지금 버전은 어두운 배경 쳐내고 흰 바탕화면으로 최종안 땅땅함. 최종안도 AI 슬롭티가 다 벗겨진 건 아니긴 한데, 확실히 검은 배경은 더 AI 티가 났음. 그 뒤 기능 구현하는데 현업에서는 기획자, 프론트, 서버, 디자이너가 달라붙어서 며칠 몇 주 동안 해야하는 걸 그냥 뚝딱 해버리니까 좀 신나긴 함. 기능은 다양하게 만들었으니 혹시 찍먹할 의향 있다면 ㄱㄱ하셈. 다 만든 사이트를 서버에 올리는거는 생각보다 복잡했음. 그래도 클코가 해달라고 하면 다 해줌. 최고. 3. 후기 바이브코딩 신기하긴 하더라. 어떤 사이트를 만들지 처음 기획하고 아이디어만 있으면 땅땅 만들어주는데 코드 하나도 몰라도 만들어 줌. 근데 이후 수정하고 다듬는 작업이 ㄹㅇ 방망이 깎는 노인임. 넣고 빼고 하는 의사결정을 계속 해줘야하는 게 생각보다 힘들더라.</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://vyearbook.com"&gt;https://vyearbook.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;a href="https://vyearbook.com"&gt;&lt;div&gt;&lt;img src="https://vyearbook.com/og.png"/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;strong&gt;버튜버 졸업앨범 편집부&lt;/strong&gt;&lt;/div&gt;&lt;p&gt;졸업한 버튜버의 활동 기록을 모은 앨범. 한국, 일본, 영어권 졸업생의 데뷔부터 졸업까지를 기억합니다.&lt;/p&gt;&lt;p&gt;vyearbook.com&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;바이브코딩 첫경험으로 사이트 하나 만들어봐서 공유해봄.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+&lt;b&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;1. 이게 뭔 사이트임?
+&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+졸업한 버튜버들 모아놓은 졸업앨범 사이트임. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;공식 명칭은 버튜버 졸업앨범 편집부인데&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;사실 그냥 사이버 납골당임.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+나무위키는 정보용인데, &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;그냥 "얘 있었지" 하고 모아두고 기억하는 곳이 없길래 만듦.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+졸업한 버튜버한테 꽃 놓고, 추억 한마디 남기고, 사이트 안에서 관계도 쌓고 하는 거임.&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;2. 제작과정&lt;/span&gt;&lt;/b&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef046c60f12c4c9eed" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef988e3eb550b69dcf271f13bab79e32106d080ac2c284e4e855d37c0487b58c75c52d7f5a4b1350e61"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt;왼쪽부터 순서대로 개편 버전.
+
+1번 2번은 처음에 impeccable 하고 taste-skill 써서 시안 뽑은 건데&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;AI 슬롭 티가 너무 나는 거임.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;바이브코딩으로 클코 엄청 채찍질해가면서 디자인 다듬음.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+느낌상으로는 3번부터 괜찮아짐.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;졸업앨범 컨셉에 충실하게 증명사진을 나열하는 느낌이었음.
+
+지금 버전은 어두운 배경 쳐내고 흰 바탕화면으로 최종안 땅땅함.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;최종안도 AI 슬롭티가 다 벗겨진 건 아니긴 한데,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;확실히 검은 배경은 더 AI 티가 났음.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;그 뒤 기능 구현하는데 &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;현업에서는 기획자, 프론트, 서버, 디자이너가 달라붙어서 며칠 몇 주 동안 해야하는 걸&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;그냥 뚝딱 해버리니까 좀 신나긴 함.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;기능은 다양하게 만들었으니 혹시 찍먹할 의향 있다면 ㄱㄱ하셈.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;다 만든 사이트를 서버에 올리는거는 생각보다 복잡했음. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;그래도 클코가 해달라고 하면 다 해줌. 최고.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+&lt;b&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;3. 후기&lt;/span&gt;&lt;/b&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;
+바이브코딩 신기하긴 하더라. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;어떤 사이트를 만들지 처음 기획하고 아이디어만 있으면 땅땅 만들어주는데&lt;/span&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;코드 하나도 몰라도 만들어 줌.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;근데 이후 수정하고 다듬는 작업이 ㄹㅇ 방망이 깎는 노인임.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;넣고 빼고 하는 의사결정을 계속 해줘야하는 게 생각보다 힘들더라.&lt;/span&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=114890</guid>
     </item>
     <item>
       <title>🛠️ 안녕하세요 형님들 AI 활용한 네번째 뮤직비디오 홍보합니다!!</title>
