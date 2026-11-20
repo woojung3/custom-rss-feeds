@@ -99,13 +99,16 @@ See [Miniflux integration](miniflux.md) for Download rules and their required
 string-decoding/regex validation before applying to a live subscription.
 
 Only new IDs receive body queue state. Existing metadata-only IDs are not bulk
-backfilled. Pending state survives pagination and later runs. Ten requests per
+backfilled. Pending state survives pagination and later runs. 100 requests per
 feed/run, two-second pacing, three attempts and hourly minimum retry spacing are
 constants in `article.py`. 401/403/404/410 stop retries for that item. 429 stops body
 work for the feed and persists cooldown, including longer `Retry-After` values.
 Article responses are limited to 1 MiB with 5-second connection and 10-second read
 inactivity timeouts. A 20-second budget is checked between response chunks; it is
-not a hard wall-clock deadline. The workflow also has a 25-minute job timeout.
+not a hard wall-clock deadline. A shared cutoff 20 minutes from the first job step stops new body requests,
+not in-flight requests or list collection. The 25-minute job timeout remains a hard limit.
+Check oldest_pending_seconds in status.json: at 86400 seconds the final Actions step
+reports the backlog after publication. Legacy queues start aging on first observation.
 Article requests accept only canonical DC view URLs and do not follow redirects.
 
 Pending/failed DC bodies remain in state with their original GUID/date; do not
@@ -114,8 +117,8 @@ image-only bodies. A failed item remains in the body status counts; do not erase
 or fail the whole list collection. Old metadata-only items without content_status
 are preserved, not bulk backfilled. Do not repeatedly reset
 failed attempt counters to get around access restrictions. Disabling the flag leaves
-existing content intact. The five enabled feeds have an aggregate ceiling of fifty
-article requests per run, processed sequentially. Ten requests and HTTP 429
+existing content intact. The five enabled feeds have an aggregate ceiling of 500
+article requests per run, processed sequentially. The 100-request limit and HTTP 429
 cooldown remain per-feed, not a shared cross-feed rate limiter. Before expanding
 further or increasing the budget, review host load and test the target reader.
 

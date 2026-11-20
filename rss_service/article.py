@@ -9,7 +9,7 @@ import requests
 from .http import fetch_article
 from .parsers import parse_dc_article
 
-MAX_FETCHES = 10
+MAX_FETCHES = 100
 MAX_ATTEMPTS = 3
 RETRY_AFTER = timedelta(hours=1)
 REQUEST_GAP = 2
@@ -18,13 +18,14 @@ CONTENT_FIELDS = (
     "content_status",
     "content_image_count",
     "content_attempts",
+    "content_queued_at",
     "content_checked_at",
     "content_retry_at",
     "content_error",
 )
 
 
-def enrich(source, items, known, now):
+def enrich(source, items, known, now, deadline=float("inf")):
     """Preserve old metadata-only entries; drain explicitly queued new items."""
     if source["kind"] != "dc" or not source.get("article_content", False):
         return None
@@ -33,6 +34,8 @@ def enrich(source, items, known, now):
     for item in items:
         if item["id"] not in known and "content_status" not in item:
             item.update(content_status="pending", content_attempts=0)
+        if item.get("content_status") == "pending":
+            item.setdefault("content_queued_at", now)
     attempts = 0
     cooldown = any(
         item.get("content_retry_at")
@@ -53,8 +56,12 @@ def enrich(source, items, known, now):
         checked = item.get("content_checked_at")
         if checked and instant - datetime.fromisoformat(checked) < RETRY_AFTER:
             continue
+        if time.monotonic() + (REQUEST_GAP if attempts else 0) >= deadline:
+            break
         if attempts:
             time.sleep(REQUEST_GAP)
+        if time.monotonic() >= deadline:
+            break
         attempts += 1
         item["content_attempts"] = item.get("content_attempts", 0) + 1
         item["content_checked_at"] = (

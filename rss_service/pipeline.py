@@ -2,6 +2,8 @@
 
 from datetime import datetime, timezone
 import json
+import os
+import time
 from pathlib import Path
 import xml.etree.ElementTree as ET
 import requests
@@ -38,6 +40,7 @@ def update_alert(record, now, transient):
 
 
 def build(output, base):
+    deadline = float(os.environ.get("RSS_BODY_DEADLINE", time.monotonic() + 1200))
     sources = json.loads(Path("sources.json").read_text())
     output.mkdir(parents=True, exist_ok=True)
     (output / "feeds").mkdir(exist_ok=True)
@@ -60,7 +63,7 @@ def build(output, base):
             known = {item["id"] for item in record["items"]}
             items = merge(record["items"], incoming, now)
             body_collection = enrich(
-                source, items, known, datetime.now(UTC).isoformat()
+                source, items, known, datetime.now(UTC).isoformat(), deadline
             )
             # Commit metadata only after the replacement RSS is safely written.
             published_count = write_feed(
@@ -80,7 +83,18 @@ def build(output, base):
             record["error"] = f"{type(exc).__name__}: {exc}"
             transient = collecting and is_transient(exc)
         alert = update_alert(record, now, transient)
-        failed = failed or alert
+        queued = [
+            datetime.fromisoformat(i["content_queued_at"])
+            for i in record["items"]
+            if i.get("content_status") == "pending" and i.get("content_queued_at")
+        ]
+        age = (
+            max(0, int((datetime.now(UTC) - min(queued)).total_seconds()))
+            if queued
+            else 0
+        )
+        record["oldest_pending_seconds"] = age
+        failed = failed or alert or age >= 86400
         if record["error"]:
             level = "FAILED" if alert else "DEFERRED"
             print(f"{level} {key}: {record['error']}", flush=True)

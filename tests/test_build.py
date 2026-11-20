@@ -92,10 +92,10 @@ class Tests(unittest.TestCase):
             {"dcbest", "ai-utilize", "thesingularity", "cartoon", "comic-new6"},
         )
         self.assertEqual(enabled, {s["id"] for s in sources if s["kind"] == "dc"})
-        # Still ten requests per feed, at most fifty across all five per run.
+        # At most 100 requests per enabled feed, 500 across all five per run.
         from rss_service.article import MAX_FETCHES, REQUEST_GAP
 
-        self.assertEqual(MAX_FETCHES * len(enabled), 50)
+        self.assertEqual(MAX_FETCHES * len(enabled), 500)
         self.assertGreaterEqual(REQUEST_GAP, 2)
 
     def test_recommend_filters(self):

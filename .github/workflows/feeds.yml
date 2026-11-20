@@ -1,7 +1,7 @@
 name: Collect and publish feeds
 on:
   schedule:
-    - cron: '17 * * * *'
+    - cron: '17,47 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -20,6 +20,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Reserve time for saving and deployment
+        run: python3 -c 'import time; print(f"RSS_BODY_DEADLINE={time.monotonic() + 1200}")' >> "$GITHUB_ENV"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -74,5 +76,8 @@ jobs:
       - name: Report collection failures after publishing
         if: always() && steps.collect.outcome == 'failure'
         run: |
-          echo 'One or more sources failed. Last good feeds were preserved; inspect collection logs and status.json.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Collection errors or overdue body requests; inspect the collection log and status.json.' >> "$GITHUB_STEP_SUMMARY"
+          if test -f site/status.json; then
+            jq -r '.feeds[] | select(.oldest_pending_seconds >= 86400) | "- \(.name): \(.body_collection.pending) pending; oldest wait \(.oldest_pending_seconds / 3600 | floor)h."' site/status.json >> "$GITHUB_STEP_SUMMARY"
+          fi
           exit 1

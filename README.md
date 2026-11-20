@@ -1,6 +1,6 @@
 # Custom RSS Feeds
 
-Seven hourly feeds, published as static XML on GitHub Pages:
+Seven feeds scheduled twice per hour, published as static XML on GitHub Pages:
 
 https://woojung3.github.io/custom-rss-feeds/
 
@@ -22,7 +22,7 @@ links. Google News and Autocrypt Labs retain plain-text excerpts. Respect source
 
 ## Schedule and state
 
-Actions runs at minute 17 every hour (UTC and Korea both have the same minute).
+Actions runs at minutes 17 and 47 every hour (UTC and Korea both have the same minute).
 Schedules can be delayed or skipped by GitHub; public repositories with no
 activity for 60 days can have schedules disabled. Published state updates are
 committed to the `data` branch. No external heartbeat service is configured.
@@ -56,7 +56,7 @@ Rendering also normalizes existing cached DC bodies without refetching posts;
 official RSS feeds and ordinary links are untouched. For Miniflux's separate Download
 behavior, see [the supported scraper/rewrite settings](docs/miniflux.md).
 
-At most ten article requests per enabled feed are made in one run: at most fifty
+At most 100 article requests per enabled feed are made in one run: at most 500
 across the five DC feeds, processed sequentially with two seconds between body
 requests within each feed. This is a per-feed budget, not a shared host cooldown. Responses have a 1 MiB limit, connection/read timeouts and no
 redirect following. Successful bodies are cached in durable state. Old entries
@@ -71,8 +71,11 @@ bodies retain their title, link, GUID and date in state, but are not emitted as 
 articles until a body is ready. Image-only bodies are valid; no image analysis is
 required. Failed items remain visible in collection status rather than as empty
 reader articles. Existing metadata-only history is preserved without backfill.
-Published and retained item counts and body counts are shown separately in `status.json` and on the status page; they do
-not turn an otherwise successful feed-list collection into an Actions failure.
+Published and retained item counts and body counts are shown separately in `status.json` and on the status page. A pending body waiting at least 24 hours fails Actions after publication;
+the job summary lists each affected feed, pending count and longest wait. Age starts
+at first enqueue (first observation after upgrade for legacy pending items), not the
+post date. After 20 minutes the job starts no new body requests, reserving time to
+save progress and deploy before the 25-minute hard timeout.
 Disabling collection stops new body work; it does not erase already stored bodies.
 
 ## Failures and notifications

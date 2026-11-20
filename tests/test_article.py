@@ -236,6 +236,27 @@ class EnrichmentTests(Offline):
         self.assertNotIn("content_status", value)
         self.assertEqual(result["attempted"], 0)
 
+    def test_deadline_saves_queue_and_alerts_only_after_a_day(self):
+        with tempfile.TemporaryDirectory() as directory, patch(
+            "rss_service.pipeline.collect", return_value=([item()], None)
+        ), patch.dict("os.environ", RSS_BODY_DEADLINE="0"), patch(
+            "rss_service.article.fetch_article"
+        ) as fetch:
+            output = Path(directory)
+            self.assertFalse(pipeline.build(output, "https://example.com"))
+            path = output / "state.json"
+            records = json.loads(path.read_text())
+            queued = records["ai-utilize"]["items"][0]
+            self.assertNotEqual(queued["content_queued_at"], queued["date"])
+            queued["content_queued_at"] = "2020-01-01T00:00:00+00:00"
+            path.write_text(json.dumps(records))
+            self.assertTrue(pipeline.build(output, "https://example.com"))
+            status = json.loads((output / "status.json").read_text())
+            feed = next(f for f in status["feeds"] if f["id"] == "ai-utilize")
+            self.assertGreaterEqual(feed["oldest_pending_seconds"], 86400)
+            self.assertEqual(feed["body_collection"]["pending"], 1)
+            fetch.assert_not_called()
+
     def test_bounded_work_and_persistent_queue(self):
         values = [item(n) for n in range(1, 5)]
         with patch("rss_service.article.MAX_FETCHES", 2), patch(
