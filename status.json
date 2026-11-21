@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-21T07:12:05.849929+00:00",
+  "updated": "2026-11-21T15:23:53.884818+00:00",
   "feeds": [
     {
-      "last_success": "2026-11-21T07:12:05.849929+00:00",
-      "last_new": "2026-11-21T07:12:05.849929+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
+      "last_success": "2026-11-21T15:23:53.884818+00:00",
+      "last_new": "2026-11-21T15:23:53.884818+00:00",
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
       "error": null,
       "body_collection": {
-        "ready": 317,
+        "ready": 352,
         "pending": 0,
         "failed": 2,
-        "attempted": 40
+        "attempted": 35
       },
-      "published_count": 317,
+      "published_count": 352,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
@@ -20,17 +20,17 @@
       "id": "dcbest",
       "name": "실시간 베스트",
       "emoji": "🔥",
-      "count": 319,
+      "count": 354,
       "available": true
     },
     {
       "last_success": "2026-11-21T07:12:05.849929+00:00",
       "last_new": "2026-11-21T07:12:05.849929+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
-      "error": null,
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
       "published_count": 1000,
-      "consecutive_failures": 0,
-      "first_failure": null,
+      "consecutive_failures": 1,
+      "first_failure": "2026-11-21T15:23:53.884818+00:00",
       "alert_required": false,
       "oldest_pending_seconds": 0,
       "id": "google-news",
@@ -40,9 +40,9 @@
       "available": true
     },
     {
-      "last_success": "2026-11-21T07:12:05.849929+00:00",
+      "last_success": "2026-11-21T15:23:53.884818+00:00",
       "last_new": "2026-09-28T11:43:44.881512+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
       "error": null,
       "published_count": 15,
       "consecutive_failures": 0,
@@ -56,17 +56,17 @@
       "available": true
     },
     {
-      "last_success": "2026-11-21T07:12:05.849929+00:00",
-      "last_new": "2026-11-21T07:12:05.849929+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
+      "last_success": "2026-11-21T15:23:53.884818+00:00",
+      "last_new": "2026-11-21T15:23:53.884818+00:00",
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
       "error": null,
       "body_collection": {
-        "ready": 474,
+        "ready": 480,
         "pending": 0,
         "failed": 2,
-        "attempted": 2
+        "attempted": 6
       },
-      "published_count": 867,
+      "published_count": 873,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
@@ -74,19 +74,19 @@
       "id": "ai-utilize",
       "name": "AI 활용 추천글",
       "emoji": "🛠️",
-      "count": 869,
+      "count": 875,
       "available": true
     },
     {
-      "last_success": "2026-11-21T07:12:05.849929+00:00",
-      "last_new": "2026-11-21T07:12:05.849929+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
+      "last_success": "2026-11-21T15:23:53.884818+00:00",
+      "last_new": "2026-11-21T15:23:53.884818+00:00",
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
       "error": null,
       "body_collection": {
         "ready": 988,
         "pending": 0,
         "failed": 12,
-        "attempted": 41
+        "attempted": 34
       },
       "published_count": 988,
       "consecutive_failures": 0,
@@ -100,17 +100,17 @@
       "available": true
     },
     {
-      "last_success": "2026-11-21T07:12:05.849929+00:00",
-      "last_new": "2026-11-21T07:12:05.849929+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
+      "last_success": "2026-11-21T15:23:53.884818+00:00",
+      "last_new": "2026-11-21T15:23:53.884818+00:00",
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
       "error": null,
       "body_collection": {
-        "ready": 547,
+        "ready": 550,
         "pending": 0,
         "failed": 0,
-        "attempted": 1
+        "attempted": 3
       },
-      "published_count": 882,
+      "published_count": 885,
       "consecutive_failures": 0,
       "first_failure": null,
       "alert_required": false,
@@ -118,19 +118,19 @@
       "id": "cartoon",
       "name": "카툰·연재 추천글",
       "emoji": "🎨",
-      "count": 882,
+      "count": 885,
       "available": true
     },
     {
-      "last_success": "2026-11-21T07:12:05.849929+00:00",
-      "last_new": "2026-11-21T07:12:05.849929+00:00",
-      "last_attempt": "2026-11-21T07:12:05.849929+00:00",
+      "last_success": "2026-11-21T15:23:53.884818+00:00",
+      "last_new": "2026-11-21T15:23:53.884818+00:00",
+      "last_attempt": "2026-11-21T15:23:53.884818+00:00",
       "error": null,
       "body_collection": {
-        "ready": 960,
+        "ready": 988,
         "pending": 0,
         "failed": 6,
-        "attempted": 14
+        "attempted": 28
       },
       "published_count": 994,
       "consecutive_failures": 0,
