@@ -4,8 +4,16 @@
     <title>🛠️ AI 활용 추천글</title>
     <link>https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize&amp;exception_mode=recommend</link>
     <description>AI 활용 추천글</description>
-    <lastBuildDate>Wed, 25 Nov 2026 04:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:35:49 +0000</lastBuildDate>
     <ns0:link href="https://woojung3.github.io/custom-rss-feeds/feeds/ai-utilize.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛠️ [자료] 챗GPT 사용량 너프 실측 자료 찾아왔다!!!!!!!</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=203760</link>
+      <pubDate>Wed, 25 Nov 2026 04:05:29 +0000</pubDate>
+      <description>(여기 레딧 출처 달아도 됨? 일단은 지피티로 시각화해 왔음) 실제 토큰을 API 단가로 환산한 결과라서 정확한 편이고 컨텍스트도 272K 이하로 제한했다고 함 다른 놈도 비슷한 값으로 측정한 사례 있음 딱 6.1과 좆버그 6.2 사이 정도 아스트라는 지금 33%~67%까지 효율 감소했다는 애들이 있는데 솔처럼 대푯값 나오려면 좀 기다려야 할 듯</description>
+      <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef04699d30f4be" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cc7de2dbce4c7b3032cec24918b215e2b81358892d975582fc639da8d7468547cd47b6dfdbbd287bc3"/&gt;&lt;br/&gt;(여기 레딧 출처 달아도 됨? 일단은 지피티로 시각화해 왔음)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;실제 토큰을 API 단가로 환산한 결과라서 정확한 편이고 &lt;br/&gt;&lt;br/&gt;컨텍스트도 272K 이하로 제한했다고 함 &lt;br/&gt;&lt;br/&gt;다른 놈도 비슷한 값으로 측정한 사례 있음&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;딱 6.1과 좆버그 6.2 사이 정도&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;아스트라는 지금 33%~67%까지 효율 감소했다는 애들이 있는데 &lt;br/&gt;&lt;br/&gt;솔처럼 대푯값 나오려면 좀 기다려야 할 듯&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=203760</guid>
+    </item>
     <item>
       <title>🛠️ 테오련 클로즈드 소스 선언ㅋㅋ</title>
       <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=203753</link>
@@ -13,6 +21,14 @@
       <description>&amp;quot;여러분들은 오픈소스에 대해 책임감이 없어&amp;quot;</description>
       <content:encoded>&lt;p&gt;&lt;img alt="24b0d121e09c28a8699fe8b115ef04699731f3bb" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cc7de2dbce4c7b3032cec24918b215e2b87e3fd3b5cb418610ad96bb8c28f92d376d23ca4808bfce61ac"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;"여러분들은 오픈소스에 대해 책임감이 없어" &lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=203753</guid>
+    </item>
+    <item>
+      <title>🛠️ OpenAI) 코덱스 사용량 너프</title>
+      <link>https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=203741</link>
+      <pubDate>Wed, 25 Nov 2026 03:58:29 +0000</pubDate>
+      <description>&amp;quot;의도한 것보다 적은 용량을 사용했습니다.&amp;quot; 아 줴줴이야 병신들</description>
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;img alt="7ee5857fe08339f037be83ec4ed2216b5dfb1a4fb1303cb4278ba9a3d1b35d7415a9ec65673bcac349e2aca88d275e82" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132f1a5fd0c89dbc33cd3cf007085138ab56713bfe1c428dacac6f20479b2d183c377b4aca2bc9f00fb6ce8db17a61fc07844af66f647592434640a1"/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;div&gt;&lt;img alt="1ebec223e0dc2bae61abe9e74683726cbaa20ff9e55a6069ae6ad4675c2ad0c1416fa7aa2a52cfc0e6ad73203e7b6740" src="https://image.dcinside.com/viewimage.php?id=2cb4ef33f1db34af74ba&amp;amp;no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767b8456d9262b93306c82ed774ac49c95e4ad207a5206a774386f6407ebfa4cb771694fde51cb863c94e0e17111c2449bb5ea63b29779c5885dae3c566237367f76dd04f0d3"/&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;"의도한 것보다 적은 용량을 사용했습니다."&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;아 줴줴이야&lt;/p&gt;&lt;p&gt;병신들&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&amp;no=203741</guid>
     </item>
     <item>
       <title>🛠️ 젬 공홈 쓰면 병신취급 하는거 ㅋㅋㅋㅋ</title>
