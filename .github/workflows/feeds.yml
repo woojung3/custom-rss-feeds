@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
 permissions:
+  actions: read
   contents: write
   pages: write
   id-token: write
@@ -71,6 +72,20 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+      - name: Wait for this run's Pages artifact to become visible
+        timeout-minutes: 1
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          endpoint="repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=github-pages"
+          for delay in 1 2 4 8 16 0; do
+            count=$(gh api "$endpoint" --jq '.artifacts | map(select(.expired == false)) | length')
+            if [[ "$count" == 1 ]]; then exit 0; fi
+            if [[ "$count" != 0 || "$delay" == 0 ]]; then break; fi
+            sleep "$delay"
+          done
+          echo "::error::Expected one visible github-pages artifact for run $GITHUB_RUN_ID, found $count"
+          exit 1
       - uses: actions/deploy-pages@v4
         id: deployment
       - name: Report collection failures after publishing
